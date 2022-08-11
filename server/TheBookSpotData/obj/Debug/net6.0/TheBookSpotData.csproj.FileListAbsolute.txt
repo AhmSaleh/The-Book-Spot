@@ -1,0 +1,15 @@
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\bin\Debug\net6.0\TheBookSpotData.deps.json
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\bin\Debug\net6.0\TheBookSpotData.dll
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\bin\Debug\net6.0\TheBookSpotData.pdb
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\bin\Debug\net6.0\TheBookSpotDomain.dll
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\bin\Debug\net6.0\TheBookSpotDomain.pdb
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\TheBookSpotData.csproj.AssemblyReference.cache
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\TheBookSpotData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\TheBookSpotData.AssemblyInfoInputs.cache
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\TheBookSpotData.AssemblyInfo.cs
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\TheBookSpotData.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\TheBookSpotData.csproj.CopyComplete
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\TheBookSpotData.dll
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\refint\TheBookSpotData.dll
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\TheBookSpotData.pdb
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\ref\TheBookSpotData.dll

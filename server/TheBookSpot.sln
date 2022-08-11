@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBookSpot", "TheBookSpot\TheBookSpot.csproj", "{CC1C3458-33C3-453E-9F84-69B6A6BEDE5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheBookSpot", "TheBookSpot\TheBookSpot.csproj", "{CC1C3458-33C3-453E-9F84-69B6A6BEDE5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBookSpotData", "TheBookSpotData\TheBookSpotData.csproj", "{EFDDA922-B73F-4BF2-A804-3310204105E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheBookSpotDomain", "TheBookSpotDomain\TheBookSpotDomain.csproj", "{98125B7F-8CA4-4EC9-BC3D-EE2E16D8A0FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{CC1C3458-33C3-453E-9F84-69B6A6BEDE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC1C3458-33C3-453E-9F84-69B6A6BEDE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC1C3458-33C3-453E-9F84-69B6A6BEDE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFDDA922-B73F-4BF2-A804-3310204105E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDDA922-B73F-4BF2-A804-3310204105E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDDA922-B73F-4BF2-A804-3310204105E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDDA922-B73F-4BF2-A804-3310204105E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98125B7F-8CA4-4EC9-BC3D-EE2E16D8A0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98125B7F-8CA4-4EC9-BC3D-EE2E16D8A0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98125B7F-8CA4-4EC9-BC3D-EE2E16D8A0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98125B7F-8CA4-4EC9-BC3D-EE2E16D8A0FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

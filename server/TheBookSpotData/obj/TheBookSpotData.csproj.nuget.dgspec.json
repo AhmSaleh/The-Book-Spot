@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ahmed.Saleh\\Desktop\\Bookstore\\server\\TheBookSpotData\\TheBookSpotData.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ahmed.Saleh\\Desktop\\Bookstore\\server\\TheBookSpotData\\TheBookSpotData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ahmed.Saleh\\Desktop\\Bookstore\\server\\TheBookSpotData\\TheBookSpotData.csproj",
+        "projectName": "TheBookSpotData",
+        "projectPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\Bookstore\\server\\TheBookSpotData\\TheBookSpotData.csproj",
+        "packagesPath": "C:\\Users\\Ahmed.Saleh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\Bookstore\\server\\TheBookSpotData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ahmed.Saleh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ahmed.Saleh\\Desktop\\Bookstore\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj": {
+                "projectPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\Bookstore\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ahmed.Saleh\\Desktop\\Bookstore\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ahmed.Saleh\\Desktop\\Bookstore\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj",
+        "projectName": "TheBookSpotDomain",
+        "projectPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\Bookstore\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj",
+        "packagesPath": "C:\\Users\\Ahmed.Saleh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\Bookstore\\server\\TheBookSpotDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ahmed.Saleh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
