@@ -61,3 +61,4 @@ C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpot\obj\Debug\net6.0\refin
 C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpot\obj\Debug\net6.0\TheBookSpot.pdb
 C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpot\obj\Debug\net6.0\TheBookSpot.genruntimeconfig.cache
 C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpot\obj\Debug\net6.0\ref\TheBookSpot.dll
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpot\bin\Debug\net6.0\Dapper.dll

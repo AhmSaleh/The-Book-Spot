@@ -1,3 +1,5 @@
+using TheBookSpot.Extensions;
+
 namespace TheBookSpot
 {
     public class Program
@@ -10,6 +12,10 @@ namespace TheBookSpot
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+
+            builder.Services.ConfigureSqlServerContext(builder.Configuration);
+
 
             var app = builder.Build();
 

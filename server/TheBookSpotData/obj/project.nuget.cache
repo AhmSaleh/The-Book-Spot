@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PHl9Kzz6ThWS0Rwe/siuHt/mW0TUqxSHpDQ9N4uyaSr8jhBzZ4i/rT/4IENoeOe1TuIuQJr8adnOClVpbs3YAg==",
+  "dgSpecHash": "qVHzfLIA083V8Gv2h0UDrdNNRDuS3kwIg4fTlxar5XCqhl1MiBf6uCSfPj+fRkh0lMwbqjOQLIi6iY6yffFesw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ahmed.Saleh\\Desktop\\Bookstore\\server\\TheBookSpotData\\TheBookSpotData.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ahmed.Saleh\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Ahmed.Saleh\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Ahmed.Saleh\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

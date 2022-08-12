@@ -1,4 +1,4 @@
-﻿namespace TheBookStoreDomain.BookEnums
+﻿namespace TheBookSpotDomain.BookEnums
 {
     public enum BookType
     {
@@ -16,6 +16,6 @@
         DetectiveAndMystery,
         ComicBook,
         ActionAndAdventure,
-        TheBookStoreData
+        TheBookSpotData
     }
 }

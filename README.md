@@ -4,4 +4,6 @@
 
 ## Built with
 
-        The project is being build with .Net core 6 and React.js
+        The project is being built with .Net core 6 and React.js
+
+### Working on a better readme, so stay tuned 🤣

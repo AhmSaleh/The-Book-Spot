@@ -1,4 +1,4 @@
-﻿namespace TheBookStoreDomain.BookEnums
+﻿namespace TheBookSpotDomain.BookEnums
 {
     public enum BookCondition
     {

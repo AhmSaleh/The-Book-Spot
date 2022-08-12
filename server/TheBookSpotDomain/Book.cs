@@ -1,6 +1,6 @@
-﻿using TheBookStoreDomain.BookEnums;
+﻿using TheBookSpotDomain.BookEnums;
 
-namespace TheBookStoreDomain
+namespace TheBookSpotDomain
 {
     public class Book
     {
