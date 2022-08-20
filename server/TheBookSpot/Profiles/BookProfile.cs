@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using TheBookSpot.DTOs.AuthorDTOs;
 using TheBookSpot.DTOs.BookDTOs;
 
 namespace TheBookSpot.Profiles

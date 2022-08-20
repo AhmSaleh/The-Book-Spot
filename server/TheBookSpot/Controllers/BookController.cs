@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using TheBookSpot.DTOs.AuthorDTOs;
 using TheBookSpot.DTOs.BookDTOs;
 using TheBookSpotData.Services.BookServices;
 
@@ -21,7 +20,7 @@ namespace TheBookSpot.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllBooksAsync()
         {
-            var books = await service.GetAllAsync();
+            var books = await service.GetAllAsync(b => b.Author);
             var booksDTO = mapper.Map<IEnumerable<DTOs.BookDTOs.Book>>(books);
 
             return Ok(booksDTO);
@@ -31,7 +30,7 @@ namespace TheBookSpot.Controllers
         [ActionName(nameof(GetBookAsync))]
         public async Task<IActionResult> GetBookAsync(Guid id)
         {
-            var book = await service.GetAsync(id);
+            var book = await service.GetAsync(id, b => b.Author);
 
             if (book == null)
                 return NotFound();

@@ -22,6 +22,11 @@ namespace TheBookSpot
             builder.Services.
                 AddFluentValidation(options => options.RegisterValidatorsFromAssemblyContaining<Program>());
 
+            builder.Services.AddControllersWithViews()
+    .AddNewtonsoftJson(options =>
+    options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
+);
+
             var app = builder.Build();
 
             if (app.Environment.IsDevelopment())

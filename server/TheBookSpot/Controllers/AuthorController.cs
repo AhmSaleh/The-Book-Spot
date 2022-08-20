@@ -23,18 +23,18 @@ namespace TheBookSpot.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllAuthorsAsync()
         {
-            var authors = await service.GetAllAsync();
+            var authors = await service.GetAllAsync(a => a.Books);
 
             var authorsDTO = mapper.Map<IEnumerable<DTOs.AuthorDTOs.Author>>(authors);
 
-            return Ok(authors);
+            return Ok(authorsDTO);
         }
 
         [HttpGet("{id:Guid}")]
         [ActionName(nameof(GetAuthorAsync))]
         public async Task<IActionResult> GetAuthorAsync(Guid id)
         {
-            var author = await service.GetAsync(id);
+            var author = await service.GetAsync(id, a => a.Books);
 
             if (author == null)
                 return NotFound();
