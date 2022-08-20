@@ -1,6 +1,6 @@
 ﻿using TheBookSpotDomain.BookEnums;
 
-namespace TheBookSpot.DTOs.AuthorDTOs
+namespace TheBookSpot.DTOs.BookDTOs
 {
     public class UpdateBookRequest
     {

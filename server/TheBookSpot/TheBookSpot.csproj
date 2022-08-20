@@ -30,8 +30,4 @@
     <ProjectReference Include="..\TheBookSpotDomain\TheBookSpotDomain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Validators\BookValidators\" />
-  </ItemGroup>
-
 </Project>

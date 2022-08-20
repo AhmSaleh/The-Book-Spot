@@ -11,14 +11,5 @@ namespace TheBookSpotDomain.Validators
 
             return true;
         }
-        public static bool ValidISBN(this string str)
-        {
-            if (!Regex.IsMatch(str, @"^?:ISBN(?:-10)?:? )?(?=[0-9X]{10}$|(?=(?:[0-9]+[- ]){3}"))
-                return false;
-
-            return true;
-        }
-
-
     }
 }

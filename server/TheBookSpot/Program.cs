@@ -22,8 +22,6 @@ namespace TheBookSpot
             builder.Services.
                 AddFluentValidation(options => options.RegisterValidatorsFromAssemblyContaining<Program>());
 
-
-
             var app = builder.Build();
 
             if (app.Environment.IsDevelopment())
