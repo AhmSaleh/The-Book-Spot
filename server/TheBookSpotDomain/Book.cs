@@ -1,17 +1,18 @@
-﻿using TheBookSpotDomain.BookEnums;
+﻿using TheBookSpotData.Base;
+using TheBookSpotDomain.BookEnums;
 
 namespace TheBookSpotDomain
 {
-    public class Book
+    public class Book : IEntityBase
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         public string Title { get; set; }
         public string ISBN { get; set; }
         public BookType Type { get; set; }
-        public DateTime PublicationYear { get; set; }
+        public int PublicationYear { get; set; }
         public decimal price { get; set; }
         public BookCondition Condition { get; set; }
-
-        // TODO: Navigation Properties tbd
+        public Author Author { get; set; }
+        public Guid AuthorId { get; set; }
     }
 }

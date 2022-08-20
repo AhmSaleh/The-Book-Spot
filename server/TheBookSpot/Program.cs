@@ -15,6 +15,10 @@ namespace TheBookSpot
 
 
             builder.Services.ConfigureSqlServerContext(builder.Configuration);
+            builder.Services.ConfigureRepositories();
+
+            builder.Services.AddAutoMapper(typeof(Program).Assembly);
+
 
 
             var app = builder.Build();
@@ -28,6 +32,7 @@ namespace TheBookSpot
             app.UseAuthorization();
 
             app.MapControllers();
+
 
             app.Run();
         }

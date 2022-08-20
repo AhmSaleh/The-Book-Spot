@@ -12,8 +12,5 @@ namespace TheBookSpotData
         {
         }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-        }
     }
 }

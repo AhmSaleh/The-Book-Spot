@@ -1,11 +1,18 @@
-﻿namespace TheBookSpotDomain
+﻿
+using TheBookSpotData.Base;
+
+namespace TheBookSpotDomain
 {
-    public class Author
+    public class Author : IEntityBase
     {
-        public int Id { get; set; }
+        public Author()
+        {
+            Books = new();
+        }
+
+        public Guid Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
-
-        // TODO: Navigation Properties tbd
+        public List<Book> Books { get; set; }
     }
 }

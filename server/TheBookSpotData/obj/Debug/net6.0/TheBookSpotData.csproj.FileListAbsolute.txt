@@ -1,4 +1,5 @@
 C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\bin\Debug\net6.0\TheBookSpotData.deps.json
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\bin\Debug\net6.0\TheBookSpotData.runtimeconfig.json
 C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\bin\Debug\net6.0\TheBookSpotData.dll
 C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\bin\Debug\net6.0\TheBookSpotData.pdb
 C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\bin\Debug\net6.0\TheBookSpotDomain.dll
@@ -12,4 +13,5 @@ C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\T
 C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\TheBookSpotData.dll
 C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\refint\TheBookSpotData.dll
 C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\TheBookSpotData.pdb
+C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\TheBookSpotData.genruntimeconfig.cache
 C:\Users\Ahmed.Saleh\Desktop\Bookstore\server\TheBookSpotData\obj\Debug\net6.0\ref\TheBookSpotData.dll
