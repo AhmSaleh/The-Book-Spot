@@ -7,22 +7,22 @@ namespace TheBookSpot.Profiles
     {
         public AuthorProfile()
         {
-            CreateMap<Author, TheBookSpotDomain.Author>()
+            CreateMap<DTOs.AuthorDTOs.Author, TheBookSpotDomain.Entities.Author>()
                 .ReverseMap();
 
-            CreateMap<AddAuthorRequest, TheBookSpotDomain.Author>()
+            CreateMap<AddAuthorRequest, TheBookSpotDomain.Entities.Author>()
                 .ReverseMap();
 
-            CreateMap<AddAuthorResponse, TheBookSpotDomain.Author>()
+            CreateMap<AddAuthorResponse, TheBookSpotDomain.Entities.Author>()
                 .ReverseMap();
 
-            CreateMap<UpdateAuthorRequest, TheBookSpotDomain.Author>()
+            CreateMap<UpdateAuthorRequest, TheBookSpotDomain.Entities.Author>()
                 .ReverseMap();
 
-            CreateMap<UpdateAuthorResponse, TheBookSpotDomain.Author>()
+            CreateMap<UpdateAuthorResponse, TheBookSpotDomain.Entities.Author>()
                .ReverseMap();
 
-            CreateMap<DeleteAuthorResponse, TheBookSpotDomain.Author>()
+            CreateMap<DeleteAuthorResponse, TheBookSpotDomain.Entities.Author>()
                .ReverseMap();
         }
     }

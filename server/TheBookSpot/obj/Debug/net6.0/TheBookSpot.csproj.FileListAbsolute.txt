@@ -578,3 +578,6 @@ C:\Users\Ahmed.Saleh\Documents\The-Book-Spot\server\TheBookSpot\obj\Debug\net6.0
 C:\Users\Ahmed.Saleh\Documents\The-Book-Spot\server\TheBookSpot\obj\Debug\net6.0\TheBookSpot.pdb
 C:\Users\Ahmed.Saleh\Documents\The-Book-Spot\server\TheBookSpot\obj\Debug\net6.0\TheBookSpot.genruntimeconfig.cache
 C:\Users\Ahmed.Saleh\Documents\The-Book-Spot\server\TheBookSpot\obj\Debug\net6.0\ref\TheBookSpot.dll
+C:\Users\Ahmed.Saleh\Documents\The-Book-Spot\server\TheBookSpot\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Ahmed.Saleh\Documents\The-Book-Spot\server\TheBookSpot\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Ahmed.Saleh\Documents\The-Book-Spot\server\TheBookSpot\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll

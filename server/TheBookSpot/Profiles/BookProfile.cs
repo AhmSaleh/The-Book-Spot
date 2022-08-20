@@ -8,22 +8,22 @@ namespace TheBookSpot.Profiles
     {
         public BookProfile()
         {
-            CreateMap<Book, TheBookSpotDomain.Book>()
+            CreateMap<DTOs.BookDTOs.Book, TheBookSpotDomain.Entities.Book>()
                 .ReverseMap();
 
-            CreateMap<AddBookRequest, TheBookSpotDomain.Book>()
+            CreateMap<AddBookRequest, TheBookSpotDomain.Entities.Book>()
                 .ReverseMap();
 
-            CreateMap<AddBookResponse, TheBookSpotDomain.Book>()
+            CreateMap<AddBookResponse, TheBookSpotDomain.Entities.Book>()
                 .ReverseMap();
 
-            CreateMap<UpdateBookRequest, TheBookSpotDomain.Book>()
+            CreateMap<UpdateBookRequest, TheBookSpotDomain.Entities.Book>()
                 .ReverseMap();
 
-            CreateMap<UpdateBookResponse, TheBookSpotDomain.Book>()
+            CreateMap<UpdateBookResponse, TheBookSpotDomain.Entities.Book>()
                 .ReverseMap();
 
-            CreateMap<DeleteBookResponse, TheBookSpotDomain.Book>()
+            CreateMap<DeleteBookResponse, TheBookSpotDomain.Entities.Book>()
              .ReverseMap();
         }
     }

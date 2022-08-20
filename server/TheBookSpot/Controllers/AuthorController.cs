@@ -25,7 +25,7 @@ namespace TheBookSpot.Controllers
         {
             var authors = await service.GetAllAsync();
 
-            var authorsDTO = mapper.Map<IEnumerable<Author>>(authors);
+            var authorsDTO = mapper.Map<IEnumerable<DTOs.AuthorDTOs.Author>>(authors);
 
             return Ok(authors);
         }
@@ -39,7 +39,7 @@ namespace TheBookSpot.Controllers
             if (author == null)
                 return NotFound();
 
-            var authorDTO = mapper.Map<Author>(author);
+            var authorDTO = mapper.Map<DTOs.AuthorDTOs.Author>(author);
 
             return Ok(authorDTO);
         }
@@ -47,7 +47,7 @@ namespace TheBookSpot.Controllers
         [HttpPost]
         public async Task<IActionResult> AddAuthorAsync(AddAuthorRequest addAuthorRequest)
         {
-            var author = mapper.Map<TheBookSpotDomain.Author>(addAuthorRequest);
+            var author = mapper.Map<TheBookSpotDomain.Entities.Author>(addAuthorRequest);
             author = await service.AddAsync(author);
 
             var addedAuthorDTO = mapper.Map<AddAuthorResponse>(author);
@@ -58,7 +58,7 @@ namespace TheBookSpot.Controllers
         [HttpPut("{id:Guid}")]
         public async Task<IActionResult> UpdateAuthorAsync(Guid id, UpdateAuthorRequest updateAuthorRequest)
         {
-            var author = mapper.Map<TheBookSpotDomain.Author>(updateAuthorRequest);
+            var author = mapper.Map<TheBookSpotDomain.Entities.Author>(updateAuthorRequest);
 
             author = await service.UpdateAsync(id, author);
 

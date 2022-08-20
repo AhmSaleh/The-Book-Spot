@@ -1,5 +1,5 @@
 ﻿using TheBookSpotData.Base;
-using TheBookSpotDomain;
+using TheBookSpotDomain.Entities;
 
 namespace TheBookSpotData.Services.AuthorSevices
 {

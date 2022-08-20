@@ -9,7 +9,7 @@ namespace TheBookSpot.DTOs.BookDTOs
         public string ISBN { get; set; }
         public BookType Type { get; set; }
         public int PublicationYear { get; set; }
-        public decimal price { get; set; }
+        public decimal Price { get; set; }
         public BookCondition Condition { get; set; }
         public Guid AuthorId { get; set; }
     }

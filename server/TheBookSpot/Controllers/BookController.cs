@@ -22,7 +22,7 @@ namespace TheBookSpot.Controllers
         public async Task<IActionResult> GetAllBooksAsync()
         {
             var books = await service.GetAllAsync();
-            var booksDTO = mapper.Map<IEnumerable<Book>>(books);
+            var booksDTO = mapper.Map<IEnumerable<DTOs.BookDTOs.Book>>(books);
 
             return Ok(booksDTO);
         }
@@ -36,7 +36,7 @@ namespace TheBookSpot.Controllers
             if (book == null)
                 return NotFound();
 
-            var bookDTO = mapper.Map<Book>(book);
+            var bookDTO = mapper.Map<DTOs.BookDTOs.Book>(book);
 
             return Ok(bookDTO);
         }
@@ -44,7 +44,7 @@ namespace TheBookSpot.Controllers
         [HttpPost]
         public async Task<IActionResult> AddBookAsync(AddBookRequest addBookRequest)
         {
-            var book = mapper.Map<TheBookSpotDomain.Book>(addBookRequest);
+            var book = mapper.Map<TheBookSpotDomain.Entities.Book>(addBookRequest);
 
             book = await service.AddAsync(book);
 
@@ -56,7 +56,7 @@ namespace TheBookSpot.Controllers
         [HttpPut("{id:Guid}")]
         public async Task<IActionResult> UpdateBookAsync(Guid id, UpdateBookRequest updateBookRequest)
         {
-            var book = mapper.Map<TheBookSpotDomain.Book>(updateBookRequest);
+            var book = mapper.Map<TheBookSpotDomain.Entities.Book>(updateBookRequest);
 
             book = await service.UpdateAsync(id, book);
 

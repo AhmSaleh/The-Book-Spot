@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 using TheBookSpotData.Base;
-using TheBookSpotDomain;
+using TheBookSpotDomain.Entities;
 
 namespace TheBookSpotData.Services.BookServices
 {
@@ -22,7 +22,7 @@ namespace TheBookSpotData.Services.BookServices
             existingBook.ISBN = book.ISBN;
             existingBook.Type = book.Type;
             existingBook.PublicationYear = book.PublicationYear;
-            existingBook.price = book.price;
+            existingBook.Price = book.Price;
             existingBook.Condition = book.Condition;
             existingBook.AuthorId = book.AuthorId;
 

@@ -1,3 +1,4 @@
+using FluentValidation.AspNetCore;
 using TheBookSpot.Extensions;
 
 namespace TheBookSpot
@@ -18,6 +19,8 @@ namespace TheBookSpot
             builder.Services.ConfigureRepositories();
 
             builder.Services.AddAutoMapper(typeof(Program).Assembly);
+            builder.Services.
+                AddFluentValidation(options => options.RegisterValidatorsFromAssemblyContaining<Program>());
 
 
 
@@ -29,7 +32,7 @@ namespace TheBookSpot
                 app.UseSwaggerUI();
             }
 
-            app.ConfigureExceptionHandler();
+            //app.ConfigureExceptionHandler();
 
             app.UseAuthorization();
 

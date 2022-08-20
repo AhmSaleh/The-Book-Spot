@@ -22,7 +22,7 @@ namespace TheBookSpotData.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
-            modelBuilder.Entity("TheBookSpotDomain.Author", b =>
+            modelBuilder.Entity("TheBookSpotDomain.Entities.Author", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -39,7 +39,7 @@ namespace TheBookSpotData.Migrations
                     b.ToTable("Authors");
                 });
 
-            modelBuilder.Entity("TheBookSpotDomain.Book", b =>
+            modelBuilder.Entity("TheBookSpotDomain.Entities.Book", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -54,6 +54,9 @@ namespace TheBookSpotData.Migrations
                     b.Property<string>("ISBN")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
+
                     b.Property<int>("PublicationYear")
                         .HasColumnType("int");
 
@@ -63,7 +66,7 @@ namespace TheBookSpotData.Migrations
                     b.Property<int>("Type")
                         .HasColumnType("int");
 
-                    b.Property<decimal>("price")
+                    b.Property<decimal>("_price")
                         .HasColumnType("decimal(18,2)");
 
                     b.HasKey("Id");
@@ -73,9 +76,9 @@ namespace TheBookSpotData.Migrations
                     b.ToTable("Books");
                 });
 
-            modelBuilder.Entity("TheBookSpotDomain.Book", b =>
+            modelBuilder.Entity("TheBookSpotDomain.Entities.Book", b =>
                 {
-                    b.HasOne("TheBookSpotDomain.Author", "Author")
+                    b.HasOne("TheBookSpotDomain.Entities.Author", "Author")
                         .WithMany("Books")
                         .HasForeignKey("AuthorId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -84,7 +87,7 @@ namespace TheBookSpotData.Migrations
                     b.Navigation("Author");
                 });
 
-            modelBuilder.Entity("TheBookSpotDomain.Author", b =>
+            modelBuilder.Entity("TheBookSpotDomain.Entities.Author", b =>
                 {
                     b.Navigation("Books");
                 });

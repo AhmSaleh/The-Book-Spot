@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
 using TheBookSpotData.Base;
-using TheBookSpotDomain;
+using TheBookSpotDomain.Entities;
 
 namespace TheBookSpotData.Services.AuthorSevices
 {

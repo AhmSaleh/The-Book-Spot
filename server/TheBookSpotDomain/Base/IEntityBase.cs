@@ -1,4 +1,4 @@
-﻿namespace TheBookSpotData.Base
+﻿namespace TheBookSpotDomain.Base
 {
     public interface IEntityBase
     {

@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using TheBookSpotDomain;
+using TheBookSpotDomain.Entities;
 
 namespace TheBookSpotData
 {

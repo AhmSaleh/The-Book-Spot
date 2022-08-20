@@ -1,4 +1,6 @@
-﻿namespace TheBookSpotData.Base
+﻿using TheBookSpotDomain.Base;
+
+namespace TheBookSpotData.Base
 {
     public interface IEntityBaseReposiotry<T> where T : class, IEntityBase, new()
     {
