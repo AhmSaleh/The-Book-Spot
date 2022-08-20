@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z7j5ofGdWfDMVEyTj1IDeRBMkMa/cbMG8YOLjvHYXr6G8up4iIbnR/nPHfS48cOHQbjxXeo4E7U8LkR4eBymYA==",
+  "dgSpecHash": "A9EfvBjLJFnCzxqL7GnRlaENpL5oB/bHaKaqsFJRZgSyYRCNKfQB1AK0f9/qCobBzosTGnvEgWojYi2dxc24mQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ahmed.Saleh\\Desktop\\Bookstore\\server\\TheBookSpotData\\TheBookSpotData.csproj",
+  "projectFilePath": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotData\\TheBookSpotData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmed.Saleh\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Ahmed.Saleh\\.nuget\\packages\\efcore.schemacompare\\6.0.0\\efcore.schemacompare.6.0.0.nupkg.sha512",

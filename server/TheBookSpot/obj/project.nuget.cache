@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/YG6tpFQpuMDjA/h3w+ScOspibvDOfMLvehKTnLAXlDa5cvi7NBU0LyPJ/VgMyddsgntmTNNuR+Wrm1qibjvNQ==",
+  "dgSpecHash": "Ov7Set2ZNuOa2uUPU1AbblESKjysUxpEiGy8nVNhkP5DFVqqJZgOhRsJ4NwaQWRj6VIavPYacaqrP8PMgDq7TA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ahmed.Saleh\\Desktop\\Bookstore\\server\\TheBookSpot\\TheBookSpot.csproj",
+  "projectFilePath": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpot\\TheBookSpot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahmed.Saleh\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Ahmed.Saleh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

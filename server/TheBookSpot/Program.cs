@@ -29,6 +29,8 @@ namespace TheBookSpot
                 app.UseSwaggerUI();
             }
 
+            app.ConfigureExceptionHandler();
+
             app.UseAuthorization();
 
             app.MapControllers();
