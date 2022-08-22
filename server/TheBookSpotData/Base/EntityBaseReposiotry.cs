@@ -13,14 +13,14 @@ namespace TheBookSpotData.Base
         {
             _context = context;
         }
-        public async Task<List<T>> GetAllAsync() => await _context.Set<T>().ToListAsync();
-        public async Task<List<T>> GetAllAsync(params Expression<Func<T, object>>[] includeProperties)
+        public async Task<List<T>> GetAllAsync(int pageIndex, int pageSize) => await _context.Set<T>().Skip((pageIndex - 1) * pageSize).Take(pageSize).ToListAsync();
+        public async Task<List<T>> GetAllAsync(int pageIndex, int pageSize, params Expression<Func<T, object>>[] includeProperties)
 
         {
             IQueryable<T> query = _context.Set<T>();
             query = includeProperties.Aggregate(query, (current, includeProperty) => current.Include(includeProperty));
 
-            var entities = await query.ToListAsync();
+            var entities = await query.Skip((pageIndex - 1) * pageSize).Take(pageSize).ToListAsync();
 
             return entities;
         }

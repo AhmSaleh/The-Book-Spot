@@ -20,10 +20,10 @@ namespace TheBookSpot.Controllers
             this.mapper = mapper;
         }
 
-        [HttpGet]
-        public async Task<IActionResult> GetAllAuthorsAsync()
+        [HttpGet("{pageIndex:int}, {pageSize:int}")]
+        public async Task<IActionResult> GetAllAuthorsAsync(int pageIndex, int pageSize)
         {
-            var authors = await service.GetAllAsync(a => a.Books);
+            var authors = await service.GetAllAsync(pageIndex, pageSize, a => a.Books);
 
             var authorsDTO = mapper.Map<IEnumerable<DTOs.AuthorDTOs.Author>>(authors);
 

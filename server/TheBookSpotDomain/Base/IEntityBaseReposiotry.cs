@@ -5,8 +5,8 @@ namespace TheBookSpotData.Base
 {
     public interface IEntityBaseReposiotry<T> where T : class, IEntityBase, new()
     {
-        Task<List<T>> GetAllAsync();
-        Task<List<T>> GetAllAsync(params Expression<Func<T, object>>[] includeProperties);
+        Task<List<T>> GetAllAsync(int pageIndex, int pageSize);
+        Task<List<T>> GetAllAsync(int pageIndex, int pageSize, params Expression<Func<T, object>>[] includeProperties);
         Task<T> GetAsync(Guid id);
         Task<T> GetAsync(Guid id, params Expression<Func<T, object>>[] includeProperties);
         Task<T> AddAsync(T author);
