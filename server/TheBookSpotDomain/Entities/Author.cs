@@ -1,4 +1,5 @@
-﻿using TheBookSpotDomain.Base;
+﻿using System.Diagnostics;
+using TheBookSpotDomain.Base;
 using TheBookSpotDomain.Validators;
 
 namespace TheBookSpotDomain.Entities
@@ -21,8 +22,11 @@ namespace TheBookSpotDomain.Entities
             set
             {
                 if (!value.ContainsCharsOnly())
-                    throw new InvalidOperationException("First Name can only contains alphapet characters");
+                {
+                    Debug.WriteLine(value);
 
+                    throw new InvalidOperationException("First Name can only contains alphapet characters");
+                }
                 _firstName = value;
             }
 
@@ -35,7 +39,10 @@ namespace TheBookSpotDomain.Entities
             set
             {
                 if (!value.ContainsCharsOnly())
+                {
+                    Debug.WriteLine(value);
                     throw new InvalidOperationException("Last Name can only contains alphapet characters");
+                }
 
                 _lastName = value;
             }

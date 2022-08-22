@@ -15,6 +15,7 @@ namespace TheBookSpotData.Base
         }
         public async Task<List<T>> GetAllAsync() => await _context.Set<T>().ToListAsync();
         public async Task<List<T>> GetAllAsync(params Expression<Func<T, object>>[] includeProperties)
+
         {
             IQueryable<T> query = _context.Set<T>();
             query = includeProperties.Aggregate(query, (current, includeProperty) => current.Include(includeProperty));

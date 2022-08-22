@@ -44,7 +44,7 @@ namespace TheBookSpotDomain.Entities
             }
         }
 
-        public decimal _price { get; set; }
+        private decimal _price { get; set; }
         public decimal Price
         {
             get
