@@ -41,6007 +41,6007 @@ namespace TheBookSpotData.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("876412d0-5548-4a28-ab47-e97e5b02876c"),
+                            Id = new Guid("3e0fa3e9-4987-457d-8eda-8e1ca6d4db56"),
                             FirstName = "Degoix",
                             LastName = "Kit"
                         },
                         new
                         {
-                            Id = new Guid("25505d2f-a02a-48ab-a65f-22976eeb59f2"),
+                            Id = new Guid("7a0ffadb-e326-4512-a21f-6ab4b128488a"),
                             FirstName = "Zollie",
                             LastName = "Filan"
                         },
                         new
                         {
-                            Id = new Guid("ee1423ed-70c0-4621-bb0c-e01c043a7197"),
+                            Id = new Guid("d3e34062-38ed-4d3c-989f-be00442ef8e6"),
                             FirstName = "Elyssa",
                             LastName = "Yarranton"
                         },
                         new
                         {
-                            Id = new Guid("a2694f20-9b07-4ce2-8933-d83180ff8e2f"),
+                            Id = new Guid("eaacba67-8017-45f1-922d-84bb0a0b4898"),
                             FirstName = "Jennifer",
                             LastName = "Tregust"
                         },
                         new
                         {
-                            Id = new Guid("09d8248f-b84f-4482-81ec-38e4bdde66a0"),
+                            Id = new Guid("5374eb72-9235-4e0d-90ed-117b36dd0a2d"),
                             FirstName = "Devinne",
                             LastName = "Spofforth"
                         },
                         new
                         {
-                            Id = new Guid("b6b28f2c-b552-4d7c-9e16-39404a01f374"),
+                            Id = new Guid("ccc651f3-6fa6-4b10-9849-50ff219e1874"),
                             FirstName = "Tammy",
                             LastName = "Chastan"
                         },
                         new
                         {
-                            Id = new Guid("78e11718-4856-4720-9590-c7b7d1d4b413"),
+                            Id = new Guid("d018ffcd-6e2a-4489-aaf6-89999d34a99d"),
                             FirstName = "Storm",
                             LastName = "McDuff"
                         },
                         new
                         {
-                            Id = new Guid("5718aa57-4dca-446b-84da-827670e66495"),
+                            Id = new Guid("0d025271-0099-48d4-98cc-1b0e6509da2e"),
                             FirstName = "Latashia",
                             LastName = "Paolazzi"
                         },
                         new
                         {
-                            Id = new Guid("ee7ac866-ac0a-4e21-8a39-f9819fb2f33d"),
+                            Id = new Guid("0702f3f7-313c-4bc4-8c37-3f0a776820ef"),
                             FirstName = "Kit",
                             LastName = "Ollett"
                         },
                         new
                         {
-                            Id = new Guid("476fe0f7-149c-4156-b46d-519d01fa7bb1"),
+                            Id = new Guid("fa0a82be-526d-4b9f-a8dc-d09afb67475d"),
                             FirstName = "Lauritz",
                             LastName = "Degoix"
                         },
                         new
                         {
-                            Id = new Guid("5a5738b3-0076-4100-9a95-4a0bc0b0e837"),
+                            Id = new Guid("ed1af506-8dee-4b92-bfb6-5a072226c2d7"),
                             FirstName = "Calli",
                             LastName = "Hayley"
                         },
                         new
                         {
-                            Id = new Guid("cb081f39-a330-43f8-bf31-8fa8d4b23320"),
+                            Id = new Guid("83986bdb-a0ac-41f3-bab9-b6c0ef04d188"),
                             FirstName = "Ailey",
                             LastName = "Gawthrop"
                         },
                         new
                         {
-                            Id = new Guid("9865dd11-ee6d-4395-99b7-72165467ea93"),
+                            Id = new Guid("0b29973b-7533-4bbb-815a-0bee360642c6"),
                             FirstName = "Ferguson",
                             LastName = "Bissex"
                         },
                         new
                         {
-                            Id = new Guid("3642ed63-03e4-4012-a8e9-fc206a02681d"),
+                            Id = new Guid("35433d00-6a68-4fcd-bfdb-23a305aa5b5c"),
                             FirstName = "Luci",
                             LastName = "Enticknap"
                         },
                         new
                         {
-                            Id = new Guid("7f9f6415-2a54-4e46-8886-af514168de43"),
+                            Id = new Guid("8926ed66-a36e-4d76-a1da-27af17b11323"),
                             FirstName = "Moises",
                             LastName = "Lawranson"
                         },
                         new
                         {
-                            Id = new Guid("4b3fa199-ecd1-4625-8f9d-079ecd2fc0f5"),
+                            Id = new Guid("5281db5e-6b5f-4c73-a676-544dd3499b5a"),
                             FirstName = "Rolf",
                             LastName = "Hunnaball"
                         },
                         new
                         {
-                            Id = new Guid("5f7219c5-694a-4792-860a-852f7bfddfff"),
+                            Id = new Guid("96f6c313-8bd1-44c5-baeb-010a3ea96cba"),
                             FirstName = "Gladys",
                             LastName = "Willoughby"
                         },
                         new
                         {
-                            Id = new Guid("c8461714-1444-44df-99ac-584134223147"),
+                            Id = new Guid("1b5fdaf5-65db-4907-a466-00343710b081"),
                             FirstName = "Fonz",
                             LastName = "Halloran"
                         },
                         new
                         {
-                            Id = new Guid("b6492e83-2cc9-4841-828b-4e195b88325e"),
+                            Id = new Guid("aac93720-595f-4fcb-8077-67b90e46c631"),
                             FirstName = "Rozele",
                             LastName = "Swanbourne"
                         },
                         new
                         {
-                            Id = new Guid("ef76794a-1c1b-4b5f-aea6-66120cdd4c87"),
+                            Id = new Guid("d0fc2094-e39f-44b1-ba7e-cc6fa23ce6f1"),
                             FirstName = "Adara",
                             LastName = "Forrestor"
                         },
                         new
                         {
-                            Id = new Guid("18213b33-c03e-4116-963d-0eef7df6eb1a"),
+                            Id = new Guid("21cd2a6a-4b66-468a-ada5-c2d8209bfcb2"),
                             FirstName = "Cal",
                             LastName = "Paskin"
                         },
                         new
                         {
-                            Id = new Guid("9415ada1-b693-4542-9f42-cd7ece208df1"),
+                            Id = new Guid("502c8b7b-8fb0-476f-b51b-7ddc4047236e"),
                             FirstName = "Waite",
                             LastName = "Aps"
                         },
                         new
                         {
-                            Id = new Guid("b8a0c27d-d0d5-4daa-a960-5f1b595a55ca"),
+                            Id = new Guid("664e2bb4-a771-4790-bbeb-ab65c29ceea1"),
                             FirstName = "Coriss",
                             LastName = "Darmody"
                         },
                         new
                         {
-                            Id = new Guid("c1edd66b-8a9b-47e1-9e05-f38b31f6a079"),
+                            Id = new Guid("82513c26-0d79-4740-b312-41524ab58710"),
                             FirstName = "Mac",
                             LastName = "Silversmidt"
                         },
                         new
                         {
-                            Id = new Guid("7745a287-443b-411e-85a1-97ca5a4ecd48"),
+                            Id = new Guid("0dfe9b3a-2fee-438a-b3f5-64899131ed9c"),
                             FirstName = "Alfi",
                             LastName = "Brill"
                         },
                         new
                         {
-                            Id = new Guid("84f921ca-680a-4203-8346-9e8972ebb1a3"),
+                            Id = new Guid("4292fe81-0a54-48dc-9506-c78cf3624913"),
                             FirstName = "Reube",
                             LastName = "Ranaghan"
                         },
                         new
                         {
-                            Id = new Guid("11ecfdac-364e-4f75-b894-e9f5472c2fa4"),
+                            Id = new Guid("e2ee3d18-a5b2-46ca-8b85-8fe904998fb1"),
                             FirstName = "Wald",
                             LastName = "Sexton"
                         },
                         new
                         {
-                            Id = new Guid("9a497959-c231-4b93-a051-d2d3f921ee41"),
+                            Id = new Guid("84ff0f74-37bd-44ae-b060-79db05c35058"),
                             FirstName = "Miran",
                             LastName = "Schustl"
                         },
                         new
                         {
-                            Id = new Guid("88e7f720-a7e7-467d-a261-9915cc1772fd"),
+                            Id = new Guid("2bbd8c70-0c8b-4069-b31c-37d742ed08d8"),
                             FirstName = "Corie",
                             LastName = "Crosham"
                         },
                         new
                         {
-                            Id = new Guid("f8e2e376-bf17-435d-925c-69570dc1311b"),
+                            Id = new Guid("2bf91bdb-8d63-483f-bdf3-abf7b8612c8f"),
                             FirstName = "Cyrill",
                             LastName = "Speer"
                         },
                         new
                         {
-                            Id = new Guid("1baac1e0-8286-4bcc-9052-f00e443893af"),
+                            Id = new Guid("68b92eaa-8dfd-4c98-b1dd-94eb535abf39"),
                             FirstName = "Beverlee",
                             LastName = "Derisly"
                         },
                         new
                         {
-                            Id = new Guid("5eba6825-745d-4bf9-ae68-5216f0e7d617"),
+                            Id = new Guid("1ab412eb-2190-41ba-bb6a-60e250f1dcd0"),
                             FirstName = "Wallis",
                             LastName = "Lackey"
                         },
                         new
                         {
-                            Id = new Guid("f23e51a1-c7bc-48c0-ac59-1160a4ef636a"),
+                            Id = new Guid("589b68ae-480b-41b6-855f-397f6391cc02"),
                             FirstName = "Eveleen",
                             LastName = "Costanza"
                         },
                         new
                         {
-                            Id = new Guid("2dbd7137-b243-4c35-b500-3f08fab32dea"),
+                            Id = new Guid("f50f8bba-a50a-44ea-a57a-13490c6fc394"),
                             FirstName = "Dannie",
                             LastName = "Beattie"
                         },
                         new
                         {
-                            Id = new Guid("88b01291-97a9-4c27-950c-40b66c115795"),
+                            Id = new Guid("1b6d9a22-dc09-4a13-b1e8-db15a564617b"),
                             FirstName = "Martynne",
                             LastName = "Arnley"
                         },
                         new
                         {
-                            Id = new Guid("abda4420-2bce-41c4-afbc-17fe3add6235"),
+                            Id = new Guid("1244e55f-6e2c-4c8c-b419-09b22eb5c76c"),
                             FirstName = "Gabbi",
                             LastName = "Beven"
                         },
                         new
                         {
-                            Id = new Guid("05b3f385-b1fc-43ce-bd6d-a26e54b8c9fc"),
+                            Id = new Guid("767bc874-0a68-4fd8-b924-a266cbb16970"),
                             FirstName = "Christyna",
                             LastName = "Berard"
                         },
                         new
                         {
-                            Id = new Guid("6df697c7-6939-4f33-a82e-0dcc75fdca4f"),
+                            Id = new Guid("4cf76e5f-500a-45fe-bb50-d85560d7e96f"),
                             FirstName = "Emlyn",
                             LastName = "Miskimmon"
                         },
                         new
                         {
-                            Id = new Guid("5ca106d7-50f8-47df-9a69-300ab6c1530c"),
+                            Id = new Guid("28a73d7b-fdad-413f-8924-9a203c3d4ddc"),
                             FirstName = "Lorna",
                             LastName = "Orrobin"
                         },
                         new
                         {
-                            Id = new Guid("7e6bcbed-066d-4a21-858d-44e864ee2280"),
+                            Id = new Guid("468b11ec-b3d1-42a7-9674-7d5d0d9a9a43"),
                             FirstName = "Feliza",
                             LastName = "Pendlenton"
                         },
                         new
                         {
-                            Id = new Guid("ce0335a6-7aaa-4a48-8060-030b77484b3b"),
+                            Id = new Guid("48cdb123-6b2e-4059-9bb2-3cc12078707a"),
                             FirstName = "Tanner",
                             LastName = "Camillo"
                         },
                         new
                         {
-                            Id = new Guid("51e6b040-8c0e-4b6c-b643-a08fb84cafdf"),
+                            Id = new Guid("2fefbc4d-0264-4f6b-a512-a3d48685e0f6"),
                             FirstName = "Tarrance",
                             LastName = "McGurgan"
                         },
                         new
                         {
-                            Id = new Guid("7cede0b5-02ca-4398-913c-54c50bbf4cfd"),
+                            Id = new Guid("ffe957dc-961c-4814-bbb9-db4aba644c4a"),
                             FirstName = "Thomasina",
                             LastName = "Palphreyman"
                         },
                         new
                         {
-                            Id = new Guid("e50d82e5-c38c-49fe-aef4-4f54d0e75951"),
+                            Id = new Guid("64595c8a-3030-4d1a-a71b-d21afd860695"),
                             FirstName = "Ram",
                             LastName = "Churms"
                         },
                         new
                         {
-                            Id = new Guid("6619fec9-914f-40c6-8fc6-1610dc8a2564"),
+                            Id = new Guid("f98e5c97-13a0-4ea0-b753-8af48bd9dcf2"),
                             FirstName = "Holly",
                             LastName = "Harcase"
                         },
                         new
                         {
-                            Id = new Guid("14a25339-ec69-4e6a-a2c5-df9a233a70fa"),
+                            Id = new Guid("8cac6871-d920-4314-a583-b4a356c3e94a"),
                             FirstName = "Nelia",
                             LastName = "Sivess"
                         },
                         new
                         {
-                            Id = new Guid("0caf8876-db7b-46a8-92d6-051d3eea8492"),
+                            Id = new Guid("7568d6a8-8999-446a-b483-b2e36410aa99"),
                             FirstName = "Modestine",
                             LastName = "Kelle"
                         },
                         new
                         {
-                            Id = new Guid("c1e6f4e7-5bc8-4371-8064-5fb4223d8f44"),
+                            Id = new Guid("845d5c2e-2e2c-4040-88ac-ec22277d266b"),
                             FirstName = "Florida",
                             LastName = "Coase"
                         },
                         new
                         {
-                            Id = new Guid("72794b1d-5453-47ac-96e8-bb37f6e483eb"),
+                            Id = new Guid("7d4634cb-4fd8-4217-8a29-c94421d422d8"),
                             FirstName = "Ingunna",
                             LastName = "Goodbarne"
                         },
                         new
                         {
-                            Id = new Guid("5954eb33-a4fc-462e-b69a-c4b35b2d23b4"),
+                            Id = new Guid("592b6e1b-5a67-4dcc-b499-ab6ba0bc7b81"),
                             FirstName = "Dyane",
                             LastName = "Jodlkowski"
                         },
                         new
                         {
-                            Id = new Guid("5d925066-b8ce-4bba-b3d4-7d179a339e13"),
+                            Id = new Guid("704852fd-6316-4a25-aa56-23d00bfe72e1"),
                             FirstName = "Brandie",
                             LastName = "Sandford"
                         },
                         new
                         {
-                            Id = new Guid("330c2709-1b56-457f-bd1e-1c5bb27cda53"),
+                            Id = new Guid("d76c3c54-0b3b-4777-87bd-44b300c201dc"),
                             FirstName = "Reta",
                             LastName = "Julian"
                         },
                         new
                         {
-                            Id = new Guid("6cfb8b0f-4343-4357-b2e4-55d75b510f38"),
+                            Id = new Guid("352eae6b-0bd5-465a-ad49-7ac02bbe37e2"),
                             FirstName = "Rosalind",
                             LastName = "Richardot"
                         },
                         new
                         {
-                            Id = new Guid("35f2624c-ea35-4a3c-af63-4715ff521161"),
+                            Id = new Guid("439f1dff-70a6-49e4-ace7-dd5596da5810"),
                             FirstName = "Eldridge",
                             LastName = "Skarman"
                         },
                         new
                         {
-                            Id = new Guid("76e57b14-7f0c-4110-9fe5-ae82a426fa1a"),
+                            Id = new Guid("3e50534f-aaf2-42a4-a897-25bb18e61853"),
                             FirstName = "Hilario",
                             LastName = "Baudains"
                         },
                         new
                         {
-                            Id = new Guid("09e76b31-202b-49d4-b117-e28c6e21a6db"),
+                            Id = new Guid("bc8e3963-40eb-4471-98b3-0ca7b7538fd5"),
                             FirstName = "Kylila",
                             LastName = "Voysey"
                         },
                         new
                         {
-                            Id = new Guid("76d4abc7-148b-41fc-aab6-06f05c220f36"),
+                            Id = new Guid("0223c324-a351-4ed5-8bfc-d4a3d7960bf4"),
                             FirstName = "Bendick",
                             LastName = "Williment"
                         },
                         new
                         {
-                            Id = new Guid("a62532c0-0ac2-4680-bfce-462ba0a5a924"),
+                            Id = new Guid("777e63b4-6821-4c70-be39-9952ef778b00"),
                             FirstName = "Cedric",
                             LastName = "Pepall"
                         },
                         new
                         {
-                            Id = new Guid("a0712bbe-47b4-4ddb-a39a-fa82d285db15"),
+                            Id = new Guid("6dc3733e-c125-427c-a73c-9b8ebd21404c"),
                             FirstName = "Win",
                             LastName = "Rubega"
                         },
                         new
                         {
-                            Id = new Guid("caced371-71f9-4c30-bee7-c57932a9e55f"),
+                            Id = new Guid("33a85d89-4be4-4142-80d2-595a7a8c5aaa"),
                             FirstName = "Janene",
                             LastName = "Momery"
                         },
                         new
                         {
-                            Id = new Guid("23a5465f-f6dc-4d8c-a9cd-b93146938735"),
+                            Id = new Guid("84908684-198c-40e8-9e00-bfd441f2e260"),
                             FirstName = "Alina",
                             LastName = "McDirmid"
                         },
                         new
                         {
-                            Id = new Guid("3c9796ad-61d6-4007-a9bc-f3216873d9fc"),
+                            Id = new Guid("cd6868fa-2ed9-4e64-8733-3a3f7cd6db24"),
                             FirstName = "Gerty",
                             LastName = "Dunstone"
                         },
                         new
                         {
-                            Id = new Guid("881b2f04-5fd0-4d33-9d04-f91f6780391b"),
+                            Id = new Guid("e9434521-b0c5-4569-9fd7-4f90b15eb9e0"),
                             FirstName = "Xylina",
                             LastName = "Arnaez"
                         },
                         new
                         {
-                            Id = new Guid("43ba9cdb-cd9f-4186-949d-7e826615e6cf"),
+                            Id = new Guid("612f1c6b-4ec0-4af3-b62a-baf3f316339f"),
                             FirstName = "Bettina",
                             LastName = "Rewbottom"
                         },
                         new
                         {
-                            Id = new Guid("f56d177d-ecbb-4c89-a471-1fe563e170ee"),
+                            Id = new Guid("61bb035e-3750-42f1-9630-1a5366c64e7e"),
                             FirstName = "Pren",
                             LastName = "Mossman"
                         },
                         new
                         {
-                            Id = new Guid("34b4c9ac-5700-4e88-914a-e2da78e1b8bd"),
+                            Id = new Guid("147ddf04-3cbc-47d3-9bd2-a9c974c87f80"),
                             FirstName = "Karry",
                             LastName = "Caswill"
                         },
                         new
                         {
-                            Id = new Guid("2a34e65f-7434-4e61-8409-bfd527d2b8b9"),
+                            Id = new Guid("66dab545-f6fb-43ec-9859-3ca6f638b38a"),
                             FirstName = "Dorey",
                             LastName = "Trundler"
                         },
                         new
                         {
-                            Id = new Guid("0da6eb62-f87b-4b8d-8f56-84cf0ffcfdbc"),
+                            Id = new Guid("18e6420b-b6cc-42db-b5d2-39a86b37680d"),
                             FirstName = "Avis",
                             LastName = "Siemon"
                         },
                         new
                         {
-                            Id = new Guid("162cf5c3-1c9a-431c-b077-9b33c9b224ec"),
+                            Id = new Guid("7f5b1f08-813e-426e-8078-3f8dba53c9bb"),
                             FirstName = "Currey",
                             LastName = "Anster"
                         },
                         new
                         {
-                            Id = new Guid("d098e30a-0cd8-45fa-b30b-d2b5d6cc028c"),
+                            Id = new Guid("346c5110-3648-467f-8414-01415f68d9fe"),
                             FirstName = "Charlena",
                             LastName = "Futty"
                         },
                         new
                         {
-                            Id = new Guid("4ace9e98-1fd4-4e77-b8da-3c1f869cb6b2"),
+                            Id = new Guid("a314a3f8-c00c-4c59-be7c-fc4776169ff1"),
                             FirstName = "Erinn",
                             LastName = "Pifford"
                         },
                         new
                         {
-                            Id = new Guid("8bc2fbf2-b8be-420a-ab41-e49c44123753"),
+                            Id = new Guid("90b8a319-770d-4b28-8a00-4f8a489c1520"),
                             FirstName = "Eilis",
                             LastName = "Calbreath"
                         },
                         new
                         {
-                            Id = new Guid("64ee323f-e840-493b-bfaf-cdab9400466d"),
+                            Id = new Guid("5b52dfcd-a521-4e49-87b2-236a49981d43"),
                             FirstName = "Jillana",
                             LastName = "McGee"
                         },
                         new
                         {
-                            Id = new Guid("e53a96e4-5c39-4739-94b2-cabdced13469"),
+                            Id = new Guid("9500704a-7779-4779-be52-e100b10153ed"),
                             FirstName = "Weber",
                             LastName = "Charette"
                         },
                         new
                         {
-                            Id = new Guid("36175c6b-85bd-4615-bb1f-456391811718"),
+                            Id = new Guid("b875541b-160e-4017-99ab-6c85edd18a1d"),
                             FirstName = "Velma",
                             LastName = "Kunat"
                         },
                         new
                         {
-                            Id = new Guid("cdb9dfb7-70ab-4066-bf0a-a4efbccb1500"),
+                            Id = new Guid("815a62cc-7f03-4825-b761-cd83d898ef8c"),
                             FirstName = "Myer",
                             LastName = "Ilem"
                         },
                         new
                         {
-                            Id = new Guid("9c06d170-1d58-4df3-bed9-072b992f086e"),
+                            Id = new Guid("24de79ae-8e57-4297-8598-bcaccea50a7c"),
                             FirstName = "Jessa",
                             LastName = "Gaynes"
                         },
                         new
                         {
-                            Id = new Guid("4695ed5b-6bde-476f-8064-ddf4e324b944"),
+                            Id = new Guid("d2d15fe5-2203-4cc8-83b3-6bcf92e49fb4"),
                             FirstName = "Reinaldo",
                             LastName = "Hasell"
                         },
                         new
                         {
-                            Id = new Guid("9d863819-1a15-444a-9ba0-d32368d0a290"),
+                            Id = new Guid("e1ab4fbd-9feb-4bd7-bc44-25461c743e0d"),
                             FirstName = "Ellsworth",
                             LastName = "Bordessa"
                         },
                         new
                         {
-                            Id = new Guid("d685d683-feb2-41ef-a3de-36399b342371"),
+                            Id = new Guid("40a41746-a928-433d-a5bb-50a3d6578791"),
                             FirstName = "Belia",
                             LastName = "Baglan"
                         },
                         new
                         {
-                            Id = new Guid("9cce06ba-9a83-4c39-b49e-47be72ac656e"),
+                            Id = new Guid("964ced9f-bde7-45bc-9d7d-e9bacc4c3ca8"),
                             FirstName = "Riva",
                             LastName = "Laible"
                         },
                         new
                         {
-                            Id = new Guid("df8d9830-ffbb-422e-b69c-6c3014088345"),
+                            Id = new Guid("2308bc8b-e8c4-47fc-b6be-7e36abe76249"),
                             FirstName = "Ludovico",
                             LastName = "Coleiro"
                         },
                         new
                         {
-                            Id = new Guid("865234d8-9947-4df8-9883-6079fba39957"),
+                            Id = new Guid("2c47ec49-9536-4176-95c4-1ba7c4eec6b7"),
                             FirstName = "Dorolice",
                             LastName = "Bedham"
                         },
                         new
                         {
-                            Id = new Guid("19fe27c7-6493-4426-9659-576f5fd3f56e"),
+                            Id = new Guid("91ffda23-2e9f-4a1d-b090-aa0fe5be0e77"),
                             FirstName = "Melli",
                             LastName = "Jeavon"
                         },
                         new
                         {
-                            Id = new Guid("7cbe2473-2c54-43f1-9e26-f8cb6c345898"),
+                            Id = new Guid("52d2ef2b-ae9e-4164-89c4-2a4f91152475"),
                             FirstName = "Mabelle",
                             LastName = "Manske"
                         },
                         new
                         {
-                            Id = new Guid("6ff2f920-c56c-419e-bdf5-789e30e08605"),
+                            Id = new Guid("3bdbc552-e3ca-49d6-8b1b-d0ea42db20c7"),
                             FirstName = "Vikky",
                             LastName = "Concannon"
                         },
                         new
                         {
-                            Id = new Guid("387b13a1-f1f2-4684-9b2c-64c45234258a"),
+                            Id = new Guid("bb10f742-a317-4cba-96f9-21005421d47e"),
                             FirstName = "Miles",
                             LastName = "Priden"
                         },
                         new
                         {
-                            Id = new Guid("d985943d-8277-460d-8c71-708f9093fb3f"),
+                            Id = new Guid("17a06360-9f69-40e9-b01e-1afc140fa0fd"),
                             FirstName = "Sandro",
                             LastName = "Bungey"
                         },
                         new
                         {
-                            Id = new Guid("3a9d347a-b343-4b5d-a379-66546b1d7b69"),
+                            Id = new Guid("74ba4468-63c5-40fc-b05e-bcb2daf97369"),
                             FirstName = "Averill",
                             LastName = "Treeby"
                         },
                         new
                         {
-                            Id = new Guid("4ae04aad-e4d4-4ca9-9e4d-4be17f55f3a8"),
+                            Id = new Guid("4f8af109-379a-4323-9e85-faba9484e711"),
                             FirstName = "Clemens",
                             LastName = "Westcott"
                         },
                         new
                         {
-                            Id = new Guid("e9773d5e-d00e-4a3e-854c-6ced5a41ca60"),
+                            Id = new Guid("b5d2b907-fc38-4b94-8bf2-4db0937c70d4"),
                             FirstName = "Tate",
                             LastName = "Carcass"
                         },
                         new
                         {
-                            Id = new Guid("52b5af62-ca26-428e-9815-bc5800c6cbce"),
+                            Id = new Guid("0516d87b-c460-4bdc-892f-c03c61d459d5"),
                             FirstName = "Zebulon",
                             LastName = "Gonthard"
                         },
                         new
                         {
-                            Id = new Guid("08932960-8d61-42f1-952f-3ce019f67547"),
+                            Id = new Guid("8f7a3eed-d63e-41b0-8031-0597586dedb0"),
                             FirstName = "Lenci",
                             LastName = "Colafate"
                         },
                         new
                         {
-                            Id = new Guid("7e38a4c3-5fcd-412e-ad26-2caf8d60b5cf"),
+                            Id = new Guid("547e1960-cb6f-4936-bda4-37ea9e57d1d1"),
                             FirstName = "Derrick",
                             LastName = "Bourthoumieux"
                         },
                         new
                         {
-                            Id = new Guid("42ad2b90-d981-4f4a-a669-33d0a199be28"),
+                            Id = new Guid("c90f953f-8e4e-4f2c-8987-18ba1f96de0d"),
                             FirstName = "Jacques",
                             LastName = "Dalgleish"
                         },
                         new
                         {
-                            Id = new Guid("dbe83457-7531-455f-b744-3d3a84708905"),
+                            Id = new Guid("a8b2c360-053e-4033-9ba8-f78f00ea250a"),
                             FirstName = "Sarajane",
                             LastName = "Trundler"
                         },
                         new
                         {
-                            Id = new Guid("0a3e68b8-cf73-4ccb-bf6c-ad3c6423163f"),
+                            Id = new Guid("8ad963ac-d18c-49f4-8c3c-1721bcdbdf70"),
                             FirstName = "Elga",
                             LastName = "Lorenzo"
                         },
                         new
                         {
-                            Id = new Guid("27e4a68f-3394-4846-963b-e4fead16dedb"),
+                            Id = new Guid("232cec95-4abf-4ac1-bb61-382e2ed43fab"),
                             FirstName = "Lena",
                             LastName = "Beedle"
                         },
                         new
                         {
-                            Id = new Guid("da54428c-88c4-4f90-9406-476c66a66dde"),
+                            Id = new Guid("4b32ff07-583f-468e-803a-cf90a94fd821"),
                             FirstName = "Kaspar",
                             LastName = "Skyme"
                         },
                         new
                         {
-                            Id = new Guid("bec5d41c-ddfa-43b3-9d5f-ee594db919a6"),
+                            Id = new Guid("bb054d78-d2e2-46cd-8a88-d77724e2b9bd"),
                             FirstName = "Jared",
                             LastName = "Rossant"
                         },
                         new
                         {
-                            Id = new Guid("64fe9ab9-6403-43a8-a1d7-0cfc98c6657f"),
+                            Id = new Guid("22fc1c70-da46-4885-8798-10a52f32214d"),
                             FirstName = "Creight",
                             LastName = "Stopforth"
                         },
                         new
                         {
-                            Id = new Guid("5fe724a4-5c20-42b4-8b11-44f965dba446"),
+                            Id = new Guid("e73ae695-9a2a-491c-bbf4-744526feee12"),
                             FirstName = "Atlante",
                             LastName = "Castelletti"
                         },
                         new
                         {
-                            Id = new Guid("05365b7d-37f5-4893-bac9-536e00a91350"),
+                            Id = new Guid("b09c49f6-c0bd-408a-b500-b9be14103265"),
                             FirstName = "Nessa",
                             LastName = "Blaxland"
                         },
                         new
                         {
-                            Id = new Guid("76b85efc-72bf-4480-bef3-e80c4a3c3617"),
+                            Id = new Guid("0d93e009-c7e8-402d-92de-3efa01475cae"),
                             FirstName = "Ingaberg",
                             LastName = "Brookzie"
                         },
                         new
                         {
-                            Id = new Guid("0d9e7fb6-7bcf-4d62-99c4-8e7a80d6de1a"),
+                            Id = new Guid("89e5555e-c4d0-4af7-93b8-c63632153e46"),
                             FirstName = "Bobbie",
                             LastName = "Vakhlov"
                         },
                         new
                         {
-                            Id = new Guid("6f8c9362-a796-4179-9707-638ee0ea0ec1"),
+                            Id = new Guid("3eb9593d-bc40-401a-bba9-0a55e50b92b3"),
                             FirstName = "Danika",
                             LastName = "Tenaunt"
                         },
                         new
                         {
-                            Id = new Guid("27f5d1db-4c36-40ac-bbc2-abf4ff04c750"),
+                            Id = new Guid("15e128b8-7373-490b-97e8-9012d3037207"),
                             FirstName = "Neely",
                             LastName = "Quibell"
                         },
                         new
                         {
-                            Id = new Guid("5274cc8f-58b7-46e6-94db-26bc98c974a0"),
+                            Id = new Guid("3774ab18-9b96-4ff2-894e-b491f4bded5f"),
                             FirstName = "Gordie",
                             LastName = "Brittles"
                         },
                         new
                         {
-                            Id = new Guid("a588eb99-4369-4ba9-83a3-76d84a4bed74"),
+                            Id = new Guid("9c1cc44e-5a5b-428c-a812-2136aac5b07e"),
                             FirstName = "Sonja",
                             LastName = "Abramof"
                         },
                         new
                         {
-                            Id = new Guid("991fc667-d805-4de6-9cb3-3081766f90ac"),
+                            Id = new Guid("a91b3326-f137-4e4a-8464-a3ba43072ce1"),
                             FirstName = "Roz",
                             LastName = "Alford"
                         },
                         new
                         {
-                            Id = new Guid("2a7a38f8-86ed-4624-9ef6-cbd38b764b54"),
+                            Id = new Guid("acde97c7-319d-4819-b6fc-88fa5c7992a6"),
                             FirstName = "Rina",
                             LastName = "Chantillon"
                         },
                         new
                         {
-                            Id = new Guid("134b63da-10c7-47e2-bffc-d9e99a4024fc"),
+                            Id = new Guid("02875f63-76d9-44c6-aa55-816dee2580f8"),
                             FirstName = "Livy",
                             LastName = "Redish"
                         },
                         new
                         {
-                            Id = new Guid("c623c617-f77b-4bdb-b49c-9caaa774480b"),
+                            Id = new Guid("bb0394d6-caac-4fa2-931f-70b9746593bd"),
                             FirstName = "Lexis",
                             LastName = "Lucius"
                         },
                         new
                         {
-                            Id = new Guid("bc5c6376-48e7-4814-97c8-ccb63d2b47d6"),
+                            Id = new Guid("e041e9eb-f766-4288-87f4-2334f55a9212"),
                             FirstName = "Bobinette",
                             LastName = "Copland"
                         },
                         new
                         {
-                            Id = new Guid("661a88a2-7a90-4349-b093-dce3b409d450"),
+                            Id = new Guid("601265c7-ac1b-400b-bf2c-70c0fe7ffc13"),
                             FirstName = "Katinka",
                             LastName = "Ceci"
                         },
                         new
                         {
-                            Id = new Guid("2a4361b4-782d-4a0e-8a50-1f9112da9434"),
+                            Id = new Guid("8996f5db-7129-452e-b004-5d9b65c31c06"),
                             FirstName = "Den",
                             LastName = "Stolting"
                         },
                         new
                         {
-                            Id = new Guid("12fd54e3-89da-45e6-bf8c-327e1b0a67c5"),
+                            Id = new Guid("1e6e74bd-ed3f-4f93-85ee-cf1df0237f12"),
                             FirstName = "Deane",
                             LastName = "Cockhill"
                         },
                         new
                         {
-                            Id = new Guid("0e55e315-750c-4df9-a03e-d1e073851bb0"),
+                            Id = new Guid("c56f0c10-35fc-4ca3-bef6-9292971d7f78"),
                             FirstName = "Bette",
                             LastName = "Wannell"
                         },
                         new
                         {
-                            Id = new Guid("3d3119d2-49b5-4360-93f8-a48b28e1bae2"),
+                            Id = new Guid("f78765c3-9b22-4f61-ad51-cbaebbe712c4"),
                             FirstName = "Hurlee",
                             LastName = "Birkett"
                         },
                         new
                         {
-                            Id = new Guid("a576b36e-56fc-4347-8d67-2898a18a047f"),
+                            Id = new Guid("1eb3c88e-50bc-48a3-b2e7-ca331f22c9ba"),
                             FirstName = "Kathe",
                             LastName = "Gewer"
                         },
                         new
                         {
-                            Id = new Guid("be5902e9-595e-4743-8004-bb0e46b60b7a"),
+                            Id = new Guid("2cfdad46-9e42-4aa0-a750-66f3934396a2"),
                             FirstName = "Elyse",
                             LastName = "Davidovic"
                         },
                         new
                         {
-                            Id = new Guid("7e150311-319a-49a9-83c2-192c32b1363b"),
+                            Id = new Guid("70eb3b28-91d3-41d2-8eae-f730b2dcf574"),
                             FirstName = "Shea",
                             LastName = "Wibrow"
                         },
                         new
                         {
-                            Id = new Guid("41e33482-b76d-45b7-a5fb-8b1e9e891895"),
+                            Id = new Guid("f3385674-77d2-42ba-a5a1-c486bdf86375"),
                             FirstName = "Tucky",
                             LastName = "Tomblin"
                         },
                         new
                         {
-                            Id = new Guid("c061d7e5-4b72-41b4-8c19-8835f83a3e45"),
+                            Id = new Guid("653d04cc-7310-48d2-82a5-632c295cc30e"),
                             FirstName = "Lizabeth",
                             LastName = "Shiels"
                         },
                         new
                         {
-                            Id = new Guid("7b728c79-dc06-4871-aa28-aaad2a702afb"),
+                            Id = new Guid("f428fc82-5f77-47c1-a686-e32dcceedce8"),
                             FirstName = "Sherilyn",
                             LastName = "Cochrane"
                         },
                         new
                         {
-                            Id = new Guid("c9cc59b9-915e-4c4b-8400-d7eac6f724f8"),
+                            Id = new Guid("843d8a2d-48df-4f9c-8cd0-b09b810504aa"),
                             FirstName = "Brose",
                             LastName = "Ridger"
                         },
                         new
                         {
-                            Id = new Guid("36aea91c-acb2-4370-911f-21ba7e1bdcc7"),
+                            Id = new Guid("c4304399-8120-466a-b11d-2dcf6ae68919"),
                             FirstName = "Algernon",
                             LastName = "Nowlan"
                         },
                         new
                         {
-                            Id = new Guid("25758eb3-93ba-486c-adc6-5695cb1c1873"),
+                            Id = new Guid("4188fe6f-37c9-4c7c-9b0c-3e5a79070668"),
                             FirstName = "Chane",
                             LastName = "McCourtie"
                         },
                         new
                         {
-                            Id = new Guid("ec8e4ccd-bd7a-4690-827c-f75973e8d465"),
+                            Id = new Guid("a0358c05-a2ff-43bd-aef0-435987cbd3d4"),
                             FirstName = "Lorettalorna",
                             LastName = "Wakeham"
                         },
                         new
                         {
-                            Id = new Guid("f80135ad-8130-4f9c-b9b1-f32613c74b43"),
+                            Id = new Guid("5f28b80f-0488-4f1f-bf15-de3724e4d57b"),
                             FirstName = "Inessa",
                             LastName = "Milsap"
                         },
                         new
                         {
-                            Id = new Guid("1d8155f9-dcd6-4fd0-97b1-969ad9798e77"),
+                            Id = new Guid("88df9a5e-222b-4d2a-9f26-baa8667bf86e"),
                             FirstName = "Ginger",
                             LastName = "Segge"
                         },
                         new
                         {
-                            Id = new Guid("0dac362a-1165-4e88-9be0-e55bdb044a6a"),
+                            Id = new Guid("810db5f1-6a61-4bca-8102-96a764f97576"),
                             FirstName = "Bran",
                             LastName = "Culleford"
                         },
                         new
                         {
-                            Id = new Guid("73a57c91-2933-4f5b-9754-c542bd143feb"),
+                            Id = new Guid("e6a22046-5705-4129-9668-a3ace3447629"),
                             FirstName = "Rita",
                             LastName = "Grassi"
                         },
                         new
                         {
-                            Id = new Guid("e107a237-8154-4ef5-9557-843e1f486af6"),
+                            Id = new Guid("256d821f-4495-49e7-a4f7-79a346692564"),
                             FirstName = "Latrina",
                             LastName = "Memory"
                         },
                         new
                         {
-                            Id = new Guid("4efcad9f-201a-49c5-a612-e6fd0f8d6c31"),
+                            Id = new Guid("1284b6c9-3c5e-438b-8a3c-4e82301f957d"),
                             FirstName = "Catherin",
                             LastName = "Scarasbrick"
                         },
                         new
                         {
-                            Id = new Guid("fa9a2f64-0908-49c8-8afe-d2fc45a83df4"),
+                            Id = new Guid("bdac3334-6024-40bd-bd57-a76c9ccad093"),
                             FirstName = "Gwenore",
                             LastName = "Malinson"
                         },
                         new
                         {
-                            Id = new Guid("73a974f3-4c0a-4160-8832-631bdcf99123"),
+                            Id = new Guid("71a4809c-15f5-497a-be9a-9cad36758b29"),
                             FirstName = "Antonietta",
                             LastName = "Ernshaw"
                         },
                         new
                         {
-                            Id = new Guid("24cc8724-f4c5-4971-95e3-413639453775"),
+                            Id = new Guid("ba20752b-e92b-4f58-8e66-c5d114bae61e"),
                             FirstName = "Dniren",
                             LastName = "Jerrems"
                         },
                         new
                         {
-                            Id = new Guid("90fc885d-7fb1-46d0-8a1b-c77c9bd0dc58"),
+                            Id = new Guid("9a44c8b9-7c0c-4db6-a2ca-b2d0df526b14"),
                             FirstName = "Klarika",
                             LastName = "Mangeot"
                         },
                         new
                         {
-                            Id = new Guid("089a6b64-5114-4c56-902e-fe2fbd8df7ef"),
+                            Id = new Guid("5a95c26c-b95c-4388-919a-56668dac205b"),
                             FirstName = "Casie",
                             LastName = "Kincey"
                         },
                         new
                         {
-                            Id = new Guid("2ce550aa-3863-40af-bccf-d04b52b65334"),
+                            Id = new Guid("c01b0d6c-e8cf-48d1-a199-e26f946e9777"),
                             FirstName = "Price",
                             LastName = "Rosie"
                         },
                         new
                         {
-                            Id = new Guid("0b1719df-a53d-4a59-960e-2b319cb4da9f"),
+                            Id = new Guid("5f2dfe32-a778-46b6-9aa5-07644aa5d5a7"),
                             FirstName = "Mala",
                             LastName = "Silcock"
                         },
                         new
                         {
-                            Id = new Guid("927cb894-93d9-42bd-bcd7-ff508507030f"),
+                            Id = new Guid("816fca36-932b-4d46-9672-c86ab2d1a761"),
                             FirstName = "Tabb",
                             LastName = "Hayesman"
                         },
                         new
                         {
-                            Id = new Guid("020c5e81-7f10-431e-9c35-a9529f348081"),
+                            Id = new Guid("f2353e53-7336-4b0a-b8ac-30ef2ab8d71a"),
                             FirstName = "Brocky",
                             LastName = "Dilkes"
                         },
                         new
                         {
-                            Id = new Guid("f3bf4c79-af62-4b46-9113-eda5243d5701"),
+                            Id = new Guid("6f541eba-5985-40ae-8e62-872521befc3f"),
                             FirstName = "Frazer",
                             LastName = "Matthew"
                         },
                         new
                         {
-                            Id = new Guid("a44875d4-7608-4c3b-837b-bc7d912760b9"),
+                            Id = new Guid("052f0630-0756-459d-a5b7-a07e13f7a095"),
                             FirstName = "Dacia",
                             LastName = "Doveston"
                         },
                         new
                         {
-                            Id = new Guid("9b72a576-6ff8-40e1-aeeb-6740223e9a77"),
+                            Id = new Guid("9dae290a-716a-4b7d-aabe-ee6aeede903b"),
                             FirstName = "Athene",
                             LastName = "Breit"
                         },
                         new
                         {
-                            Id = new Guid("d7f6c836-8b85-4391-93a4-d3a9e7ac2888"),
+                            Id = new Guid("912eb47a-8d98-40b3-9ef9-32f00a32d6e6"),
                             FirstName = "Lenore",
                             LastName = "Clace"
                         },
                         new
                         {
-                            Id = new Guid("81de9bef-1643-4cb7-8700-10cb9b09cef4"),
+                            Id = new Guid("32867b76-e120-4a5a-8cd9-e2edcd081d2e"),
                             FirstName = "Izaak",
                             LastName = "Ganford"
                         },
                         new
                         {
-                            Id = new Guid("67196654-85c4-4562-9e22-8f48353d1177"),
+                            Id = new Guid("fce219f3-8834-472c-88c1-63b338502cf4"),
                             FirstName = "Sterne",
                             LastName = "Aiton"
                         },
                         new
                         {
-                            Id = new Guid("ec431d1f-308a-49a9-88ef-4f97349a9a6a"),
+                            Id = new Guid("224ff109-07d5-427e-87c5-6e71a3579c37"),
                             FirstName = "Neal",
                             LastName = "Gaffer"
                         },
                         new
                         {
-                            Id = new Guid("df56863e-741c-4633-b28b-5b9246e1857f"),
+                            Id = new Guid("85ad5033-d592-4392-946e-e826e9cbf090"),
                             FirstName = "Sher",
                             LastName = "Salvidge"
                         },
                         new
                         {
-                            Id = new Guid("3f97f8fc-0010-4b5b-92f7-e8b37a295be0"),
+                            Id = new Guid("96b7a39b-28c7-4355-acf0-c470c826ddfb"),
                             FirstName = "Dayna",
                             LastName = "Buntain"
                         },
                         new
                         {
-                            Id = new Guid("e5c5d7d3-25cf-4f74-a202-75ac70a95a42"),
+                            Id = new Guid("dd6be355-b9e4-4f71-ae42-147de20f0e0a"),
                             FirstName = "Jacky",
                             LastName = "Gainfort"
                         },
                         new
                         {
-                            Id = new Guid("f7fffbc2-345e-4c2e-a748-ffba11a2d367"),
+                            Id = new Guid("78f4cda4-26e8-4086-a51b-d9e462b9453e"),
                             FirstName = "May",
                             LastName = "Sowley"
                         },
                         new
                         {
-                            Id = new Guid("fbbffb5e-56cf-44cd-815a-d1a00a0eafa9"),
+                            Id = new Guid("71e50520-3e4c-49ae-a585-ef8cc2d79acf"),
                             FirstName = "Odie",
                             LastName = "Dowda"
                         },
                         new
                         {
-                            Id = new Guid("7380d008-4710-45ee-aff4-9b69627d8fa0"),
+                            Id = new Guid("7297a1f9-3dfa-45ee-92d0-792c70b8e884"),
                             FirstName = "Hilde",
                             LastName = "Mahady"
                         },
                         new
                         {
-                            Id = new Guid("72b841d4-68b1-4e9b-a767-fb498485e408"),
+                            Id = new Guid("654a15de-f7e6-4ba7-99b1-8d3347ce9420"),
                             FirstName = "Jemmy",
                             LastName = "Greenly"
                         },
                         new
                         {
-                            Id = new Guid("3cd90b43-7ca5-41b3-a60c-bdcdf3b005ff"),
+                            Id = new Guid("df3300ca-e546-4f38-9cc1-ebac8dbad7ef"),
                             FirstName = "Malchy",
                             LastName = "Widmore"
                         },
                         new
                         {
-                            Id = new Guid("c95a0c28-04b3-416b-8315-533b24625c62"),
+                            Id = new Guid("933db0cb-7660-41e1-95ec-af29ae185a5f"),
                             FirstName = "Ludvig",
                             LastName = "Yankeev"
                         },
                         new
                         {
-                            Id = new Guid("620a9cd1-b46f-46a0-8989-25d4d2884537"),
+                            Id = new Guid("b5393b14-6f1a-48fa-baeb-ac30e3c11c4a"),
                             FirstName = "Sammy",
                             LastName = "Dumbleton"
                         },
                         new
                         {
-                            Id = new Guid("2cc1f126-5932-4d44-afd3-72f90be1be82"),
+                            Id = new Guid("772a23b8-a3c2-4e47-8c71-cf31aeb37db9"),
                             FirstName = "Vikki",
                             LastName = "Spread"
                         },
                         new
                         {
-                            Id = new Guid("823a039d-8fad-45c2-b7e3-51fa4bb63afa"),
+                            Id = new Guid("f354ad3c-7904-4855-a373-2f61cc2124a3"),
                             FirstName = "Chaddie",
                             LastName = "Cowland"
                         },
                         new
                         {
-                            Id = new Guid("90dff086-d88e-483d-bf30-8d535f84b21f"),
+                            Id = new Guid("89e9e35e-6bac-4031-8793-e3dfc9d9df1e"),
                             FirstName = "Malanie",
                             LastName = "Rigmond"
                         },
                         new
                         {
-                            Id = new Guid("a1e54121-e8e2-4973-b49c-1f74c10ed69e"),
+                            Id = new Guid("708b9e80-5d17-4a00-99d3-2b55ced212bc"),
                             FirstName = "Flo",
                             LastName = "Jozefiak"
                         },
                         new
                         {
-                            Id = new Guid("61999025-8149-4529-bbd7-c82935d20bc8"),
+                            Id = new Guid("4b8448d8-d0cd-4de2-ba1d-94940d026760"),
                             FirstName = "Nicoli",
                             LastName = "Tyas"
                         },
                         new
                         {
-                            Id = new Guid("680a3b2a-4b5c-4888-a511-a2d91c501804"),
+                            Id = new Guid("2a0fc0d0-aa77-42dd-880b-135ba4e6f4c1"),
                             FirstName = "Flori",
                             LastName = "LeProvost"
                         },
                         new
                         {
-                            Id = new Guid("554a5b67-3cde-4096-8085-d5c87c86515e"),
+                            Id = new Guid("9c43c76e-51ad-496a-ba30-f9cba092157b"),
                             FirstName = "Effie",
                             LastName = "Maddick"
                         },
                         new
                         {
-                            Id = new Guid("04b7cc90-df69-4d6d-afe1-7e164354ddbc"),
+                            Id = new Guid("f59fde77-e467-4ded-a0fe-15f329ae0832"),
                             FirstName = "Orren",
                             LastName = "Richford"
                         },
                         new
                         {
-                            Id = new Guid("f95d7010-b4a9-4323-ae24-6ae08f6c8973"),
+                            Id = new Guid("7a995f3e-25eb-4e51-9728-174cd5499356"),
                             FirstName = "Amory",
                             LastName = "Pressland"
                         },
                         new
                         {
-                            Id = new Guid("0ecb8f16-d362-47aa-bd8f-aba5cb67891e"),
+                            Id = new Guid("e3de87a3-5246-4231-9f7d-9803be2e2f4f"),
                             FirstName = "Heidie",
                             LastName = "Jojic"
                         },
                         new
                         {
-                            Id = new Guid("73bfa88b-6da0-41d0-8e7f-2b344dcc75b2"),
+                            Id = new Guid("bac03cf0-7b67-4f94-9be4-18802c60f981"),
                             FirstName = "Joelly",
                             LastName = "Wingatt"
                         },
                         new
                         {
-                            Id = new Guid("eb024ae4-629f-4f49-a420-27c6e5c354ed"),
+                            Id = new Guid("76905c88-1d3b-4e48-8811-1f517160d72c"),
                             FirstName = "Haslett",
                             LastName = "Mylechreest"
                         },
                         new
                         {
-                            Id = new Guid("8d325859-3e3a-4f81-a33d-222d73760e31"),
+                            Id = new Guid("66a53a41-8865-4487-a62a-cc612d55cbe5"),
                             FirstName = "Artus",
                             LastName = "Pirkis"
                         },
                         new
                         {
-                            Id = new Guid("ac92d821-cfcb-447a-9b8e-db0cac64522a"),
+                            Id = new Guid("52c5e203-1b14-4e02-9b3c-27846fdd2709"),
                             FirstName = "Randy",
                             LastName = "Rutherford"
                         },
                         new
                         {
-                            Id = new Guid("55d8b245-4396-4afb-811a-166e6dc1eccd"),
+                            Id = new Guid("5032c08b-be30-4b08-93d2-de85a2c56ac8"),
                             FirstName = "Ebony",
                             LastName = "Kitteman"
                         },
                         new
                         {
-                            Id = new Guid("fbd14cbb-a961-4de7-b7e3-c40c2cf65528"),
+                            Id = new Guid("15c1db14-4fd4-4c7c-8133-65694a2d2bf0"),
                             FirstName = "Mayor",
                             LastName = "Ivons"
                         },
                         new
                         {
-                            Id = new Guid("9ebc83e7-1f11-4aa5-8404-ebb078632f29"),
+                            Id = new Guid("e42770dd-c8d5-4f40-b338-f2376647e2f7"),
                             FirstName = "Loutitia",
                             LastName = "Pretsell"
                         },
                         new
                         {
-                            Id = new Guid("3c7e8b86-0230-4938-8f76-67c099167185"),
+                            Id = new Guid("ccfe9214-0ed0-474d-b704-2b4855784301"),
                             FirstName = "Daven",
                             LastName = "Winterbotham"
                         },
                         new
                         {
-                            Id = new Guid("b79722bb-068e-479f-bf3c-b214034a1e48"),
+                            Id = new Guid("33423d21-f608-4a7a-9fbc-d579ac3a36fe"),
                             FirstName = "Melloney",
                             LastName = "Yeandel"
                         },
                         new
                         {
-                            Id = new Guid("987950eb-5ff5-4be8-8328-495ad2cf7a68"),
+                            Id = new Guid("fbdfa480-8d71-4f63-8e5a-4c84f3f36a7b"),
                             FirstName = "Madelin",
                             LastName = "Manthroppe"
                         },
                         new
                         {
-                            Id = new Guid("6d53ec25-c1e2-4bf8-8881-b51b5117e43d"),
+                            Id = new Guid("229970ab-933e-45b7-b076-9cccb15a39e4"),
                             FirstName = "Corbett",
                             LastName = "Cavaney"
                         },
                         new
                         {
-                            Id = new Guid("c555b899-cda9-4422-a2a6-2713973199bd"),
+                            Id = new Guid("22ff1ab8-ef65-4267-a2aa-c0d2cb6417cc"),
                             FirstName = "Wilmar",
                             LastName = "Elcocks"
                         },
                         new
                         {
-                            Id = new Guid("6ec740d7-b9cf-46a0-8c42-2c83d3f030b4"),
+                            Id = new Guid("15c81f9f-845b-45cc-8d37-5ba884d27328"),
                             FirstName = "Felice",
                             LastName = "Meier"
                         },
                         new
                         {
-                            Id = new Guid("ce4c8ea0-afab-453a-8211-88636888940e"),
+                            Id = new Guid("dd08bbb6-04b0-4022-a7bf-a09927ce8f8d"),
                             FirstName = "Mellisent",
                             LastName = "Espinha"
                         },
                         new
                         {
-                            Id = new Guid("423541fd-c7ae-4a69-95a8-b2e79e738b66"),
+                            Id = new Guid("610c6f67-7e9c-476c-884b-14345fb44c41"),
                             FirstName = "Olenka",
                             LastName = "Cassely"
                         },
                         new
                         {
-                            Id = new Guid("eadec3b1-2ad4-4b78-86a8-d56dd9247e64"),
+                            Id = new Guid("6c409e82-0473-40cd-af1c-577aec2c4c93"),
                             FirstName = "Dacey",
                             LastName = "Frensche"
                         },
                         new
                         {
-                            Id = new Guid("3e361ce1-6757-4b44-844a-4d4da9b40abe"),
+                            Id = new Guid("e03a97cf-9451-4981-9325-2a54c235d9d5"),
                             FirstName = "Steffen",
                             LastName = "Gilhoolie"
                         },
                         new
                         {
-                            Id = new Guid("8b7497a2-eced-4fa7-a661-90d5dd230d44"),
+                            Id = new Guid("ee835189-af62-43cf-abc2-3ea8eefbea61"),
                             FirstName = "Blinny",
                             LastName = "Segar"
                         },
                         new
                         {
-                            Id = new Guid("48352e11-cf84-4d45-98be-4c9795501413"),
+                            Id = new Guid("fb6aa37b-5c00-4b43-b4db-659a1d0abf73"),
                             FirstName = "Orelee",
                             LastName = "Isselee"
                         },
                         new
                         {
-                            Id = new Guid("dcda500f-6c1a-4a52-ab83-38a6c437f55c"),
+                            Id = new Guid("c46e5ae2-0bc5-4ae7-8083-ed7e95cefab8"),
                             FirstName = "Bar",
                             LastName = "Falk"
                         },
                         new
                         {
-                            Id = new Guid("99cdb186-3402-4bb5-8322-06008018c667"),
+                            Id = new Guid("00ccb750-3b45-422b-bb6c-2baf0096fec5"),
                             FirstName = "Shalna",
                             LastName = "Gheorghe"
                         },
                         new
                         {
-                            Id = new Guid("2b2cf338-5bdc-48d4-9cf9-80126702734d"),
+                            Id = new Guid("fd9dd624-935b-4ab2-9582-a591bf2e6179"),
                             FirstName = "Alika",
                             LastName = "Fetherston"
                         },
                         new
                         {
-                            Id = new Guid("5769ccb3-2d3a-4406-8ed5-74ea1f965053"),
+                            Id = new Guid("3576057e-3970-49ef-8058-c8960e901c20"),
                             FirstName = "Talyah",
                             LastName = "Rowcastle"
                         },
                         new
                         {
-                            Id = new Guid("06f039be-bfad-4af7-8f6a-586cefe656cc"),
+                            Id = new Guid("eeb41b7c-e6e6-48d9-873d-9cbdf51edfb2"),
                             FirstName = "Alvan",
                             LastName = "Beccera"
                         },
                         new
                         {
-                            Id = new Guid("5be3f749-a4f7-41c8-b624-f8efac62bdcc"),
+                            Id = new Guid("4ed787ac-3ccd-4b14-ad64-2eeeee3d913c"),
                             FirstName = "Kahaleel",
                             LastName = "Martignon"
                         },
                         new
                         {
-                            Id = new Guid("84e31a7b-7d34-4849-9767-a0acde0bc8d0"),
+                            Id = new Guid("7632372b-e445-4ad1-845b-c3f37d1be7c9"),
                             FirstName = "Luci",
                             LastName = "Dawkes"
                         },
                         new
                         {
-                            Id = new Guid("af118cbd-3803-4e0a-a6ce-62ac0e32fd34"),
+                            Id = new Guid("b75b8bcf-27a1-44a1-8ed0-44163f760c4f"),
                             FirstName = "Merrel",
                             LastName = "Ternott"
                         },
                         new
                         {
-                            Id = new Guid("6b8771aa-7664-4f7b-87f6-b3457b68374a"),
+                            Id = new Guid("e967ce14-4369-415d-839e-fffa11a455c9"),
                             FirstName = "Oran",
                             LastName = "Petrovsky"
                         },
                         new
                         {
-                            Id = new Guid("59dd2652-6f89-428c-a402-bff4121455ab"),
+                            Id = new Guid("3a39d358-0924-4a93-9217-3831d2f3b725"),
                             FirstName = "Bebe",
                             LastName = "Clemmett"
                         },
                         new
                         {
-                            Id = new Guid("f27a9091-2656-4dab-bea3-4053184a42d3"),
+                            Id = new Guid("9609e4f0-7496-4911-80dd-a9083a9fe650"),
                             FirstName = "Bunnie",
                             LastName = "Monnelly"
                         },
                         new
                         {
-                            Id = new Guid("58d8058e-ba3b-43b6-ad64-efceeff7caf5"),
+                            Id = new Guid("03db5140-fa4c-4164-a5cc-29603c11433b"),
                             FirstName = "Jean",
                             LastName = "Whiteley"
                         },
                         new
                         {
-                            Id = new Guid("f7adf1dc-1cdc-4bc9-bc5e-cc5f3caaa2dc"),
+                            Id = new Guid("a4fc8ae9-6c96-4683-80b4-62ecd0badac2"),
                             FirstName = "Brien",
                             LastName = "Pow"
                         },
                         new
                         {
-                            Id = new Guid("66950e8a-cbd7-4a3e-bde7-3acfe719c9b1"),
+                            Id = new Guid("3450bca3-9c3d-4426-afd2-52826bd947b4"),
                             FirstName = "Goldina",
                             LastName = "Scroggs"
                         },
                         new
                         {
-                            Id = new Guid("2c928f36-1aa2-4e1f-8cda-b48b1a695b4c"),
+                            Id = new Guid("b4a7c3ea-59fb-4527-ae1f-055f3aaf840e"),
                             FirstName = "Lorain",
                             LastName = "Fawlkes"
                         },
                         new
                         {
-                            Id = new Guid("5f3cf3d6-a7db-46b8-abd2-96ece5ebf854"),
+                            Id = new Guid("b3e05877-1952-414c-870e-05f1b92da5e6"),
                             FirstName = "Simmonds",
                             LastName = "Dartnell"
                         },
                         new
                         {
-                            Id = new Guid("5a46e5ca-65b6-4a88-affe-1e0a14bd2429"),
+                            Id = new Guid("4630aab2-0b16-4806-87a9-8679c79c8743"),
                             FirstName = "Brannon",
                             LastName = "Rollings"
                         },
                         new
                         {
-                            Id = new Guid("726c8369-0e31-4509-b56f-933e165dd42c"),
+                            Id = new Guid("6f84f501-7972-42b5-bd94-74e0031d2ad1"),
                             FirstName = "Karleen",
                             LastName = "Guillot"
                         },
                         new
                         {
-                            Id = new Guid("a3611cbc-276a-4874-b226-e3c31d91610f"),
+                            Id = new Guid("fd245bab-a7a0-4753-9da7-2fe6b2c97b22"),
                             FirstName = "Kathryn",
                             LastName = "Coppo"
                         },
                         new
                         {
-                            Id = new Guid("7c9d8b2b-cec8-401f-ac51-d35b2fbe0a59"),
+                            Id = new Guid("3707cf5b-a0a8-442e-9dec-19b85c61af30"),
                             FirstName = "Moishe",
                             LastName = "Telfer"
                         },
                         new
                         {
-                            Id = new Guid("fd9f2dda-7909-465c-b6f9-b93316a50bd9"),
+                            Id = new Guid("48978546-047b-460c-b257-d40e37f64aec"),
                             FirstName = "Grace",
                             LastName = "Dunlop"
                         },
                         new
                         {
-                            Id = new Guid("86fc3e99-46c5-4df5-90fb-651d673a831e"),
+                            Id = new Guid("d1fd1b43-f91a-4a79-877d-d7f35479c3da"),
                             FirstName = "Brett",
                             LastName = "Seely"
                         },
                         new
                         {
-                            Id = new Guid("c7a255f8-61a6-4738-bd62-225887638aa4"),
+                            Id = new Guid("a2ca62a4-8411-47b2-a451-32e4c285c245"),
                             FirstName = "Aristotle",
                             LastName = "MacNeilley"
                         },
                         new
                         {
-                            Id = new Guid("991640fc-0443-4c08-9a22-7dbce915318a"),
+                            Id = new Guid("c767b50d-5453-447f-9005-777bed9e67c7"),
                             FirstName = "Farra",
                             LastName = "Streetfield"
                         },
                         new
                         {
-                            Id = new Guid("83aa75c9-fafe-43e2-adf7-5e0acb1977e7"),
+                            Id = new Guid("adbc5be3-dfae-4089-93ae-e9cf33729123"),
                             FirstName = "Tamara",
                             LastName = "Bootherstone"
                         },
                         new
                         {
-                            Id = new Guid("73aebb7c-0cd6-4af3-8fc8-51b3355c8501"),
+                            Id = new Guid("16cd060f-acbd-4953-af03-ab87fc3031e1"),
                             FirstName = "Stillman",
                             LastName = "Selvester"
                         },
                         new
                         {
-                            Id = new Guid("4e2a968f-ca49-4ba1-8f4d-550092163bc5"),
+                            Id = new Guid("bc12fbba-fee0-4b45-b411-4d3c9982e320"),
                             FirstName = "Herta",
                             LastName = "Vequaud"
                         },
                         new
                         {
-                            Id = new Guid("4cf0792f-472e-467b-8bd0-32451ed50579"),
+                            Id = new Guid("2cc7ca14-cd5a-4283-85d0-f60363e8586f"),
                             FirstName = "Evanne",
                             LastName = "Pettwood"
                         },
                         new
                         {
-                            Id = new Guid("3bcc229e-c552-40d7-b152-9c42eb013fe7"),
+                            Id = new Guid("6a0ac312-f364-4171-8cc9-9271d410213a"),
                             FirstName = "Edwina",
                             LastName = "Casajuana"
                         },
                         new
                         {
-                            Id = new Guid("ff1a42cd-0526-42cc-9308-15f2d60709c3"),
+                            Id = new Guid("f9517d52-c14a-4874-a4aa-b84d7ac37f12"),
                             FirstName = "Nanci",
                             LastName = "Kindell"
                         },
                         new
                         {
-                            Id = new Guid("a10a0a76-ecda-4236-b6db-cb91c89ac080"),
+                            Id = new Guid("511170f6-6d87-4296-9420-9f3756394b86"),
                             FirstName = "Kalil",
                             LastName = "VanCassel"
                         },
                         new
                         {
-                            Id = new Guid("bfc6616c-448f-4347-a108-3e2bc25e3b6c"),
+                            Id = new Guid("da2e8554-5703-4755-b46b-d38eb82be1b0"),
                             FirstName = "Joni",
                             LastName = "Doidge"
                         },
                         new
                         {
-                            Id = new Guid("03a5bd12-ef92-4d66-91bb-9da8d3666f82"),
+                            Id = new Guid("28c630f6-6cdf-479b-b318-270956204056"),
                             FirstName = "Annaliese",
                             LastName = "Verdie"
                         },
                         new
                         {
-                            Id = new Guid("36145858-c78b-4ad6-a4bd-5a798e488495"),
+                            Id = new Guid("55609901-3bbf-420e-b49b-28d91a0f2fa1"),
                             FirstName = "Donn",
                             LastName = "Marrison"
                         },
                         new
                         {
-                            Id = new Guid("6770bc5b-adf0-4128-98eb-5467c5941bbe"),
+                            Id = new Guid("2723d07d-c133-409d-a62d-7ab4b1f9af50"),
                             FirstName = "Tyson",
                             LastName = "Bere"
                         },
                         new
                         {
-                            Id = new Guid("95b96ad3-3c42-4563-a5fa-7642b9b9a706"),
+                            Id = new Guid("c588cb5a-9766-4d16-8977-70fae9be1717"),
                             FirstName = "Ewen",
                             LastName = "Mannakee"
                         },
                         new
                         {
-                            Id = new Guid("0d59cbda-6661-4c32-ad19-91e1fe7a71d4"),
+                            Id = new Guid("2ba9f08f-d9e5-408d-87e5-7f8666b24648"),
                             FirstName = "Costa",
                             LastName = "Parrott"
                         },
                         new
                         {
-                            Id = new Guid("7fd9d8ba-dbd0-45aa-8459-ac3e049912c3"),
+                            Id = new Guid("5c6508c8-24d7-461a-9c7d-f73ab6cb024a"),
                             FirstName = "Scott",
                             LastName = "Swenson"
                         },
                         new
                         {
-                            Id = new Guid("ebaa6cfc-6263-43c8-98a3-ffde8195c21d"),
+                            Id = new Guid("6a767c08-e2ee-4829-8fe4-3709bf561af4"),
                             FirstName = "Berti",
                             LastName = "Cerith"
                         },
                         new
                         {
-                            Id = new Guid("6fb52fae-c0ba-40aa-bdd6-86304d63a1e5"),
+                            Id = new Guid("494ceb51-27a1-46bd-bfc3-948cb57ad111"),
                             FirstName = "Nert",
                             LastName = "Chicotti"
                         },
                         new
                         {
-                            Id = new Guid("06c4b13d-acd4-48a5-b197-f6ec2ddaad03"),
+                            Id = new Guid("1edcd14c-0493-4b96-aa3c-ec7ee6a1b0fb"),
                             FirstName = "Stephana",
                             LastName = "Delhanty"
                         },
                         new
                         {
-                            Id = new Guid("c52fbd37-2cb3-44ce-b647-757eb53a1573"),
+                            Id = new Guid("6c7f8b61-a34d-4943-b7aa-cd68d9f074de"),
                             FirstName = "Garold",
                             LastName = "Postians"
                         },
                         new
                         {
-                            Id = new Guid("7d55c58f-59b0-4a25-9592-ed64c2b4e8ee"),
+                            Id = new Guid("075970c3-c814-497c-b707-e33abc5b420c"),
                             FirstName = "Lillis",
                             LastName = "Arguile"
                         },
                         new
                         {
-                            Id = new Guid("5f60403f-58da-4f23-9b17-66a4f26aff24"),
+                            Id = new Guid("4fcdaac6-1f9d-42d1-9aa6-5d515600c8c2"),
                             FirstName = "Archie",
                             LastName = "Ricco"
                         },
                         new
                         {
-                            Id = new Guid("ebc99ac8-f30f-4b67-b09a-0a5af6bf6dc7"),
+                            Id = new Guid("a37e0ae3-cf0c-4750-8913-50c03f122795"),
                             FirstName = "Lucina",
                             LastName = "Airth"
                         },
                         new
                         {
-                            Id = new Guid("b5b0ae08-8e52-45ca-bf68-5a9ef7819577"),
+                            Id = new Guid("6117e18a-5620-40d3-95fe-4c3653692444"),
                             FirstName = "Meaghan",
                             LastName = "Kuban"
                         },
                         new
                         {
-                            Id = new Guid("5e4fc82e-3f7d-42e2-ba87-eb965f69c078"),
+                            Id = new Guid("958ae525-eb91-4813-8cef-0515028fcc11"),
                             FirstName = "Pavla",
                             LastName = "Noir"
                         },
                         new
                         {
-                            Id = new Guid("6ed19bdd-2cb4-43d9-b830-420cfbe2c180"),
+                            Id = new Guid("dda142f3-0006-4ed2-905a-52d54b75d799"),
                             FirstName = "Van",
                             LastName = "Kemm"
                         },
                         new
                         {
-                            Id = new Guid("e5b35dcb-548d-45d2-93ba-41128094afab"),
+                            Id = new Guid("6c3098bb-7916-4a60-be20-819f01113d43"),
                             FirstName = "Beulah",
                             LastName = "Bartlam"
                         },
                         new
                         {
-                            Id = new Guid("04a51c1b-ad90-4882-9acd-377c0ed077c6"),
+                            Id = new Guid("86fcf8c8-36ba-4d3b-9205-f7a34f0bc98c"),
                             FirstName = "Lavinie",
                             LastName = "Issard"
                         },
                         new
                         {
-                            Id = new Guid("25b44da4-0905-40c9-8f98-1be78cb9a2cf"),
+                            Id = new Guid("6fd7470f-d041-4966-8544-a54da03a6f6a"),
                             FirstName = "Kassi",
                             LastName = "Lander"
                         },
                         new
                         {
-                            Id = new Guid("4c0edd26-bedc-4870-b288-62221a0d5652"),
+                            Id = new Guid("097b68b8-5805-4887-9f13-72b8874f26c8"),
                             FirstName = "Olenka",
                             LastName = "Stuther"
                         },
                         new
                         {
-                            Id = new Guid("1fd4846d-b277-4efe-b9af-04ff8d7e8697"),
+                            Id = new Guid("a60ec08c-327d-48d1-9882-bfe2de6a1469"),
                             FirstName = "Beverie",
                             LastName = "ODornan"
                         },
                         new
                         {
-                            Id = new Guid("0c6cc63a-5f5a-4ca5-a554-1efa8ee2b26f"),
+                            Id = new Guid("102496ac-ccf3-4037-9bb2-27d387bfc987"),
                             FirstName = "Alanson",
                             LastName = "Flooks"
                         },
                         new
                         {
-                            Id = new Guid("39c6d354-bbc8-4bfc-b956-57554d54af7d"),
+                            Id = new Guid("3c8e7739-83a1-42fc-aa4d-798e20761ba9"),
                             FirstName = "Paige",
                             LastName = "Gueny"
                         },
                         new
                         {
-                            Id = new Guid("d013dfc1-9487-4ad2-8b83-63d752461ef8"),
+                            Id = new Guid("558255dc-61ed-4b1a-9a6c-1d56688223b1"),
                             FirstName = "Tabbie",
                             LastName = "Sandhill"
                         },
                         new
                         {
-                            Id = new Guid("1025d60f-045d-4d18-bf8b-b55c79d4a9d1"),
+                            Id = new Guid("7d04e37a-d64b-4cdb-8ab5-5efd2d55e00f"),
                             FirstName = "Bucky",
                             LastName = "Plumridge"
                         },
                         new
                         {
-                            Id = new Guid("1281db96-f078-4e2a-8489-9a052b33aab3"),
+                            Id = new Guid("b4c6e23f-082b-4879-8bfb-c2a58972f4ba"),
                             FirstName = "Kendal",
                             LastName = "Cohalan"
                         },
                         new
                         {
-                            Id = new Guid("b67bf06c-e412-494e-88e9-e4744e067843"),
+                            Id = new Guid("82776242-9c21-4ad2-a98d-ef0be50a195d"),
                             FirstName = "Maurice",
                             LastName = "Castellucci"
                         },
                         new
                         {
-                            Id = new Guid("1e5a8cd3-90b4-4446-94bf-d3cbe087b2fd"),
+                            Id = new Guid("9680b600-eb64-4a69-8edf-cdbaee8e70c5"),
                             FirstName = "Finley",
                             LastName = "Bottelstone"
                         },
                         new
                         {
-                            Id = new Guid("d63bbf5d-554d-4a1a-a33f-6b249925f6a8"),
+                            Id = new Guid("c9616ebf-a54e-427a-a904-2f978d01a5ab"),
                             FirstName = "Rhianon",
                             LastName = "Celes"
                         },
                         new
                         {
-                            Id = new Guid("29d8ddaa-49cc-44aa-bf86-c9d8d6118375"),
+                            Id = new Guid("7baf6bc2-f262-40f6-ae2d-194c1b850bac"),
                             FirstName = "Art",
                             LastName = "Charte"
                         },
                         new
                         {
-                            Id = new Guid("dc0553d6-4402-4148-81c5-2d0d228c3902"),
+                            Id = new Guid("4304d2f2-3832-4d4d-82b7-d27c7e77bdc8"),
                             FirstName = "Cecilla",
                             LastName = "Trayte"
                         },
                         new
                         {
-                            Id = new Guid("755a51dd-260e-4cc7-88cb-0d7efd06ca45"),
+                            Id = new Guid("9b60cbcd-8832-45d8-9830-9c6649eddca8"),
                             FirstName = "Hyacinthia",
                             LastName = "Rabbet"
                         },
                         new
                         {
-                            Id = new Guid("18fbea11-549c-41ea-907a-3c687ee0654f"),
+                            Id = new Guid("c6fa5224-be81-4f9c-a902-3a45528cd8fc"),
                             FirstName = "Emelen",
                             LastName = "Mitchel"
                         },
                         new
                         {
-                            Id = new Guid("fe5d6a86-54ea-4fd8-826e-4b95cb093b4d"),
+                            Id = new Guid("0aecf690-36a2-4001-897a-91e598b25e47"),
                             FirstName = "Haleigh",
                             LastName = "Clacey"
                         },
                         new
                         {
-                            Id = new Guid("04bac9d9-63bd-45c5-8499-dbf7fa5e0f31"),
+                            Id = new Guid("82e999ae-718c-4a0f-89b1-28343b8c16a9"),
                             FirstName = "Lewiss",
                             LastName = "McCready"
                         },
                         new
                         {
-                            Id = new Guid("a47b7a85-b2fd-4ead-bc91-22a6c68f4363"),
+                            Id = new Guid("7c9025be-885a-4737-8ff5-992a91039e90"),
                             FirstName = "Celisse",
                             LastName = "Aleksashin"
                         },
                         new
                         {
-                            Id = new Guid("2640240e-6ecc-435f-b3a4-b18cd07e35e6"),
+                            Id = new Guid("3cd9e847-a52d-466c-83bd-574af39dbdc6"),
                             FirstName = "Giorgi",
                             LastName = "Kench"
                         },
                         new
                         {
-                            Id = new Guid("ff54134d-ee85-4c4f-b8f6-60d704d65ecf"),
+                            Id = new Guid("2540370e-2277-4fe8-87e3-bdcd7e17dd14"),
                             FirstName = "Selene",
                             LastName = "Lambrecht"
                         },
                         new
                         {
-                            Id = new Guid("e8359f44-1a23-43a4-924a-8cf59a84a3a1"),
+                            Id = new Guid("a87dd391-70c1-45ea-a556-b77c69017cd8"),
                             FirstName = "Emilee",
                             LastName = "Thonason"
                         },
                         new
                         {
-                            Id = new Guid("68a44f88-d6b2-4874-bf57-3cbcae869b15"),
+                            Id = new Guid("7326fe56-760e-4bc8-baa9-9ca6b6b71e79"),
                             FirstName = "Nicolina",
                             LastName = "Kydde"
                         },
                         new
                         {
-                            Id = new Guid("bbfb9626-f9f1-4837-8c72-fbbd4e5d49ad"),
+                            Id = new Guid("8354e471-2db0-460d-a59f-4aa57c43214e"),
                             FirstName = "Dorris",
                             LastName = "Tyght"
                         },
                         new
                         {
-                            Id = new Guid("ffcdf6aa-9382-4a22-a21e-3b65a984e28f"),
+                            Id = new Guid("03498982-deb9-4f3d-b818-94f8c237abe0"),
                             FirstName = "Harley",
                             LastName = "Crier"
                         },
                         new
                         {
-                            Id = new Guid("01c064e1-88aa-48c6-be0e-b12ea47cab70"),
+                            Id = new Guid("157cd517-137e-4bf3-b525-41793e896963"),
                             FirstName = "Derward",
                             LastName = "Georgeot"
                         },
                         new
                         {
-                            Id = new Guid("8707f668-e06e-4352-97a2-a573054ca001"),
+                            Id = new Guid("36f1caee-5c29-44bc-9e14-568cd90c7660"),
                             FirstName = "Christy",
                             LastName = "Parlor"
                         },
                         new
                         {
-                            Id = new Guid("e1402f0a-6f80-4867-9fbe-1672924d80ee"),
+                            Id = new Guid("3caddbe7-e339-4d88-91b6-904128ab137a"),
                             FirstName = "Philippine",
                             LastName = "Vynall"
                         },
                         new
                         {
-                            Id = new Guid("a4fa69ca-095c-4f86-97eb-445be94e9a85"),
+                            Id = new Guid("191c8351-2a14-4c3c-a537-5713a86f6ccb"),
                             FirstName = "Ashton",
                             LastName = "MacArd"
                         },
                         new
                         {
-                            Id = new Guid("3cae8445-8772-461b-955f-4e2533a663da"),
+                            Id = new Guid("f945ae09-4a76-4a1d-883b-f2db1d6baf9e"),
                             FirstName = "Calli",
                             LastName = "Armand"
                         },
                         new
                         {
-                            Id = new Guid("075bf738-c0bc-489e-8645-bdb671aab4f5"),
+                            Id = new Guid("850ad9d7-9a1e-410b-801c-d47159ee0f7e"),
                             FirstName = "Lilith",
                             LastName = "McSorley"
                         },
                         new
                         {
-                            Id = new Guid("7394db23-0068-4c8b-9c51-8106f9a7731a"),
+                            Id = new Guid("0a559e5c-3fea-4aad-9e9d-79d3993272fb"),
                             FirstName = "Dulcine",
                             LastName = "Broun"
                         },
                         new
                         {
-                            Id = new Guid("3d4edeb6-3baf-447e-bae8-d8ee8655b1bd"),
+                            Id = new Guid("e6a2b519-f62f-4c35-be10-9528691a4ffe"),
                             FirstName = "Tiffany",
                             LastName = "Kennon"
                         },
                         new
                         {
-                            Id = new Guid("7859aa81-14a9-4735-b1f8-f00960d3b342"),
+                            Id = new Guid("57ed1c57-2588-4a1e-89de-e0698948b552"),
                             FirstName = "Diarmid",
                             LastName = "Sebrens"
                         },
                         new
                         {
-                            Id = new Guid("78d3412c-6e99-4217-805a-51c60a6e5242"),
+                            Id = new Guid("96bacd35-b438-4128-86ce-13d610c41187"),
                             FirstName = "Hillyer",
                             LastName = "Lenoir"
                         },
                         new
                         {
-                            Id = new Guid("d5ca6334-a710-4952-9344-a3592a88d221"),
+                            Id = new Guid("1178447f-1f41-49c6-a1a9-ea23b623eb41"),
                             FirstName = "Anderson",
                             LastName = "Braiden"
                         },
                         new
                         {
-                            Id = new Guid("561bd8c4-a03d-4be9-a2e8-78ed46ca4274"),
+                            Id = new Guid("34769efc-7cbd-4691-a4f5-b5215f108a00"),
                             FirstName = "Tarrah",
                             LastName = "Langtry"
                         },
                         new
                         {
-                            Id = new Guid("697085a0-dcc7-4d69-988c-6bb0e1ec1880"),
+                            Id = new Guid("326379cb-44c1-4dbd-9790-f48c8d90427e"),
                             FirstName = "Gloriane",
                             LastName = "Pagel"
                         },
                         new
                         {
-                            Id = new Guid("24add69c-3868-4d74-9824-66a915cd9044"),
+                            Id = new Guid("21f8daca-d0b9-436d-8c4e-4dd74ae16c60"),
                             FirstName = "Casie",
                             LastName = "Schouthede"
                         },
                         new
                         {
-                            Id = new Guid("16ff18f0-4057-4958-8507-3c9771cc9c58"),
+                            Id = new Guid("fad0a7d1-2452-4c7f-a701-bba3db5c6e91"),
                             FirstName = "Bobbette",
                             LastName = "Myton"
                         },
                         new
                         {
-                            Id = new Guid("3921fbaf-b6aa-41c6-9d4e-b06c1b251d95"),
+                            Id = new Guid("3471d001-844b-4847-8ff6-d70336dc10bd"),
                             FirstName = "Doy",
                             LastName = "Pauer"
                         },
                         new
                         {
-                            Id = new Guid("370d0b40-5b28-48de-b0b6-e24fd817d873"),
+                            Id = new Guid("0aaa4ce6-9d36-411a-80e3-0615fd98c83b"),
                             FirstName = "Charlotte",
                             LastName = "Gueste"
                         },
                         new
                         {
-                            Id = new Guid("9196f1a3-d6d5-4a1d-a167-040c85293f4a"),
+                            Id = new Guid("4b4a2615-b5a0-4e8d-af8f-dd7a01df59a5"),
                             FirstName = "Edsel",
                             LastName = "Radnedge"
                         },
                         new
                         {
-                            Id = new Guid("0fe2def8-3847-4d6b-8c1d-d5d589df242b"),
+                            Id = new Guid("6b30ad5a-3526-4a61-9b40-a50d3dce45f3"),
                             FirstName = "Pearl",
                             LastName = "Pitchford"
                         },
                         new
                         {
-                            Id = new Guid("5cf81ef7-3334-4fd4-b443-da781fa1bfe9"),
+                            Id = new Guid("598170cb-6410-4a45-b3a3-6e4fb6d3bfc5"),
                             FirstName = "Parrnell",
                             LastName = "Havard"
                         },
                         new
                         {
-                            Id = new Guid("482f6dd8-d1d5-445d-8212-4aa87065958d"),
+                            Id = new Guid("f457ef70-8126-4181-8ce9-5f7212c5c0cd"),
                             FirstName = "Ulrika",
                             LastName = "Blanking"
                         },
                         new
                         {
-                            Id = new Guid("aae74c34-8c53-42d6-af9a-08d855388f1d"),
+                            Id = new Guid("647ec5d9-55d1-4afc-9473-279ad7a7addc"),
                             FirstName = "Jonie",
                             LastName = "Bantick"
                         },
                         new
                         {
-                            Id = new Guid("09fb7285-88de-43b4-8581-ddf8c748ab4b"),
+                            Id = new Guid("8ecc96fc-c5ec-448a-a49e-4f235d68b104"),
                             FirstName = "Ed",
                             LastName = "Murrhardt"
                         },
                         new
                         {
-                            Id = new Guid("858e6f78-5fe3-484a-b874-7289abb29a4a"),
+                            Id = new Guid("bb75f85b-98aa-4ce1-94ae-05ef139890ab"),
                             FirstName = "Odelinda",
                             LastName = "Lehrmann"
                         },
                         new
                         {
-                            Id = new Guid("71ed4c21-9db1-4a27-b2ba-abbf9baf89f8"),
+                            Id = new Guid("a52f57c4-67ab-4b23-beb9-4e3e7280c9a3"),
                             FirstName = "Collie",
                             LastName = "MacAlpin"
                         },
                         new
                         {
-                            Id = new Guid("de4b219a-bdb4-4477-9deb-9586b48c1045"),
+                            Id = new Guid("dc2fbdc0-349c-4b86-8758-4dc5916f619f"),
                             FirstName = "Eldredge",
                             LastName = "Grisbrook"
                         },
                         new
                         {
-                            Id = new Guid("ac1d0e46-93e9-4e8f-bd42-fd8776817650"),
+                            Id = new Guid("173a2b60-68c8-4e44-a0aa-03e2f5c86c9f"),
                             FirstName = "Stefano",
                             LastName = "Salterne"
                         },
                         new
                         {
-                            Id = new Guid("eefaccd4-7127-4085-88bc-6a27306b7ab8"),
+                            Id = new Guid("e14dcd8d-5de5-4144-b296-2f0619039363"),
                             FirstName = "Reynolds",
                             LastName = "Dunkley"
                         },
                         new
                         {
-                            Id = new Guid("5da160eb-89a8-404c-b939-ce802b541766"),
+                            Id = new Guid("d702f1c7-5534-4cc3-b803-65860998d065"),
                             FirstName = "Nani",
                             LastName = "Featherston"
                         },
                         new
                         {
-                            Id = new Guid("8222e14d-e58d-42f2-94f1-0f20706eb0ac"),
+                            Id = new Guid("00cc7914-717a-4401-b377-881c93f9bb58"),
                             FirstName = "Pam",
                             LastName = "Gallgher"
                         },
                         new
                         {
-                            Id = new Guid("b0bcd89e-c1a5-4178-a26d-71439538c3f4"),
+                            Id = new Guid("82e4c039-7aa4-4400-81f6-59c0fa6acdfd"),
                             FirstName = "Elyssa",
                             LastName = "McAvinchey"
                         },
                         new
                         {
-                            Id = new Guid("9080b474-faaa-44ea-8c3d-66cbcc59c686"),
+                            Id = new Guid("d575f53a-d77a-43ec-a190-f73a3a0383ad"),
                             FirstName = "Marcia",
                             LastName = "Gladwell"
                         },
                         new
                         {
-                            Id = new Guid("b692b225-621b-40b3-965a-91d9b4931ba7"),
+                            Id = new Guid("2e10f882-f35c-45de-bb42-067e1e7901de"),
                             FirstName = "Alyce",
                             LastName = "Kahn"
                         },
                         new
                         {
-                            Id = new Guid("65214b58-0906-4204-bdec-0d4128324bb4"),
+                            Id = new Guid("6f41c0b4-b49f-4357-8997-f0bcb5a46e71"),
                             FirstName = "Humberto",
                             LastName = "Silverlock"
                         },
                         new
                         {
-                            Id = new Guid("b7757b09-09fa-40cf-8ba0-09231500e6ac"),
+                            Id = new Guid("6561f5fc-b8ba-4216-8941-4167d91b82b0"),
                             FirstName = "Bidget",
                             LastName = "Franchi"
                         },
                         new
                         {
-                            Id = new Guid("1b8a9a93-d1eb-4ef6-a4c2-dac636d6e3de"),
+                            Id = new Guid("2b318d76-2ed6-42e9-86a8-cbaf56edcc80"),
                             FirstName = "Amalea",
                             LastName = "Moore"
                         },
                         new
                         {
-                            Id = new Guid("3a207398-ffb8-4fdf-973b-0858c6e96fb2"),
+                            Id = new Guid("ead1ee2b-1d72-4af4-ba2a-d20d4174adec"),
                             FirstName = "Blair",
                             LastName = "Round"
                         },
                         new
                         {
-                            Id = new Guid("433e73be-034b-4d0a-9c6e-ca790e39da25"),
+                            Id = new Guid("161e2ce6-8bcf-485d-85b7-29e8ca2c9515"),
                             FirstName = "Hanson",
                             LastName = "Pentelo"
                         },
                         new
                         {
-                            Id = new Guid("c5526c67-3078-4eca-98c6-5e1ae428d9f8"),
+                            Id = new Guid("9a0bec8b-034a-48c4-b6a0-bd54d2afdc32"),
                             FirstName = "Edithe",
                             LastName = "Wellstead"
                         },
                         new
                         {
-                            Id = new Guid("ab65ff79-1d13-4682-b804-f37ffbff5317"),
+                            Id = new Guid("77cde1ea-a624-4116-974f-736f8fe832fa"),
                             FirstName = "Boony",
                             LastName = "Twiddell"
                         },
                         new
                         {
-                            Id = new Guid("b443a348-9799-4c2b-9f05-95869e08f40d"),
+                            Id = new Guid("ec2bed8f-fd0a-470d-8241-183757ad24bc"),
                             FirstName = "Kaspar",
                             LastName = "Mark"
                         },
                         new
                         {
-                            Id = new Guid("f6e096c7-976b-4659-8b1b-19e99fce4cea"),
+                            Id = new Guid("7d6c1f96-4825-4838-9108-0c7a187a580f"),
                             FirstName = "Gardy",
                             LastName = "Shackell"
                         },
                         new
                         {
-                            Id = new Guid("abd82b74-0280-4b2d-9877-cf13fbcac533"),
+                            Id = new Guid("4dc1ad2f-efee-40f6-9619-2abfae724d66"),
                             FirstName = "Dotty",
                             LastName = "Fowls"
                         },
                         new
                         {
-                            Id = new Guid("8e4ca83c-b184-4f17-a313-218ebb721134"),
+                            Id = new Guid("3436899c-f87a-4a60-8524-fbc77584f7b3"),
                             FirstName = "Aviva",
                             LastName = "Batiste"
                         },
                         new
                         {
-                            Id = new Guid("b30756ae-be0c-4f72-8e06-2d13237d55ca"),
+                            Id = new Guid("cb1f6f39-8e1f-45a9-a6d1-4ec5387f2382"),
                             FirstName = "Juditha",
                             LastName = "Gallone"
                         },
                         new
                         {
-                            Id = new Guid("ac8bc911-2e4b-4c26-8f73-1e3bee913b24"),
+                            Id = new Guid("f2bbbef9-8a5f-4c7b-80ed-d535ab3fcbda"),
                             FirstName = "Dunn",
                             LastName = "Taplin"
                         },
                         new
                         {
-                            Id = new Guid("504a498e-074e-4ced-b80e-361475578816"),
+                            Id = new Guid("6cb043ab-9008-422a-b72c-9650ff4a0466"),
                             FirstName = "Lisa",
                             LastName = "Dalrymple"
                         },
                         new
                         {
-                            Id = new Guid("b927ec44-cac5-4e04-bf0b-ab8b6e63d0d8"),
+                            Id = new Guid("9795bf65-7939-48f7-b067-6d8f8fe853d2"),
                             FirstName = "Liana",
                             LastName = "Vasilchenko"
                         },
                         new
                         {
-                            Id = new Guid("a170014a-f0ea-438e-abda-dc4076c93a6a"),
+                            Id = new Guid("c7e19c78-b5b6-4b76-ad34-0c9927c7d798"),
                             FirstName = "Gunter",
                             LastName = "Gajownik"
                         },
                         new
                         {
-                            Id = new Guid("05a64888-2a8f-43e6-8920-3b4591773c9d"),
+                            Id = new Guid("6e8087b0-e927-434d-afc5-c0cde0289145"),
                             FirstName = "Catha",
                             LastName = "Spriggen"
                         },
                         new
                         {
-                            Id = new Guid("f4f7b50b-338f-4dba-9b86-69291c154f66"),
+                            Id = new Guid("7aff2b8d-ef8f-4e65-99ad-399ccf3dddb9"),
                             FirstName = "Lay",
                             LastName = "Hynam"
                         },
                         new
                         {
-                            Id = new Guid("df3a8976-6ee1-4af4-88b3-4592271df72e"),
+                            Id = new Guid("29e359ff-f7c8-4e92-91dd-cadbc7cd8650"),
                             FirstName = "Clare",
                             LastName = "Allner"
                         },
                         new
                         {
-                            Id = new Guid("f395f87d-59a7-4559-b33e-ffd6db9dc3b5"),
+                            Id = new Guid("7697b703-0aa4-4263-ad9f-4c44c772f5fe"),
                             FirstName = "Chiquia",
                             LastName = "Ecob"
                         },
                         new
                         {
-                            Id = new Guid("904e3806-0725-427b-b997-d746feebfb6a"),
+                            Id = new Guid("cb56abad-8aa2-4ec6-bb19-4b5c1dd3d3ba"),
                             FirstName = "Lyn",
                             LastName = "McMeekin"
                         },
                         new
                         {
-                            Id = new Guid("9499012b-9ded-443e-9a92-5166d7d9adc7"),
+                            Id = new Guid("3859839b-4790-4bec-953e-90aacc0a3b9f"),
                             FirstName = "Daron",
                             LastName = "Blowne"
                         },
                         new
                         {
-                            Id = new Guid("3de047cf-aa52-4347-be26-027bd8ee3bc5"),
+                            Id = new Guid("0248c735-b29a-4ace-a1ae-80ab98741ec5"),
                             FirstName = "Zach",
                             LastName = "Ubach"
                         },
                         new
                         {
-                            Id = new Guid("20206b09-011c-4284-bb73-c69919062c7a"),
+                            Id = new Guid("736e6908-2469-4477-b74c-f13c2f763b68"),
                             FirstName = "Ursala",
                             LastName = "Reichartz"
                         },
                         new
                         {
-                            Id = new Guid("d1cc6af7-d846-479e-8b2d-afc96327c3f7"),
+                            Id = new Guid("988a6215-2e39-4c08-ae28-549b6306adc5"),
                             FirstName = "Conrado",
                             LastName = "Dumphries"
                         },
                         new
                         {
-                            Id = new Guid("5380e8bf-636b-4486-9044-eb53527f2e05"),
+                            Id = new Guid("f4836453-628c-4b07-8833-31df56e0c74f"),
                             FirstName = "Neall",
                             LastName = "Claussen"
                         },
                         new
                         {
-                            Id = new Guid("15f10e87-dc54-4e4b-91f6-a67402891ca9"),
+                            Id = new Guid("68e3fe0a-c37d-40c0-9acf-d3be7333cc00"),
                             FirstName = "Nedda",
                             LastName = "Tregale"
                         },
                         new
                         {
-                            Id = new Guid("b5175300-5141-40a8-beb3-0e0cc8c6fd91"),
+                            Id = new Guid("91738a00-fe67-4378-99e8-2148cc63e6e1"),
                             FirstName = "Arabelle",
                             LastName = "Abba"
                         },
                         new
                         {
-                            Id = new Guid("6cb305f3-eb38-473b-ae50-2e968e995935"),
+                            Id = new Guid("cd839bb9-ca73-43f8-be95-a4b1e31f8899"),
                             FirstName = "Leanora",
                             LastName = "Delafoy"
                         },
                         new
                         {
-                            Id = new Guid("c4f3e616-6dde-4be6-a88b-e49a1b290833"),
+                            Id = new Guid("2695e97e-d823-47f3-97f8-cbdcdf2c18fc"),
                             FirstName = "Silvana",
                             LastName = "Jeffcoate"
                         },
                         new
                         {
-                            Id = new Guid("e9829cd2-b11e-4e81-8920-df37bec75c68"),
+                            Id = new Guid("a5e1047b-f309-4a2f-80ad-be6ac1620dac"),
                             FirstName = "Riva",
                             LastName = "Fasler"
                         },
                         new
                         {
-                            Id = new Guid("f8bb7e04-e493-45b0-b323-4db8818a4473"),
+                            Id = new Guid("b8bda36e-7e22-4bfc-bd64-f7008a37a306"),
                             FirstName = "Adaline",
                             LastName = "Otham"
                         },
                         new
                         {
-                            Id = new Guid("c56f9194-091d-4166-ba46-b6d9cbfb608f"),
+                            Id = new Guid("c5ea89b3-0072-401b-bb0c-d1fadeb63fd6"),
                             FirstName = "Jocko",
                             LastName = "Monk"
                         },
                         new
                         {
-                            Id = new Guid("21f89634-1e67-487b-b4c1-479f1ef43b52"),
+                            Id = new Guid("6b541250-db0b-47e4-92a9-2271c8f6c674"),
                             FirstName = "Walton",
                             LastName = "Bate"
                         },
                         new
                         {
-                            Id = new Guid("3220ed37-c604-47ae-a724-fd7b68bd6e83"),
+                            Id = new Guid("47271314-0b96-42cd-981e-5c80677cb263"),
                             FirstName = "Klemens",
                             LastName = "Camelli"
                         },
                         new
                         {
-                            Id = new Guid("efaea93d-8add-41e5-8601-8521541c9b1f"),
+                            Id = new Guid("f34d0d42-8093-4bea-b533-f06b932b53c1"),
                             FirstName = "Bobbi",
                             LastName = "Vassar"
                         },
                         new
                         {
-                            Id = new Guid("ad5bcddb-97d2-44fa-92f9-d052bd6c04b7"),
+                            Id = new Guid("723a64ef-9aa1-4771-ab6e-bd417c63454a"),
                             FirstName = "Susette",
                             LastName = "Ponnsett"
                         },
                         new
                         {
-                            Id = new Guid("a2f76f52-8aa5-4ce4-b11b-138586c1af09"),
+                            Id = new Guid("712acd5d-2f7c-4073-8106-6438edc30fdf"),
                             FirstName = "Genny",
                             LastName = "Ambrogiotti"
                         },
                         new
                         {
-                            Id = new Guid("e80fd575-c9eb-408d-8f1d-cb9d434c7ea6"),
+                            Id = new Guid("81acbd11-1726-4aac-b657-de2c42c9b148"),
                             FirstName = "Mason",
                             LastName = "Carn"
                         },
                         new
                         {
-                            Id = new Guid("67d73496-4831-4b92-a231-4ac7866fc28e"),
+                            Id = new Guid("b7207303-fa66-4188-be12-d07124326132"),
                             FirstName = "Raddie",
                             LastName = "Neno"
                         },
                         new
                         {
-                            Id = new Guid("013a3381-b4bc-43ab-9298-bbb8baa91078"),
+                            Id = new Guid("8f294507-bcd1-4bf2-9e18-c2479d9c1f65"),
                             FirstName = "Reynard",
                             LastName = "Humphrey"
                         },
                         new
                         {
-                            Id = new Guid("4a992285-9c76-4376-a679-b8f5ec61d400"),
+                            Id = new Guid("a4697ad3-d80d-4ac4-935a-7fd4dd0fb6d1"),
                             FirstName = "Laney",
                             LastName = "Spaducci"
                         },
                         new
                         {
-                            Id = new Guid("541f723f-f1e7-40cd-98f4-31c16306cde0"),
+                            Id = new Guid("0cfecafd-3303-4eb7-850a-b6c0f8351ab6"),
                             FirstName = "Carey",
                             LastName = "Osman"
                         },
                         new
                         {
-                            Id = new Guid("1f86b4a1-d352-489d-825a-37236dcbed23"),
+                            Id = new Guid("ef975afc-4f78-4d08-8786-d02995a26c92"),
                             FirstName = "Waylon",
                             LastName = "Burcombe"
                         },
                         new
                         {
-                            Id = new Guid("690ae88c-955a-42d6-8bae-cb437f7ffe58"),
+                            Id = new Guid("8f810400-9cf2-42cd-abc2-cb46b3fd0d47"),
                             FirstName = "Roana",
                             LastName = "Bader"
                         },
                         new
                         {
-                            Id = new Guid("b09e3406-dd10-4ff6-adf1-ba651a14e7a5"),
+                            Id = new Guid("48757e44-bacc-497d-92b9-74db8d01eb39"),
                             FirstName = "Randolph",
                             LastName = "Beaglehole"
                         },
                         new
                         {
-                            Id = new Guid("538191e8-5115-410a-8979-245eaf2ee054"),
+                            Id = new Guid("4b5351d4-3659-4b34-a4a3-d49a71a1ee54"),
                             FirstName = "Rori",
                             LastName = "MacBean"
                         },
                         new
                         {
-                            Id = new Guid("8a14e59a-fb73-45e6-8d47-682aa5f20285"),
+                            Id = new Guid("a42688eb-0374-42b3-bb9d-3f25a394b135"),
                             FirstName = "Kally",
                             LastName = "McNelis"
                         },
                         new
                         {
-                            Id = new Guid("d6f4586d-0a34-4775-bc5f-c5a4c5d29e9b"),
+                            Id = new Guid("0beedac1-54da-4983-9147-96a17979b781"),
                             FirstName = "Kellina",
                             LastName = "Cawsby"
                         },
                         new
                         {
-                            Id = new Guid("4f9796dc-a434-418a-b96a-03b9b5af3475"),
+                            Id = new Guid("e5a668b5-60fc-424c-84b2-a97b9f92007b"),
                             FirstName = "Laurene",
                             LastName = "Dovidian"
                         },
                         new
                         {
-                            Id = new Guid("28d902f4-3165-458a-9f9c-3293035f1381"),
+                            Id = new Guid("bb417560-bbfd-4a7c-be33-03cdbeef445a"),
                             FirstName = "Wang",
                             LastName = "Gianinotti"
                         },
                         new
                         {
-                            Id = new Guid("83d89db5-7204-46ef-93bf-fd6e9df782cd"),
+                            Id = new Guid("951aa9db-ddd5-4fbb-a177-27ecf343fab4"),
                             FirstName = "Ginnifer",
                             LastName = "Kienlein"
                         },
                         new
                         {
-                            Id = new Guid("bb954696-fb7c-4349-a554-8c5f629aff19"),
+                            Id = new Guid("d1cdb074-d652-48b8-864f-5afc8ebe2221"),
                             FirstName = "Joelie",
                             LastName = "Cornillot"
                         },
                         new
                         {
-                            Id = new Guid("1bd5a605-a9aa-4a11-91de-fe75aa18bb5f"),
+                            Id = new Guid("55a726b0-1d71-4dfb-a108-8dfb414c688a"),
                             FirstName = "Shanta",
                             LastName = "Raspison"
                         },
                         new
                         {
-                            Id = new Guid("f3c84ba8-01c8-4fd2-a47c-0f213462fa28"),
+                            Id = new Guid("408a01f0-978c-4a56-9a41-4fc61597b8ff"),
                             FirstName = "Niccolo",
                             LastName = "Leftridge"
                         },
                         new
                         {
-                            Id = new Guid("7bd14181-3064-45eb-8a57-735bbb4f3ee1"),
+                            Id = new Guid("a806ca32-7b61-46f0-a2d2-ce437a001b0f"),
                             FirstName = "Fleurette",
                             LastName = "Doughty"
                         },
                         new
                         {
-                            Id = new Guid("12d34635-3f95-4e86-9234-3a40e388cc0a"),
+                            Id = new Guid("66b84f81-2a51-4e4d-bafa-47d98799e80c"),
                             FirstName = "Mahala",
                             LastName = "Prahl"
                         },
                         new
                         {
-                            Id = new Guid("235398bd-d54e-4f55-b134-3f2b2b5efaba"),
+                            Id = new Guid("058a12dc-5a94-44e6-b24e-4de17f912375"),
                             FirstName = "Sigmund",
                             LastName = "Warbys"
                         },
                         new
                         {
-                            Id = new Guid("2e795847-4b82-493d-981f-aa0aecbaf839"),
+                            Id = new Guid("1cd58c0a-fa42-4cd1-8a8b-e65966a4a5c4"),
                             FirstName = "Tremain",
                             LastName = "Bartlam"
                         },
                         new
                         {
-                            Id = new Guid("be11a97e-53b4-4c38-8731-1a2ea714a27f"),
+                            Id = new Guid("1ba3e6f5-1df2-4ec2-b7ce-44eb11a04156"),
                             FirstName = "Emera",
                             LastName = "Hutsby"
                         },
                         new
                         {
-                            Id = new Guid("9f47d237-06e8-4131-be82-fa976f77ba89"),
+                            Id = new Guid("2545a11c-2ba7-4fa3-9aec-1cb27f7229a0"),
                             FirstName = "Ailina",
                             LastName = "Tellesson"
                         },
                         new
                         {
-                            Id = new Guid("80b82dd4-245c-4c16-afb1-df3b54d52d3d"),
+                            Id = new Guid("e306555f-9474-4cd8-a03d-ff05bf4cdead"),
                             FirstName = "Rodina",
                             LastName = "Patton"
                         },
                         new
                         {
-                            Id = new Guid("1cdafbde-7fb3-4e75-91c9-c2b69ccdc54d"),
+                            Id = new Guid("ed7c784c-6c1d-4135-af88-ad9a38fb3dc2"),
                             FirstName = "Whit",
                             LastName = "Mossom"
                         },
                         new
                         {
-                            Id = new Guid("d22a10fa-799e-4002-8f44-114d84f49a1f"),
+                            Id = new Guid("3f53ee21-b138-48b6-9cb4-ffd490a7f6c2"),
                             FirstName = "Eolanda",
                             LastName = "Purse"
                         },
                         new
                         {
-                            Id = new Guid("91ce4849-8394-4fd6-b4e0-22dba815f48e"),
+                            Id = new Guid("f38da6ec-83f1-401e-b206-4759b7991ef4"),
                             FirstName = "Win",
                             LastName = "Milkins"
                         },
                         new
                         {
-                            Id = new Guid("50067643-6f49-4dc7-b1ef-f16b78da8ad5"),
+                            Id = new Guid("483ac9b2-8f68-4467-97d4-2f6e9ed5d26f"),
                             FirstName = "Bee",
                             LastName = "Gough"
                         },
                         new
                         {
-                            Id = new Guid("18792222-9315-474a-9dc7-cc10354b7b18"),
+                            Id = new Guid("23a6f3e6-ab35-4fb9-b7a1-abca8f65664f"),
                             FirstName = "Emmerich",
                             LastName = "Hutchence"
                         },
                         new
                         {
-                            Id = new Guid("aebf2bd6-1904-43fd-9b2f-c06fdc04f541"),
+                            Id = new Guid("df6f8e73-2117-4f9e-9389-66f65cb85acf"),
                             FirstName = "Leonardo",
                             LastName = "Fetherstone"
                         },
                         new
                         {
-                            Id = new Guid("7a0b2670-2351-46f0-9e4e-545685bdbf24"),
+                            Id = new Guid("ee55aefb-04b9-43d6-862e-b79ad1a6549b"),
                             FirstName = "Dotti",
                             LastName = "Blankau"
                         },
                         new
                         {
-                            Id = new Guid("d4bded3a-e447-420d-9769-0bd2a7f1f583"),
+                            Id = new Guid("20867fc3-9901-49ac-81b1-087df3a59040"),
                             FirstName = "Schuyler",
                             LastName = "Davern"
                         },
                         new
                         {
-                            Id = new Guid("607c1b35-4a88-41c8-ae7f-f044b90330da"),
+                            Id = new Guid("1169b4c6-7a80-41a7-9d76-fb1dd4349070"),
                             FirstName = "Alix",
                             LastName = "Verny"
                         },
                         new
                         {
-                            Id = new Guid("99771a9f-d0de-49cd-a9b0-c84e9b4bdf8a"),
+                            Id = new Guid("3a634ed3-d234-4230-92ff-78110a0a5136"),
                             FirstName = "Alessandro",
                             LastName = "Bruty"
                         },
                         new
                         {
-                            Id = new Guid("d48b87a8-75e5-4161-8f28-5cae1dfa0c22"),
+                            Id = new Guid("9232de14-44d5-4e8d-818a-3cbe4556ef4f"),
                             FirstName = "Alric",
                             LastName = "Henzer"
                         },
                         new
                         {
-                            Id = new Guid("b8a88fec-cbca-408e-ae8f-46beccafa8f9"),
+                            Id = new Guid("45dd4775-c854-4047-a6e8-a6e76f71e77f"),
                             FirstName = "Sherwood",
                             LastName = "Artz"
                         },
                         new
                         {
-                            Id = new Guid("2eefb633-abad-4f17-83a1-ff1e8cd24f4d"),
+                            Id = new Guid("fd3a32ec-eafe-4d97-851c-f15a24c86807"),
                             FirstName = "Sher",
                             LastName = "Risen"
                         },
                         new
                         {
-                            Id = new Guid("53d20252-1c2e-4146-ba5c-f5f192bd3bfd"),
+                            Id = new Guid("6d1376c8-7caf-402d-9470-1abb73549b49"),
                             FirstName = "Zarah",
                             LastName = "Karp"
                         },
                         new
                         {
-                            Id = new Guid("356b1cdb-dc3e-43c8-bf59-633b1679855d"),
+                            Id = new Guid("a1b51ce8-6293-40e1-a41d-62a6cf6bca9f"),
                             FirstName = "Mil",
                             LastName = "OKynsillaghe"
                         },
                         new
                         {
-                            Id = new Guid("c41f1dc4-f199-498a-b4a8-0786fb4fbc79"),
+                            Id = new Guid("dcbcf254-c196-470a-9903-30f5b03f9c3d"),
                             FirstName = "Jolyn",
                             LastName = "Strain"
                         },
                         new
                         {
-                            Id = new Guid("64d755cc-f6d2-44dd-a7c4-9e55610a81c4"),
+                            Id = new Guid("9262bf58-d705-428c-8ff3-2ddc74ac4c3e"),
                             FirstName = "Cori",
                             LastName = "Paolinelli"
                         },
                         new
                         {
-                            Id = new Guid("962e6ef8-9552-4e43-9a2d-7eccbeaef6d5"),
+                            Id = new Guid("ca94b881-bbe3-4070-bc7b-a53eb4c4a6ed"),
                             FirstName = "Anastassia",
                             LastName = "Royall"
                         },
                         new
                         {
-                            Id = new Guid("49f0344a-8b7f-4753-a7b4-7e7c66adfe94"),
+                            Id = new Guid("55105c77-f3d7-450e-9a9a-98f631df437c"),
                             FirstName = "Clemens",
                             LastName = "Wiz"
                         },
                         new
                         {
-                            Id = new Guid("5a3b9687-1549-4621-ad51-4636f86394fc"),
+                            Id = new Guid("a900085f-5913-431e-b7cd-80eccb6b8395"),
                             FirstName = "Adelaide",
                             LastName = "LeFranc"
                         },
                         new
                         {
-                            Id = new Guid("0ede6111-ad59-4a97-934f-5d61431aa610"),
+                            Id = new Guid("1e5056d4-e157-401c-9b0a-5d24053610f6"),
                             FirstName = "Nadine",
                             LastName = "Sandeland"
                         },
                         new
                         {
-                            Id = new Guid("f809364e-a8b1-4540-8b15-f870cd80026b"),
+                            Id = new Guid("0236b064-1ebc-4d70-8529-ddd5a807ba8a"),
                             FirstName = "Eldon",
                             LastName = "Love"
                         },
                         new
                         {
-                            Id = new Guid("67cd07fc-a2c7-4630-9512-fd8a0a807b14"),
+                            Id = new Guid("593cfdb1-a6b2-46f2-87da-ae94ed11706b"),
                             FirstName = "Launce",
                             LastName = "Keogh"
                         },
                         new
                         {
-                            Id = new Guid("5f2473f9-6856-49e5-acef-f4a50d346d2e"),
+                            Id = new Guid("42986e5b-58b5-4902-89a6-947c4aff270f"),
                             FirstName = "Hyacinth",
                             LastName = "Sheeres"
                         },
                         new
                         {
-                            Id = new Guid("09c7e67f-0a4d-49ae-9267-ec26fe174214"),
+                            Id = new Guid("f0701dc3-b95c-4d77-ac13-07c4aa60a44f"),
                             FirstName = "Oswell",
                             LastName = "Espasa"
                         },
                         new
                         {
-                            Id = new Guid("f3b7ee80-0c64-4e01-a409-ef6a88cc9cfb"),
+                            Id = new Guid("172aa35c-afac-4d52-a30a-053627c9c264"),
                             FirstName = "Joan",
                             LastName = "Sheekey"
                         },
                         new
                         {
-                            Id = new Guid("ca619031-f834-451a-bb11-b9af6c099ebb"),
+                            Id = new Guid("252fb8d4-ae89-4a1f-9e66-56b3572614d6"),
                             FirstName = "Fin",
                             LastName = "Neiland"
                         },
                         new
                         {
-                            Id = new Guid("37473f61-a6c9-4c13-84e6-05645f6554a9"),
+                            Id = new Guid("3be718e5-9610-4ba4-8f01-74b695dfa712"),
                             FirstName = "Tobey",
                             LastName = "Hanlin"
                         },
                         new
                         {
-                            Id = new Guid("9b7ff001-51a8-4076-9c0d-66aa23171398"),
+                            Id = new Guid("6c5dad87-0db0-4155-8f61-b8fd81be1c1e"),
                             FirstName = "Trip",
                             LastName = "Braundt"
                         },
                         new
                         {
-                            Id = new Guid("20b52943-cc85-4aca-846f-79f990d0a7b1"),
+                            Id = new Guid("e31f494f-e481-4846-bf80-37902eab0b3f"),
                             FirstName = "Putnam",
                             LastName = "Conneau"
                         },
                         new
                         {
-                            Id = new Guid("f9f5f912-3053-4fd6-af8b-82aab72026b8"),
+                            Id = new Guid("0d20937b-4a42-40b7-adce-a15ec0b5a1bd"),
                             FirstName = "Terrijo",
                             LastName = "Brugden"
                         },
                         new
                         {
-                            Id = new Guid("9058208b-65e0-4908-a6b9-f5d1c5bc867c"),
+                            Id = new Guid("a78881c5-7c4c-469a-9437-fae0c8298514"),
                             FirstName = "Lishe",
                             LastName = "Drage"
                         },
                         new
                         {
-                            Id = new Guid("43ff06a8-3279-409a-a9b4-2ac91b1fa6b5"),
+                            Id = new Guid("214462c3-b41b-487d-adf1-99fd59b14cb7"),
                             FirstName = "Jess",
                             LastName = "Mostin"
                         },
                         new
                         {
-                            Id = new Guid("f9306978-8fc1-47dc-ba7b-b2aed6f94a67"),
+                            Id = new Guid("b11bcf76-b5a3-4e4c-a116-8ae0a8373ef3"),
                             FirstName = "Forester",
                             LastName = "Shinton"
                         },
                         new
                         {
-                            Id = new Guid("045ec6f1-6dc5-487b-94b4-359a852b3f00"),
+                            Id = new Guid("99f301e8-4818-4bf6-ae0d-ee7c0fc8fcae"),
                             FirstName = "Ethelda",
                             LastName = "Deave"
                         },
                         new
                         {
-                            Id = new Guid("167f9d00-6d9e-4aa8-a8b0-5b23b2d059bb"),
+                            Id = new Guid("0a7ff0e6-c39c-4fe7-813c-12be35407d21"),
                             FirstName = "Karina",
                             LastName = "Arend"
                         },
                         new
                         {
-                            Id = new Guid("4f5171c4-53c4-4d07-b73b-58cb27343ba6"),
+                            Id = new Guid("7a6e7a8f-1aa2-4264-a1de-cc9a0e225219"),
                             FirstName = "Gavin",
                             LastName = "Duffit"
                         },
                         new
                         {
-                            Id = new Guid("936d84fc-1467-4857-979e-6908ec86a62f"),
+                            Id = new Guid("608bf279-934b-4b2e-9329-422dfbd626cd"),
                             FirstName = "Maurene",
                             LastName = "Romao"
                         },
                         new
                         {
-                            Id = new Guid("05d0f14e-1751-4aba-8edb-191c74e42643"),
+                            Id = new Guid("8c7a482f-edc2-44bb-8888-322ad168992d"),
                             FirstName = "Glynn",
                             LastName = "Skein"
                         },
                         new
                         {
-                            Id = new Guid("7d8d17aa-6d08-4a17-a703-953a180e2ccb"),
+                            Id = new Guid("11618810-efdd-4159-8058-78eee471c7e8"),
                             FirstName = "Sherwynd",
                             LastName = "Croston"
                         },
                         new
                         {
-                            Id = new Guid("4fd76409-8e66-43aa-9261-da0cb238c689"),
+                            Id = new Guid("111fe738-e92a-43d6-8e12-b3ffa53494b4"),
                             FirstName = "Letizia",
                             LastName = "Mills"
                         },
                         new
                         {
-                            Id = new Guid("9d5149ef-0c19-4db1-8c79-40121d5d7e21"),
+                            Id = new Guid("e46babbe-eac4-4cc5-84d4-71ee1b32c4b4"),
                             FirstName = "Alys",
                             LastName = "Kretschmer"
                         },
                         new
                         {
-                            Id = new Guid("8eb3b3ab-dc56-4722-8307-63aeaab37f60"),
+                            Id = new Guid("5e2828ba-25cc-4079-bb66-0abc1a092b1a"),
                             FirstName = "Gilberto",
                             LastName = "Trimble"
                         },
                         new
                         {
-                            Id = new Guid("dfde4eb9-101f-4eed-a857-1ac43ff5be27"),
+                            Id = new Guid("4723fa53-1dbc-4372-91d6-2d9fc30e0ed0"),
                             FirstName = "Viv",
                             LastName = "Bank"
                         },
                         new
                         {
-                            Id = new Guid("dc355786-5053-47f3-a4f3-1f485701f484"),
+                            Id = new Guid("d291897f-7b15-403c-a88d-ac20d8eec56c"),
                             FirstName = "Myrtie",
                             LastName = "Caller"
                         },
                         new
                         {
-                            Id = new Guid("49964dad-e5c5-46d7-8baf-7d75dd8676df"),
+                            Id = new Guid("969d1f00-852f-4a01-82e3-f7b607055259"),
                             FirstName = "Dev",
                             LastName = "Clynter"
                         },
                         new
                         {
-                            Id = new Guid("e900592c-8ffa-4c84-90b4-ae353b292558"),
+                            Id = new Guid("4af15f78-2b1d-4769-a506-4a2540690786"),
                             FirstName = "Giacomo",
                             LastName = "Harrop"
                         },
                         new
                         {
-                            Id = new Guid("852d7462-b700-4af6-b686-bf1e001de35b"),
+                            Id = new Guid("602f218b-d1f4-4965-bc43-4f4d18b6a15e"),
                             FirstName = "Candis",
                             LastName = "Petrenko"
                         },
                         new
                         {
-                            Id = new Guid("ace68f80-9a57-4129-9e09-436ea1d736c2"),
+                            Id = new Guid("592d5354-d786-45a1-be83-b43f3b37f3a3"),
                             FirstName = "Johannes",
                             LastName = "Shildrake"
                         },
                         new
                         {
-                            Id = new Guid("a7a7194e-dc36-496c-81c4-cd1a4ab2c12f"),
+                            Id = new Guid("9f52c252-d1ae-4fbc-8aa4-741079c2aa48"),
                             FirstName = "Gare",
                             LastName = "Browning"
                         },
                         new
                         {
-                            Id = new Guid("8736b406-20a0-431a-aa2c-69b69fe7f7a4"),
+                            Id = new Guid("c7069024-f6bb-4406-92c3-34ee404afd5f"),
                             FirstName = "Shanon",
                             LastName = "Brunsden"
                         },
                         new
                         {
-                            Id = new Guid("f22a03fb-97ad-45d2-9e53-a6f7da00cc13"),
+                            Id = new Guid("f3b0f343-03c3-413e-b8c1-b8d9618d9616"),
                             FirstName = "Corty",
                             LastName = "Bugby"
                         },
                         new
                         {
-                            Id = new Guid("7c4434be-d2f7-4d8d-9933-8e4a0e09cf75"),
+                            Id = new Guid("9b6eec42-b847-493f-9673-e1a0fd9d8c89"),
                             FirstName = "Emili",
                             LastName = "Silman"
                         },
                         new
                         {
-                            Id = new Guid("75219ab1-3a27-46dd-b651-797b6a6f20d9"),
+                            Id = new Guid("3ac51046-0601-4e30-9b75-103caeb7c136"),
                             FirstName = "Othilie",
                             LastName = "Forsyde"
                         },
                         new
                         {
-                            Id = new Guid("59925d21-b3e0-40a3-9c3e-47ec00ca09c8"),
+                            Id = new Guid("0a17e5cf-a145-4605-baa0-6977b022d1d2"),
                             FirstName = "Ulrika",
                             LastName = "Borgars"
                         },
                         new
                         {
-                            Id = new Guid("439741a8-1697-4aec-92a1-1dbf2cb3ea18"),
+                            Id = new Guid("5e11d427-c19a-4cb7-b4f0-6d38324134c9"),
                             FirstName = "Denver",
                             LastName = "Crotty"
                         },
                         new
                         {
-                            Id = new Guid("d5c90918-40ef-414e-9aad-d424a395b95b"),
+                            Id = new Guid("724c900c-9d53-48a3-bf38-8462b1bf2e50"),
                             FirstName = "Craggie",
                             LastName = "Bowman"
                         },
                         new
                         {
-                            Id = new Guid("4fb98fcc-c5bd-4d8d-ac3f-7cabf3954ac8"),
+                            Id = new Guid("9de293da-98fc-46ed-a184-654a42225cb5"),
                             FirstName = "Cyb",
                             LastName = "Mathelin"
                         },
                         new
                         {
-                            Id = new Guid("78cc65b6-2bc6-4a36-87c7-6f0a5a375243"),
+                            Id = new Guid("868478d8-2111-4a9d-bef7-90c203dcf85d"),
                             FirstName = "Giacobo",
                             LastName = "Rodenburg"
                         },
                         new
                         {
-                            Id = new Guid("e52bd501-3258-4414-a396-b891f047dac9"),
+                            Id = new Guid("86287e15-943b-4a2b-83d6-2dfc8d2604d4"),
                             FirstName = "Clare",
                             LastName = "Littlejohns"
                         },
                         new
                         {
-                            Id = new Guid("1d7920d7-15ce-4044-8504-1751bfbe535b"),
+                            Id = new Guid("281724bf-22ea-4e53-9fc8-ad38aa8ff7ce"),
                             FirstName = "Chloette",
                             LastName = "Winstanley"
                         },
                         new
                         {
-                            Id = new Guid("c7739201-0190-4f2d-80d9-ddc77ccbb2ce"),
+                            Id = new Guid("6fe44538-e13c-46db-8959-7b0b42acfa44"),
                             FirstName = "Ivor",
                             LastName = "Ledger"
                         },
                         new
                         {
-                            Id = new Guid("ed535116-8f89-4908-a7eb-ccd855dfa020"),
+                            Id = new Guid("400d72ee-8e68-4794-b75b-a773d4ed3085"),
                             FirstName = "Locke",
                             LastName = "Labitt"
                         },
                         new
                         {
-                            Id = new Guid("509a3022-49d7-4a78-ac78-ae17f4246dc5"),
+                            Id = new Guid("b74ba475-97f3-4235-8dc3-612bc1e781b7"),
                             FirstName = "Saraann",
                             LastName = "Killough"
                         },
                         new
                         {
-                            Id = new Guid("e6d2c155-9c3c-463c-98f3-0f7699e65c49"),
+                            Id = new Guid("4fe493f2-afff-44b4-b14c-570251ba2fb4"),
                             FirstName = "Leoine",
                             LastName = "Royce"
                         },
                         new
                         {
-                            Id = new Guid("bb7396ad-9f1f-4e73-bd22-2a465dc1d957"),
+                            Id = new Guid("ce494b5e-bfe0-4efa-a5b5-2cd2a7fff593"),
                             FirstName = "Thorsten",
                             LastName = "Patria"
                         },
                         new
                         {
-                            Id = new Guid("f5010ba3-bb59-464d-8e72-ee74f7b08868"),
+                            Id = new Guid("ec26f19e-d489-4315-9ee5-f15e9d62a697"),
                             FirstName = "Arny",
                             LastName = "Chazelle"
                         },
                         new
                         {
-                            Id = new Guid("b6512279-6547-4ed2-87fc-c77ab6abef87"),
+                            Id = new Guid("2e315646-5409-439b-9549-0bbf18550fb0"),
                             FirstName = "Ania",
                             LastName = "Rake"
                         },
                         new
                         {
-                            Id = new Guid("d1c444b8-aab3-4966-bebd-e8f98c51eb26"),
+                            Id = new Guid("fb8cc872-45dc-4b41-a813-50f97e83a727"),
                             FirstName = "Arda",
                             LastName = "Stoacley"
                         },
                         new
                         {
-                            Id = new Guid("49a1dc0e-6bc2-4289-80b3-4c61a85dd633"),
+                            Id = new Guid("ad10782e-7b35-4447-9afe-8c41e9d271cb"),
                             FirstName = "Emmalynn",
                             LastName = "Voden"
                         },
                         new
                         {
-                            Id = new Guid("031938d9-385e-4e78-bddc-ee7720f60ec2"),
+                            Id = new Guid("1d5d13dc-445b-42d5-9b79-73b751de90ab"),
                             FirstName = "Jacinta",
                             LastName = "Taffurelli"
                         },
                         new
                         {
-                            Id = new Guid("06c39c93-720b-45fb-9f20-cde1c13a709a"),
+                            Id = new Guid("1a347064-8f09-428e-9d09-17016051a3b1"),
                             FirstName = "Velvet",
                             LastName = "Rosenshine"
                         },
                         new
                         {
-                            Id = new Guid("95d596b1-15d9-4ed4-975d-14c571a12a24"),
+                            Id = new Guid("82af2d9f-9ce4-44a5-aabb-8478c22d0620"),
                             FirstName = "Bond",
                             LastName = "Gauvain"
                         },
                         new
                         {
-                            Id = new Guid("e9ec1912-5d14-4338-a6eb-68a554e18720"),
+                            Id = new Guid("8f153bb2-9171-43be-b673-27ce183df169"),
                             FirstName = "Shandee",
                             LastName = "Raffels"
                         },
                         new
                         {
-                            Id = new Guid("66cb2283-2b80-45fb-9418-3867cb2af3d5"),
+                            Id = new Guid("33fcfa8a-8581-4734-9948-0837c63fc278"),
                             FirstName = "Cale",
                             LastName = "Mottinelli"
                         },
                         new
                         {
-                            Id = new Guid("59416f28-e187-40ea-b26e-fc26dc0022ea"),
+                            Id = new Guid("30b772b0-6d2f-4ad3-acc9-6ea8e3d6f564"),
                             FirstName = "Bertine",
                             LastName = "Sword"
                         },
                         new
                         {
-                            Id = new Guid("cb2bbd63-0980-4ee8-beab-c0f7ab872383"),
+                            Id = new Guid("e2cf6905-c4b1-4253-9d33-210eb77dbaef"),
                             FirstName = "Charin",
                             LastName = "Winterbotham"
                         },
                         new
                         {
-                            Id = new Guid("7956045e-3602-448a-862c-336200d8df8e"),
+                            Id = new Guid("0a9d4765-a2d5-4375-8e2a-a8004b091368"),
                             FirstName = "Keefe",
                             LastName = "Sommers"
                         },
                         new
                         {
-                            Id = new Guid("da5c2227-bcee-4e5c-921b-89e0a4c20615"),
+                            Id = new Guid("e668be2c-799d-4086-a581-f980ce08215a"),
                             FirstName = "Olympe",
                             LastName = "Baise"
                         },
                         new
                         {
-                            Id = new Guid("97b72887-c52f-4d19-ac99-6b772416e084"),
+                            Id = new Guid("29c8cd1f-6c09-46d9-ae5d-70453bfd41d1"),
                             FirstName = "Colline",
                             LastName = "Floris"
                         },
                         new
                         {
-                            Id = new Guid("f0c7c138-352f-4efe-953f-87acb4782acf"),
+                            Id = new Guid("d030e906-372d-40d4-91f5-4f46bff188e4"),
                             FirstName = "Elizabet",
                             LastName = "Proschke"
                         },
                         new
                         {
-                            Id = new Guid("f3a7d97c-16be-4402-8c8a-978a85d6b254"),
+                            Id = new Guid("b5367694-a084-47f3-ad81-b64eae38cf88"),
                             FirstName = "Gerard",
                             LastName = "Kelso"
                         },
                         new
                         {
-                            Id = new Guid("f4d81451-d91b-488e-b971-c7a88411d61b"),
+                            Id = new Guid("602351ab-5b9e-4763-b979-41ec20ef8d5a"),
                             FirstName = "Kort",
                             LastName = "Darington"
                         },
                         new
                         {
-                            Id = new Guid("2badfc36-6962-4324-ba12-be4bbc4117a4"),
+                            Id = new Guid("3d3c5b8e-b4c0-4bd0-bcef-d5873d237186"),
                             FirstName = "Emory",
                             LastName = "Welch"
                         },
                         new
                         {
-                            Id = new Guid("6e82bd0a-0023-42c7-9e46-6a5bb95b7484"),
+                            Id = new Guid("3e96f34e-8203-4f52-bc5b-d29ccf1d2386"),
                             FirstName = "Wilek",
                             LastName = "Smewing"
                         },
                         new
                         {
-                            Id = new Guid("1cb011e1-4010-48db-992f-0e990cdb0c14"),
+                            Id = new Guid("6a2053c3-6903-47b6-a45d-d4678c822033"),
                             FirstName = "Abigale",
                             LastName = "Francesc"
                         },
                         new
                         {
-                            Id = new Guid("1e3a8a89-44b4-4d29-890c-e23c910e6685"),
+                            Id = new Guid("3daeb4b9-c99d-4622-8626-02f30486a902"),
                             FirstName = "Rosalind",
                             LastName = "Such"
                         },
                         new
                         {
-                            Id = new Guid("6b7ca30b-d7af-4952-8e4e-2a9fe020eda9"),
+                            Id = new Guid("9d7ed1e8-02d5-4532-92dd-1ade1dd6a709"),
                             FirstName = "Aeriel",
                             LastName = "Poznanski"
                         },
                         new
                         {
-                            Id = new Guid("f845aa53-c634-4a31-a8f9-d71b14fbeffe"),
+                            Id = new Guid("89824d0a-f9cb-4e63-876f-0abc32234369"),
                             FirstName = "Boris",
                             LastName = "Ure"
                         },
                         new
                         {
-                            Id = new Guid("f7986027-cfa1-4c10-8f34-bf95cb5b812c"),
+                            Id = new Guid("4d34b76b-f61d-471e-b543-9b1d4dd2984a"),
                             FirstName = "Bonnie",
                             LastName = "Goldbourn"
                         },
                         new
                         {
-                            Id = new Guid("f81a29bc-1557-4b3e-948e-bd604a683e1f"),
+                            Id = new Guid("046fe1d4-7087-47da-8774-34504e8bd81e"),
                             FirstName = "Stacie",
                             LastName = "Tollit"
                         },
                         new
                         {
-                            Id = new Guid("6b5226fe-b18e-4e81-a136-e5c8e6ad4f23"),
+                            Id = new Guid("aa55503a-38b9-4104-9bae-3109d0792f66"),
                             FirstName = "Price",
                             LastName = "Pentecost"
                         },
                         new
                         {
-                            Id = new Guid("fba0c2f7-a70d-4d0e-b8f9-cab54c5e4752"),
+                            Id = new Guid("18a03b49-a98a-4b4a-a1aa-122c8c0b3211"),
                             FirstName = "Inez",
                             LastName = "Leipelt"
                         },
                         new
                         {
-                            Id = new Guid("1248c46b-9feb-4d57-99e2-8e6e5722dfd5"),
+                            Id = new Guid("70e122d2-20d4-4a0e-947e-231719be5e8b"),
                             FirstName = "Madelle",
                             LastName = "McGaugie"
                         },
                         new
                         {
-                            Id = new Guid("18d5a51c-632e-451d-a3e1-9ca5fb484154"),
+                            Id = new Guid("e88c722f-07a5-4d60-834e-2c575e29067f"),
                             FirstName = "Uri",
                             LastName = "Hannan"
                         },
                         new
                         {
-                            Id = new Guid("7b930168-81b1-4535-a095-c9d7d86e53c4"),
+                            Id = new Guid("5d326d85-44d1-4d18-a8a3-223700b1db3a"),
                             FirstName = "Jennilee",
                             LastName = "Benjamin"
                         },
                         new
                         {
-                            Id = new Guid("ff733029-b575-43d4-b993-ffc9e0cf1feb"),
+                            Id = new Guid("d550dc72-74d3-4325-bc68-c1ec694beb18"),
                             FirstName = "Dennis",
                             LastName = "Squirrel"
                         },
                         new
                         {
-                            Id = new Guid("35fc9aec-1fc0-4244-85e8-cca3e336a731"),
+                            Id = new Guid("30d4efbe-0572-4c5e-8a79-96935f8cc60a"),
                             FirstName = "Dilly",
                             LastName = "Headland"
                         },
                         new
                         {
-                            Id = new Guid("32f68714-7d03-46c1-9ae9-3230ab1015a1"),
+                            Id = new Guid("20cefa64-e8e3-41f0-a5b8-994a06995e41"),
                             FirstName = "Tessa",
                             LastName = "Pimerick"
                         },
                         new
                         {
-                            Id = new Guid("ce84a6d9-f560-45fb-ac5d-fe2d3b8f72ac"),
+                            Id = new Guid("a341da34-9335-4499-8e36-5e49987dad09"),
                             FirstName = "Noellyn",
                             LastName = "Linthead"
                         },
                         new
                         {
-                            Id = new Guid("a329886f-2f4c-423e-a779-3ccb89e61080"),
+                            Id = new Guid("4709a452-58d9-4d4e-a5f4-bff821e166b9"),
                             FirstName = "Corabel",
                             LastName = "Firpo"
                         },
                         new
                         {
-                            Id = new Guid("16a44947-d397-431f-8435-e515f5820b02"),
+                            Id = new Guid("2b4c89cb-f079-4cf8-9d4b-9fb0771b368a"),
                             FirstName = "Alvan",
                             LastName = "McOwen"
                         },
                         new
                         {
-                            Id = new Guid("8744a906-2952-4236-b56d-f60d81c02330"),
+                            Id = new Guid("b7b09354-e483-4f8f-b5ae-b41d3ea1f864"),
                             FirstName = "Osmond",
                             LastName = "Mandal"
                         },
                         new
                         {
-                            Id = new Guid("a41acf41-2425-429a-8bc3-d47574f1dc82"),
+                            Id = new Guid("1cc71b44-4682-447a-b01f-6eae33ba6021"),
                             FirstName = "Thomasine",
                             LastName = "Millward"
                         },
                         new
                         {
-                            Id = new Guid("86ed9210-beca-4454-8457-15c80ef05071"),
+                            Id = new Guid("a1dd014f-9f54-4b94-b44c-d9848f0ed68e"),
                             FirstName = "Barthel",
                             LastName = "Brose"
                         },
                         new
                         {
-                            Id = new Guid("b9095f71-97c5-4d8c-8f9b-69b11d459a38"),
+                            Id = new Guid("38bb9aa4-dace-4949-a7df-e51a555c9a5b"),
                             FirstName = "Johann",
                             LastName = "Shimwell"
                         },
                         new
                         {
-                            Id = new Guid("faecf514-a004-4871-a454-2495cb150348"),
+                            Id = new Guid("fb80b824-fb7d-4c00-8775-5cf972f5d617"),
                             FirstName = "Alister",
                             LastName = "Kalberer"
                         },
                         new
                         {
-                            Id = new Guid("457fd473-fb7b-4c01-acbf-664cd679f4a8"),
+                            Id = new Guid("338af76a-6cca-47b1-a050-17b100955098"),
                             FirstName = "Zitella",
                             LastName = "Chasemoore"
                         },
                         new
                         {
-                            Id = new Guid("d8e0d053-6f19-4a44-9028-4353a001d71a"),
+                            Id = new Guid("ada976cd-3432-4b26-89d1-c59fd0dc5554"),
                             FirstName = "Kora",
                             LastName = "Klarzynski"
                         },
                         new
                         {
-                            Id = new Guid("44fca0fd-a199-40dd-91a0-c93ff17297cf"),
+                            Id = new Guid("8493f12c-62ea-4ecc-8b53-d6f9def82e38"),
                             FirstName = "Tamma",
                             LastName = "Jolley"
                         },
                         new
                         {
-                            Id = new Guid("8b89fda6-c83d-432e-be22-d212bd97e6de"),
+                            Id = new Guid("7a5e76b0-3ab3-4709-8b2c-724e6002e64c"),
                             FirstName = "Stefania",
                             LastName = "Haxell"
                         },
                         new
                         {
-                            Id = new Guid("689130df-80ce-4f32-b945-4e0ce3ed0c02"),
+                            Id = new Guid("36beb2f3-49a9-4dea-b17a-35b9fa571344"),
                             FirstName = "Aline",
                             LastName = "Feldheim"
                         },
                         new
                         {
-                            Id = new Guid("9850d853-a4ee-4886-a453-d9a1c5f59adf"),
+                            Id = new Guid("25d9938b-559c-4bc9-9a35-ee16a0d3e7df"),
                             FirstName = "Dorena",
                             LastName = "Melwall"
                         },
                         new
                         {
-                            Id = new Guid("e20ec806-ab19-45e5-a878-919cce82288f"),
+                            Id = new Guid("854565f1-ed3e-4da7-9c8a-959a21c7875c"),
                             FirstName = "Wayland",
                             LastName = "Dorbin"
                         },
                         new
                         {
-                            Id = new Guid("61df6d79-e875-4971-b333-787a5bc6043c"),
+                            Id = new Guid("7571a8cd-53ad-458d-9782-005a24eb4288"),
                             FirstName = "Audy",
                             LastName = "Vankov"
                         },
                         new
                         {
-                            Id = new Guid("60fef97d-b154-4e77-8ed3-a6279306bb6d"),
+                            Id = new Guid("3809f61c-646d-442b-b7af-d33d9ae1f210"),
                             FirstName = "Karlens",
                             LastName = "Brito"
                         },
                         new
                         {
-                            Id = new Guid("29844e4c-916d-4b4f-a837-a12d8ef9ba3b"),
+                            Id = new Guid("d55f0f7c-0996-47ca-9fbb-d8accf9e795d"),
                             FirstName = "Alistair",
                             LastName = "Woolfitt"
                         },
                         new
                         {
-                            Id = new Guid("ace3e3d5-bf0c-4164-a962-d9e5ac5e8bd6"),
+                            Id = new Guid("bec3421c-b78e-433e-8a01-53963554e841"),
                             FirstName = "Niall",
                             LastName = "Kynnd"
                         },
                         new
                         {
-                            Id = new Guid("983c17af-b529-482f-8334-38e66884d9c6"),
+                            Id = new Guid("760780a1-2a6c-4348-b7ea-17a4916715df"),
                             FirstName = "Hobard",
                             LastName = "Kinloch"
                         },
                         new
                         {
-                            Id = new Guid("3db30207-0111-4b34-8697-15e686b8ab44"),
+                            Id = new Guid("0c8e9478-4d56-4487-9716-2aedef3ac0b6"),
                             FirstName = "Henrik",
                             LastName = "Ithell"
                         },
                         new
                         {
-                            Id = new Guid("f87ea182-306a-448f-803f-d3c91f5a6dca"),
+                            Id = new Guid("d470208c-d6eb-4a60-a9b9-5ff63ed12acf"),
                             FirstName = "Skye",
                             LastName = "Claire"
                         },
                         new
                         {
-                            Id = new Guid("bde49538-eadc-4a44-8565-cf835cb82819"),
+                            Id = new Guid("6a9bee9b-e392-4dcc-aafe-48fb23141cb1"),
                             FirstName = "Roldan",
                             LastName = "Swett"
                         },
                         new
                         {
-                            Id = new Guid("f0598ad7-cab3-4ed1-a011-d813a8e38769"),
+                            Id = new Guid("2c31cac6-5c5b-40ee-9968-3a7afecb6fbe"),
                             FirstName = "Ericka",
                             LastName = "Stave"
                         },
                         new
                         {
-                            Id = new Guid("b56a5ef6-7988-4e61-9944-beb232f4e3e2"),
+                            Id = new Guid("fc45ef13-21b3-48d7-b5a2-4db355b1e6b2"),
                             FirstName = "Winston",
                             LastName = "Rigmond"
                         },
                         new
                         {
-                            Id = new Guid("c218b30b-d85b-4c81-b63e-42c0fa14107b"),
+                            Id = new Guid("bb5314a7-0b44-40ba-a5c1-d932fe246b6e"),
                             FirstName = "Olga",
                             LastName = "Brookz"
                         },
                         new
                         {
-                            Id = new Guid("eb7e4fca-a451-4452-a2dd-7b83e372311a"),
+                            Id = new Guid("d2d33194-6b40-4de0-ba6c-30d33f419759"),
                             FirstName = "Saree",
                             LastName = "Scardafield"
                         },
                         new
                         {
-                            Id = new Guid("3de133f0-d8f0-4114-a2f5-83c51e166f2a"),
+                            Id = new Guid("9512a9cd-f4ed-426f-b389-fcaf870538e0"),
                             FirstName = "Tobi",
                             LastName = "Hovee"
                         },
                         new
                         {
-                            Id = new Guid("74b56546-b19f-4d74-97cc-c73c6f7055fa"),
+                            Id = new Guid("51023f1f-447f-4e11-9893-01c1aa2d4112"),
                             FirstName = "Gonzales",
                             LastName = "Newvill"
                         },
                         new
                         {
-                            Id = new Guid("481e43ff-7810-4116-bc5f-9b268f2b76c7"),
+                            Id = new Guid("10f6d5a9-b3c3-45eb-a21d-55860890c013"),
                             FirstName = "Britni",
                             LastName = "Sellers"
                         },
                         new
                         {
-                            Id = new Guid("30813594-a5fb-4ba2-8148-90387fa5c107"),
+                            Id = new Guid("bac4d9be-1d28-413b-b648-f135c711f308"),
                             FirstName = "Kaitlyn",
                             LastName = "Davisson"
                         },
                         new
                         {
-                            Id = new Guid("ede20578-f3bb-4b60-aec8-208e6470772d"),
+                            Id = new Guid("a47e1b9b-5891-4fd3-8e61-a9775c40889f"),
                             FirstName = "Chad",
                             LastName = "Howsam"
                         },
                         new
                         {
-                            Id = new Guid("c04bbafd-405b-4d69-85ce-3675e5d36372"),
+                            Id = new Guid("f9806a88-12f7-4e97-8a51-693f46140bdc"),
                             FirstName = "Lisa",
                             LastName = "Fenech"
                         },
                         new
                         {
-                            Id = new Guid("672b28a5-1143-41ce-a548-128fedebbe25"),
+                            Id = new Guid("e7ae9932-0233-4b74-a5ef-19d3422411b6"),
                             FirstName = "Keelia",
                             LastName = "Hastwell"
                         },
                         new
                         {
-                            Id = new Guid("3644c802-73b7-4f56-8412-1baf23ca1244"),
+                            Id = new Guid("04e32519-5742-41c8-a25d-856bb94791c3"),
                             FirstName = "Lucina",
                             LastName = "Taynton"
                         },
                         new
                         {
-                            Id = new Guid("0085af40-772e-43d4-a744-781e8ac7ade1"),
+                            Id = new Guid("b78312d6-973a-4233-b6b2-92d412f2ad13"),
                             FirstName = "Ernestine",
                             LastName = "Ilchenko"
                         },
                         new
                         {
-                            Id = new Guid("0d685706-c9a5-412c-b296-4e4f99d25500"),
+                            Id = new Guid("14847ff0-72b4-48d3-8dc5-e44e4affc390"),
                             FirstName = "Torr",
                             LastName = "Wrixon"
                         },
                         new
                         {
-                            Id = new Guid("305e2668-f54d-4e67-b930-2164c75eb94a"),
+                            Id = new Guid("53b2bd3d-637c-48c7-9bdd-d99cfe372ed2"),
                             FirstName = "Slade",
                             LastName = "Haxell"
                         },
                         new
                         {
-                            Id = new Guid("374715bf-08ee-4a85-ad2b-3fb4da8d99bf"),
+                            Id = new Guid("932b38e2-3da9-4a63-840c-1a7c7c30d569"),
                             FirstName = "Vivyan",
                             LastName = "Drysdale"
                         },
                         new
                         {
-                            Id = new Guid("a4262159-a8c9-4350-8f70-4a09698a6a0d"),
+                            Id = new Guid("df1f0960-212e-4588-a4e5-999668f921ec"),
                             FirstName = "Frasco",
                             LastName = "Clawe"
                         },
                         new
                         {
-                            Id = new Guid("8b97e58c-c963-4ff6-96fd-98165b7ddd57"),
+                            Id = new Guid("0dc86a51-c6bd-41bc-af5a-bbc43a5b522d"),
                             FirstName = "Kalvin",
                             LastName = "Tester"
                         },
                         new
                         {
-                            Id = new Guid("60e941b1-867d-4475-9821-b11f97b8481c"),
+                            Id = new Guid("359fad3f-fe7c-4aef-8429-2010ce1b7b3b"),
                             FirstName = "Jerrie",
                             LastName = "Wattam"
                         },
                         new
                         {
-                            Id = new Guid("131b5100-5a51-4590-818b-b3512bfd116d"),
+                            Id = new Guid("fdffd24c-be1d-47a1-b358-4c0709836b6e"),
                             FirstName = "Muhammad",
                             LastName = "Humbatch"
                         },
                         new
                         {
-                            Id = new Guid("92428c0e-a8be-442c-ae47-1127aaf2f5de"),
+                            Id = new Guid("03693075-2ac6-4117-bb33-427ad15d2f15"),
                             FirstName = "Madelena",
                             LastName = "Boulton"
                         },
                         new
                         {
-                            Id = new Guid("b509ccd3-ed6a-43f0-9222-c6f06303c6b5"),
+                            Id = new Guid("c2b66875-c450-49f5-ba06-3aa7482c176d"),
                             FirstName = "Gusti",
                             LastName = "Leask"
                         },
                         new
                         {
-                            Id = new Guid("c30d297c-daed-48ef-a4f1-8950291e56ff"),
+                            Id = new Guid("f9107474-20f8-4f63-90a6-6920b806d29a"),
                             FirstName = "Guy",
                             LastName = "Fulun"
                         },
                         new
                         {
-                            Id = new Guid("b294c6c8-d7b7-424c-a33b-2be6ebc9f87a"),
+                            Id = new Guid("46bd07a8-2159-4787-83fe-cc7739a59407"),
                             FirstName = "Wallie",
                             LastName = "Tripett"
                         },
                         new
                         {
-                            Id = new Guid("acd774db-b92d-4b71-a6a9-462262f6bd94"),
+                            Id = new Guid("592750d3-3aa8-41dc-aa5c-d61370f2ac47"),
                             FirstName = "Rolando",
                             LastName = "Hafford"
                         },
                         new
                         {
-                            Id = new Guid("4a11fb02-8185-4c0e-bce0-bf56db2436ec"),
+                            Id = new Guid("ea782053-d699-4b44-abf7-6814bda750a4"),
                             FirstName = "Daile",
                             LastName = "Croxon"
                         },
                         new
                         {
-                            Id = new Guid("e4b031df-f012-4bab-884f-df14decc7f16"),
+                            Id = new Guid("1f3a39d1-e479-4e7a-a2ae-3ee6018b9e3b"),
                             FirstName = "Ardelia",
                             LastName = "Hoston"
                         },
                         new
                         {
-                            Id = new Guid("e3254490-0e4e-4b4c-b6ef-4616256790a4"),
+                            Id = new Guid("185edc53-384a-4c2f-9081-2aafe663a9a1"),
                             FirstName = "Skell",
                             LastName = "Jaffray"
                         },
                         new
                         {
-                            Id = new Guid("69a396b6-43f2-416e-a00e-b3adfea00c88"),
+                            Id = new Guid("848a9a2d-778a-43a1-b8a8-2cefa92f0834"),
                             FirstName = "Erena",
                             LastName = "Shillitto"
                         },
                         new
                         {
-                            Id = new Guid("079aafe1-97db-4416-8a2d-7e598149b737"),
+                            Id = new Guid("1b53949d-cb5b-4b8d-8de0-1520904c18f4"),
                             FirstName = "Gaelan",
                             LastName = "Beange"
                         },
                         new
                         {
-                            Id = new Guid("8bbcf7a2-58b9-44b6-8195-4607a4ace18a"),
+                            Id = new Guid("df5031b7-f9c7-40d0-ba7d-a79feda0ecf0"),
                             FirstName = "Colby",
                             LastName = "Critcher"
                         },
                         new
                         {
-                            Id = new Guid("ed3a8060-b3db-4a19-8c33-20be4acb9208"),
+                            Id = new Guid("c655923f-8a23-4452-934c-34f9306fa456"),
                             FirstName = "Sybyl",
                             LastName = "Audry"
                         },
                         new
                         {
-                            Id = new Guid("794c30e1-5ab6-41c7-b562-0683c0b7875e"),
+                            Id = new Guid("a6a6e864-d2fa-4a97-a574-9856bbf38427"),
                             FirstName = "Bond",
                             LastName = "Fraschetti"
                         },
                         new
                         {
-                            Id = new Guid("4df3514a-e3e2-429e-9f96-4adf3b3872f7"),
+                            Id = new Guid("506007da-e653-4ee9-8a5f-bb531a478f5b"),
                             FirstName = "Torey",
                             LastName = "Sidden"
                         },
                         new
                         {
-                            Id = new Guid("55e42d75-f0bc-4547-a313-97e33359f669"),
+                            Id = new Guid("979c5b94-c402-4105-8fa5-af9a0c822e0e"),
                             FirstName = "Ranice",
                             LastName = "Lorriman"
                         },
                         new
                         {
-                            Id = new Guid("956dfc48-c43b-4e91-9353-9105e1860300"),
+                            Id = new Guid("c1023580-78fc-498d-9438-37bf8725f5f2"),
                             FirstName = "Gordon",
                             LastName = "Lunny"
                         },
                         new
                         {
-                            Id = new Guid("c4dc1d58-a9be-4a62-96c4-ac463860f179"),
+                            Id = new Guid("84622459-6a1d-47ab-a0ae-30f4d2d055a7"),
                             FirstName = "Kenyon",
                             LastName = "Pavy"
                         },
                         new
                         {
-                            Id = new Guid("2ec7f4df-06b1-4018-8435-d6c4cbb8b29f"),
+                            Id = new Guid("6babb91c-ccd1-4064-a897-2eecbfee7b4f"),
                             FirstName = "Arly",
                             LastName = "Simounet"
                         },
                         new
                         {
-                            Id = new Guid("f5e7a255-e954-42cd-a2b4-6cd8508bb20e"),
+                            Id = new Guid("0ca311e6-0e6d-4afc-b235-e9e94d429c10"),
                             FirstName = "Ram",
                             LastName = "Wooster"
                         },
                         new
                         {
-                            Id = new Guid("9fad2647-6ef9-45d0-9a84-7b97aa226c7e"),
+                            Id = new Guid("0d8fa4f2-3572-4b68-86fa-2077101a8f4c"),
                             FirstName = "Myer",
                             LastName = "Hamlin"
                         },
                         new
                         {
-                            Id = new Guid("9ab2d015-bca6-4ef4-9772-bd7fcb4e2c85"),
+                            Id = new Guid("5f175391-b1be-42b6-adfb-b707ae00504a"),
                             FirstName = "Lethia",
                             LastName = "Arro"
                         },
                         new
                         {
-                            Id = new Guid("3d87651d-5ad3-4d27-9f7c-cb805478c936"),
+                            Id = new Guid("93f513e6-7fc0-4a0e-bacc-3176d2d25543"),
                             FirstName = "Calhoun",
                             LastName = "DAgostino"
                         },
                         new
                         {
-                            Id = new Guid("4afb4e18-de8f-44f7-bde6-422d9dacec45"),
+                            Id = new Guid("cd749bac-0002-42c4-a33f-d76e4a0f6793"),
                             FirstName = "Ailey",
                             LastName = "Bartelli"
                         },
                         new
                         {
-                            Id = new Guid("8aaec912-0f85-4234-ab59-8b1a503684b6"),
+                            Id = new Guid("8d054f16-5de3-49ab-9a1b-bd8544b5ce16"),
                             FirstName = "Biddie",
                             LastName = "Yorston"
                         },
                         new
                         {
-                            Id = new Guid("54eb640f-d92b-45de-b45b-afbe3e6d36ac"),
+                            Id = new Guid("649c5ec0-bc7d-4337-a14c-08eaf1c11980"),
                             FirstName = "Erinna",
                             LastName = "Jirick"
                         },
                         new
                         {
-                            Id = new Guid("6250a70d-db50-4fe2-9eb0-9220dc1a68ac"),
+                            Id = new Guid("90df2cc8-2ced-452d-90a0-91d748213d75"),
                             FirstName = "Erich",
                             LastName = "Averies"
                         },
                         new
                         {
-                            Id = new Guid("ee8e3c8c-a3df-430b-8e07-98267892abe7"),
+                            Id = new Guid("d2c71820-ed72-43a0-9879-4c4b9ba3d104"),
                             FirstName = "Amery",
                             LastName = "Gowanson"
                         },
                         new
                         {
-                            Id = new Guid("95432bd9-5969-437c-b45d-939e6a3114b1"),
+                            Id = new Guid("950c5b4c-8097-4def-90f6-92897b550954"),
                             FirstName = "Silvanus",
                             LastName = "Tantrum"
                         },
                         new
                         {
-                            Id = new Guid("6727637f-0d96-41bb-8a71-3ed377bff5bf"),
+                            Id = new Guid("3068d366-33cf-47ce-9af6-5351b9355bf7"),
                             FirstName = "Ginger",
                             LastName = "Wren"
                         },
                         new
                         {
-                            Id = new Guid("8c3cb427-b57f-4700-aee0-42ab7e62cb98"),
+                            Id = new Guid("37dbae29-62d4-4e60-a7bd-6feb5b882e52"),
                             FirstName = "Debera",
                             LastName = "Claybourn"
                         },
                         new
                         {
-                            Id = new Guid("7d761b80-085d-43e6-bb2c-effe2393d35f"),
+                            Id = new Guid("0a3ed066-af01-4319-ad04-654db31c5c35"),
                             FirstName = "Kile",
                             LastName = "Giacomini"
                         },
                         new
                         {
-                            Id = new Guid("5ae767a4-63a4-4b2e-b342-857fa81f8377"),
+                            Id = new Guid("8b13558f-5a56-4687-b513-e2ad8fb7e59c"),
                             FirstName = "Ryley",
                             LastName = "Yarnold"
                         },
                         new
                         {
-                            Id = new Guid("5d47bba2-ee33-4b27-8c81-15e59c1608e8"),
+                            Id = new Guid("c2c6387e-27d8-472a-a979-4d09e5e6795c"),
                             FirstName = "Howie",
                             LastName = "MacFadden"
                         },
                         new
                         {
-                            Id = new Guid("1abaaf66-3244-437d-ab52-41f4ce76d36e"),
+                            Id = new Guid("d4273de9-f458-49dc-8586-d6a9ba7fc71b"),
                             FirstName = "Randolf",
                             LastName = "King"
                         },
                         new
                         {
-                            Id = new Guid("62cb760c-f45e-4b29-8937-cb84398e32a7"),
+                            Id = new Guid("71fdc4fb-f976-45dd-8d90-6dddcdd98df0"),
                             FirstName = "Moria",
                             LastName = "Patley"
                         },
                         new
                         {
-                            Id = new Guid("60cc65d0-a79d-4980-b433-343607cd3112"),
+                            Id = new Guid("1f0aaaad-0171-44d5-8155-350475d9fe48"),
                             FirstName = "Ronica",
                             LastName = "Zmitruk"
                         },
                         new
                         {
-                            Id = new Guid("ad533211-4ff4-4ce9-828d-082346666f62"),
+                            Id = new Guid("52e8a95b-e281-48fb-859d-f1e69be66243"),
                             FirstName = "Kacey",
                             LastName = "Gourley"
                         },
                         new
                         {
-                            Id = new Guid("1e335e2a-e61b-40e1-82bf-09ba0aa86177"),
+                            Id = new Guid("f7f58f7c-e76e-406a-a7f5-d8130ba40d8c"),
                             FirstName = "Ramonda",
                             LastName = "Huyton"
                         },
                         new
                         {
-                            Id = new Guid("2fdca055-7193-44bf-b351-e06794b8fb71"),
+                            Id = new Guid("ae89c886-171f-4ee8-8f8a-8a9d9d49dbee"),
                             FirstName = "Win",
                             LastName = "Shadbolt"
                         },
                         new
                         {
-                            Id = new Guid("70775228-96a5-4e00-af62-c230349def0f"),
+                            Id = new Guid("6730796b-5dda-4b65-b0d5-83bebe4636fa"),
                             FirstName = "Agatha",
                             LastName = "Huske"
                         },
                         new
                         {
-                            Id = new Guid("8d6350f3-2a44-4db3-8181-8147e830fbea"),
+                            Id = new Guid("f59e1df4-12b8-48c5-97ff-d9fb9af2d11b"),
                             FirstName = "Ximenes",
                             LastName = "Vest"
                         },
                         new
                         {
-                            Id = new Guid("7177638d-3369-4b4d-b812-408159198a4f"),
+                            Id = new Guid("c992260c-f977-4c35-a074-16318c21a15e"),
                             FirstName = "Giselle",
                             LastName = "Loveman"
                         },
                         new
                         {
-                            Id = new Guid("4452c6c0-a983-4da0-bcc5-181563d50429"),
+                            Id = new Guid("2934d8b4-5b46-472f-b695-8a211852bebb"),
                             FirstName = "Leone",
                             LastName = "Collumbell"
                         },
                         new
                         {
-                            Id = new Guid("7d025fa4-0ce3-4792-bf95-d6362c98db02"),
+                            Id = new Guid("e95f4ba7-fc06-4f4a-8ede-22696de26201"),
                             FirstName = "Brittany",
                             LastName = "Swendell"
                         },
                         new
                         {
-                            Id = new Guid("247a16b3-599b-43f3-949c-f1b87758891c"),
+                            Id = new Guid("972e5055-6351-4eb8-94de-116e9bd0b4ff"),
                             FirstName = "Erl",
                             LastName = "Brockway"
                         },
                         new
                         {
-                            Id = new Guid("0f417ffa-764e-44c1-b64f-85d8a7bef5db"),
+                            Id = new Guid("20ae50b8-19b6-4538-94e0-be4d549d38ab"),
                             FirstName = "Baily",
                             LastName = "Rutherforth"
                         },
                         new
                         {
-                            Id = new Guid("222d1b79-8267-4798-b881-bab5f6813f71"),
+                            Id = new Guid("ddea0586-916f-4fbd-b184-bde1100fc8b8"),
                             FirstName = "Anny",
                             LastName = "Pescott"
                         },
                         new
                         {
-                            Id = new Guid("b39bc32c-dd43-4027-b289-dad680195b2e"),
+                            Id = new Guid("5fb2d345-4cd3-4a62-a382-1fd992ec25f8"),
                             FirstName = "Brennan",
                             LastName = "Calfe"
                         },
                         new
                         {
-                            Id = new Guid("b72ed5a4-9f8e-476a-800f-003e445eb4fd"),
+                            Id = new Guid("20e8df35-ee2a-40e8-a9e9-43a97fd6c005"),
                             FirstName = "Jillene",
                             LastName = "Quartly"
                         },
                         new
                         {
-                            Id = new Guid("c1aa4f4b-b64d-448f-a23a-9b71528541b5"),
+                            Id = new Guid("fb3e610e-7ca9-4aaa-b867-a55eb7f8c883"),
                             FirstName = "Orton",
                             LastName = "Pavlata"
                         },
                         new
                         {
-                            Id = new Guid("3d7e2d73-9253-44d4-bb85-e5fc99eab549"),
+                            Id = new Guid("9a0751b7-2868-4612-9f9d-cfb9a3c6d6f8"),
                             FirstName = "Kort",
                             LastName = "Chell"
                         },
                         new
                         {
-                            Id = new Guid("6deeb509-6c19-4323-b2f7-c86349a2b003"),
+                            Id = new Guid("7cfb11f8-a660-4743-9436-8967bdee6bd6"),
                             FirstName = "Von",
                             LastName = "Haylock"
                         },
                         new
                         {
-                            Id = new Guid("b38d2732-a57c-43fa-b4a2-d0d2eda608ef"),
+                            Id = new Guid("30a2d167-fd0b-4b22-9816-7dadc2f630e4"),
                             FirstName = "Mab",
                             LastName = "Matthias"
                         },
                         new
                         {
-                            Id = new Guid("28c0521f-97a0-4e21-a7bc-45028ef1eb09"),
+                            Id = new Guid("26f09ef5-670b-4332-bea1-5eb9974fcab0"),
                             FirstName = "Franny",
                             LastName = "Cordeau"
                         },
                         new
                         {
-                            Id = new Guid("ea2797dd-7097-4cd1-8ff5-ee735807634e"),
+                            Id = new Guid("1787fb3b-0dc5-4d80-9a7f-4487c93a2db7"),
                             FirstName = "Eldridge",
                             LastName = "Treagus"
                         },
                         new
                         {
-                            Id = new Guid("70139c7a-6c13-4bdb-87d4-c1694e025026"),
+                            Id = new Guid("8a3ea76d-899f-4eb6-8439-f8b13db07ed7"),
                             FirstName = "Tripp",
                             LastName = "Budgey"
                         },
                         new
                         {
-                            Id = new Guid("eba42403-dce5-470b-a1da-63687b6ed5f6"),
+                            Id = new Guid("fe988bf6-dcd3-4c36-bf56-580d795b8330"),
                             FirstName = "Vinny",
                             LastName = "Caudell"
                         },
                         new
                         {
-                            Id = new Guid("58426ca4-5446-47d5-b91a-d317fbfdc525"),
+                            Id = new Guid("fcbe18bb-e871-4dd1-9712-76b59ec8dc8e"),
                             FirstName = "Giselbert",
                             LastName = "Wenban"
                         },
                         new
                         {
-                            Id = new Guid("4c538209-246d-4705-ae9e-415a4779fdec"),
+                            Id = new Guid("5d9be461-b7fa-4ef5-bc32-c7fa1d4bd2e9"),
                             FirstName = "Gaspar",
                             LastName = "Veldman"
                         },
                         new
                         {
-                            Id = new Guid("093dfc93-5266-4d68-bf48-163fde59163b"),
+                            Id = new Guid("324c64d3-8bc3-4249-9696-44ffd927f70e"),
                             FirstName = "Benedick",
                             LastName = "Stenner"
                         },
                         new
                         {
-                            Id = new Guid("3f0365b6-2f2e-40c0-83a5-5eff7d3d09cf"),
+                            Id = new Guid("553b3bab-2dd0-4d49-b140-431491f892a2"),
                             FirstName = "Dedra",
                             LastName = "Chastand"
                         },
                         new
                         {
-                            Id = new Guid("fe7c3a03-2532-4d05-b18c-cfcc0138ef77"),
+                            Id = new Guid("11a4cdc5-eed6-4764-9d13-e611d8550c37"),
                             FirstName = "Dalila",
                             LastName = "Coot"
                         },
                         new
                         {
-                            Id = new Guid("8b0997b9-5d4f-48d8-b9ac-7ea47e9ffdef"),
+                            Id = new Guid("4ee6d229-03de-4ca8-9719-8f7f6d261df2"),
                             FirstName = "Eldon",
                             LastName = "Juppe"
                         },
                         new
                         {
-                            Id = new Guid("ea6064fb-bd57-435f-a88d-f9b36ecdc366"),
+                            Id = new Guid("d79551ee-73fb-46d4-a6a1-d42eb6f3aea2"),
                             FirstName = "Misty",
                             LastName = "Leebetter"
                         },
                         new
                         {
-                            Id = new Guid("53c4b47d-9534-485f-a0ad-6a0c9cceba1a"),
+                            Id = new Guid("5751b98a-c335-4831-9518-81c118f48c68"),
                             FirstName = "Broddie",
                             LastName = "Wagge"
                         },
                         new
                         {
-                            Id = new Guid("dd0d613b-d3d8-4bd4-b2c0-35cc5aeb3309"),
+                            Id = new Guid("474a6214-ffd7-4205-a38f-1c2166de4204"),
                             FirstName = "Hadleigh",
                             LastName = "Kissack"
                         },
                         new
                         {
-                            Id = new Guid("bdbfb312-e3f0-43da-8f7f-9f4de500cb37"),
+                            Id = new Guid("c43e7043-7cc8-4713-bba0-168d9f9071a3"),
                             FirstName = "Opal",
                             LastName = "McGilroy"
                         },
                         new
                         {
-                            Id = new Guid("836f5da6-02f6-401d-8b9e-68088a91dfad"),
+                            Id = new Guid("e4f1a985-b0d0-4f7f-9402-e61ba074b1ed"),
                             FirstName = "Rhianna",
                             LastName = "Ipwell"
                         },
                         new
                         {
-                            Id = new Guid("8e96d060-1f56-496e-a327-467a75d663af"),
+                            Id = new Guid("bb5d97d6-1251-4894-9d88-d620ba0363c8"),
                             FirstName = "Avram",
                             LastName = "Pinchin"
                         },
                         new
                         {
-                            Id = new Guid("0b933755-3929-4970-9e65-924c1ad9d427"),
+                            Id = new Guid("f92fae4e-4d66-4084-91cf-1bf4024c344e"),
                             FirstName = "Teador",
                             LastName = "Beilby"
                         },
                         new
                         {
-                            Id = new Guid("7b304e1b-e26c-4448-a5e4-aedf31c439a9"),
+                            Id = new Guid("525116aa-113a-4508-bffe-fe891341ecee"),
                             FirstName = "Grannie",
                             LastName = "Murgatroyd"
                         },
                         new
                         {
-                            Id = new Guid("7f60ac25-699a-4e94-8529-4e4e2649e4ee"),
+                            Id = new Guid("2914b413-13b5-4fda-8dc1-93ed503862c9"),
                             FirstName = "Roldan",
                             LastName = "Dillon"
                         },
                         new
                         {
-                            Id = new Guid("fabd77ff-2ad4-4544-b230-3d126e61d213"),
+                            Id = new Guid("ce7627f0-f680-4be0-9089-cd28d142c41a"),
                             FirstName = "Eadmund",
                             LastName = "Ayre"
                         },
                         new
                         {
-                            Id = new Guid("b1f1c10e-7853-47cd-9718-517038b33496"),
+                            Id = new Guid("97f7452a-ba8b-409f-ae31-542600f08a77"),
                             FirstName = "Lenka",
                             LastName = "Burndred"
                         },
                         new
                         {
-                            Id = new Guid("ea899a8e-0e39-4b1f-9e0b-6eb5934aca53"),
+                            Id = new Guid("50eea3bc-68d7-4e36-837b-fa62e221b8c2"),
                             FirstName = "Chery",
                             LastName = "Hartin"
                         },
                         new
                         {
-                            Id = new Guid("6fcb4eaa-f56c-4565-99ae-6c2d42b448ce"),
+                            Id = new Guid("21f281f7-5831-4e08-8283-dc68b7612b2e"),
                             FirstName = "Cindra",
                             LastName = "Grocutt"
                         },
                         new
                         {
-                            Id = new Guid("90215e51-afaf-46f1-8559-0afd4052b8b7"),
+                            Id = new Guid("022bec2c-93cb-4eaf-9ccc-9189880b416f"),
                             FirstName = "Mellicent",
                             LastName = "Favell"
                         },
                         new
                         {
-                            Id = new Guid("5254d9b7-7a75-4c43-a74c-6f8a0f450099"),
+                            Id = new Guid("32e34e04-71fb-41f3-9088-6c93796d0b29"),
                             FirstName = "Terrance",
                             LastName = "Wisden"
                         },
                         new
                         {
-                            Id = new Guid("95063ef9-dfb2-482c-8b95-2d990034e231"),
+                            Id = new Guid("eb79e803-093c-4287-9bca-448fef763ca4"),
                             FirstName = "Felix",
                             LastName = "Ducaen"
                         },
                         new
                         {
-                            Id = new Guid("37fad513-a1b0-4330-ba5c-37b735bcbeff"),
+                            Id = new Guid("ae8b313f-5774-4211-8fe0-6ec50efc7357"),
                             FirstName = "Bunny",
                             LastName = "Spawell"
                         },
                         new
                         {
-                            Id = new Guid("1e7e5813-9339-4efd-b20a-11f9b29156f6"),
+                            Id = new Guid("d5b7f101-bee6-4c99-98ac-e1982e632319"),
                             FirstName = "Aron",
                             LastName = "Lazenby"
                         },
                         new
                         {
-                            Id = new Guid("b38cbbbe-6a26-4b6f-adde-28d0db595c87"),
+                            Id = new Guid("4bb5e4c3-5ae2-4ad8-85c9-ec4196b4eff8"),
                             FirstName = "Gerardo",
                             LastName = "Rosso"
                         },
                         new
                         {
-                            Id = new Guid("a3bcc27e-daa4-45dd-bc82-5e6711d8e425"),
+                            Id = new Guid("3b73ba6b-ad10-4b3d-bab9-161b0bf4f35f"),
                             FirstName = "Marlane",
                             LastName = "Allden"
                         },
                         new
                         {
-                            Id = new Guid("76057b1c-a66f-45ab-ac1d-c4747aab6c4b"),
+                            Id = new Guid("17b85975-dbab-4cfd-949a-1e130474b651"),
                             FirstName = "Reggie",
                             LastName = "DeryeBarrett"
                         },
                         new
                         {
-                            Id = new Guid("dfd42b4c-7722-41b8-96f3-fece9dedf0e9"),
+                            Id = new Guid("52e63947-0c91-42a2-ab2f-781d606990b6"),
                             FirstName = "Gayler",
                             LastName = "Blaker"
                         },
                         new
                         {
-                            Id = new Guid("af027d77-54e8-417e-b2b0-e40479c99b94"),
+                            Id = new Guid("33bbbde7-be84-4b7b-a252-bbfaf6775d88"),
                             FirstName = "Deane",
                             LastName = "Barnewell"
                         },
                         new
                         {
-                            Id = new Guid("95736e11-e4eb-4cdc-810b-a7aa18ff212c"),
+                            Id = new Guid("5ea32ca4-f19f-47ad-b609-68c1567ff7ff"),
                             FirstName = "Lorens",
                             LastName = "Elcott"
                         },
                         new
                         {
-                            Id = new Guid("d1fc24de-dca0-46dc-b6e6-f93704434293"),
+                            Id = new Guid("fddf3529-b527-4bbe-aef9-0e7ece70827a"),
                             FirstName = "Ameline",
                             LastName = "Heckner"
                         },
                         new
                         {
-                            Id = new Guid("ed8fcd57-ffda-47db-8107-65c730b642f3"),
+                            Id = new Guid("019da5b4-266a-4b9f-8420-004bd2070ff3"),
                             FirstName = "Woody",
                             LastName = "Leyninye"
                         },
                         new
                         {
-                            Id = new Guid("82932cb1-0765-466d-940c-55c2bc0ae54e"),
+                            Id = new Guid("3a47777f-7184-4663-9cd5-028c1d7b9eb3"),
                             FirstName = "Martainn",
                             LastName = "Mingus"
                         },
                         new
                         {
-                            Id = new Guid("aad272d6-59a0-47c6-944e-58fc5dd8ba0e"),
+                            Id = new Guid("0ea50946-c919-4dda-9458-401a500a273a"),
                             FirstName = "Jaimie",
                             LastName = "Aicheson"
                         },
                         new
                         {
-                            Id = new Guid("14cdbcd0-aba0-4976-9935-3c320185257c"),
+                            Id = new Guid("65fc4ea3-34c6-4183-a5c3-a91e3e89f7a8"),
                             FirstName = "Peta",
                             LastName = "Fullilove"
                         },
                         new
                         {
-                            Id = new Guid("b332f0d9-946f-4d7d-b546-60bc208688d6"),
+                            Id = new Guid("f36c16f6-0ebc-41c3-9c93-7902544aa02e"),
                             FirstName = "Karel",
                             LastName = "Eastbury"
                         },
                         new
                         {
-                            Id = new Guid("15a49315-552f-4f6a-9f25-001a5f13ce07"),
+                            Id = new Guid("d3043f5c-f5c0-4496-8253-c1d932f66148"),
                             FirstName = "Timothy",
                             LastName = "Goldspink"
                         },
                         new
                         {
-                            Id = new Guid("9ffc0977-37fd-4219-add9-9a25b073a10d"),
+                            Id = new Guid("4d53d8f4-da9c-43c5-83cc-1cd9cefbb76d"),
                             FirstName = "Annis",
                             LastName = "Sneden"
                         },
                         new
                         {
-                            Id = new Guid("634d9fa0-566a-4ffb-a490-072d970b866b"),
+                            Id = new Guid("2e89f062-75fd-4e98-92ff-221af432226d"),
                             FirstName = "Isac",
                             LastName = "Baudains"
                         },
                         new
                         {
-                            Id = new Guid("fcb9f33c-06d2-4c1a-8673-5d6f62342a4b"),
+                            Id = new Guid("02986f3d-7993-4ed6-9f19-7b9060da22bf"),
                             FirstName = "Elayne",
                             LastName = "Zanetello"
                         },
                         new
                         {
-                            Id = new Guid("24bfb9c5-10cd-494a-9749-4f4fa3b42baa"),
+                            Id = new Guid("b3edf42b-db64-4c2a-9dca-19363780fda9"),
                             FirstName = "Emmit",
                             LastName = "Scola"
                         },
                         new
                         {
-                            Id = new Guid("aa904e6a-473f-464e-97bd-74c58ff115c6"),
+                            Id = new Guid("d885efa4-30a7-414c-b2fb-b39773843a69"),
                             FirstName = "Edmund",
                             LastName = "Droogan"
                         },
                         new
                         {
-                            Id = new Guid("908f231f-dfb5-456d-847a-a2959286b9ef"),
+                            Id = new Guid("d56c81ac-97a2-468a-804b-c160d817a400"),
                             FirstName = "Winona",
                             LastName = "ONion"
                         },
                         new
                         {
-                            Id = new Guid("1514bec2-cfcb-4d94-be36-672110cc179e"),
+                            Id = new Guid("6edfda11-93d1-4533-af99-ed13ee6756fc"),
                             FirstName = "Shandee",
                             LastName = "McMackin"
                         },
                         new
                         {
-                            Id = new Guid("ec7c2556-312d-4658-ab4a-cba11638f75d"),
+                            Id = new Guid("5ba1b12b-4fb3-46e6-895e-d9e1fb16b765"),
                             FirstName = "Olenolin",
                             LastName = "Leverson"
                         },
                         new
                         {
-                            Id = new Guid("e61caebe-1e1d-444e-9273-3d6cc9b00293"),
+                            Id = new Guid("9fdb56ed-1902-479b-b095-2347a7cc4498"),
                             FirstName = "Viviene",
                             LastName = "Adhams"
                         },
                         new
                         {
-                            Id = new Guid("3e9fde8a-0dd7-401b-9a87-fab3fab8fa55"),
+                            Id = new Guid("d5c03f61-0881-4475-ab9f-f12077281195"),
                             FirstName = "Odette",
                             LastName = "Whitely"
                         },
                         new
                         {
-                            Id = new Guid("18895baf-1493-463f-8c5a-690cd89b3232"),
+                            Id = new Guid("b494f505-33a6-48f5-8822-f1602c7e5405"),
                             FirstName = "Jena",
                             LastName = "Gounod"
                         },
                         new
                         {
-                            Id = new Guid("e28f015d-7c7c-4811-9f57-bedbbccc1cbd"),
+                            Id = new Guid("d6cf9616-bc4b-4ed7-9f06-d55fd35b7ca3"),
                             FirstName = "Avie",
                             LastName = "Mangon"
                         },
                         new
                         {
-                            Id = new Guid("26b4373c-35d5-4274-b8f5-590785de3a88"),
+                            Id = new Guid("3aa04e52-8c42-42c6-b0ff-f0d06d91ec22"),
                             FirstName = "Benedicta",
                             LastName = "Cubbon"
                         },
                         new
                         {
-                            Id = new Guid("683f62ac-33ee-45f8-8a5e-721d1b0fbd56"),
+                            Id = new Guid("cbcda460-81e2-4f59-ae9c-00852c6841b7"),
                             FirstName = "Juana",
                             LastName = "Edwick"
                         },
                         new
                         {
-                            Id = new Guid("bd9e488f-ec59-459b-98f8-cec2351d2982"),
+                            Id = new Guid("a48f084d-e5f0-4487-adb5-04a4e058c2be"),
                             FirstName = "Averill",
                             LastName = "Turner"
                         },
                         new
                         {
-                            Id = new Guid("71114bb2-2230-4e41-9533-6d3b34a213ee"),
+                            Id = new Guid("0a9ef664-2ae0-454d-9e8c-6ccf1598bf19"),
                             FirstName = "Tamas",
                             LastName = "Downe"
                         },
                         new
                         {
-                            Id = new Guid("52b06a3d-6e38-4e84-9b33-01111f9d4502"),
+                            Id = new Guid("81929287-ff9d-43c0-b6b8-459bbe1efb00"),
                             FirstName = "Sandy",
                             LastName = "Roderick"
                         },
                         new
                         {
-                            Id = new Guid("9eaecb0c-d67b-4a3f-9295-28c30aaa7ba7"),
+                            Id = new Guid("9892ebcd-1273-4a0d-bd4a-5435045ba394"),
                             FirstName = "Sashenka",
                             LastName = "Gateland"
                         },
                         new
                         {
-                            Id = new Guid("38c88310-d2d4-4503-965c-e679f83b87cc"),
+                            Id = new Guid("5b97dbce-303e-42cc-8e52-13bb1f94ce3d"),
                             FirstName = "Herschel",
                             LastName = "Dunridge"
                         },
                         new
                         {
-                            Id = new Guid("1a5d8925-407a-4ca7-bc00-66e78e78d0a1"),
+                            Id = new Guid("d3ff6331-c912-48f0-b623-6e2110ac0fc9"),
                             FirstName = "Harcourt",
                             LastName = "Riepl"
                         },
                         new
                         {
-                            Id = new Guid("994545f1-93a4-4482-a9e1-98a76169206f"),
+                            Id = new Guid("d757fcfb-276c-435c-9c45-2317e2631060"),
                             FirstName = "Kin",
                             LastName = "Kingzet"
                         },
                         new
                         {
-                            Id = new Guid("15de9758-2ea5-4d54-8fa0-4c12dbad4f1c"),
+                            Id = new Guid("1a8c807a-561f-46c4-9b8f-2755dd3a172e"),
                             FirstName = "Dewie",
                             LastName = "Olerenshaw"
                         },
                         new
                         {
-                            Id = new Guid("ef7b31d4-5bd2-4689-abe2-6073c1f11a90"),
+                            Id = new Guid("68f2c0bb-78f7-4a9b-a8d0-1e041d27a89a"),
                             FirstName = "Cory",
                             LastName = "Bracken"
                         },
                         new
                         {
-                            Id = new Guid("c08aec6f-289a-4bdc-aff2-a454cf2b0e97"),
+                            Id = new Guid("1619820a-ccc9-4c83-97ba-ba8a50639409"),
                             FirstName = "Mel",
                             LastName = "Bridat"
                         },
                         new
                         {
-                            Id = new Guid("fbfecfaa-f915-4006-ae69-6960f7bd5a0f"),
+                            Id = new Guid("2420f052-6bd8-41cf-9a4a-23820ddd8bc7"),
                             FirstName = "Veda",
                             LastName = "Yurshev"
                         },
                         new
                         {
-                            Id = new Guid("8591b231-6db6-4249-9461-4bbaf0a1aa95"),
+                            Id = new Guid("a0e74738-2ed7-4d15-94cf-1fdb83451ff1"),
                             FirstName = "Reynolds",
                             LastName = "Geekin"
                         },
                         new
                         {
-                            Id = new Guid("b961a7c6-29e1-4642-8802-dbbda19a809c"),
+                            Id = new Guid("36f9d75f-3048-4bcd-b898-b4e31c7d2b3f"),
                             FirstName = "Bryn",
                             LastName = "Lamswood"
                         },
                         new
                         {
-                            Id = new Guid("5057382f-432b-44db-a982-e6cb06a028d2"),
+                            Id = new Guid("8b0969f1-2fcb-4238-8a83-74c56777e011"),
                             FirstName = "Marthena",
                             LastName = "Hickeringill"
                         },
                         new
                         {
-                            Id = new Guid("85f36fb3-82f1-4955-9850-77c4b336cc5e"),
+                            Id = new Guid("9df73c6b-69cd-4777-9611-f3e948e3411a"),
                             FirstName = "Basil",
                             LastName = "Sunley"
                         },
                         new
                         {
-                            Id = new Guid("25b79ec2-1697-4225-8c1b-300f80dc54b2"),
+                            Id = new Guid("19d6fdf5-9676-4c8c-b14e-3933d4e4cb60"),
                             FirstName = "Marven",
                             LastName = "Marien"
                         },
                         new
                         {
-                            Id = new Guid("7e11d767-ea63-4a2e-9aea-77f04bb39b83"),
+                            Id = new Guid("04aef2b9-d040-4f91-8ab6-41f89945fc6b"),
                             FirstName = "Goldia",
                             LastName = "Maty"
                         },
                         new
                         {
-                            Id = new Guid("e8e1e594-ab50-4f08-9a3b-50e404969608"),
+                            Id = new Guid("396c4bdf-8f30-4034-a72c-54537b06786e"),
                             FirstName = "Ashil",
                             LastName = "Ellings"
                         },
                         new
                         {
-                            Id = new Guid("138735b3-9b6a-407d-ad6b-3fe6bfd1eb83"),
+                            Id = new Guid("138c30a7-2f32-4205-a0ed-a3a83ab0b4d5"),
                             FirstName = "Rosalynd",
                             LastName = "Simionescu"
                         },
                         new
                         {
-                            Id = new Guid("e69428c6-d43f-4e1f-bb3a-b95aaa0642ea"),
+                            Id = new Guid("9c71e66f-2d5e-4c8c-bc44-b478ee5cb1bf"),
                             FirstName = "Mirelle",
                             LastName = "Sinnat"
                         },
                         new
                         {
-                            Id = new Guid("3c58eb92-fbd8-4b60-8565-eecde6a26a71"),
+                            Id = new Guid("716f58f2-b5d4-463c-8df3-b2d25248db7b"),
                             FirstName = "Chariot",
                             LastName = "Gerholz"
                         },
                         new
                         {
-                            Id = new Guid("d4d2e293-5511-4e22-9df3-b688af486135"),
+                            Id = new Guid("f9763dd4-0606-4bb0-9de0-59eb0e56dc9a"),
                             FirstName = "Merrill",
                             LastName = "MacAllester"
                         },
                         new
                         {
-                            Id = new Guid("14df66ca-3089-4fbd-8eeb-896a46ff93b8"),
+                            Id = new Guid("03570d2a-9e7a-41af-a8b0-a9f05dcedead"),
                             FirstName = "Chelsie",
                             LastName = "Espinheira"
                         },
                         new
                         {
-                            Id = new Guid("152a58d8-76ac-43d1-9fcc-ad5a524c8ce2"),
+                            Id = new Guid("0c4489b8-3e3b-4d86-90b9-632050e91770"),
                             FirstName = "Ainslie",
                             LastName = "Wilmott"
                         },
                         new
                         {
-                            Id = new Guid("1acdd02d-b47f-4259-ae8c-a39fe7028d02"),
+                            Id = new Guid("fc5a163f-a008-4339-abf9-4e272cb1ea05"),
                             FirstName = "Pris",
                             LastName = "Russell"
                         },
                         new
                         {
-                            Id = new Guid("9f928a8b-4416-48ec-a03f-3c6df811724b"),
+                            Id = new Guid("786a9297-caff-4a50-8846-f10261387fe5"),
                             FirstName = "Kermie",
                             LastName = "Churchlow"
                         },
                         new
                         {
-                            Id = new Guid("4af595bf-6ead-4e5a-a962-d53f372eafca"),
+                            Id = new Guid("a53b82e2-814f-4bb4-b523-3a55ec23e89c"),
                             FirstName = "Dukey",
                             LastName = "Forstall"
                         },
                         new
                         {
-                            Id = new Guid("9085c603-b419-420c-8cfe-79d7b016daeb"),
+                            Id = new Guid("bac15da7-3e21-4643-a59f-5b82dd301c7d"),
                             FirstName = "Guglielma",
                             LastName = "Ripon"
                         },
                         new
                         {
-                            Id = new Guid("0a3f38b0-6c38-4a4c-b93f-92e97944e3b6"),
+                            Id = new Guid("83b59d86-a902-4162-b9fc-ca3bbc1c8a25"),
                             FirstName = "Sunshine",
                             LastName = "Gullefant"
                         },
                         new
                         {
-                            Id = new Guid("5f913e8d-0608-4065-950d-e15db08fcdfd"),
+                            Id = new Guid("cfec4321-e15d-4eae-be29-a6eb2861cf6e"),
                             FirstName = "Alfy",
                             LastName = "Coil"
                         },
                         new
                         {
-                            Id = new Guid("6e4ba9be-2758-4b3b-857d-6bb5d3f815fa"),
+                            Id = new Guid("47828315-09dd-4f90-ad30-d9ff11428ee4"),
                             FirstName = "Brad",
                             LastName = "Robic"
                         },
                         new
                         {
-                            Id = new Guid("60c76f03-5291-4455-a0d6-f45def618472"),
+                            Id = new Guid("d1df0f2e-2ff6-4b74-9bdc-e8204cc5e71d"),
                             FirstName = "Deanna",
                             LastName = "Arderne"
                         },
                         new
                         {
-                            Id = new Guid("7d27004e-7607-4591-ad14-71f4504b044d"),
+                            Id = new Guid("0ed4ea9b-e481-43e6-a644-a9c5eeb9e74e"),
                             FirstName = "Augy",
                             LastName = "Ortiga"
                         },
                         new
                         {
-                            Id = new Guid("d44986d3-cdf8-43bb-8e86-a74826170ec5"),
+                            Id = new Guid("16e69c8f-da25-44a4-bcb8-a2d6df44a348"),
                             FirstName = "Tad",
                             LastName = "Volk"
                         },
                         new
                         {
-                            Id = new Guid("10e2d254-60a5-4300-a66e-25b9aa678b23"),
+                            Id = new Guid("81f5fa8f-5175-4fc1-8b83-ee427c5e2d38"),
                             FirstName = "Hashim",
                             LastName = "Jickells"
                         },
                         new
                         {
-                            Id = new Guid("92dcb42a-2d2a-405b-b9f8-a43981b4e6c5"),
+                            Id = new Guid("fc723944-1af9-4085-ad3f-db70f067dfb8"),
                             FirstName = "Faydra",
                             LastName = "Powdrell"
                         },
                         new
                         {
-                            Id = new Guid("5d497ab4-fa1a-405e-9c7b-13d86705e5f5"),
+                            Id = new Guid("f5d02084-2e30-4570-9e93-42b62bacbd79"),
                             FirstName = "Neall",
                             LastName = "Wissby"
                         },
                         new
                         {
-                            Id = new Guid("503981ad-b428-4fe9-bc56-a1a96ebd17f0"),
+                            Id = new Guid("b2253b7e-a280-4531-9ec0-2142b31f5c59"),
                             FirstName = "Rolando",
                             LastName = "Faldo"
                         },
                         new
                         {
-                            Id = new Guid("ff5f61e3-2bf2-4fa9-b9c4-a3af97670bfb"),
+                            Id = new Guid("6663a778-94c2-4b7f-afde-6a7cd263164c"),
                             FirstName = "Janie",
                             LastName = "Battson"
                         },
                         new
                         {
-                            Id = new Guid("8b09f7ee-f33a-4e45-a7c7-1b50743f9ace"),
+                            Id = new Guid("e5e78102-f8e4-45ec-9fe9-91c4bcb09dc7"),
                             FirstName = "Federico",
                             LastName = "Truswell"
                         },
                         new
                         {
-                            Id = new Guid("bd936aea-5632-4ec9-9bde-ce8eca0fb7e4"),
+                            Id = new Guid("3de06909-d10e-460d-bc56-ce72006b6aec"),
                             FirstName = "Haley",
                             LastName = "Seger"
                         },
                         new
                         {
-                            Id = new Guid("1515ffc8-490c-4321-a8d3-db551e56e3d7"),
+                            Id = new Guid("d4047ab5-aefb-4b64-b58d-2f3cc881aad5"),
                             FirstName = "Erma",
                             LastName = "Late"
                         },
                         new
                         {
-                            Id = new Guid("1a43890f-a96f-4b0f-bef3-be5b12f574bb"),
+                            Id = new Guid("6cbdebeb-69af-4980-9978-ce09f2bdcd0b"),
                             FirstName = "Page",
                             LastName = "Jeffress"
                         },
                         new
                         {
-                            Id = new Guid("746ae46b-0158-4ccb-ae3a-4e5a0f76a1c4"),
+                            Id = new Guid("34730da2-c6f5-4c5d-abdf-306264ae1efa"),
                             FirstName = "Andrey",
                             LastName = "Laudham"
                         },
                         new
                         {
-                            Id = new Guid("274308b0-313a-4a35-96e2-9b64a633f169"),
+                            Id = new Guid("37bad43d-07c4-47f2-8c96-c9f3d6edc5b1"),
                             FirstName = "Annamarie",
                             LastName = "Stoner"
                         },
                         new
                         {
-                            Id = new Guid("5aef495f-a566-46f1-aae2-66d7c497630e"),
+                            Id = new Guid("4dbb61f1-dc7b-491f-a158-31c79a90e476"),
                             FirstName = "Susannah",
                             LastName = "Alty"
                         },
                         new
                         {
-                            Id = new Guid("623cc4dc-88d3-4e98-bad1-deea8652ddda"),
+                            Id = new Guid("0754fcf4-f955-423b-bf49-85a194db2b74"),
                             FirstName = "Dougie",
                             LastName = "Haydney"
                         },
                         new
                         {
-                            Id = new Guid("90b53bcd-c664-4424-870e-f26a379f38fc"),
+                            Id = new Guid("29b76056-2018-4ea9-a91b-39f321185ac7"),
                             FirstName = "Viv",
                             LastName = "Regnard"
                         },
                         new
                         {
-                            Id = new Guid("db1d1a4b-eb62-4326-8a80-4c89565eaa8c"),
+                            Id = new Guid("fcf4cafe-358c-4b09-9836-cca17d31a167"),
                             FirstName = "Mollie",
                             LastName = "Fountain"
                         },
                         new
                         {
-                            Id = new Guid("effd3f5a-67b3-40c0-8126-bd22a3012ef4"),
+                            Id = new Guid("94fbbf6c-3426-43cd-9b36-b71d6796dde4"),
                             FirstName = "Rickey",
                             LastName = "Gobell"
                         },
                         new
                         {
-                            Id = new Guid("6c29785f-2e10-4cff-93e5-d0b57852cf95"),
+                            Id = new Guid("a9fa2390-dacb-41be-a05c-7965db7b85b0"),
                             FirstName = "Nerte",
                             LastName = "Gilder"
                         },
                         new
                         {
-                            Id = new Guid("0cf94f39-c58f-40de-b848-abb34fcdab11"),
+                            Id = new Guid("339cbb43-c2f7-4d84-b849-ccb41cbb9cd1"),
                             FirstName = "Liana",
                             LastName = "Clunie"
                         },
                         new
                         {
-                            Id = new Guid("5380659f-2ce3-4bfe-a1db-003100941591"),
+                            Id = new Guid("cdbdf353-3f3a-481b-a377-5fba1d327245"),
                             FirstName = "Gabriell",
                             LastName = "Demeza"
                         },
                         new
                         {
-                            Id = new Guid("25088fd5-59e3-4bab-a47a-d3773560a484"),
+                            Id = new Guid("b95085c8-68f3-4d4f-aebd-f9d8fb679aca"),
                             FirstName = "Mechelle",
                             LastName = "Kermath"
                         },
                         new
                         {
-                            Id = new Guid("44f1042a-a088-40ed-beb4-523704d4a286"),
+                            Id = new Guid("841086fe-5973-4243-8034-0270eb6b97b5"),
                             FirstName = "Florinda",
                             LastName = "Luffman"
                         },
                         new
                         {
-                            Id = new Guid("3658895a-82dc-4179-94ef-700fdb6d98de"),
+                            Id = new Guid("5212e292-0c25-4720-a19e-a2f565c23156"),
                             FirstName = "Eadith",
                             LastName = "Hartzogs"
                         },
                         new
                         {
-                            Id = new Guid("1d3986e7-7cf7-4ba5-aa56-0c54870bc6c3"),
+                            Id = new Guid("488eef00-2fc4-4168-8d14-72a6fdafdd33"),
                             FirstName = "Sibella",
                             LastName = "Andell"
                         },
                         new
                         {
-                            Id = new Guid("27c832f5-d940-4133-ac35-6349f6c4b59f"),
+                            Id = new Guid("a7cf1ae5-afc7-4420-8e7e-b9e675f28f0e"),
                             FirstName = "Kiersten",
                             LastName = "Kitcat"
                         },
                         new
                         {
-                            Id = new Guid("5aaced39-ca84-49f5-9c8a-ca860048d28b"),
+                            Id = new Guid("8808c182-4ab2-4cf8-b311-a9381817e67c"),
                             FirstName = "Gregg",
                             LastName = "Goodread"
                         },
                         new
                         {
-                            Id = new Guid("a6e9a2da-b223-44d9-be33-1d1f3ef18b2e"),
+                            Id = new Guid("2261669c-9741-4d0d-856a-7c4deb8c8e71"),
                             FirstName = "Martguerita",
                             LastName = "Doolan"
                         },
                         new
                         {
-                            Id = new Guid("025dc1c9-55c4-48ef-b265-7ac3a06628eb"),
+                            Id = new Guid("8694dfa2-b8a5-436d-b0ad-27f1de282d3b"),
                             FirstName = "Leonidas",
                             LastName = "Lazare"
                         },
                         new
                         {
-                            Id = new Guid("053e626e-3b2e-44b7-8740-d69df744a58d"),
+                            Id = new Guid("b5d58a25-0344-4cf9-a0ae-2eeb351f8960"),
                             FirstName = "Jozef",
                             LastName = "Bedson"
                         },
                         new
                         {
-                            Id = new Guid("33de038c-80de-4beb-b44b-c6a129a9a2dc"),
+                            Id = new Guid("427f1bc7-df6a-42d2-a00e-bac5801dc437"),
                             FirstName = "Pierre",
                             LastName = "Rivenzon"
                         },
                         new
                         {
-                            Id = new Guid("edc1ba6b-4403-46f5-bc5d-1ee8ec9a353a"),
+                            Id = new Guid("feace743-b0be-48a7-91b4-ed6ac25a2768"),
                             FirstName = "Annamaria",
                             LastName = "Neno"
                         },
                         new
                         {
-                            Id = new Guid("ef8cbeb8-2b81-4c0b-a651-8b5e485b29ed"),
+                            Id = new Guid("c0016a4d-3476-44b2-86c7-696b1c8911e1"),
                             FirstName = "Joe",
                             LastName = "Alessandone"
                         },
                         new
                         {
-                            Id = new Guid("371a9bc8-1fd8-40fb-980d-735602eae2dd"),
+                            Id = new Guid("7028c202-581c-4818-ae2a-e44c534eb85f"),
                             FirstName = "Hollyanne",
                             LastName = "Skeldinge"
                         },
                         new
                         {
-                            Id = new Guid("371cdd5f-b1b9-484f-ab3d-e9122dd0779f"),
+                            Id = new Guid("9cbc0ddc-2cbc-44f5-9c26-a603b99cc756"),
                             FirstName = "Mason",
                             LastName = "Kolak"
                         },
                         new
                         {
-                            Id = new Guid("f7136f79-d7ca-4cc7-b807-06c874736a5e"),
+                            Id = new Guid("2a8f2a94-6c93-4191-862e-d785a6f62f4c"),
                             FirstName = "Richie",
                             LastName = "Luetchford"
                         },
                         new
                         {
-                            Id = new Guid("6c0a9641-7993-45c5-a852-d3268ac224f2"),
+                            Id = new Guid("adbbf59f-ebe5-47f0-8c7d-38ece9caf783"),
                             FirstName = "Charil",
                             LastName = "Crambie"
                         },
                         new
                         {
-                            Id = new Guid("b0c12556-4a63-4d58-8b36-c06a4bd04bb4"),
+                            Id = new Guid("2a237be4-7284-4377-9f1f-e0a7488840fa"),
                             FirstName = "Amelita",
                             LastName = "Adamthwaite"
                         },
                         new
                         {
-                            Id = new Guid("23bccf95-eecf-467e-b675-1b6a3e9d1b79"),
+                            Id = new Guid("5a979871-1206-4358-af9b-855bdcac8be7"),
                             FirstName = "Emmeline",
                             LastName = "Daniaud"
                         },
                         new
                         {
-                            Id = new Guid("2937fa44-1847-4019-8daf-f043717fadc4"),
+                            Id = new Guid("8f828e77-bc8f-4f13-8a39-040fa7e19086"),
                             FirstName = "Freemon",
                             LastName = "Wallworke"
                         },
                         new
                         {
-                            Id = new Guid("5da62672-34c8-4dac-9284-39f4a3970123"),
+                            Id = new Guid("5c38fe24-a7c2-4fc2-8cb5-7660ed7e239b"),
                             FirstName = "Lanny",
                             LastName = "OosthoutdeVree"
                         },
                         new
                         {
-                            Id = new Guid("71883c85-5cca-49b7-bf9d-ae437f3ba3c4"),
+                            Id = new Guid("ea8baf9c-d8a0-4b2e-ab76-3bba7dafd90f"),
                             FirstName = "Cory",
                             LastName = "Burdekin"
                         },
                         new
                         {
-                            Id = new Guid("b2dd0d9b-02d7-4549-96cd-c0350e9f28a5"),
+                            Id = new Guid("7883a011-53cc-4fbc-ad71-9670067534ac"),
                             FirstName = "Jenny",
                             LastName = "Mycroft"
                         },
                         new
                         {
-                            Id = new Guid("8a92accf-e38a-40fb-baa4-2287dcf88d61"),
+                            Id = new Guid("b7906c2f-c4d7-4987-90ca-2dbbc76012dd"),
                             FirstName = "Valentin",
                             LastName = "Smaile"
                         },
                         new
                         {
-                            Id = new Guid("0713193a-10bb-4d6d-99f5-81e8261f06f3"),
+                            Id = new Guid("a9162662-5414-45c0-a970-b80c558f7960"),
                             FirstName = "Ami",
                             LastName = "Toohey"
                         },
                         new
                         {
-                            Id = new Guid("12a0e90d-070c-497a-a73f-2e9d898f5208"),
+                            Id = new Guid("e96a918a-3e32-4562-a432-fde0edc9a21b"),
                             FirstName = "Ulrick",
                             LastName = "Roll"
                         },
                         new
                         {
-                            Id = new Guid("67454c28-8495-457f-8b7e-37afc6ca598f"),
+                            Id = new Guid("edb2fa08-111e-4b59-8ee9-532b7c1c6bb8"),
                             FirstName = "Lodovico",
                             LastName = "Seson"
                         },
                         new
                         {
-                            Id = new Guid("b6c36cb9-0939-417d-b2c9-2223332af34e"),
+                            Id = new Guid("c31d74db-3f12-4dad-bf2d-f8e9cb9d0f6e"),
                             FirstName = "Genna",
                             LastName = "Trustie"
                         },
                         new
                         {
-                            Id = new Guid("619f0308-56f1-4a69-8153-146abac23621"),
+                            Id = new Guid("ee3c19cd-724e-4b71-9bd8-33fdc3c5cb2f"),
                             FirstName = "Rosabel",
                             LastName = "Estick"
                         },
                         new
                         {
-                            Id = new Guid("c50a4572-f75c-4f89-8725-27d22731d2d7"),
+                            Id = new Guid("3c419d9d-f3a8-4b9c-baa1-0d9dca4c2a12"),
                             FirstName = "Antonella",
                             LastName = "Tindall"
                         },
                         new
                         {
-                            Id = new Guid("349749c3-e70b-4fea-b33b-35b913726b2e"),
+                            Id = new Guid("7b9d424a-bcf9-4b21-b098-68a9bb199686"),
                             FirstName = "Graham",
                             LastName = "Chaplain"
                         },
                         new
                         {
-                            Id = new Guid("a900d174-abb0-4072-9fce-61a249bac951"),
+                            Id = new Guid("1c56b536-1a71-45cd-a06d-a4998c91eb23"),
                             FirstName = "Daisy",
                             LastName = "Astin"
                         },
                         new
                         {
-                            Id = new Guid("9bb405db-a1e2-4a9d-be4b-d2680922068f"),
+                            Id = new Guid("e238a33f-e07f-44ca-a839-0c4613eca000"),
                             FirstName = "Rycca",
                             LastName = "Maxwaile"
                         },
                         new
                         {
-                            Id = new Guid("22231497-c3c4-43c6-8764-e008fe5062dc"),
+                            Id = new Guid("dba99c21-e783-4300-9e3e-cfc4a16d9593"),
                             FirstName = "Brock",
                             LastName = "Springall"
                         },
                         new
                         {
-                            Id = new Guid("00d9a9b2-5d08-4bd3-b854-28228db24210"),
+                            Id = new Guid("3b51c61a-4895-4f6d-a9b4-e3b3bbc2d735"),
                             FirstName = "Gerome",
                             LastName = "Tarr"
                         },
                         new
                         {
-                            Id = new Guid("79fd3b14-3e12-4d26-a6d3-ef93f0aa8be0"),
+                            Id = new Guid("03c6e334-85a2-4b2a-8703-e5e8ab1170f3"),
                             FirstName = "Farica",
                             LastName = "Abramcik"
                         },
                         new
                         {
-                            Id = new Guid("6b98801c-0e77-48cb-b9c3-0a1fbf103f53"),
+                            Id = new Guid("ae7f62d5-5f11-4814-8cad-82ec3b4c3450"),
                             FirstName = "Chloe",
                             LastName = "Evens"
                         },
                         new
                         {
-                            Id = new Guid("b4b2e261-47f1-42fa-9571-439cb8214205"),
+                            Id = new Guid("6d09f403-4e1b-4dce-8682-a917e1d72795"),
                             FirstName = "Holly",
                             LastName = "Presley"
                         },
                         new
                         {
-                            Id = new Guid("e625ce4e-cec8-433c-bb00-38923eab6db5"),
+                            Id = new Guid("8e6a6aa0-48bf-477e-93b9-894510dcb1e9"),
                             FirstName = "Susy",
                             LastName = "Taile"
                         },
                         new
                         {
-                            Id = new Guid("a0b4c6dd-b63e-4341-8f10-2cbcd0bda92a"),
+                            Id = new Guid("a1ea82aa-74bb-4906-b702-90e2fa09bd8b"),
                             FirstName = "Auberta",
                             LastName = "Hartopp"
                         },
                         new
                         {
-                            Id = new Guid("54648055-58e3-4fc6-85f7-717b68affa82"),
+                            Id = new Guid("e7d23dbf-da18-43e9-815a-8267af16c8d6"),
                             FirstName = "Lorry",
                             LastName = "Fearnley"
                         },
                         new
                         {
-                            Id = new Guid("e369fca0-2e05-447b-b86f-c322c81af86f"),
+                            Id = new Guid("5fdd95d7-429f-4aac-89c6-eb836f8f0c2b"),
                             FirstName = "Augusto",
                             LastName = "Scogin"
                         },
                         new
                         {
-                            Id = new Guid("9ea07d3d-fb8c-4593-a762-ed8f0ed73b5a"),
+                            Id = new Guid("d83a1181-6e0e-4312-b804-7d7eb4ce7ff2"),
                             FirstName = "Eimile",
                             LastName = "McLeish"
                         },
                         new
                         {
-                            Id = new Guid("5d57707b-c549-4e16-8198-210e6540eea7"),
+                            Id = new Guid("b6a81663-1a4e-4d7e-af22-186bd897a21e"),
                             FirstName = "Moyna",
                             LastName = "Phebey"
                         },
                         new
                         {
-                            Id = new Guid("1c698679-a452-4b49-b00c-0a7781948e64"),
+                            Id = new Guid("df578679-4931-4ebe-857e-bb41ff0b2488"),
                             FirstName = "Broderic",
                             LastName = "Andrelli"
                         },
                         new
                         {
-                            Id = new Guid("a678f50c-92eb-46d9-a079-99b86cd5cdf2"),
+                            Id = new Guid("f97e72b6-9d33-4b0d-b43c-57a4658cbfe9"),
                             FirstName = "Janelle",
                             LastName = "Callen"
                         },
                         new
                         {
-                            Id = new Guid("af862d57-03a2-4c61-8839-02eb30a1b1b1"),
+                            Id = new Guid("648a3948-8132-440b-99c7-018a1ccd46db"),
                             FirstName = "Urbanus",
                             LastName = "Urpeth"
                         },
                         new
                         {
-                            Id = new Guid("f7781d83-6905-4865-aac2-ba841334fe0c"),
+                            Id = new Guid("4626846a-15a7-4cbb-9ad9-21bef51fd6e3"),
                             FirstName = "Rayna",
                             LastName = "Crowcher"
                         },
                         new
                         {
-                            Id = new Guid("f4e8c5d0-6100-4be5-9750-9f23679b9c1d"),
+                            Id = new Guid("94711892-cc09-4cff-be09-15dd37732ab0"),
                             FirstName = "Sonia",
                             LastName = "Chinnock"
                         },
                         new
                         {
-                            Id = new Guid("1ccffb1f-9a1c-4638-87c5-5c2c550de5e8"),
+                            Id = new Guid("792b6a98-1fb0-4337-87a5-1d3c05661de9"),
                             FirstName = "Ivory",
                             LastName = "Goldin"
                         },
                         new
                         {
-                            Id = new Guid("fcab4449-d994-4b52-b97a-d2e5ac311fc3"),
+                            Id = new Guid("37539d2d-7861-490b-8594-45723ac796c3"),
                             FirstName = "Coop",
                             LastName = "Kemery"
                         },
                         new
                         {
-                            Id = new Guid("0eaf9d32-8a14-4fe6-976d-fb9038f41908"),
+                            Id = new Guid("5f606dc1-a340-428a-97d4-0134a18e99d3"),
                             FirstName = "Nelle",
                             LastName = "Creane"
                         },
                         new
                         {
-                            Id = new Guid("358b3e0c-5255-429b-b66f-060aba39988d"),
+                            Id = new Guid("29677f89-e47c-47e9-9504-136c88b6d720"),
                             FirstName = "Osmund",
                             LastName = "Dunphie"
                         },
                         new
                         {
-                            Id = new Guid("21968877-5f38-4f92-b81d-5cb9a7a9ab0f"),
+                            Id = new Guid("6aceda05-f46f-4384-b5e5-76cca65403dd"),
                             FirstName = "Tamra",
                             LastName = "Aberchirder"
                         },
                         new
                         {
-                            Id = new Guid("1af6bab8-73c9-4ee7-b2bd-5a24daa9ffa2"),
+                            Id = new Guid("ce4872fd-8e1e-484f-a04e-e7c48ec10fdd"),
                             FirstName = "Enos",
                             LastName = "Stowell"
                         },
                         new
                         {
-                            Id = new Guid("cdff4303-21bf-4d90-a886-6335de74f006"),
+                            Id = new Guid("57e4194d-5e6d-4fc9-a62c-c273834accc8"),
                             FirstName = "Shalom",
                             LastName = "Drewery"
                         },
                         new
                         {
-                            Id = new Guid("b164b077-7332-44dc-a1ab-ada58c3bcb0c"),
+                            Id = new Guid("743fe476-fcdd-4ab4-a69b-b3ca244a1ffb"),
                             FirstName = "Wakefield",
                             LastName = "Krout"
                         },
                         new
                         {
-                            Id = new Guid("3910cab4-adc0-410f-ba56-90626ba23684"),
+                            Id = new Guid("34e15258-28ae-4dde-b2f1-08944087ec4d"),
                             FirstName = "Gianni",
                             LastName = "Keeping"
                         },
                         new
                         {
-                            Id = new Guid("81a5b860-3cbf-42a8-948c-46e22d7d0d0b"),
+                            Id = new Guid("3fbf7092-f6db-40f6-a071-e380fa7396b9"),
                             FirstName = "Harvey",
                             LastName = "Gribbin"
                         },
                         new
                         {
-                            Id = new Guid("61b67117-c535-4c4e-8e48-05d59cb76ad7"),
+                            Id = new Guid("7f810bfe-ac0b-4aaa-a544-3bd84ea45cbe"),
                             FirstName = "Dominik",
                             LastName = "Sevier"
                         },
                         new
                         {
-                            Id = new Guid("a8716f3a-676a-4e2a-a028-604b8ba2af4c"),
+                            Id = new Guid("f7bd8da9-4a94-4ec3-a376-f26908b9c4cb"),
                             FirstName = "Linea",
                             LastName = "Lawton"
                         },
                         new
                         {
-                            Id = new Guid("c82d6da0-3934-410a-ae20-cfb9dfbb0aec"),
+                            Id = new Guid("3d1981fb-f1cd-4086-bff5-85c21dc48f03"),
                             FirstName = "Herman",
                             LastName = "Hawley"
                         },
                         new
                         {
-                            Id = new Guid("debcaea6-d40d-4fe7-9d7c-9bf0aeded429"),
+                            Id = new Guid("b129a013-add4-45e2-b8ad-c07c506d8b15"),
                             FirstName = "Rab",
                             LastName = "Standen"
                         },
                         new
                         {
-                            Id = new Guid("c9894e9c-9b66-427c-92f0-30648a1e5810"),
+                            Id = new Guid("b6b2ec78-76d3-4b28-afe6-873b4a7143eb"),
                             FirstName = "Gabriello",
                             LastName = "Greaser"
                         },
                         new
                         {
-                            Id = new Guid("5f2c982d-53fd-4c4c-aaba-b79976b44c95"),
+                            Id = new Guid("0892978c-5ede-44be-a42d-69fdb882e8e0"),
                             FirstName = "Alard",
                             LastName = "Vader"
                         },
                         new
                         {
-                            Id = new Guid("0ec95507-4f2c-4f67-97fb-83d41b418265"),
+                            Id = new Guid("f33b3252-eb6f-459d-8816-8756827995b6"),
                             FirstName = "Alla",
                             LastName = "Greenslade"
                         },
                         new
                         {
-                            Id = new Guid("0ae2a8e7-e3d7-40d2-b5de-f8827665d132"),
+                            Id = new Guid("0fa413d4-0e0b-408b-8e3c-2e9c6a46ec07"),
                             FirstName = "Essa",
                             LastName = "Morit"
                         },
                         new
                         {
-                            Id = new Guid("bdb31640-a03f-4d73-bcb8-ca9f07c27385"),
+                            Id = new Guid("25e40565-abaa-457e-8c55-18d4b441d66f"),
                             FirstName = "Pascale",
                             LastName = "Gunning"
                         },
                         new
                         {
-                            Id = new Guid("72ddafc0-9849-40cc-b04c-10050d485c26"),
+                            Id = new Guid("cdc82997-b50f-44c0-a80e-9b8ea5fe630a"),
                             FirstName = "Ravid",
                             LastName = "Winger"
                         },
                         new
                         {
-                            Id = new Guid("a24f5065-0904-4ac8-8d98-30979ee24fd9"),
+                            Id = new Guid("0c1fe721-2e82-4412-a06f-b722dcf9ef06"),
                             FirstName = "Noami",
                             LastName = "Stallard"
                         },
                         new
                         {
-                            Id = new Guid("e3e89c5e-d1e3-4e08-9e9f-2e3d6498196a"),
+                            Id = new Guid("2e810b02-0bf6-4851-bf84-6d10ce991ec1"),
                             FirstName = "Val",
                             LastName = "Schrader"
                         },
                         new
                         {
-                            Id = new Guid("888f4e1a-d257-4352-b778-0844eae5bdea"),
+                            Id = new Guid("5511bc8f-6f52-4350-976c-c2959bf23b97"),
                             FirstName = "Gaspar",
                             LastName = "Redman"
                         },
                         new
                         {
-                            Id = new Guid("232f5d75-8488-447f-8b6a-8de60c3673af"),
+                            Id = new Guid("e2ce7591-8e5f-4e16-9345-eb9fac911f90"),
                             FirstName = "Odille",
                             LastName = "Ivanenkov"
                         },
                         new
                         {
-                            Id = new Guid("ad1e5cb4-e2a4-437f-87c2-e76a78e4d0e5"),
+                            Id = new Guid("0cfe6fc8-62d2-4a55-8a7a-879207aea99e"),
                             FirstName = "Demetria",
                             LastName = "Ingerith"
                         },
                         new
                         {
-                            Id = new Guid("2ca0a633-a9d0-4acd-8441-de22f7bf1298"),
+                            Id = new Guid("394d32dd-a0ad-4fac-963c-e4800d2f6c3a"),
                             FirstName = "Tynan",
                             LastName = "Seneschal"
                         },
                         new
                         {
-                            Id = new Guid("7de4bc97-05f9-48e2-a848-f1971a19706a"),
+                            Id = new Guid("c5a1ce97-72d4-44f6-83b2-0f7770d4af89"),
                             FirstName = "Adrian",
                             LastName = "Briers"
                         },
                         new
                         {
-                            Id = new Guid("6b751a89-1e62-43ca-b754-2a4123355c9f"),
+                            Id = new Guid("5d4c518a-41d3-408c-a8c6-466dab473374"),
                             FirstName = "Leanora",
                             LastName = "Schoffel"
                         },
                         new
                         {
-                            Id = new Guid("55b8b7d9-5078-4e2e-9a0f-bbace7d2ba4b"),
+                            Id = new Guid("3f35586c-0eb4-436e-a24c-ba1f461a7c63"),
                             FirstName = "Peyter",
                             LastName = "Craghead"
                         },
                         new
                         {
-                            Id = new Guid("d1366bc9-d394-4617-a7da-855969af4d93"),
+                            Id = new Guid("e97758d5-d7d0-4020-afa3-c0ca3bfffebe"),
                             FirstName = "Barbette",
                             LastName = "Gay"
                         },
                         new
                         {
-                            Id = new Guid("55d8d918-c387-4b88-b778-01c183d4d854"),
+                            Id = new Guid("356e93af-d0f1-4a0f-b5a4-18936fc8c54b"),
                             FirstName = "Robin",
                             LastName = "Ilieve"
                         },
                         new
                         {
-                            Id = new Guid("8e172b22-464d-4821-9e44-42930a56bba8"),
+                            Id = new Guid("e52b8229-5a16-45dc-9c78-08db9dc64a2b"),
                             FirstName = "Nannette",
                             LastName = "Elijah"
                         },
                         new
                         {
-                            Id = new Guid("dbb45e0d-e5fc-462e-b783-62a2c2dc8d87"),
+                            Id = new Guid("74d7e985-b4d5-4c44-9390-e1a3d89197a4"),
                             FirstName = "Kiri",
                             LastName = "Lammerding"
                         },
                         new
                         {
-                            Id = new Guid("a8aa50b5-fdf3-4655-8949-92fe84eb9f79"),
+                            Id = new Guid("f534872d-f10e-4f24-9fd5-42406ae95e4b"),
                             FirstName = "Gabby",
                             LastName = "Prinett"
                         },
                         new
                         {
-                            Id = new Guid("8e327be4-3ed7-43ff-8c05-6dbaa197a0f7"),
+                            Id = new Guid("d9005a46-61f1-496d-a5e7-69fffae218c8"),
                             FirstName = "Romain",
                             LastName = "Yacob"
                         },
                         new
                         {
-                            Id = new Guid("9c9eb9df-a946-4a61-8ea7-51c5520c10ad"),
+                            Id = new Guid("5e8106e1-1da0-48b8-9952-af793e65f698"),
                             FirstName = "Dolorita",
                             LastName = "Gascoigne"
                         },
                         new
                         {
-                            Id = new Guid("48ca3dda-0ab9-4a6b-825b-8b839212ace8"),
+                            Id = new Guid("203fec56-44d4-4392-98d2-b749e6d7dcde"),
                             FirstName = "Myrta",
                             LastName = "KnollesGreen"
                         },
                         new
                         {
-                            Id = new Guid("8af7a947-e742-4f20-93c1-56c546a3aed2"),
+                            Id = new Guid("faf90c18-9421-48ea-83fc-3b588e122c09"),
                             FirstName = "Debi",
                             LastName = "Campo"
                         },
                         new
                         {
-                            Id = new Guid("08fc654a-4ce7-43ea-bed1-17e42473c8b0"),
+                            Id = new Guid("e44d7dc0-3985-4921-85e9-4ce08fef8bd7"),
                             FirstName = "Nissa",
                             LastName = "Tockell"
                         },
                         new
                         {
-                            Id = new Guid("2bf8eb10-b658-4b7c-8f3f-0c83afc6f851"),
+                            Id = new Guid("9ab47aaa-0d0e-408d-995e-1913cc871303"),
                             FirstName = "Morry",
                             LastName = "Aksell"
                         },
                         new
                         {
-                            Id = new Guid("65059c5b-9872-49bb-b477-ce1c89bd0cce"),
+                            Id = new Guid("558c152a-9a94-4f61-9db4-3b29d1bb022e"),
                             FirstName = "Sherwin",
                             LastName = "Keningley"
                         },
                         new
                         {
-                            Id = new Guid("6fcf8b1c-e7a0-496b-a86a-c8c6222a2e98"),
+                            Id = new Guid("51ef978f-f107-4dc7-ab79-f5fdc9fc3ad0"),
                             FirstName = "Lynette",
                             LastName = "Saer"
                         },
                         new
                         {
-                            Id = new Guid("8a626998-9601-4e54-a607-3144cbc8c87f"),
+                            Id = new Guid("03458824-6f8d-4a1f-aa92-c9525b3da309"),
                             FirstName = "Camile",
                             LastName = "Pietrasik"
                         },
                         new
                         {
-                            Id = new Guid("fcb3c996-c794-454a-9a16-4a2565f65288"),
+                            Id = new Guid("a4be2992-15b9-43eb-ace7-9d7ae47cd4db"),
                             FirstName = "Hermie",
                             LastName = "Lodford"
                         },
                         new
                         {
-                            Id = new Guid("1087b4c4-fff3-4ebe-86b0-36ab5acd10cb"),
+                            Id = new Guid("7cdf970f-b0b6-457f-9e7e-c352867b094f"),
                             FirstName = "Shelley",
                             LastName = "Crippill"
                         },
                         new
                         {
-                            Id = new Guid("de50ff19-01f2-49f1-9ea5-2e779b0486ac"),
+                            Id = new Guid("c1e26e3b-29a2-418e-9165-61ace8914242"),
                             FirstName = "Abie",
                             LastName = "Hubbucks"
                         },
                         new
                         {
-                            Id = new Guid("fc5d433e-16f2-49e8-96fc-46d1ebdacd59"),
+                            Id = new Guid("648b4304-96a3-4a50-9d97-53bc8d482b4d"),
                             FirstName = "Ellyn",
                             LastName = "Quiddington"
                         },
                         new
                         {
-                            Id = new Guid("3290f419-20f9-4364-aaff-2279b09abe4d"),
+                            Id = new Guid("be56bfee-1c60-4fc1-bb82-3ed47cc341db"),
                             FirstName = "Anitra",
                             LastName = "Willman"
                         },
                         new
                         {
-                            Id = new Guid("3509cb67-69dc-4549-8169-e4d6b06df798"),
+                            Id = new Guid("70881f09-6c14-4605-aa15-e05b5a1af5c6"),
                             FirstName = "Pat",
                             LastName = "Birkwood"
                         },
                         new
                         {
-                            Id = new Guid("fb315e98-151b-4164-9e0a-fea62de9253b"),
+                            Id = new Guid("41504f72-416c-483b-9f7f-63f6b063b3dc"),
                             FirstName = "Ferrell",
                             LastName = "Capron"
                         },
                         new
                         {
-                            Id = new Guid("d3b1c94b-b992-4ed7-b559-8e94f675137d"),
+                            Id = new Guid("aa642f02-1a69-4d37-b0d9-ef252c9edbfc"),
                             FirstName = "Koressa",
                             LastName = "Burree"
                         },
                         new
                         {
-                            Id = new Guid("09399070-fd8f-4a0e-9d27-261fe7b3a288"),
+                            Id = new Guid("4a64c0ff-421e-4385-a440-df59d91c31ec"),
                             FirstName = "Immanuel",
                             LastName = "Gelland"
                         },
                         new
                         {
-                            Id = new Guid("7cbe3881-44c6-4a91-96ab-9acafa35f716"),
+                            Id = new Guid("17347048-7d92-448a-9632-744f2c55de09"),
                             FirstName = "Jenica",
                             LastName = "Abram"
                         },
                         new
                         {
-                            Id = new Guid("2b43a6b1-51dc-41ec-8525-6f9fc8e73da7"),
+                            Id = new Guid("494eede2-a3a8-4463-8bc5-0036ed6c09ad"),
                             FirstName = "Lelah",
                             LastName = "Leverington"
                         },
                         new
                         {
-                            Id = new Guid("9d5b08b1-dee6-4e69-817e-a8bf92d81124"),
+                            Id = new Guid("31638203-4647-43ed-96cf-eb0accfddb62"),
                             FirstName = "Ertha",
                             LastName = "Lynthal"
                         },
                         new
                         {
-                            Id = new Guid("3868539d-b516-43d0-8b14-5153d2b034bb"),
+                            Id = new Guid("c6abc4b7-6b3e-4fe5-87db-84a209725057"),
                             FirstName = "Dniren",
                             LastName = "Hairsnape"
                         },
                         new
                         {
-                            Id = new Guid("587c4769-f9f4-4071-a4aa-5657ff07f98d"),
+                            Id = new Guid("011b85c6-4574-4739-8b80-c1349434a908"),
                             FirstName = "Jarret",
                             LastName = "Jakov"
                         },
                         new
                         {
-                            Id = new Guid("b77e350a-0e9c-43cf-9cbd-b8b0d4ca029b"),
+                            Id = new Guid("32bc8550-3e0f-4a7a-971f-577f71ae3e67"),
                             FirstName = "Demetra",
                             LastName = "Conelly"
                         },
                         new
                         {
-                            Id = new Guid("7d3ef2f1-b0a7-492d-bd40-e5194229ce2b"),
+                            Id = new Guid("185539ed-bee6-4c52-a26e-fb3536b0cf4c"),
                             FirstName = "Emlynne",
                             LastName = "Lehr"
                         },
                         new
                         {
-                            Id = new Guid("099b4dc2-bb45-4315-97dc-cf885108c8a0"),
+                            Id = new Guid("6cee2cfc-655d-4d55-abf4-72d29f792fe2"),
                             FirstName = "Charley",
                             LastName = "Draysay"
                         },
                         new
                         {
-                            Id = new Guid("e3f10016-7502-4a71-bdc0-9c22cf6a5bd8"),
+                            Id = new Guid("0c2f46c2-b012-49e6-8324-361d76af9da8"),
                             FirstName = "Merwyn",
                             LastName = "Whaites"
                         },
                         new
                         {
-                            Id = new Guid("8c2457e6-d528-4cca-9965-b47a47643d55"),
+                            Id = new Guid("67c3f4ab-4aec-45bb-a76c-3f75e7ff7c38"),
                             FirstName = "Tonya",
                             LastName = "McFaul"
                         },
                         new
                         {
-                            Id = new Guid("a59d0611-a60b-479c-b95e-d49076a61694"),
+                            Id = new Guid("6548edce-bdbb-4c18-84b5-79f8d9922122"),
                             FirstName = "Josey",
                             LastName = "Lindstedt"
                         },
                         new
                         {
-                            Id = new Guid("0714e1e9-744c-4789-8f3b-c2e82f2370d4"),
+                            Id = new Guid("4cc07e9f-179f-4b36-8f5c-267162831a03"),
                             FirstName = "Kimbell",
                             LastName = "Haughan"
                         },
                         new
                         {
-                            Id = new Guid("8e3c13b0-12ad-4e03-a097-560841a5733e"),
+                            Id = new Guid("ca121533-5548-4bb2-99a0-22aa963d1bc2"),
                             FirstName = "Geno",
                             LastName = "Micka"
                         },
                         new
                         {
-                            Id = new Guid("d9165e31-be69-48aa-82e5-23c8b75e6949"),
+                            Id = new Guid("c6539d29-39c9-45c8-b523-ed86ec47fd6e"),
                             FirstName = "Pia",
                             LastName = "Rewan"
                         },
                         new
                         {
-                            Id = new Guid("816e54ab-c013-4211-82dd-4c7cf3c5f5b3"),
+                            Id = new Guid("864892a2-e561-4829-b5bd-67192df2509d"),
                             FirstName = "Suzi",
                             LastName = "Dungate"
                         },
                         new
                         {
-                            Id = new Guid("84e4ce3d-6234-4e46-93f1-cddb7624e95b"),
+                            Id = new Guid("f7959ba7-2b7c-47a7-a457-b644b9918c37"),
                             FirstName = "Ernaline",
                             LastName = "Carff"
                         },
                         new
                         {
-                            Id = new Guid("b45fe7f9-7bbe-48f2-864e-520814d0628e"),
+                            Id = new Guid("98c23f72-996a-4c9d-90f3-b3ce2cd867c4"),
                             FirstName = "Jedidiah",
                             LastName = "Dasent"
                         },
                         new
                         {
-                            Id = new Guid("ce6cca0b-4a61-4dcb-8f0d-f6f0d36df456"),
+                            Id = new Guid("399131ea-d253-42fe-8220-31d39d89014e"),
                             FirstName = "Durante",
                             LastName = "Semiraz"
                         },
                         new
                         {
-                            Id = new Guid("a255f733-b873-4c45-8d80-ee885b918755"),
+                            Id = new Guid("c18d2d17-88f3-4234-b5c7-0a305229bff5"),
                             FirstName = "Hugo",
                             LastName = "Bettinson"
                         },
                         new
                         {
-                            Id = new Guid("4ce4ce9b-9e65-4e56-94d6-958b404eaab9"),
+                            Id = new Guid("b5ee355f-1405-49d7-95b8-fc51f7bec233"),
                             FirstName = "Phil",
                             LastName = "Corpes"
                         },
                         new
                         {
-                            Id = new Guid("35a17d4c-3203-4643-b237-4578b56c5877"),
+                            Id = new Guid("c72f4efc-493a-42b5-b778-7d5962fbddfb"),
                             FirstName = "Walt",
                             LastName = "VanderBrugge"
                         },
                         new
                         {
-                            Id = new Guid("0ceed50a-7558-4742-baf6-d1a2d9f834ef"),
+                            Id = new Guid("ba65f907-903d-4311-ba42-2a17cc4dc7d6"),
                             FirstName = "Sybila",
                             LastName = "Attryde"
                         },
                         new
                         {
-                            Id = new Guid("2f9afb16-d08e-4cb5-9b1e-69a0a4d55491"),
+                            Id = new Guid("1b7fed46-7295-447b-b394-433fb67d56f3"),
                             FirstName = "Henri",
                             LastName = "Armitage"
                         },
                         new
                         {
-                            Id = new Guid("13bdcc94-9328-45bc-b159-2961df06d42a"),
+                            Id = new Guid("6fc990d0-e771-4467-aad4-8c3ea636ab91"),
                             FirstName = "Mela",
                             LastName = "Dickinson"
                         },
                         new
                         {
-                            Id = new Guid("ceab4e73-213b-494e-b74c-4dc371eff1aa"),
+                            Id = new Guid("75dc85fb-08d9-4c6b-8f3b-dabd001f1353"),
                             FirstName = "Irvine",
                             LastName = "Salvage"
                         },
                         new
                         {
-                            Id = new Guid("666fdd39-a35e-40a5-b61f-52fbf324895b"),
+                            Id = new Guid("8f2afdf8-44fb-494a-a616-4316fbc54aa1"),
                             FirstName = "Wylie",
                             LastName = "Hayden"
                         },
                         new
                         {
-                            Id = new Guid("96813ea2-1794-4df1-86e0-640f94734e5d"),
+                            Id = new Guid("40b3d404-2ffd-4d6e-8d4f-159bfc28675c"),
                             FirstName = "Bron",
                             LastName = "Eitter"
                         },
                         new
                         {
-                            Id = new Guid("5a7ea557-47a8-4b28-be39-90b80c104170"),
+                            Id = new Guid("51003912-da70-4af3-a353-da4ee82fc264"),
                             FirstName = "Mata",
                             LastName = "Scrinage"
                         },
                         new
                         {
-                            Id = new Guid("c70ba4b6-6477-4542-a5e1-eacf1a011afd"),
+                            Id = new Guid("79238192-8097-4638-b563-e4785ae3361c"),
                             FirstName = "Nanette",
                             LastName = "Lafferty"
                         },
                         new
                         {
-                            Id = new Guid("1fc9d5bc-6f28-405b-8a9e-1dcc73e883d6"),
+                            Id = new Guid("524e4f4b-4f91-45d0-9544-bdd15e2487e4"),
                             FirstName = "Jonis",
                             LastName = "Griffen"
                         },
                         new
                         {
-                            Id = new Guid("dec7cdcf-a00a-4776-9bff-b7e63fe38b2f"),
+                            Id = new Guid("8135d923-47f7-4148-bd36-b000c9c4d83a"),
                             FirstName = "Renato",
                             LastName = "Lowey"
                         },
                         new
                         {
-                            Id = new Guid("7304daf2-8df7-451e-b35d-56e6cc94d092"),
+                            Id = new Guid("2a32935e-3e8a-4e01-8a48-a9ddf4b53d80"),
                             FirstName = "Padgett",
                             LastName = "Firth"
                         },
                         new
                         {
-                            Id = new Guid("6362ec8b-4798-4485-9d78-09a367dbd7ae"),
+                            Id = new Guid("ceb0337a-2a57-494f-aac0-ea8fa31eed76"),
                             FirstName = "Hube",
                             LastName = "Stetson"
                         },
                         new
                         {
-                            Id = new Guid("f1e93272-da66-4117-b84f-21a4c154ee71"),
+                            Id = new Guid("c0648f7d-3742-435e-9378-ddae1b335508"),
                             FirstName = "Bo",
                             LastName = "MacNally"
                         },
                         new
                         {
-                            Id = new Guid("c1046597-72fa-4425-bbe4-1bd54f39436e"),
+                            Id = new Guid("3fcf1b93-b48b-4b93-acbf-7a107d8a558d"),
                             FirstName = "Doris",
                             LastName = "Grills"
                         },
                         new
                         {
-                            Id = new Guid("2911d037-b839-4428-8fcc-e15ea3474c7e"),
+                            Id = new Guid("fa8826fe-32c6-4b05-917e-644c8d086c66"),
                             FirstName = "Doro",
                             LastName = "Cowoppe"
                         },
                         new
                         {
-                            Id = new Guid("ce32cece-a2aa-4783-85c9-4a9932d9a571"),
+                            Id = new Guid("386b5f76-9fc7-4cef-acbf-8a813b417a5b"),
                             FirstName = "Seth",
                             LastName = "Rudolfer"
                         },
                         new
                         {
-                            Id = new Guid("ecdd311d-8fde-46b4-82c2-3505281d8c33"),
+                            Id = new Guid("f16b1f29-ec27-4c67-8be7-e6011f45daea"),
                             FirstName = "Gillian",
                             LastName = "Cino"
                         },
                         new
                         {
-                            Id = new Guid("bc65bda2-f50a-4cd8-a1c4-ede9e5b53b99"),
+                            Id = new Guid("192938f3-0042-48dd-b54c-457d4bdba2e9"),
                             FirstName = "Andros",
                             LastName = "Heare"
                         },
                         new
                         {
-                            Id = new Guid("3d6a3581-5b67-44da-a0db-effa4d1bd91b"),
+                            Id = new Guid("189f64c7-1d87-49ae-b90a-86132ec97738"),
                             FirstName = "Flossi",
                             LastName = "Boddie"
                         },
                         new
                         {
-                            Id = new Guid("9150f2b1-ae54-42a7-b70c-c9c1bf768ba3"),
+                            Id = new Guid("d490e50a-1e6d-4f9a-995e-07e6dd555750"),
                             FirstName = "Cyril",
                             LastName = "Giovannazzi"
                         },
                         new
                         {
-                            Id = new Guid("767be4eb-dc82-4a86-9c72-9938f0c1a54a"),
+                            Id = new Guid("8874e779-cf19-4a90-af3f-6063d3bdccc2"),
                             FirstName = "Clarence",
                             LastName = "Acory"
                         },
                         new
                         {
-                            Id = new Guid("0177be2d-065e-4507-874c-82ce6135f402"),
+                            Id = new Guid("ddcdbe50-5201-46ec-b655-5d10493bd18e"),
                             FirstName = "Claiborne",
                             LastName = "Parbrook"
                         },
                         new
                         {
-                            Id = new Guid("c3df19ea-6117-4897-8002-2a5290491803"),
+                            Id = new Guid("9d4283e3-f3bb-4823-95c8-e8b8e2ae062e"),
                             FirstName = "Clementina",
                             LastName = "Dendle"
                         },
                         new
                         {
-                            Id = new Guid("68906ff8-ef6e-4d26-8534-7601ad9b0fcd"),
+                            Id = new Guid("53f875a5-2d2f-4d5c-9677-3d075dced9f7"),
                             FirstName = "Jere",
                             LastName = "Coat"
                         },
                         new
                         {
-                            Id = new Guid("889ef92f-5075-477b-a2e9-2e844824e416"),
+                            Id = new Guid("b06a3fd0-507b-4c39-9e4c-90f847927659"),
                             FirstName = "Theadora",
                             LastName = "Mosedall"
                         },
                         new
                         {
-                            Id = new Guid("5a431516-a853-4511-b84a-092c5e7a4fa7"),
+                            Id = new Guid("eb4b6e0a-857d-47d0-9b0f-3fa54de4031b"),
                             FirstName = "Hendrick",
                             LastName = "Arnaud"
                         },
                         new
                         {
-                            Id = new Guid("17c501fe-3fbe-4b4b-b9ea-b7d854aaa76b"),
+                            Id = new Guid("9d553ba5-bdcf-43c7-8065-f68f8c5a50d1"),
                             FirstName = "Nickola",
                             LastName = "Sazio"
                         },
                         new
                         {
-                            Id = new Guid("ee4227c5-ee55-4a41-b8e2-f68c4ff24908"),
+                            Id = new Guid("f06d87ba-8d56-4148-9ec8-d6fb66f4abec"),
                             FirstName = "Ashbey",
                             LastName = "Burchatt"
                         },
                         new
                         {
-                            Id = new Guid("e32e909d-9766-4659-8656-be448c2ce8df"),
+                            Id = new Guid("f54082ef-8299-4c79-a1af-a3b1ab9fa982"),
                             FirstName = "Les",
                             LastName = "Gipp"
                         },
                         new
                         {
-                            Id = new Guid("213aa447-ee90-4a85-80b8-355431d61d95"),
+                            Id = new Guid("1018ff22-05e3-4917-b48f-d97b053071cf"),
                             FirstName = "Michaela",
                             LastName = "Chainey"
                         },
                         new
                         {
-                            Id = new Guid("6c116e93-222e-4813-bd35-97af4e0626eb"),
+                            Id = new Guid("b6cc7c00-98fd-4867-a1a2-502595140979"),
                             FirstName = "Lauren",
                             LastName = "Doodney"
                         },
                         new
                         {
-                            Id = new Guid("2af7736a-a2ec-40a6-95b1-522d6da0c69e"),
+                            Id = new Guid("fd41bc60-932a-4e8d-a6c3-273fb78e7586"),
                             FirstName = "Constancia",
                             LastName = "Woltering"
                         },
                         new
                         {
-                            Id = new Guid("2145fbbf-8504-4e49-9a46-7748608fef9d"),
+                            Id = new Guid("e5ea47d3-ee91-410f-ad13-d191151ce7b1"),
                             FirstName = "Darn",
                             LastName = "LeGalle"
                         },
                         new
                         {
-                            Id = new Guid("f344d0a6-bd6e-41d2-8e8e-4ee6626cd34b"),
+                            Id = new Guid("6aa62c54-cc63-4c3d-8098-01b04ae70918"),
                             FirstName = "Corrie",
                             LastName = "Butterley"
                         },
                         new
                         {
-                            Id = new Guid("eb5c449a-303e-4f73-a386-cd79ea2e5d88"),
+                            Id = new Guid("859d5b54-8a61-41b8-85aa-2bd1bb6c11c4"),
                             FirstName = "Cristi",
                             LastName = "Lammers"
                         },
                         new
                         {
-                            Id = new Guid("91cf8bd5-b2a7-49a9-8166-95b73559ad5a"),
+                            Id = new Guid("5446dc0d-8f2c-421d-ba51-23e441194589"),
                             FirstName = "Reid",
                             LastName = "Marchelli"
                         },
                         new
                         {
-                            Id = new Guid("2db3fd3c-76ed-4f66-9561-9704b50c904d"),
+                            Id = new Guid("6e7e90c0-3721-487e-9dae-088a759fd02d"),
                             FirstName = "Sonny",
                             LastName = "Meugens"
                         },
                         new
                         {
-                            Id = new Guid("f48e6883-2966-4822-8433-b18d619808ea"),
+                            Id = new Guid("613d4a1f-13c8-4e21-9fa8-390b00be9e5a"),
                             FirstName = "Elli",
                             LastName = "Southward"
                         },
                         new
                         {
-                            Id = new Guid("646c41f6-2b19-4daa-abc9-f0c268f910ef"),
+                            Id = new Guid("0f01dba9-4cf0-4e90-bd49-b35f1fa475b7"),
                             FirstName = "Kit",
                             LastName = "Hows"
                         },
                         new
                         {
-                            Id = new Guid("2dc83419-8e8e-4dc1-acef-20ecc8af7807"),
+                            Id = new Guid("87ed016f-2f39-4305-a7c7-e3b2281f2c4f"),
                             FirstName = "Justine",
                             LastName = "Vigar"
                         },
                         new
                         {
-                            Id = new Guid("2c6ecb2e-93ac-4488-a27f-94e1e3c102b6"),
+                            Id = new Guid("67efc3d8-32b6-4ffe-b164-ef5f48b40b25"),
                             FirstName = "Rycca",
                             LastName = "Broomer"
                         },
                         new
                         {
-                            Id = new Guid("ea0c9879-b19b-4e47-8879-1b1ac5b9536b"),
+                            Id = new Guid("8fea1d14-14ca-4625-b44e-c47b24c3ddd0"),
                             FirstName = "Bondie",
                             LastName = "Aylin"
                         },
                         new
                         {
-                            Id = new Guid("a185dc5f-bec3-434e-8b92-44113233ff39"),
+                            Id = new Guid("ec8dda44-6b62-4c3a-87d2-f0e544764edb"),
                             FirstName = "Ryun",
                             LastName = "Fevier"
                         },
                         new
                         {
-                            Id = new Guid("17720fce-3f27-4378-b9ee-6894e41e52ef"),
+                            Id = new Guid("4f9ce434-411e-4718-88ab-d5b1d650aeec"),
                             FirstName = "Ado",
                             LastName = "Burkett"
                         },
                         new
                         {
-                            Id = new Guid("228ae30e-cfed-4656-afd7-8dfe93e0ae84"),
+                            Id = new Guid("7a67ba7e-3259-4da0-8cb0-302b174a8e37"),
                             FirstName = "Wesley",
                             LastName = "Reyne"
                         },
                         new
                         {
-                            Id = new Guid("183d095f-9bea-4436-a306-81d396201c95"),
+                            Id = new Guid("75505f29-4061-4871-bd78-c3a94cd876b0"),
                             FirstName = "Arie",
                             LastName = "Richford"
                         },
                         new
                         {
-                            Id = new Guid("9bba696d-9d79-4338-a1ab-e214d32254a0"),
+                            Id = new Guid("f9afd024-f506-4c1d-837c-b53396db7a66"),
                             FirstName = "Hammad",
                             LastName = "Alliker"
                         },
                         new
                         {
-                            Id = new Guid("27979bf2-f76e-43b6-b1a3-00f018bc28f9"),
+                            Id = new Guid("92595fd5-0b4a-43da-a140-34202a0387d9"),
                             FirstName = "Hermia",
                             LastName = "Filby"
                         },
                         new
                         {
-                            Id = new Guid("02089dca-80a6-4eeb-8f9f-e6b392f76f9d"),
+                            Id = new Guid("22cb78f6-a269-4fd8-ba39-e0c269281678"),
                             FirstName = "Elfrieda",
                             LastName = "Empringham"
                         },
                         new
                         {
-                            Id = new Guid("3d78729b-0a4f-4e86-a707-15d5be2e328e"),
+                            Id = new Guid("32e36780-7b7b-4663-8f2f-965642cfe5ee"),
                             FirstName = "Aviva",
                             LastName = "Botterell"
                         },
                         new
                         {
-                            Id = new Guid("6bf33252-eb9b-4b3a-914b-c05a1a74d4d6"),
+                            Id = new Guid("f501ec6e-3e38-4752-beeb-3f2f6f5e03b5"),
                             FirstName = "Madelon",
                             LastName = "Vitall"
                         },
                         new
                         {
-                            Id = new Guid("394b5eca-1ebd-4ea2-a9ac-b03cbaa71e07"),
+                            Id = new Guid("65ef63a0-b974-4f56-92ba-b64dd3e7653b"),
                             FirstName = "Lilla",
                             LastName = "Gaitone"
                         },
                         new
                         {
-                            Id = new Guid("0d5ffc92-f835-466a-b57b-bb5539613e8b"),
+                            Id = new Guid("dec31e21-a54d-424f-b76c-4f58d1120997"),
                             FirstName = "Cloris",
                             LastName = "Chewter"
                         },
                         new
                         {
-                            Id = new Guid("fe69727f-3a9c-45b6-98ff-40e2fcabf918"),
+                            Id = new Guid("70b30ddd-7341-447e-9acb-92c5dfd9f35d"),
                             FirstName = "Callie",
                             LastName = "Eicheler"
                         },
                         new
                         {
-                            Id = new Guid("a5114f33-615c-4c6f-8e19-d1d06ca3ee9a"),
+                            Id = new Guid("e4d348a5-9076-4c04-b7bf-92f315c83834"),
                             FirstName = "Renato",
                             LastName = "Lambrook"
                         },
                         new
                         {
-                            Id = new Guid("4faa4f23-0f75-441f-8048-d9f0338101c0"),
+                            Id = new Guid("93c1f8b3-1991-4287-8de4-08586d35bbba"),
                             FirstName = "Rubia",
                             LastName = "Lacheze"
                         },
                         new
                         {
-                            Id = new Guid("4196a6be-f3b9-4bb5-a7f6-8c97cd627cf3"),
+                            Id = new Guid("33f3f9be-d120-45a6-9e0a-559085c1310e"),
                             FirstName = "Livvie",
                             LastName = "Geake"
                         },
                         new
                         {
-                            Id = new Guid("7fed3ea5-9f37-4543-a2c1-64718dac6142"),
+                            Id = new Guid("bd8043d0-3eb1-41fb-9894-1f7389753cf0"),
                             FirstName = "Sari",
                             LastName = "Gremane"
                         },
                         new
                         {
-                            Id = new Guid("c691ae42-7764-47df-a354-1ed5df0230a3"),
+                            Id = new Guid("b4de5104-cf47-4d91-8f4f-1a85bd609b10"),
                             FirstName = "Benn",
                             LastName = "Starcks"
                         },
                         new
                         {
-                            Id = new Guid("22094962-1789-45e3-8249-c6859c8fbcad"),
+                            Id = new Guid("3e520bfd-9c88-4671-82c5-269e41ace7e6"),
                             FirstName = "Reeva",
                             LastName = "Brumwell"
                         },
                         new
                         {
-                            Id = new Guid("a1ceb583-6417-4664-aac4-193be893832b"),
+                            Id = new Guid("e2d97f39-3df7-44dd-858a-2d3f94799ba8"),
                             FirstName = "Gill",
                             LastName = "Drewell"
                         },
                         new
                         {
-                            Id = new Guid("38509b37-9a4a-46e2-9941-87e047cfb7ac"),
+                            Id = new Guid("1d2ed38a-b166-4e1e-b29b-77b40826f3ee"),
                             FirstName = "Jelene",
                             LastName = "Casillas"
                         },
                         new
                         {
-                            Id = new Guid("8febbd9c-e667-47c8-a486-495b3f4a49f6"),
+                            Id = new Guid("ff991839-3537-468c-9b4d-f9a49823905d"),
                             FirstName = "Lorry",
                             LastName = "Elderton"
                         },
                         new
                         {
-                            Id = new Guid("d411c9c1-4b5f-47c1-b9bb-1adbfdb4966d"),
+                            Id = new Guid("8a0d6b55-f2e3-449c-9258-4bfedbc76c4f"),
                             FirstName = "Gradey",
                             LastName = "Dominichetti"
                         },
                         new
                         {
-                            Id = new Guid("53433646-0e07-4145-bedb-0db50cb74707"),
+                            Id = new Guid("e84176be-42ca-445e-8f41-4870d8e3e4e1"),
                             FirstName = "Charla",
                             LastName = "Kachel"
                         },
                         new
                         {
-                            Id = new Guid("d62abc74-1046-407b-b009-84458788871a"),
+                            Id = new Guid("bc4bacdd-93d3-479a-b6bf-43f3837f166f"),
                             FirstName = "Olin",
                             LastName = "Rillstone"
                         },
                         new
                         {
-                            Id = new Guid("4ab0609d-4af7-43fa-9c0c-8c7cff1b8816"),
+                            Id = new Guid("3ab93622-de7d-45a3-a7c6-826662d6ed51"),
                             FirstName = "Dianne",
                             LastName = "Shrieve"
                         },
                         new
                         {
-                            Id = new Guid("069bf751-30ca-4d11-b39d-6c60d55ee78d"),
+                            Id = new Guid("1ebc5450-fcfb-4e7f-aeef-cb7197cc3904"),
                             FirstName = "Nikos",
                             LastName = "Lundy"
                         },
                         new
                         {
-                            Id = new Guid("4b9f8008-3206-48fa-a09a-c1b641ccf4b5"),
+                            Id = new Guid("9b0eb256-fc6c-44de-8953-691adfd8930f"),
                             FirstName = "Vonni",
                             LastName = "Twinbourne"
                         },
                         new
                         {
-                            Id = new Guid("aafbe801-5353-4a9c-88b9-6844e8211e62"),
+                            Id = new Guid("f5bcd03f-c7d5-49fd-ab44-766807ea6b4b"),
                             FirstName = "Anallise",
                             LastName = "Gulliman"
                         },
                         new
                         {
-                            Id = new Guid("f9fba363-d267-4248-955f-f9bc632d6737"),
+                            Id = new Guid("b966ac9e-b4c5-4c1e-899a-d98acb2ded8e"),
                             FirstName = "Isiahi",
                             LastName = "Colaco"
                         },
                         new
                         {
-                            Id = new Guid("cbb1171f-85e2-439c-8518-73a89fc94ec8"),
+                            Id = new Guid("effca80e-1b07-4475-bc6a-e9ad2ecff660"),
                             FirstName = "Rudy",
                             LastName = "Wix"
                         },
                         new
                         {
-                            Id = new Guid("44276ff4-d34d-4aaf-82c3-97e66c20e6ec"),
+                            Id = new Guid("628822da-8c9c-4763-b741-14538336090f"),
                             FirstName = "Chantalle",
                             LastName = "Prin"
                         },
                         new
                         {
-                            Id = new Guid("f6e1ed45-6cd2-41f2-985d-8c144810f820"),
+                            Id = new Guid("5806ae3b-103b-47d2-8019-648d3b8c9ab4"),
                             FirstName = "Diena",
                             LastName = "Dockray"
                         },
                         new
                         {
-                            Id = new Guid("ec4aa741-496b-4a52-822f-1099d218f328"),
+                            Id = new Guid("c7959033-64a9-4875-82a0-9fe18c626b2b"),
                             FirstName = "Filmer",
                             LastName = "Dodd"
                         },
                         new
                         {
-                            Id = new Guid("bb96be95-e286-4bd8-b7d7-640bc350018f"),
+                            Id = new Guid("4c0870d8-1e53-43c6-b1de-90acc01a0a9f"),
                             FirstName = "Hadley",
                             LastName = "Hyde"
                         },
                         new
                         {
-                            Id = new Guid("c7ce58f3-b2c6-4d5d-a91b-05c7e9ef5ae0"),
+                            Id = new Guid("63828f7f-2093-46bf-a182-f358c9460511"),
                             FirstName = "Gae",
                             LastName = "Birdseye"
                         },
                         new
                         {
-                            Id = new Guid("b8c3d832-e24d-470d-8d87-e3ab5da9ee79"),
+                            Id = new Guid("0da82f1f-4dfe-4677-98f5-676814825e21"),
                             FirstName = "Kriste",
                             LastName = "Aldcorn"
                         },
                         new
                         {
-                            Id = new Guid("1839b6d3-6a99-421d-b005-7e4bb9d8c01b"),
+                            Id = new Guid("385ef1c0-4724-47b6-8b97-457e3b14bb1e"),
                             FirstName = "Barnabe",
                             LastName = "Janway"
                         },
                         new
                         {
-                            Id = new Guid("741323c4-4349-492d-aeb5-0d1877ea2383"),
+                            Id = new Guid("4ea73074-b937-47a4-9797-0137f1cddf18"),
                             FirstName = "Zack",
                             LastName = "McFater"
                         },
                         new
                         {
-                            Id = new Guid("056cf996-5b34-438f-a9d9-e6d8d32bc285"),
+                            Id = new Guid("f0358f40-7355-44c4-b03c-739090fb9796"),
                             FirstName = "Corrina",
                             LastName = "Gabbidon"
                         },
                         new
                         {
-                            Id = new Guid("16460b51-2fcf-470c-bb00-276ba2bade53"),
+                            Id = new Guid("6695a3c4-a754-4b90-b6ce-39785e73caaf"),
                             FirstName = "Guenevere",
                             LastName = "Plett"
                         },
                         new
                         {
-                            Id = new Guid("497cd05c-cd43-44bf-9df8-3876ffebd95d"),
+                            Id = new Guid("6ff4bf80-45f9-4d0d-94df-b8c7e4c89199"),
                             FirstName = "Ashlee",
                             LastName = "Lummus"
                         },
                         new
                         {
-                            Id = new Guid("67f34eac-49bc-4026-9284-5c883217d957"),
+                            Id = new Guid("9eadce80-496c-446b-8c52-01e973deb74d"),
                             FirstName = "Easter",
                             LastName = "Ragot"
                         },
                         new
                         {
-                            Id = new Guid("fe5b31a6-ab2d-41e0-94e8-b39659490107"),
+                            Id = new Guid("4f1ccb1f-b047-419f-8c80-465777ef7eea"),
                             FirstName = "Shaine",
                             LastName = "Instrell"
                         },
                         new
                         {
-                            Id = new Guid("dc7642e1-db94-4d35-b5e3-84706d0884af"),
+                            Id = new Guid("4bc7f717-2035-46d1-8482-bfce8320df87"),
                             FirstName = "Siffre",
                             LastName = "Phelipeaux"
                         },
                         new
                         {
-                            Id = new Guid("b0c354b9-70e3-4f31-a6f4-a3d1da30d4a7"),
+                            Id = new Guid("6f720213-bdc5-444d-9621-033316e75ff8"),
                             FirstName = "Fabiano",
                             LastName = "Junkin"
                         },
                         new
                         {
-                            Id = new Guid("b04e2b34-77da-4cee-960f-af5210956e72"),
+                            Id = new Guid("d08a7fb2-2c63-47aa-9f03-1280eeef6a13"),
                             FirstName = "Giuditta",
                             LastName = "Mulvey"
                         },
                         new
                         {
-                            Id = new Guid("9fdac1dc-cdbe-4e69-9eff-8cf64d570eeb"),
+                            Id = new Guid("cae2960a-b4bb-42c6-9633-69831fc3b8c3"),
                             FirstName = "Catlee",
                             LastName = "Bowden"
                         },
                         new
                         {
-                            Id = new Guid("2d99176a-fc73-4fc7-a0d3-d46731af0e4c"),
+                            Id = new Guid("e52088c5-8681-47dc-8f70-3c6911816e6c"),
                             FirstName = "Joelle",
                             LastName = "Rayner"
                         },
                         new
                         {
-                            Id = new Guid("a163169f-2cae-4d36-a28c-dc3a3dece569"),
+                            Id = new Guid("83c22445-307f-48ac-b957-53aae3b20a11"),
                             FirstName = "Elysha",
                             LastName = "Dransfield"
                         },
                         new
                         {
-                            Id = new Guid("f219697e-0a19-466d-9afe-1bc6802dbb6a"),
+                            Id = new Guid("5c4b8af6-71d2-45bd-89f8-3750a4ce7cde"),
                             FirstName = "Virgina",
                             LastName = "Cota"
                         },
                         new
                         {
-                            Id = new Guid("0fd926b9-6943-41db-ac79-0973843f33bf"),
+                            Id = new Guid("f0207e0d-5370-4028-8ee9-f581ded56edc"),
                             FirstName = "Angy",
                             LastName = "OGorman"
                         },
                         new
                         {
-                            Id = new Guid("267cbc06-0ea5-4809-81e6-fd425fabc167"),
+                            Id = new Guid("423647c2-254e-4039-b952-4d6aea006652"),
                             FirstName = "Bellanca",
                             LastName = "Liddell"
                         },
                         new
                         {
-                            Id = new Guid("80506364-36c8-4cdd-8719-7a786f31f2a7"),
+                            Id = new Guid("f8bd1d38-8d9f-4337-b9c7-08a5252397bd"),
                             FirstName = "Josefina",
                             LastName = "Stigger"
                         },
                         new
                         {
-                            Id = new Guid("c1c5bb1b-8d69-4598-b93c-a4bf48066d24"),
+                            Id = new Guid("34b18344-8627-4985-90f3-23d24623d342"),
                             FirstName = "Amabelle",
                             LastName = "Pawelski"
                         },
                         new
                         {
-                            Id = new Guid("8dd79e82-1d71-4b5d-bba7-7528558497ee"),
+                            Id = new Guid("6501e128-eead-4cda-b8c1-41f167660df5"),
                             FirstName = "Melli",
                             LastName = "Whellans"
                         },
                         new
                         {
-                            Id = new Guid("341a5b3b-f616-4bec-a433-50a0b13065b8"),
+                            Id = new Guid("f6afcae0-ed2a-4d59-8064-ade880e77423"),
                             FirstName = "Murray",
                             LastName = "Risso"
                         },
                         new
                         {
-                            Id = new Guid("b39e93b0-2b2a-4aae-acf2-1dc9f5955151"),
+                            Id = new Guid("b278f62e-bd71-4e59-86d1-7d8f4435d8e3"),
                             FirstName = "Desdemona",
                             LastName = "Rubica"
                         },
                         new
                         {
-                            Id = new Guid("4fd2d3fc-0528-446e-afb3-ccc29bca2a35"),
+                            Id = new Guid("4068cead-13ff-4f79-a87b-2843ece1fafa"),
                             FirstName = "Jessee",
                             LastName = "Eatock"
                         },
                         new
                         {
-                            Id = new Guid("5de4c448-dc13-496c-8858-8031eb4c71de"),
+                            Id = new Guid("a231e4ac-bef9-43bb-8532-d26ccb0a550b"),
                             FirstName = "Elizabet",
                             LastName = "McPhelimey"
                         },
                         new
                         {
-                            Id = new Guid("157466fa-afb7-4076-ad21-530717018e26"),
+                            Id = new Guid("5999200b-efb9-4cc4-b7cf-c2d2e199649a"),
                             FirstName = "Paulina",
                             LastName = "VanderHoeven"
                         },
                         new
                         {
-                            Id = new Guid("62822695-503e-4e61-85ad-8e19d7bbc2d3"),
+                            Id = new Guid("09b536c1-d38d-4521-8cd3-40d03c2f5ae3"),
                             FirstName = "Shelbi",
                             LastName = "Huett"
                         },
                         new
                         {
-                            Id = new Guid("9ad9a6eb-7a2f-4eec-89a5-eb7500e746cf"),
+                            Id = new Guid("0a80423f-e821-4c51-9238-6658c1ae86a0"),
                             FirstName = "Justen",
                             LastName = "Puttick"
                         },
                         new
                         {
-                            Id = new Guid("7d0729ab-628c-437a-9b0c-d4386076caa6"),
+                            Id = new Guid("cbbfe0fe-842a-4de6-9080-d195af36af9e"),
                             FirstName = "Cozmo",
                             LastName = "Chesson"
                         },
                         new
                         {
-                            Id = new Guid("a47af692-2999-45c7-88a5-75f81a07256f"),
+                            Id = new Guid("88b90807-4b28-452e-b238-15533ea6639d"),
                             FirstName = "Allison",
                             LastName = "Byles"
                         },
                         new
                         {
-                            Id = new Guid("dc08d55d-bfc3-458b-8ad7-3bd5e9e9d7da"),
+                            Id = new Guid("f162d5b8-0216-4d4b-8c89-0d13ca38aa8f"),
                             FirstName = "Kathlin",
                             LastName = "Corselles"
                         },
                         new
                         {
-                            Id = new Guid("2be92935-580e-4f3e-b46b-c3c456f44655"),
+                            Id = new Guid("d61ce62b-fdcc-4b63-96dc-389c92ac786e"),
                             FirstName = "Rhona",
                             LastName = "Kohrsen"
                         },
                         new
                         {
-                            Id = new Guid("82885a6f-ba33-4b00-9d73-0a808222a75d"),
+                            Id = new Guid("6267066c-4567-4468-af2f-aff6e58ee6b8"),
                             FirstName = "Hewet",
                             LastName = "Kettles"
                         },
                         new
                         {
-                            Id = new Guid("99aa0c17-bd53-4170-a9c3-b8405978d00f"),
+                            Id = new Guid("12eef0e9-d496-466e-a9b3-3b601e128e6e"),
                             FirstName = "Federico",
                             LastName = "Attenbrough"
                         },
                         new
                         {
-                            Id = new Guid("8788e433-0f31-4de0-a887-6e1e8e88a9ee"),
+                            Id = new Guid("6ae9feb3-1fd2-4171-ab39-fd9d5dfe010d"),
                             FirstName = "Opalina",
                             LastName = "Tregensoe"
                         },
                         new
                         {
-                            Id = new Guid("c663e806-ddba-462a-a1c7-5b2a4c197de7"),
+                            Id = new Guid("23862751-ad83-4e83-82f1-45020572e553"),
                             FirstName = "Carola",
                             LastName = "Dawe"
                         },
                         new
                         {
-                            Id = new Guid("a136d6b3-28a6-43b4-912a-7bd9c4fd48de"),
+                            Id = new Guid("04365cc5-fc14-4f4e-8a0d-b81c0f0036e5"),
                             FirstName = "Jillana",
                             LastName = "Lune"
                         },
                         new
                         {
-                            Id = new Guid("2952c40c-a21f-464b-9cc2-94e1d06ab28c"),
+                            Id = new Guid("e6fdfdfc-f228-4740-9c80-a2e5cd7520f2"),
                             FirstName = "Fidela",
                             LastName = "Dumbell"
                         },
                         new
                         {
-                            Id = new Guid("65a7332c-313e-48e6-a284-76e83c40d9df"),
+                            Id = new Guid("6510b05a-dd7b-4ffb-9a24-4bfd7287d1eb"),
                             FirstName = "Cory",
                             LastName = "Codeman"
                         },
                         new
                         {
-                            Id = new Guid("8396720b-3f4e-412a-8b5a-1053cfa69961"),
+                            Id = new Guid("5f22214f-5484-49e4-a1ad-c052c2fd72d7"),
                             FirstName = "Durante",
                             LastName = "Forsdyke"
                         },
                         new
                         {
-                            Id = new Guid("bb14916a-0ff3-42c5-a08f-e5dcf7653dc6"),
+                            Id = new Guid("ee74b986-548f-40ba-917c-4f451ec70888"),
                             FirstName = "Amata",
                             LastName = "Runsey"
                         },
                         new
                         {
-                            Id = new Guid("a5359350-4d68-4343-be09-afe4b4f0e42d"),
+                            Id = new Guid("c6889411-a525-4011-9f24-60508b676ca4"),
                             FirstName = "Delmor",
                             LastName = "Arnault"
                         },
                         new
                         {
-                            Id = new Guid("7eb7f2e8-ad00-4e34-a20c-2ceaddaee834"),
+                            Id = new Guid("7c54471f-1387-457f-b2cb-9d56ebdf6aa5"),
                             FirstName = "Flory",
                             LastName = "Esparza"
                         },
                         new
                         {
-                            Id = new Guid("c5698bf9-f96c-4df8-aa13-3df76a2cb879"),
+                            Id = new Guid("30660bc2-c0d5-498c-93e4-3742b1b4c547"),
                             FirstName = "Evan",
                             LastName = "Mcwhinnie"
                         },
                         new
                         {
-                            Id = new Guid("0d58b3e0-a68f-4f3b-b29e-772ec822bc5c"),
+                            Id = new Guid("a9ddadac-2154-4dc1-b87d-f7203f656fc7"),
                             FirstName = "Felita",
                             LastName = "Darrigoe"
                         },
                         new
                         {
-                            Id = new Guid("3514789e-51e1-4e7e-9cd3-7ca5a3896a00"),
+                            Id = new Guid("66c4c63e-1fc9-496c-ba21-37cce3e62203"),
                             FirstName = "Caldwell",
                             LastName = "Bather"
                         },
                         new
                         {
-                            Id = new Guid("c81f9470-e030-4c03-9473-11f887816e16"),
+                            Id = new Guid("32c26c45-01ae-4678-b16b-1bdaa49c19c3"),
                             FirstName = "Jacinthe",
                             LastName = "Harries"
                         },
                         new
                         {
-                            Id = new Guid("d8e9849e-557f-4593-b9e5-d4e6b0198199"),
+                            Id = new Guid("8f1aad73-d41e-498b-aa6e-488696aff197"),
                             FirstName = "Mattie",
                             LastName = "Dible"
                         },
                         new
                         {
-                            Id = new Guid("0d7ae1b5-0102-4baf-8737-986b483b50e7"),
+                            Id = new Guid("714ea8d3-b33a-4241-82be-7c9b3fda02ad"),
                             FirstName = "Eustacia",
                             LastName = "Yonnie"
                         },
                         new
                         {
-                            Id = new Guid("c076d896-0ef2-4c15-9990-9617ca805457"),
+                            Id = new Guid("7391075d-d6bc-404f-ab64-2c8ed8d74ed4"),
                             FirstName = "Marris",
                             LastName = "Manston"
                         },
                         new
                         {
-                            Id = new Guid("00816f3c-710f-4fce-8b8b-694aa62bf2c0"),
+                            Id = new Guid("c8d943bf-2ac1-4102-a418-57ef82ad25bb"),
                             FirstName = "Erma",
                             LastName = "Balderson"
                         },
                         new
                         {
-                            Id = new Guid("afdc2c84-da2b-4484-9418-19a304712224"),
+                            Id = new Guid("6f4c58dc-2a13-4bca-9258-fcd06d0fe380"),
                             FirstName = "Lonna",
                             LastName = "Pratten"
                         },
                         new
                         {
-                            Id = new Guid("b3d74b2b-99f2-4082-9d3d-e8ea53a6f7e6"),
+                            Id = new Guid("c3d2e8c9-4c42-4986-9312-be849c57db6f"),
                             FirstName = "Freddy",
                             LastName = "Seville"
                         },
                         new
                         {
-                            Id = new Guid("76393834-3cfc-4e90-86a9-f2ca27953f07"),
+                            Id = new Guid("51d54ead-0a70-42e6-9f55-62c2e5fae9f8"),
                             FirstName = "Anastasia",
                             LastName = "Jaskiewicz"
                         },
                         new
                         {
-                            Id = new Guid("94ce3336-7efc-423a-8242-1ac0168b4d47"),
+                            Id = new Guid("64a12301-c428-4f23-a5e3-585d7a5d5a0d"),
                             FirstName = "Noby",
                             LastName = "Lys"
                         },
                         new
                         {
-                            Id = new Guid("05d49ba6-ec42-4d3c-b113-dbb22bc64d74"),
+                            Id = new Guid("c8d9079a-92b5-4702-a4dd-d0711e717560"),
                             FirstName = "Ephraim",
                             LastName = "Drohane"
                         },
                         new
                         {
-                            Id = new Guid("b08257b8-25a2-4afb-a578-9d7600243614"),
+                            Id = new Guid("d58a380c-4e0d-4ba9-babe-f25129e92e22"),
                             FirstName = "Pietrek",
                             LastName = "Worg"
                         },
                         new
                         {
-                            Id = new Guid("ec266772-d14c-4450-a84f-4425483a41f4"),
+                            Id = new Guid("fd1116a2-8e5f-4843-a4fc-cf14d36bc234"),
                             FirstName = "Trix",
                             LastName = "Muffin"
                         },
                         new
                         {
-                            Id = new Guid("31733822-f95a-4803-8b75-472e7ba84b7a"),
+                            Id = new Guid("02799096-736a-4566-a74f-98ec03cc4739"),
                             FirstName = "Nixie",
                             LastName = "Dinnis"
                         },
                         new
                         {
-                            Id = new Guid("e2647342-e8fd-4f39-98e6-7a01b82683e6"),
+                            Id = new Guid("c5d569c3-99e9-4faf-8921-5d3e34b8b677"),
                             FirstName = "Elizabet",
                             LastName = "Dinsey"
                         },
                         new
                         {
-                            Id = new Guid("5153f2b1-06af-4b0b-a683-38adda2bd667"),
+                            Id = new Guid("3c001e29-eea6-432d-914b-8e12558874b5"),
                             FirstName = "Ursuline",
                             LastName = "Litton"
                         },
                         new
                         {
-                            Id = new Guid("f3cc37bd-f9a5-49c3-88bf-ec360a245f6f"),
+                            Id = new Guid("f097ff4f-00de-489c-86c1-b9a62a0a9f8c"),
                             FirstName = "Amerigo",
                             LastName = "Denkin"
                         },
                         new
                         {
-                            Id = new Guid("dfefe5e8-a2e4-4e86-aead-0a32f2f118fc"),
+                            Id = new Guid("5c6c7a34-9e16-4a1c-aed7-eae770ebb83f"),
                             FirstName = "Fay",
                             LastName = "Calcut"
                         },
                         new
                         {
-                            Id = new Guid("5607be63-ecb4-40f0-82ad-dcac05d2826a"),
+                            Id = new Guid("45c275e9-17d9-4603-a9ef-74d9bf8e7154"),
                             FirstName = "Missy",
                             LastName = "Neames"
                         },
                         new
                         {
-                            Id = new Guid("7aa41135-6051-486d-8eee-4ae624f43516"),
+                            Id = new Guid("afb81a80-1a4d-4caf-9d1d-a94207457b92"),
                             FirstName = "Dacey",
                             LastName = "Worsnip"
                         },
                         new
                         {
-                            Id = new Guid("1302068e-8d80-4358-8e25-160a6b4503b1"),
+                            Id = new Guid("b05027ac-1fd9-4876-bdba-e75086bdd432"),
                             FirstName = "Augustina",
                             LastName = "Riquet"
                         },
                         new
                         {
-                            Id = new Guid("385601f4-44e9-48b5-87fa-58391eedfdaa"),
+                            Id = new Guid("afc8626a-be08-4090-b688-8695a8c2cab2"),
                             FirstName = "Parry",
                             LastName = "Celes"
                         },
                         new
                         {
-                            Id = new Guid("e940cd56-6009-4fff-a9fa-2aa0c1d1df4d"),
+                            Id = new Guid("ec564140-12ef-499f-aabc-74f54c148b12"),
                             FirstName = "Andrea",
                             LastName = "Simon"
                         },
                         new
                         {
-                            Id = new Guid("a03622bc-f35f-440f-9cc4-cb1076fe2528"),
+                            Id = new Guid("0f243037-2182-4e0d-baed-c7fbf5b06723"),
                             FirstName = "Gasparo",
                             LastName = "Bowller"
                         },
                         new
                         {
-                            Id = new Guid("ee8f5d1f-564b-4c7f-afa7-9cd722d21fe9"),
+                            Id = new Guid("7e7ed441-03e6-4fb4-89e5-200725a25252"),
                             FirstName = "Bethany",
                             LastName = "McIver"
                         },
                         new
                         {
-                            Id = new Guid("42fc2e5a-e070-48cf-b745-9a24952184cb"),
+                            Id = new Guid("fd9618c0-3145-4b9c-8fcc-6a03c6760aab"),
                             FirstName = "Basilio",
                             LastName = "Reaveley"
                         },
                         new
                         {
-                            Id = new Guid("add8b096-6816-4e92-a968-2b4ddd795f1c"),
+                            Id = new Guid("0f484dc6-7071-47e6-a108-583049c29015"),
                             FirstName = "Ryun",
                             LastName = "Hadlee"
                         },
                         new
                         {
-                            Id = new Guid("c3edc96c-896f-4475-a3c7-38fd3e4741a8"),
+                            Id = new Guid("893bbe10-ee8f-4f52-bf65-c7279950bd4c"),
                             FirstName = "Lynne",
                             LastName = "Donovin"
                         },
                         new
                         {
-                            Id = new Guid("e5928360-c189-4a52-b461-ebe0ec2507d5"),
+                            Id = new Guid("2b1f187e-485d-4f46-8ed4-e248ee5939e2"),
                             FirstName = "Malvin",
                             LastName = "Henrie"
                         },
                         new
                         {
-                            Id = new Guid("37e8cbcd-1202-4e31-9505-589f60e2cd8a"),
+                            Id = new Guid("a3101195-71f0-4825-b1fc-751b88cf3c87"),
                             FirstName = "Stormi",
                             LastName = "Tortis"
                         },
                         new
                         {
-                            Id = new Guid("a37d1a36-2bfe-4673-9811-5337c1231fd2"),
+                            Id = new Guid("f114b99a-ce8b-451c-ae29-3b43b298871c"),
                             FirstName = "Olivie",
                             LastName = "Marchetti"
                         },
                         new
                         {
-                            Id = new Guid("93bb9671-13f7-4d67-82a6-fcaa7d85951a"),
+                            Id = new Guid("68118f40-b987-4adc-b235-34baea338fb1"),
                             FirstName = "Shena",
                             LastName = "Linebarger"
                         },
                         new
                         {
-                            Id = new Guid("784b8758-1e5e-471c-a029-24b42a018a3b"),
+                            Id = new Guid("aa5b1b3a-08d5-4429-832b-d52dd8797b5e"),
                             FirstName = "Dell",
                             LastName = "Riccardo"
                         },
                         new
                         {
-                            Id = new Guid("eefb6f8b-75e3-4bb3-80f2-97bfbe76c4aa"),
+                            Id = new Guid("31d616b6-fb96-4915-9ce3-d9813c1f7c97"),
                             FirstName = "Yorgos",
                             LastName = "Thurgood"
                         },
                         new
                         {
-                            Id = new Guid("39fdd714-0017-43e9-9610-4d750008a7fa"),
+                            Id = new Guid("73e2fd9e-ade0-41cb-b53c-64c177baaf98"),
                             FirstName = "Meris",
                             LastName = "Endle"
                         },
                         new
                         {
-                            Id = new Guid("24878f0f-b893-41d7-a296-c054d1b26475"),
+                            Id = new Guid("ef2ebe32-cb4a-4f15-92a3-6a4ccd963722"),
                             FirstName = "Opal",
                             LastName = "Jacquemet"
                         },
                         new
                         {
-                            Id = new Guid("cc9ec432-7cda-4aec-954a-c61e80b62f92"),
+                            Id = new Guid("5cdc8406-f524-4011-805a-dad5ab371798"),
                             FirstName = "Leontyne",
                             LastName = "Dwire"
                         },
                         new
                         {
-                            Id = new Guid("d632f5b1-a7a1-4d4a-8dd5-40f20cafaede"),
+                            Id = new Guid("6b9ec05f-916e-4de8-b618-9e9039b9eecd"),
                             FirstName = "Brnaba",
                             LastName = "Camsey"
                         },
                         new
                         {
-                            Id = new Guid("91a2908f-52e1-4282-87f6-c740f6497403"),
+                            Id = new Guid("4e9f793b-3088-4ed6-b589-4d8bf03f2b94"),
                             FirstName = "Georgeanne",
                             LastName = "Hatcliffe"
                         },
                         new
                         {
-                            Id = new Guid("8fd75b4f-e4c5-4e9e-83be-1e239089f8b9"),
+                            Id = new Guid("c377f954-9d4c-4bd6-9900-12cb195795c9"),
                             FirstName = "Zoe",
                             LastName = "Louedey"
                         },
                         new
                         {
-                            Id = new Guid("0cbf4fbf-23c7-4390-b013-dda8b87e6753"),
+                            Id = new Guid("3fcffc1b-29b4-4608-adf7-06573b36dcdb"),
                             FirstName = "Brennen",
                             LastName = "Chansonne"
                         },
                         new
                         {
-                            Id = new Guid("cb68656a-1d75-47bb-a1fb-14a2ef54aa05"),
+                            Id = new Guid("1ed2747a-6c9a-44b1-a20a-9ec2efeb5055"),
                             FirstName = "Gusta",
                             LastName = "Threader"
                         },
                         new
                         {
-                            Id = new Guid("e6f25aa2-1e44-4a96-84af-8c2840980f8b"),
+                            Id = new Guid("342a0637-fdb3-4b69-b6f4-8b07caf5f1f2"),
                             FirstName = "Theresa",
                             LastName = "McNeachtain"
                         },
                         new
                         {
-                            Id = new Guid("d08834f2-8e18-444f-a680-32c89b201ba3"),
+                            Id = new Guid("ee7f86b7-ba7c-40f2-899f-6a7783cf6fc8"),
                             FirstName = "Bealle",
                             LastName = "Sellor"
                         },
                         new
                         {
-                            Id = new Guid("a95c8910-d83a-4869-a4cf-08ee55be3f05"),
+                            Id = new Guid("b1841583-50e0-41eb-a877-b2a1e0bffb6e"),
                             FirstName = "Susanetta",
                             LastName = "Harrema"
                         },
                         new
                         {
-                            Id = new Guid("379ee703-1eab-44d6-891a-45e9d3fc2217"),
+                            Id = new Guid("a975cfc8-48d5-4cf2-8d3c-7755f476fab3"),
                             FirstName = "Quent",
                             LastName = "Arkil"
                         },
                         new
                         {
-                            Id = new Guid("738ba564-a099-4749-8af6-f13e46b494d2"),
+                            Id = new Guid("1f7e60d6-88ac-447d-aca9-5578677dc81f"),
                             FirstName = "Reginald",
                             LastName = "Ivakin"
                         },
                         new
                         {
-                            Id = new Guid("40c60bfa-4f66-40fb-b6cd-01dc4ed76aa6"),
+                            Id = new Guid("cc0cac89-6012-4e3d-bebf-b7986e5f8319"),
                             FirstName = "Neysa",
                             LastName = "Forder"
                         },
                         new
                         {
-                            Id = new Guid("532f0956-d9ac-48e0-9932-a552b774eac3"),
+                            Id = new Guid("1da64788-61a8-49b2-a852-cc038e1791e3"),
                             FirstName = "Edin",
                             LastName = "Jefford"
                         },
                         new
                         {
-                            Id = new Guid("f16a91ae-51db-4475-910e-c03a1d35d225"),
+                            Id = new Guid("aeb16379-fa01-46a1-b71e-573e6f14ce68"),
                             FirstName = "Goldina",
                             LastName = "Christoffersen"
                         },
                         new
                         {
-                            Id = new Guid("0fc15f39-9ca1-45ef-9dc8-bc55ae19717a"),
+                            Id = new Guid("4f217564-391c-4cdc-b8f1-7a41a3d9a909"),
                             FirstName = "Stu",
                             LastName = "Daybell"
                         },
                         new
                         {
-                            Id = new Guid("ed700c11-0c4a-4e26-b52e-fa295301c2d3"),
+                            Id = new Guid("3f70a5a8-00d2-4103-9eae-cbd5d9a957bd"),
                             FirstName = "Gauthier",
                             LastName = "Geare"
                         },
                         new
                         {
-                            Id = new Guid("66d8b486-0875-40cf-8227-d731fddc8694"),
+                            Id = new Guid("663c6b35-5672-45d3-942a-74488136d03b"),
                             FirstName = "Jacquetta",
                             LastName = "Byer"
                         },
                         new
                         {
-                            Id = new Guid("a43f4893-ee73-413d-9004-09c6cf5dfe6c"),
+                            Id = new Guid("749acbdf-3e88-4ae2-ae76-45ae1e63d4a4"),
                             FirstName = "Harp",
                             LastName = "Trimming"
                         },
                         new
                         {
-                            Id = new Guid("2720957e-ba8f-4a82-9e53-48813dc91b3b"),
+                            Id = new Guid("1ccc014f-3585-4979-bce1-c12710082708"),
                             FirstName = "Davon",
                             LastName = "Houlston"
                         },
                         new
                         {
-                            Id = new Guid("14c27e44-1b6b-4a1d-95fc-7334b67264f7"),
+                            Id = new Guid("b75e3d75-e6f6-423c-9d9a-8a928f38ea10"),
                             FirstName = "Celene",
                             LastName = "Demelt"
                         },
                         new
                         {
-                            Id = new Guid("aa1a2ded-0229-4f1a-ae8c-5f80d0cbee38"),
+                            Id = new Guid("f72384d3-ecdb-44e3-86c5-43d9d7580c25"),
                             FirstName = "Katheryn",
                             LastName = "Trendle"
                         },
                         new
                         {
-                            Id = new Guid("dff52e48-ba03-46a1-a2a4-e346fdb52b1c"),
+                            Id = new Guid("c7b1c45b-b8d3-42fd-b18b-709154fc0c62"),
                             FirstName = "Oberon",
                             LastName = "Salvadori"
                         },
                         new
                         {
-                            Id = new Guid("da68975d-212e-451c-b657-5bdafeb21a46"),
+                            Id = new Guid("b09e7793-c898-4ed7-b36e-5b142ef61204"),
                             FirstName = "Trude",
                             LastName = "Perrott"
                         },
                         new
                         {
-                            Id = new Guid("fd773f34-1f6b-4b48-994f-400d3850459f"),
+                            Id = new Guid("56de9b98-5246-4640-8f2b-9384736799f7"),
                             FirstName = "Aldous",
                             LastName = "Sine"
                         },
                         new
                         {
-                            Id = new Guid("f3a2d422-e9ce-4bda-93b1-6c6c05d9bb1e"),
+                            Id = new Guid("2143ec34-4d7e-428e-b247-d9e37f40f1ef"),
                             FirstName = "Renard",
                             LastName = "Easby"
                         },
                         new
                         {
-                            Id = new Guid("53b5046d-795f-434b-89c8-7a8c7d3087de"),
+                            Id = new Guid("bff60790-19b1-4168-9bbf-51b9fdaa52b3"),
                             FirstName = "Barb",
                             LastName = "Rickword"
                         },
                         new
                         {
-                            Id = new Guid("a7ff2067-4b59-4e9a-8a89-a328132c95f5"),
+                            Id = new Guid("96f20b3b-91b6-4eb1-a0f3-74b77ed3b16c"),
                             FirstName = "Bond",
                             LastName = "Heeran"
                         },
                         new
                         {
-                            Id = new Guid("c7df2366-2784-450c-b014-d58ed22de0a7"),
+                            Id = new Guid("08b626f7-8be3-44fa-8bae-2e93daacee29"),
                             FirstName = "Maris",
                             LastName = "Falla"
                         },
                         new
                         {
-                            Id = new Guid("75068271-5119-49f7-8c2a-c8aafe5db994"),
+                            Id = new Guid("ba9e49c9-0d71-4f9f-bbcb-d9dd7056bdf0"),
                             FirstName = "Cairistiona",
                             LastName = "Boydle"
                         },
                         new
                         {
-                            Id = new Guid("8fe1c98e-5a98-4269-95c6-95c4ae010ce5"),
+                            Id = new Guid("e964aa88-9867-4904-acd8-582acdac6d08"),
                             FirstName = "Vince",
                             LastName = "McGloin"
                         },
                         new
                         {
-                            Id = new Guid("b86e04b9-9004-4bee-b812-83971e671945"),
+                            Id = new Guid("f2582334-551f-44c6-9b83-56df18c4f31d"),
                             FirstName = "Agata",
                             LastName = "Hastwall"
                         },
                         new
                         {
-                            Id = new Guid("383b0277-d263-4ca6-a895-2e83d2c6983e"),
+                            Id = new Guid("83ac3378-8f66-4368-bdb9-1c5b3045b053"),
                             FirstName = "Humberto",
                             LastName = "McAllaster"
                         },
                         new
                         {
-                            Id = new Guid("523558b3-2f92-4869-85d6-99d47981492c"),
+                            Id = new Guid("22ec59ab-9e9c-418b-a612-fa6a31d6dede"),
                             FirstName = "Alister",
                             LastName = "Duggary"
                         },
                         new
                         {
-                            Id = new Guid("3bd9fb5b-8397-41a0-9705-c5d3e8ece4c6"),
+                            Id = new Guid("ac86104f-99fc-46cc-bde8-d3643488b9f5"),
                             FirstName = "Trueman",
                             LastName = "Farnon"
                         },
                         new
                         {
-                            Id = new Guid("0b7d3b5a-89dc-4204-8bc7-5e0c36fa5cd1"),
+                            Id = new Guid("401ea7bf-7319-4c29-85c3-5c68a60ed043"),
                             FirstName = "Tully",
                             LastName = "Tincey"
                         },
                         new
                         {
-                            Id = new Guid("d202b471-780e-48f2-951d-5eff11f6c5c4"),
+                            Id = new Guid("447602fe-954e-43cf-a7de-2e3e39b724c2"),
                             FirstName = "Arney",
                             LastName = "Pavitt"
                         },
                         new
                         {
-                            Id = new Guid("12eaf5da-5225-450b-8e2c-aa2c07209f8f"),
+                            Id = new Guid("715f0fe8-d75c-4d4c-b05e-c39ada8d4a4a"),
                             FirstName = "Reamonn",
                             LastName = "Bundey"
                         },
                         new
                         {
-                            Id = new Guid("fff80cde-6282-46a9-b2ad-9f92d546c8d3"),
+                            Id = new Guid("0ecef78a-d833-4468-8c64-3dc50e8a7c32"),
                             FirstName = "Rozele",
                             LastName = "Scimoni"
                         },
                         new
                         {
-                            Id = new Guid("e8788c82-352f-46d1-ad4a-b793fb8fdd83"),
+                            Id = new Guid("54818f32-b726-4710-b2c1-9f23f96c9459"),
                             FirstName = "Zsazsa",
                             LastName = "Dubery"
                         },
                         new
                         {
-                            Id = new Guid("6525bcaa-77c5-4154-9729-c72d64a06d71"),
+                            Id = new Guid("c2c91085-98f3-44f8-ab8f-9da90a327710"),
                             FirstName = "Gwenore",
                             LastName = "Wabersinke"
                         },
                         new
                         {
-                            Id = new Guid("e23c6d4a-94aa-4bda-8a09-4f3a00c1d2a8"),
+                            Id = new Guid("88b2adc9-17aa-4b1a-aa71-d5a8a84b7f95"),
                             FirstName = "Joann",
                             LastName = "Grayshon"
                         },
                         new
                         {
-                            Id = new Guid("93b68c62-977c-4fe1-be91-347a8fdb5c65"),
+                            Id = new Guid("52d32d50-1907-43e2-bee6-f11692574255"),
                             FirstName = "Jesse",
                             LastName = "Goodding"
                         },
                         new
                         {
-                            Id = new Guid("c95a5b6e-2c40-41a5-b044-0351e979eb24"),
+                            Id = new Guid("e77d51c2-bc5d-46cb-a4e3-a4563adeb1b3"),
                             FirstName = "Price",
                             LastName = "Stanway"
                         },
                         new
                         {
-                            Id = new Guid("0b511322-90cd-4686-afdc-aa7aac98b223"),
+                            Id = new Guid("03213484-b65b-45b8-a78e-551e08676c17"),
                             FirstName = "Samaria",
                             LastName = "Bondesen"
                         },
                         new
                         {
-                            Id = new Guid("4ba66e69-3930-44a2-b803-cecb3cee3097"),
+                            Id = new Guid("0178808c-80e7-44c7-9aae-28706a766f9f"),
                             FirstName = "Isidor",
                             LastName = "Brooksbie"
                         },
                         new
                         {
-                            Id = new Guid("87fe015d-8af6-45b2-bc90-7fcd7e5a4d68"),
+                            Id = new Guid("e3e6d37c-6a50-4c13-8ede-1ba99224b739"),
                             FirstName = "Kayle",
                             LastName = "Merrell"
                         },
                         new
                         {
-                            Id = new Guid("63d55e93-538b-4c21-84b9-9d51a8e0ffff"),
+                            Id = new Guid("3bf9e06d-702f-41e4-aa39-68c98c959e38"),
                             FirstName = "Rob",
                             LastName = "Vivyan"
                         },
                         new
                         {
-                            Id = new Guid("bcf9085b-d4e1-423b-9276-d89d520aeb82"),
+                            Id = new Guid("d7831a9b-5149-4044-bf73-a2049e2b5b9c"),
                             FirstName = "Wendi",
                             LastName = "Czaja"
                         },
                         new
                         {
-                            Id = new Guid("bedc959a-ea91-4220-8b7e-71dff6e099bc"),
+                            Id = new Guid("9a70f075-48fe-4d78-809b-e6cbd28dc8c8"),
                             FirstName = "Ki",
                             LastName = "Burnes"
                         },
                         new
                         {
-                            Id = new Guid("e3edb88d-789e-4c88-87b1-0c9f6f0284db"),
+                            Id = new Guid("20e9e66a-9bad-46e7-bb19-ef3ce1106b44"),
                             FirstName = "Zaccaria",
                             LastName = "Gryglewski"
                         },
                         new
                         {
-                            Id = new Guid("d518d01c-9858-447d-858a-9d69fd9c45a4"),
+                            Id = new Guid("ca90a793-c91e-4e3f-bd83-cefcf6acc450"),
                             FirstName = "Theresina",
                             LastName = "Dohmer"
                         },
                         new
                         {
-                            Id = new Guid("6d97826a-b01a-483c-ad18-7b3b3da99f01"),
+                            Id = new Guid("3caa2914-e8f7-461f-993f-b50813360b2b"),
                             FirstName = "Mack",
                             LastName = "Durston"
                         },
                         new
                         {
-                            Id = new Guid("2e358a53-53f0-42ae-b5fb-1efcc26a831f"),
+                            Id = new Guid("e9a88df3-c840-4cb1-a568-9a2a6f41a742"),
                             FirstName = "Catherina",
                             LastName = "Coaster"
                         },
                         new
                         {
-                            Id = new Guid("a5496f8d-e857-4ea5-bf27-8e7b533bb0e4"),
+                            Id = new Guid("fe7c7e2e-0340-4a77-b936-f7f4050607f6"),
                             FirstName = "Colin",
                             LastName = "Perle"
                         },
                         new
                         {
-                            Id = new Guid("4a89df1e-4263-4bd3-b3f5-ec47d399ef7f"),
+                            Id = new Guid("2bc397a1-5b1b-4d9c-8344-fac5270f04d1"),
                             FirstName = "Yehudi",
                             LastName = "Oldford"
                         },
                         new
                         {
-                            Id = new Guid("a736f98a-bd72-42cb-bfc6-c9e9dd56490a"),
+                            Id = new Guid("33c2a018-2736-45e0-b0c8-5df358714e04"),
                             FirstName = "Shaw",
                             LastName = "Owenson"
                         },
                         new
                         {
-                            Id = new Guid("33f626ac-032d-4421-8550-7f459134496b"),
+                            Id = new Guid("0d577293-6a48-4c53-88ce-4e72f0699b34"),
                             FirstName = "Aguste",
                             LastName = "Lamming"
                         },
                         new
                         {
-                            Id = new Guid("b7b4b1f0-135c-44c7-9eea-e7dc75c051bc"),
+                            Id = new Guid("65898c1a-e6ef-4f28-84bf-e07e9b8d95c2"),
                             FirstName = "Denis",
                             LastName = "Beining"
                         },
                         new
                         {
-                            Id = new Guid("6856ba53-2c1e-4512-a802-1f41f6477f07"),
+                            Id = new Guid("75cc92c5-2106-4698-9ff3-764cbba6e264"),
                             FirstName = "Markos",
                             LastName = "Bachshell"
                         },
                         new
                         {
-                            Id = new Guid("325fe720-a257-4bb1-9e29-eb8d8a67965f"),
+                            Id = new Guid("861eaeac-d367-4374-80e4-6e87700ec68c"),
                             FirstName = "Thia",
                             LastName = "Durden"
                         },
                         new
                         {
-                            Id = new Guid("0f4c7d67-67dd-454e-a5db-9c1130586739"),
+                            Id = new Guid("bbc1edee-a989-46af-941e-eeefc8c5b2d9"),
                             FirstName = "Karlie",
                             LastName = "Chislsett"
                         });
@@ -6084,7 +6084,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4bdbf7dc-6ead-4a9a-b9fe-103d60608363"),
-                            AuthorId = new Guid("1cb011e1-4010-48db-992f-0e990cdb0c14"),
+                            AuthorId = new Guid("e041e9eb-f766-4288-87f4-2334f55a9212"),
                             Condition = 1,
                             ISBN = "978-1098100964",
                             Price = 41m,
@@ -6095,7 +6095,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b579b84f-7294-4419-b60f-d14d7c137fce"),
-                            AuthorId = new Guid("cb081f39-a330-43f8-bf31-8fa8d4b23320"),
+                            AuthorId = new Guid("da2e8554-5703-4755-b46b-d38eb82be1b0"),
                             Condition = 1,
                             ISBN = "166118634-3",
                             Price = 50m,
@@ -6106,7 +6106,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4bdb67dc-6ead-4a9a-b9fe-103d60608363"),
-                            AuthorId = new Guid("cdb9dfb7-70ab-4066-bf0a-a4efbccb1500"),
+                            AuthorId = new Guid("0178808c-80e7-44c7-9aae-28706a766f9f"),
                             Condition = 0,
                             ISBN = "969920385-4",
                             Price = 78m,
@@ -6117,7 +6117,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("383f5d39-764c-45c2-ba00-49d5ffbad806"),
-                            AuthorId = new Guid("4fb98fcc-c5bd-4d8d-ac3f-7cabf3954ac8"),
+                            AuthorId = new Guid("0c8e9478-4d56-4487-9716-2aedef3ac0b6"),
                             Condition = 1,
                             ISBN = "294682213-3",
                             Price = 69m,
@@ -6128,7 +6128,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("adf66c06-0f74-447f-84d2-107f7fa07a42"),
-                            AuthorId = new Guid("e23c6d4a-94aa-4bda-8a09-4f3a00c1d2a8"),
+                            AuthorId = new Guid("92595fd5-0b4a-43da-a140-34202a0387d9"),
                             Condition = 0,
                             ISBN = "831317779-9",
                             Price = 23m,
@@ -6139,7 +6139,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("be72b837-8835-4434-9859-1f0495bb4f5f"),
-                            AuthorId = new Guid("aafbe801-5353-4a9c-88b9-6844e8211e62"),
+                            AuthorId = new Guid("cbbfe0fe-842a-4de6-9080-d195af36af9e"),
                             Condition = 1,
                             ISBN = "978656977-6",
                             Price = 96m,
@@ -6150,7 +6150,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("80756613-b5b3-4151-b69f-c4d33e152404"),
-                            AuthorId = new Guid("5cf81ef7-3334-4fd4-b443-da781fa1bfe9"),
+                            AuthorId = new Guid("0c1fe721-2e82-4412-a06f-b722dcf9ef06"),
                             Condition = 0,
                             ISBN = "050336927-6",
                             Price = 81m,
@@ -6161,7 +6161,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("87878b25-ac0a-48b2-bcbc-e82d716ca8a4"),
-                            AuthorId = new Guid("523558b3-2f92-4869-85d6-99d47981492c"),
+                            AuthorId = new Guid("aa642f02-1a69-4d37-b0d9-ef252c9edbfc"),
                             Condition = 1,
                             ISBN = "833302749-0",
                             Price = 11m,
@@ -6172,7 +6172,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("37f26fa6-f191-45a4-9d63-900d40e0c6ed"),
-                            AuthorId = new Guid("f3c84ba8-01c8-4fd2-a47c-0f213462fa28"),
+                            AuthorId = new Guid("a1dd014f-9f54-4b94-b44c-d9848f0ed68e"),
                             Condition = 0,
                             ISBN = "888357894-5",
                             Price = 25m,
@@ -6183,7 +6183,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ce9c9b81-2b02-4f11-be70-e08ed04afbcf"),
-                            AuthorId = new Guid("f23e51a1-c7bc-48c0-ac59-1160a4ef636a"),
+                            AuthorId = new Guid("eb79e803-093c-4287-9bca-448fef763ca4"),
                             Condition = 1,
                             ISBN = "021391135-3",
                             Price = 56m,
@@ -6194,7 +6194,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0c536162-10ce-48b7-9058-24dc070ead93"),
-                            AuthorId = new Guid("0d5ffc92-f835-466a-b57b-bb5539613e8b"),
+                            AuthorId = new Guid("e73ae695-9a2a-491c-bbf4-744526feee12"),
                             Condition = 0,
                             ISBN = "055890471-8",
                             Price = 29m,
@@ -6205,7 +6205,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("19972302-e0e7-4b29-89e9-31fce62dc164"),
-                            AuthorId = new Guid("c9894e9c-9b66-427c-92f0-30648a1e5810"),
+                            AuthorId = new Guid("52e8a95b-e281-48fb-859d-f1e69be66243"),
                             Condition = 1,
                             ISBN = "835375481-9",
                             Price = 51m,
@@ -6216,7 +6216,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c7ae13f7-f556-4a15-bf58-1fa541f6a41f"),
-                            AuthorId = new Guid("24878f0f-b893-41d7-a296-c054d1b26475"),
+                            AuthorId = new Guid("e03a97cf-9451-4981-9325-2a54c235d9d5"),
                             Condition = 0,
                             ISBN = "337590816-4",
                             Price = 94m,
@@ -6227,7 +6227,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f4fafe2b-f558-4b52-818d-591ff0f5c26a"),
-                            AuthorId = new Guid("858e6f78-5fe3-484a-b874-7289abb29a4a"),
+                            AuthorId = new Guid("4c0870d8-1e53-43c6-b1de-90acc01a0a9f"),
                             Condition = 1,
                             ISBN = "509863034-7",
                             Price = 83m,
@@ -6238,7 +6238,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("621eedb1-81f7-4d75-9fa5-076e0bd65ff7"),
-                            AuthorId = new Guid("d8e0d053-6f19-4a44-9028-4353a001d71a"),
+                            AuthorId = new Guid("c7959033-64a9-4875-82a0-9fe18c626b2b"),
                             Condition = 0,
                             ISBN = "073538130-5",
                             Price = 69m,
@@ -6249,7 +6249,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("26663e84-2066-4695-b6a1-c23f15a63458"),
-                            AuthorId = new Guid("71114bb2-2230-4e41-9533-6d3b34a213ee"),
+                            AuthorId = new Guid("b3e05877-1952-414c-870e-05f1b92da5e6"),
                             Condition = 1,
                             ISBN = "993912768-5",
                             Price = 13m,
@@ -6260,7 +6260,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e443b3a0-8590-46fb-a355-c1404e6e2530"),
-                            AuthorId = new Guid("aa1a2ded-0229-4f1a-ae8c-5f80d0cbee38"),
+                            AuthorId = new Guid("b6b2ec78-76d3-4b28-afe6-873b4a7143eb"),
                             Condition = 0,
                             ISBN = "043933009-2",
                             Price = 93m,
@@ -6271,7 +6271,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f5edcea0-fbc4-43d4-9af8-30a2a44197f4"),
-                            AuthorId = new Guid("f3b7ee80-0c64-4e01-a409-ef6a88cc9cfb"),
+                            AuthorId = new Guid("e964aa88-9867-4904-acd8-582acdac6d08"),
                             Condition = 1,
                             ISBN = "367340501-2",
                             Price = 9m,
@@ -6282,7 +6282,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9256f68f-061a-43cc-85de-d97080c8983f"),
-                            AuthorId = new Guid("10e2d254-60a5-4300-a66e-25b9aa678b23"),
+                            AuthorId = new Guid("86287e15-943b-4a2b-83d6-2dfc8d2604d4"),
                             Condition = 0,
                             ISBN = "813190263-3",
                             Price = 22m,
@@ -6293,7 +6293,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("95a35e3a-2397-4b77-8319-b64bb990413d"),
-                            AuthorId = new Guid("9196f1a3-d6d5-4a1d-a167-040c85293f4a"),
+                            AuthorId = new Guid("868478d8-2111-4a9d-bef7-90c203dcf85d"),
                             Condition = 1,
                             ISBN = "491238717-7",
                             Price = 96m,
@@ -6304,7 +6304,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("11bfc504-720b-4a7c-a07c-896dae1920fe"),
-                            AuthorId = new Guid("f845aa53-c634-4a31-a8f9-d71b14fbeffe"),
+                            AuthorId = new Guid("cbbfe0fe-842a-4de6-9080-d195af36af9e"),
                             Condition = 0,
                             ISBN = "918735499-3",
                             Price = 27m,
@@ -6315,7 +6315,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ab8e5876-cf82-495c-ac8d-92ec9a0fcb53"),
-                            AuthorId = new Guid("1cb011e1-4010-48db-992f-0e990cdb0c14"),
+                            AuthorId = new Guid("31638203-4647-43ed-96cf-eb0accfddb62"),
                             Condition = 1,
                             ISBN = "441419159-9",
                             Price = 69m,
@@ -6326,7 +6326,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("89b3f845-0292-4791-831b-f623177dfb03"),
-                            AuthorId = new Guid("c7739201-0190-4f2d-80d9-ddc77ccbb2ce"),
+                            AuthorId = new Guid("f9517d52-c14a-4874-a4aa-b84d7ac37f12"),
                             Condition = 0,
                             ISBN = "401337485-4",
                             Price = 76m,
@@ -6337,7 +6337,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7ca49834-d4cc-4cfb-ac9a-179668aceb0f"),
-                            AuthorId = new Guid("64fe9ab9-6403-43a8-a1d7-0cfc98c6657f"),
+                            AuthorId = new Guid("00cc7914-717a-4401-b377-881c93f9bb58"),
                             Condition = 1,
                             ISBN = "729586068-1",
                             Price = 65m,
@@ -6348,7 +6348,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4c3cd722-9a3f-4388-b94e-94a7d5bd0247"),
-                            AuthorId = new Guid("8b0997b9-5d4f-48d8-b9ac-7ea47e9ffdef"),
+                            AuthorId = new Guid("c7e19c78-b5b6-4b76-ad34-0c9927c7d798"),
                             Condition = 0,
                             ISBN = "154987265-6",
                             Price = 29m,
@@ -6359,7 +6359,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("dd839038-2a2a-4a8b-9601-9162ec5e2299"),
-                            AuthorId = new Guid("0ecb8f16-d362-47aa-bd8f-aba5cb67891e"),
+                            AuthorId = new Guid("bbc1edee-a989-46af-941e-eeefc8c5b2d9"),
                             Condition = 1,
                             ISBN = "349178006-3",
                             Price = 22m,
@@ -6370,7 +6370,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5be3abf4-9b49-4b42-a330-8c0711002062"),
-                            AuthorId = new Guid("767be4eb-dc82-4a86-9c72-9938f0c1a54a"),
+                            AuthorId = new Guid("52e8a95b-e281-48fb-859d-f1e69be66243"),
                             Condition = 0,
                             ISBN = "454991625-7",
                             Price = 75m,
@@ -6381,7 +6381,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7d1e01e4-0e3b-45a7-b60d-b55244070521"),
-                            AuthorId = new Guid("a5496f8d-e857-4ea5-bf27-8e7b533bb0e4"),
+                            AuthorId = new Guid("d030e906-372d-40d4-91f5-4f46bff188e4"),
                             Condition = 1,
                             ISBN = "285693051-4",
                             Price = 16m,
@@ -6392,7 +6392,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("77b1e2a5-35ca-4dc2-92dc-2f690ddbf82c"),
-                            AuthorId = new Guid("1fd4846d-b277-4efe-b9af-04ff8d7e8697"),
+                            AuthorId = new Guid("08b626f7-8be3-44fa-8bae-2e93daacee29"),
                             Condition = 0,
                             ISBN = "651080534-0",
                             Price = 99m,
@@ -6403,7 +6403,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8bac8134-0f58-4542-80ba-2feef215dc8a"),
-                            AuthorId = new Guid("3e9fde8a-0dd7-401b-9a87-fab3fab8fa55"),
+                            AuthorId = new Guid("bb054d78-d2e2-46cd-8a88-d77724e2b9bd"),
                             Condition = 1,
                             ISBN = "985719466-4",
                             Price = 77m,
@@ -6414,7 +6414,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e40467c0-d718-4127-bdee-e9e0daea01d9"),
-                            AuthorId = new Guid("84f921ca-680a-4203-8346-9e8972ebb1a3"),
+                            AuthorId = new Guid("adbc5be3-dfae-4089-93ae-e9cf33729123"),
                             Condition = 0,
                             ISBN = "539105534-2",
                             Price = 17m,
@@ -6425,7 +6425,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("df0ea970-7759-4277-83b8-ede5ae1d19ad"),
-                            AuthorId = new Guid("6362ec8b-4798-4485-9d78-09a367dbd7ae"),
+                            AuthorId = new Guid("aa642f02-1a69-4d37-b0d9-ef252c9edbfc"),
                             Condition = 1,
                             ISBN = "013997173-4",
                             Price = 61m,
@@ -6436,7 +6436,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("92b90fe5-ebd7-4bc1-92c1-f8b76b6dc981"),
-                            AuthorId = new Guid("f5010ba3-bb59-464d-8e72-ee74f7b08868"),
+                            AuthorId = new Guid("2cfdad46-9e42-4aa0-a750-66f3934396a2"),
                             Condition = 0,
                             ISBN = "492696158-X",
                             Price = 96m,
@@ -6447,7 +6447,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fa7b4cee-d870-4270-a586-ea11681e8131"),
-                            AuthorId = new Guid("e940cd56-6009-4fff-a9fa-2aa0c1d1df4d"),
+                            AuthorId = new Guid("b278f62e-bd71-4e59-86d1-7d8f4435d8e3"),
                             Condition = 1,
                             ISBN = "387309925-X",
                             Price = 39m,
@@ -6458,7 +6458,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b4eb6451-03e2-4785-92db-f8b53f61b043"),
-                            AuthorId = new Guid("27c832f5-d940-4133-ac35-6349f6c4b59f"),
+                            AuthorId = new Guid("22ec59ab-9e9c-418b-a612-fa6a31d6dede"),
                             Condition = 0,
                             ISBN = "068699257-1",
                             Price = 54m,
@@ -6469,7 +6469,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f78f91b2-f352-438f-b6c1-1e7ee869cf7c"),
-                            AuthorId = new Guid("c70ba4b6-6477-4542-a5e1-eacf1a011afd"),
+                            AuthorId = new Guid("02875f63-76d9-44c6-aa55-816dee2580f8"),
                             Condition = 1,
                             ISBN = "428881454-5",
                             Price = 95m,
@@ -6480,7 +6480,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1d54df2b-1f27-4fa6-80a9-d8052d294efd"),
-                            AuthorId = new Guid("741323c4-4349-492d-aeb5-0d1877ea2383"),
+                            AuthorId = new Guid("7632372b-e445-4ad1-845b-c3f37d1be7c9"),
                             Condition = 0,
                             ISBN = "123091385-8",
                             Price = 36m,
@@ -6491,7 +6491,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6bdfc3dc-505e-4bfb-9a11-d8245f919d41"),
-                            AuthorId = new Guid("67f34eac-49bc-4026-9284-5c883217d957"),
+                            AuthorId = new Guid("ddea0586-916f-4fbd-b184-bde1100fc8b8"),
                             Condition = 1,
                             ISBN = "690732082-7",
                             Price = 76m,
@@ -6502,7 +6502,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cec363b8-5bd7-4d13-81a6-fd681de79107"),
-                            AuthorId = new Guid("2eefb633-abad-4f17-83a1-ff1e8cd24f4d"),
+                            AuthorId = new Guid("592b6e1b-5a67-4dcc-b499-ab6ba0bc7b81"),
                             Condition = 0,
                             ISBN = "478361153-X",
                             Price = 99m,
@@ -6513,7 +6513,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6719d3c9-11ee-4614-bb21-d39c3967a0d3"),
-                            AuthorId = new Guid("59416f28-e187-40ea-b26e-fc26dc0022ea"),
+                            AuthorId = new Guid("f9763dd4-0606-4bb0-9de0-59eb0e56dc9a"),
                             Condition = 1,
                             ISBN = "394372389-5",
                             Price = 73m,
@@ -6524,7 +6524,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e9b82c06-6484-43e3-81f0-824d7c0ecd86"),
-                            AuthorId = new Guid("6c116e93-222e-4813-bd35-97af4e0626eb"),
+                            AuthorId = new Guid("777e63b4-6821-4c70-be39-9952ef778b00"),
                             Condition = 0,
                             ISBN = "560589408-0",
                             Price = 61m,
@@ -6535,7 +6535,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e96060f7-8673-415e-9c5e-c0ce6d20d281"),
-                            AuthorId = new Guid("d22a10fa-799e-4002-8f44-114d84f49a1f"),
+                            AuthorId = new Guid("2bf91bdb-8d63-483f-bdf3-abf7b8612c8f"),
                             Condition = 1,
                             ISBN = "746675857-6",
                             Price = 52m,
@@ -6546,7 +6546,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cda1cc3d-ff8d-4e20-96a6-aac26cdafe43"),
-                            AuthorId = new Guid("d1cc6af7-d846-479e-8b2d-afc96327c3f7"),
+                            AuthorId = new Guid("c6539d29-39c9-45c8-b523-ed86ec47fd6e"),
                             Condition = 0,
                             ISBN = "729668561-1",
                             Price = 10m,
@@ -6557,7 +6557,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7bb900ef-b2f3-4d78-86ca-d3b35a07dbf5"),
-                            AuthorId = new Guid("a37d1a36-2bfe-4673-9811-5337c1231fd2"),
+                            AuthorId = new Guid("fa8826fe-32c6-4b05-917e-644c8d086c66"),
                             Condition = 1,
                             ISBN = "131202032-6",
                             Price = 63m,
@@ -6568,7 +6568,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c1ff46ac-6008-48ce-b17f-f7e86bdacde2"),
-                            AuthorId = new Guid("52b06a3d-6e38-4e84-9b33-01111f9d4502"),
+                            AuthorId = new Guid("bc4bacdd-93d3-479a-b6bf-43f3837f166f"),
                             Condition = 0,
                             ISBN = "911423421-1",
                             Price = 68m,
@@ -6579,7 +6579,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ba44dc0d-d9f6-47a9-8dec-bdfa3ba2abc8"),
-                            AuthorId = new Guid("05365b7d-37f5-4893-bac9-536e00a91350"),
+                            AuthorId = new Guid("c767b50d-5453-447f-9005-777bed9e67c7"),
                             Condition = 1,
                             ISBN = "869118424-8",
                             Price = 76m,
@@ -6590,7 +6590,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("53d13f75-c13c-468a-a2aa-548d4d2ae118"),
-                            AuthorId = new Guid("6b5226fe-b18e-4e81-a136-e5c8e6ad4f23"),
+                            AuthorId = new Guid("29c8cd1f-6c09-46d9-ae5d-70453bfd41d1"),
                             Condition = 0,
                             ISBN = "134838655-X",
                             Price = 20m,
@@ -6601,7 +6601,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("161c364c-7657-4b2e-b2d3-eec660cff62a"),
-                            AuthorId = new Guid("72ddafc0-9849-40cc-b04c-10050d485c26"),
+                            AuthorId = new Guid("6f84f501-7972-42b5-bd94-74e0031d2ad1"),
                             Condition = 1,
                             ISBN = "313205497-6",
                             Price = 68m,
@@ -6612,7 +6612,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b4480e15-a7c1-41d0-889a-cb860966bbdc"),
-                            AuthorId = new Guid("c52fbd37-2cb3-44ce-b647-757eb53a1573"),
+                            AuthorId = new Guid("66b84f81-2a51-4e4d-bafa-47d98799e80c"),
                             Condition = 0,
                             ISBN = "284309542-5",
                             Price = 24m,
@@ -6623,7 +6623,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6ee0ecca-399f-489c-ab83-423334e4d03c"),
-                            AuthorId = new Guid("c95a0c28-04b3-416b-8315-533b24625c62"),
+                            AuthorId = new Guid("02986f3d-7993-4ed6-9f19-7b9060da22bf"),
                             Condition = 1,
                             ISBN = "092282994-2",
                             Price = 44m,
@@ -6634,7 +6634,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2f6fe725-aee5-47e3-9bf7-5ebfd28fd72f"),
-                            AuthorId = new Guid("24cc8724-f4c5-4971-95e3-413639453775"),
+                            AuthorId = new Guid("15c81f9f-845b-45cc-8d37-5ba884d27328"),
                             Condition = 0,
                             ISBN = "265260921-1",
                             Price = 21m,
@@ -6645,7 +6645,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4941ffee-a2b8-483e-bfc4-f2a4aceabeb0"),
-                            AuthorId = new Guid("e8788c82-352f-46d1-ad4a-b793fb8fdd83"),
+                            AuthorId = new Guid("7568d6a8-8999-446a-b483-b2e36410aa99"),
                             Condition = 1,
                             ISBN = "093623189-0",
                             Price = 8m,
@@ -6656,7 +6656,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("aea8f583-7ff9-4a17-9824-5f67fb5e4605"),
-                            AuthorId = new Guid("371a9bc8-1fd8-40fb-980d-735602eae2dd"),
+                            AuthorId = new Guid("5a95c26c-b95c-4388-919a-56668dac205b"),
                             Condition = 0,
                             ISBN = "312777780-9",
                             Price = 74m,
@@ -6667,7 +6667,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a20d42ba-ad39-4403-8ef3-75103e491d10"),
-                            AuthorId = new Guid("383b0277-d263-4ca6-a895-2e83d2c6983e"),
+                            AuthorId = new Guid("c0016a4d-3476-44b2-86c7-696b1c8911e1"),
                             Condition = 1,
                             ISBN = "709927888-6",
                             Price = 82m,
@@ -6678,7 +6678,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("05a54480-ebfc-4c6f-85ba-0f3f5dd26dd8"),
-                            AuthorId = new Guid("093dfc93-5266-4d68-bf48-163fde59163b"),
+                            AuthorId = new Guid("e4f1a985-b0d0-4f7f-9402-e61ba074b1ed"),
                             Condition = 0,
                             ISBN = "074607339-9",
                             Price = 44m,
@@ -6689,7 +6689,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5654f406-2574-47a2-b47a-dac9aac50605"),
-                            AuthorId = new Guid("a2f76f52-8aa5-4ce4-b11b-138586c1af09"),
+                            AuthorId = new Guid("03693075-2ac6-4117-bb33-427ad15d2f15"),
                             Condition = 1,
                             ISBN = "864939570-8",
                             Price = 49m,
@@ -6700,7 +6700,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("897939c5-203e-4e6b-9dd5-8b9602208afe"),
-                            AuthorId = new Guid("9ea07d3d-fb8c-4593-a762-ed8f0ed73b5a"),
+                            AuthorId = new Guid("203fec56-44d4-4392-98d2-b749e6d7dcde"),
                             Condition = 0,
                             ISBN = "149053027-4",
                             Price = 75m,
@@ -6711,7 +6711,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("72e8fe9e-49ca-4676-95a6-e934a91cac29"),
-                            AuthorId = new Guid("15a49315-552f-4f6a-9f25-001a5f13ce07"),
+                            AuthorId = new Guid("dd6be355-b9e4-4f71-ae42-147de20f0e0a"),
                             Condition = 1,
                             ISBN = "737441476-5",
                             Price = 52m,
@@ -6722,7 +6722,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0682d919-a7ab-4401-9106-ed27765e0db6"),
-                            AuthorId = new Guid("b0c354b9-70e3-4f31-a6f4-a3d1da30d4a7"),
+                            AuthorId = new Guid("ed7c784c-6c1d-4135-af88-ad9a38fb3dc2"),
                             Condition = 0,
                             ISBN = "076861368-X",
                             Price = 95m,
@@ -6733,7 +6733,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("792213ff-99b1-4519-93ef-0416a417f981"),
-                            AuthorId = new Guid("cb2bbd63-0980-4ee8-beab-c0f7ab872383"),
+                            AuthorId = new Guid("1ebc5450-fcfb-4e7f-aeef-cb7197cc3904"),
                             Condition = 1,
                             ISBN = "052063509-4",
                             Price = 77m,
@@ -6744,7 +6744,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fcf80f08-cc0a-4b83-a3ba-edf9eeb035d5"),
-                            AuthorId = new Guid("4c538209-246d-4705-ae9e-415a4779fdec"),
+                            AuthorId = new Guid("6fe44538-e13c-46db-8959-7b0b42acfa44"),
                             Condition = 0,
                             ISBN = "459737542-2",
                             Price = 74m,
@@ -6755,7 +6755,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2ab3a569-73ce-4dde-a8f5-7144132013cd"),
-                            AuthorId = new Guid("37e8cbcd-1202-4e31-9505-589f60e2cd8a"),
+                            AuthorId = new Guid("192938f3-0042-48dd-b54c-457d4bdba2e9"),
                             Condition = 1,
                             ISBN = "497095462-3",
                             Price = 4m,
@@ -6766,7 +6766,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a380c54a-c9b3-494e-a508-bc242376835a"),
-                            AuthorId = new Guid("8744a906-2952-4236-b56d-f60d81c02330"),
+                            AuthorId = new Guid("0892978c-5ede-44be-a42d-69fdb882e8e0"),
                             Condition = 0,
                             ISBN = "872824355-2",
                             Price = 76m,
@@ -6777,7 +6777,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("aa062d1b-21f6-4643-b94e-e6a7ab3a74e7"),
-                            AuthorId = new Guid("35f2624c-ea35-4a3c-af63-4715ff521161"),
+                            AuthorId = new Guid("bb054d78-d2e2-46cd-8a88-d77724e2b9bd"),
                             Condition = 1,
                             ISBN = "902706832-1",
                             Price = 50m,
@@ -6788,7 +6788,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("560f1e56-cda6-4d73-95db-7d5af66976ac"),
-                            AuthorId = new Guid("2a4361b4-782d-4a0e-8a50-1f9112da9434"),
+                            AuthorId = new Guid("d0fc2094-e39f-44b1-ba7e-cc6fa23ce6f1"),
                             Condition = 0,
                             ISBN = "592555082-X",
                             Price = 43m,
@@ -6799,7 +6799,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e3273abc-e169-4857-97f3-ea510f7c02cc"),
-                            AuthorId = new Guid("3509cb67-69dc-4549-8169-e4d6b06df798"),
+                            AuthorId = new Guid("172aa35c-afac-4d52-a30a-053627c9c264"),
                             Condition = 1,
                             ISBN = "667244611-7",
                             Price = 14m,
@@ -6810,7 +6810,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("40dde6af-3ee2-4cec-9515-ed928d58c346"),
-                            AuthorId = new Guid("ace68f80-9a57-4129-9e09-436ea1d736c2"),
+                            AuthorId = new Guid("f7f58f7c-e76e-406a-a7f5-d8130ba40d8c"),
                             Condition = 0,
                             ISBN = "979451669-4",
                             Price = 31m,
@@ -6821,7 +6821,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("67922591-9945-4430-927d-8ec34d843fee"),
-                            AuthorId = new Guid("a163169f-2cae-4d36-a28c-dc3a3dece569"),
+                            AuthorId = new Guid("ed7c784c-6c1d-4135-af88-ad9a38fb3dc2"),
                             Condition = 1,
                             ISBN = "418165107-X",
                             Price = 36m,
@@ -6832,7 +6832,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("74b5dfef-b9d5-425d-bf9c-b10862ddb4ed"),
-                            AuthorId = new Guid("b6492e83-2cc9-4841-828b-4e195b88325e"),
+                            AuthorId = new Guid("e3de87a3-5246-4231-9f7d-9803be2e2f4f"),
                             Condition = 0,
                             ISBN = "570591254-4",
                             Price = 75m,
@@ -6843,7 +6843,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("456e067c-a86f-441a-9fd0-aa67fa9b173f"),
-                            AuthorId = new Guid("c7ce58f3-b2c6-4d5d-a91b-05c7e9ef5ae0"),
+                            AuthorId = new Guid("eb79e803-093c-4287-9bca-448fef763ca4"),
                             Condition = 1,
                             ISBN = "186972612-X",
                             Price = 44m,
@@ -6854,7 +6854,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("093dc345-56ed-4b48-a8bb-5753cc6fdd9e"),
-                            AuthorId = new Guid("b79722bb-068e-479f-bf3c-b214034a1e48"),
+                            AuthorId = new Guid("ce4872fd-8e1e-484f-a04e-e7c48ec10fdd"),
                             Condition = 0,
                             ISBN = "109938075-8",
                             Price = 13m,
@@ -6865,7 +6865,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5b61847f-c0d4-4399-90ec-cdb634153871"),
-                            AuthorId = new Guid("91ce4849-8394-4fd6-b4e0-22dba815f48e"),
+                            AuthorId = new Guid("65898c1a-e6ef-4f28-84bf-e07e9b8d95c2"),
                             Condition = 1,
                             ISBN = "309631843-3",
                             Price = 15m,
@@ -6876,7 +6876,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7e4bbd3c-9831-4a4e-8c00-6ba1a090dcf6"),
-                            AuthorId = new Guid("04bac9d9-63bd-45c5-8499-dbf7fa5e0f31"),
+                            AuthorId = new Guid("98c23f72-996a-4c9d-90f3-b3ce2cd867c4"),
                             Condition = 0,
                             ISBN = "133386688-7",
                             Price = 45m,
@@ -6887,7 +6887,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d831c1ce-4eaa-4ef9-8df7-bbf37b8c0466"),
-                            AuthorId = new Guid("994545f1-93a4-4482-a9e1-98a76169206f"),
+                            AuthorId = new Guid("4cf76e5f-500a-45fe-bb50-d85560d7e96f"),
                             Condition = 1,
                             ISBN = "834637148-9",
                             Price = 100m,
@@ -6898,7 +6898,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("10a1ffa3-013c-47c0-adce-1f9e938b0e30"),
-                            AuthorId = new Guid("3921fbaf-b6aa-41c6-9d4e-b06c1b251d95"),
+                            AuthorId = new Guid("afb81a80-1a4d-4caf-9d1d-a94207457b92"),
                             Condition = 0,
                             ISBN = "359208980-3",
                             Price = 89m,
@@ -6909,7 +6909,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("59d9b05a-782b-4e94-a3ff-1bb6af4f0c71"),
-                            AuthorId = new Guid("349749c3-e70b-4fea-b33b-35b913726b2e"),
+                            AuthorId = new Guid("a37e0ae3-cf0c-4750-8913-50c03f122795"),
                             Condition = 1,
                             ISBN = "025205425-3",
                             Price = 52m,
@@ -6920,7 +6920,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1d1118b8-e5fa-4e4a-a8f2-b83314947cc1"),
-                            AuthorId = new Guid("9cce06ba-9a83-4c39-b49e-47be72ac656e"),
+                            AuthorId = new Guid("f114b99a-ce8b-451c-ae29-3b43b298871c"),
                             Condition = 0,
                             ISBN = "692945701-9",
                             Price = 98m,
@@ -6931,7 +6931,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e2d969e9-25d2-4d44-844a-46e13e25eb92"),
-                            AuthorId = new Guid("af027d77-54e8-417e-b2b0-e40479c99b94"),
+                            AuthorId = new Guid("33a85d89-4be4-4142-80d2-595a7a8c5aaa"),
                             Condition = 1,
                             ISBN = "754352088-5",
                             Price = 64m,
@@ -6942,7 +6942,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3cab1023-c76a-45da-82b9-3655337be594"),
-                            AuthorId = new Guid("aafbe801-5353-4a9c-88b9-6844e8211e62"),
+                            AuthorId = new Guid("592b6e1b-5a67-4dcc-b499-ab6ba0bc7b81"),
                             Condition = 0,
                             ISBN = "917810314-2",
                             Price = 53m,
@@ -6953,7 +6953,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("54df09ee-6211-4f70-94ad-6c9ee6ea6fdf"),
-                            AuthorId = new Guid("88b01291-97a9-4c27-950c-40b66c115795"),
+                            AuthorId = new Guid("1244e55f-6e2c-4c8c-b419-09b22eb5c76c"),
                             Condition = 1,
                             ISBN = "183442705-3",
                             Price = 100m,
@@ -6964,7 +6964,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("74a6c4ae-7b44-4d9b-a17d-e12c58e6bcd8"),
-                            AuthorId = new Guid("abda4420-2bce-41c4-afbc-17fe3add6235"),
+                            AuthorId = new Guid("50eea3bc-68d7-4e36-837b-fa62e221b8c2"),
                             Condition = 0,
                             ISBN = "501627195-X",
                             Price = 2m,
@@ -6975,7 +6975,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("653cb903-8660-4d12-975c-13be75365f37"),
-                            AuthorId = new Guid("ef8cbeb8-2b81-4c0b-a651-8b5e485b29ed"),
+                            AuthorId = new Guid("214462c3-b41b-487d-adf1-99fd59b14cb7"),
                             Condition = 1,
                             ISBN = "287980142-7",
                             Price = 34m,
@@ -6986,7 +6986,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("00e066b7-10e7-46e0-8539-aacdb35d412f"),
-                            AuthorId = new Guid("031938d9-385e-4e78-bddc-ee7720f60ec2"),
+                            AuthorId = new Guid("b966ac9e-b4c5-4c1e-899a-d98acb2ded8e"),
                             Condition = 0,
                             ISBN = "058951307-9",
                             Price = 50m,
@@ -6997,7 +6997,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("20f6ffb4-a3a7-4261-b33a-6c4da477b0ac"),
-                            AuthorId = new Guid("65059c5b-9872-49bb-b477-ce1c89bd0cce"),
+                            AuthorId = new Guid("b278f62e-bd71-4e59-86d1-7d8f4435d8e3"),
                             Condition = 1,
                             ISBN = "844190416-2",
                             Price = 84m,
@@ -7008,7 +7008,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("006b7334-164c-47c8-ba44-6b60ecf6192f"),
-                            AuthorId = new Guid("12eaf5da-5225-450b-8e2c-aa2c07209f8f"),
+                            AuthorId = new Guid("cd6868fa-2ed9-4e64-8733-3a3f7cd6db24"),
                             Condition = 0,
                             ISBN = "844489349-8",
                             Price = 71m,
@@ -7019,7 +7019,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("dbeb763d-a3f4-43ce-b7ca-187f3d31ae9a"),
-                            AuthorId = new Guid("a5114f33-615c-4c6f-8e19-d1d06ca3ee9a"),
+                            AuthorId = new Guid("9a0751b7-2868-4612-9f9d-cfb9a3c6d6f8"),
                             Condition = 1,
                             ISBN = "786302222-3",
                             Price = 80m,
@@ -7030,7 +7030,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8be29514-0452-4aee-a4da-e74de178a1ee"),
-                            AuthorId = new Guid("f3a2d422-e9ce-4bda-93b1-6c6c05d9bb1e"),
+                            AuthorId = new Guid("16e69c8f-da25-44a4-bcb8-a2d6df44a348"),
                             Condition = 0,
                             ISBN = "806156633-8",
                             Price = 53m,
@@ -7041,7 +7041,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fb8df363-8020-4128-ac9b-a261777609c1"),
-                            AuthorId = new Guid("a1ceb583-6417-4664-aac4-193be893832b"),
+                            AuthorId = new Guid("92595fd5-0b4a-43da-a140-34202a0387d9"),
                             Condition = 1,
                             ISBN = "685137749-7",
                             Price = 11m,
@@ -7052,7 +7052,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5c881db1-20bb-4982-a7ea-dc8516920906"),
-                            AuthorId = new Guid("b7757b09-09fa-40cf-8ba0-09231500e6ac"),
+                            AuthorId = new Guid("5c6508c8-24d7-461a-9c7d-f73ab6cb024a"),
                             Condition = 0,
                             ISBN = "389891127-6",
                             Price = 54m,
@@ -7063,7 +7063,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e495cd30-50ec-4379-afd8-11dd34d30745"),
-                            AuthorId = new Guid("25b44da4-0905-40c9-8f98-1be78cb9a2cf"),
+                            AuthorId = new Guid("3fbf7092-f6db-40f6-a071-e380fa7396b9"),
                             Condition = 1,
                             ISBN = "772181027-2",
                             Price = 90m,
@@ -7074,7 +7074,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cdb655df-a528-4170-9d8b-1a78afa5e573"),
-                            AuthorId = new Guid("c691ae42-7764-47df-a354-1ed5df0230a3"),
+                            AuthorId = new Guid("03693075-2ac6-4117-bb33-427ad15d2f15"),
                             Condition = 0,
                             ISBN = "928031393-2",
                             Price = 75m,
@@ -7085,7 +7085,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6b663829-eb85-414d-bf01-cc442f445264"),
-                            AuthorId = new Guid("3642ed63-03e4-4012-a8e9-fc206a02681d"),
+                            AuthorId = new Guid("e44d7dc0-3985-4921-85e9-4ce08fef8bd7"),
                             Condition = 1,
                             ISBN = "772646245-0",
                             Price = 78m,
@@ -7096,7 +7096,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4fafea22-c24f-464a-8e2b-41c4902c3d51"),
-                            AuthorId = new Guid("f344d0a6-bd6e-41d2-8e8e-4ee6626cd34b"),
+                            AuthorId = new Guid("8cac6871-d920-4314-a583-b4a356c3e94a"),
                             Condition = 0,
                             ISBN = "250362257-7",
                             Price = 72m,
@@ -7107,7 +7107,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2e5d4f1d-4b7f-47af-9210-6d59e34ac3f5"),
-                            AuthorId = new Guid("383b0277-d263-4ca6-a895-2e83d2c6983e"),
+                            AuthorId = new Guid("589b68ae-480b-41b6-855f-397f6391cc02"),
                             Condition = 1,
                             ISBN = "130119310-0",
                             Price = 20m,
@@ -7118,7 +7118,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1b15dafd-4ce9-4797-ad48-4342f04a341e"),
-                            AuthorId = new Guid("f3a7d97c-16be-4402-8c8a-978a85d6b254"),
+                            AuthorId = new Guid("0f243037-2182-4e0d-baed-c7fbf5b06723"),
                             Condition = 0,
                             ISBN = "942020220-8",
                             Price = 56m,
@@ -7129,7 +7129,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2db7268d-56fa-48e1-8a55-cb40f706bf9b"),
-                            AuthorId = new Guid("e53a96e4-5c39-4739-94b2-cabdced13469"),
+                            AuthorId = new Guid("ed1af506-8dee-4b92-bfb6-5a072226c2d7"),
                             Condition = 1,
                             ISBN = "385608349-9",
                             Price = 98m,
@@ -7140,7 +7140,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7584c97b-d702-4db1-ae1c-b15d14a5e7d4"),
-                            AuthorId = new Guid("fa9a2f64-0908-49c8-8afe-d2fc45a83df4"),
+                            AuthorId = new Guid("e238a33f-e07f-44ca-a839-0c4613eca000"),
                             Condition = 0,
                             ISBN = "453023011-2",
                             Price = 98m,
@@ -7151,7 +7151,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f528ad0f-de2a-45ba-82db-dbb463a21ecf"),
-                            AuthorId = new Guid("b39bc32c-dd43-4027-b289-dad680195b2e"),
+                            AuthorId = new Guid("b4a7c3ea-59fb-4527-ae1f-055f3aaf840e"),
                             Condition = 1,
                             ISBN = "385079932-8",
                             Price = 76m,
@@ -7162,7 +7162,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4fb63107-da06-4d10-8655-d4099925de90"),
-                            AuthorId = new Guid("90fc885d-7fb1-46d0-8a1b-c77c9bd0dc58"),
+                            AuthorId = new Guid("7cdf970f-b0b6-457f-9e7e-c352867b094f"),
                             Condition = 0,
                             ISBN = "442457082-7",
                             Price = 37m,
@@ -7173,7 +7173,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f94e7367-cb99-4d31-ac60-8a8e7242f2db"),
-                            AuthorId = new Guid("8b7497a2-eced-4fa7-a661-90d5dd230d44"),
+                            AuthorId = new Guid("a8b2c360-053e-4033-9ba8-f78f00ea250a"),
                             Condition = 1,
                             ISBN = "513627880-3",
                             Price = 98m,
@@ -7184,7 +7184,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("70ef3a77-1fc0-45a9-a007-94084f2403c4"),
-                            AuthorId = new Guid("27979bf2-f76e-43b6-b1a3-00f018bc28f9"),
+                            AuthorId = new Guid("d470208c-d6eb-4a60-a9b9-5ff63ed12acf"),
                             Condition = 0,
                             ISBN = "846461187-0",
                             Price = 83m,
@@ -7195,7 +7195,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5d6c6d94-9342-4ec9-bcf1-c3a142d94c85"),
-                            AuthorId = new Guid("2bf8eb10-b658-4b7c-8f3f-0c83afc6f851"),
+                            AuthorId = new Guid("0d93e009-c7e8-402d-92de-3efa01475cae"),
                             Condition = 1,
                             ISBN = "448106401-3",
                             Price = 32m,
@@ -7206,7 +7206,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4b56cd0e-b0bb-413e-a8c0-a67c6cf7ef1f"),
-                            AuthorId = new Guid("2db3fd3c-76ed-4f66-9561-9704b50c904d"),
+                            AuthorId = new Guid("34769efc-7cbd-4691-a4f5-b5215f108a00"),
                             Condition = 0,
                             ISBN = "257463724-0",
                             Price = 92m,
@@ -7217,7 +7217,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d0d1ead0-cc71-4045-852c-3f5ffcc27b74"),
-                            AuthorId = new Guid("fe7c3a03-2532-4d05-b18c-cfcc0138ef77"),
+                            AuthorId = new Guid("7a5e76b0-3ab3-4709-8b2c-724e6002e64c"),
                             Condition = 1,
                             ISBN = "385503632-2",
                             Price = 25m,
@@ -7228,7 +7228,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("97fb818b-6c89-4856-8500-f2beef6b0de1"),
-                            AuthorId = new Guid("d098e30a-0cd8-45fa-b30b-d2b5d6cc028c"),
+                            AuthorId = new Guid("83986bdb-a0ac-41f3-bab9-b6c0ef04d188"),
                             Condition = 0,
                             ISBN = "443122559-5",
                             Price = 48m,
@@ -7239,7 +7239,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7638c5e5-c1c4-426c-9e17-0d3610194624"),
-                            AuthorId = new Guid("8744a906-2952-4236-b56d-f60d81c02330"),
+                            AuthorId = new Guid("82af2d9f-9ce4-44a5-aabb-8478c22d0620"),
                             Condition = 1,
                             ISBN = "538467088-6",
                             Price = 40m,
@@ -7250,7 +7250,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("465f8a89-1608-47cf-b3d0-e53d1b699e8a"),
-                            AuthorId = new Guid("a8aa50b5-fdf3-4655-8949-92fe84eb9f79"),
+                            AuthorId = new Guid("592750d3-3aa8-41dc-aa5c-d61370f2ac47"),
                             Condition = 0,
                             ISBN = "640673954-X",
                             Price = 3m,
@@ -7261,7 +7261,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("88f7d7bf-ba00-4baa-8073-128d990d73ef"),
-                            AuthorId = new Guid("fbbffb5e-56cf-44cd-815a-d1a00a0eafa9"),
+                            AuthorId = new Guid("2b4c89cb-f079-4cf8-9d4b-9fb0771b368a"),
                             Condition = 1,
                             ISBN = "118210693-5",
                             Price = 40m,
@@ -7272,7 +7272,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4bd5bb58-d4a2-45b8-af1b-29e63260d6e9"),
-                            AuthorId = new Guid("5380e8bf-636b-4486-9044-eb53527f2e05"),
+                            AuthorId = new Guid("7c9025be-885a-4737-8ff5-992a91039e90"),
                             Condition = 0,
                             ISBN = "183622927-5",
                             Price = 19m,
@@ -7283,7 +7283,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9f949e0a-6f61-44e6-aa5e-306c8dd98c38"),
-                            AuthorId = new Guid("15a49315-552f-4f6a-9f25-001a5f13ce07"),
+                            AuthorId = new Guid("24de79ae-8e57-4297-8598-bcaccea50a7c"),
                             Condition = 1,
                             ISBN = "558897437-9",
                             Price = 76m,
@@ -7294,7 +7294,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("bdb8399d-3d13-4001-b218-591034cd7912"),
-                            AuthorId = new Guid("0d9e7fb6-7bcf-4d62-99c4-8e7a80d6de1a"),
+                            AuthorId = new Guid("2fefbc4d-0264-4f6b-a512-a3d48685e0f6"),
                             Condition = 0,
                             ISBN = "394878030-7",
                             Price = 91m,
@@ -7305,7 +7305,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f4bb710e-6ab4-42a5-99b0-fd2b97fe1900"),
-                            AuthorId = new Guid("d1c444b8-aab3-4966-bebd-e8f98c51eb26"),
+                            AuthorId = new Guid("67c3f4ab-4aec-45bb-a76c-3f75e7ff7c38"),
                             Condition = 1,
                             ISBN = "476244771-4",
                             Price = 16m,
@@ -7316,7 +7316,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("63828545-4fda-43cf-b8e6-e3d23fdf996a"),
-                            AuthorId = new Guid("27c832f5-d940-4133-ac35-6349f6c4b59f"),
+                            AuthorId = new Guid("e5ea47d3-ee91-410f-ad13-d191151ce7b1"),
                             Condition = 0,
                             ISBN = "417897556-0",
                             Price = 89m,
@@ -7327,7 +7327,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("80114622-715c-404c-ba66-49114a77fe97"),
-                            AuthorId = new Guid("de50ff19-01f2-49f1-9ea5-2e779b0486ac"),
+                            AuthorId = new Guid("483ac9b2-8f68-4467-97d4-2f6e9ed5d26f"),
                             Condition = 1,
                             ISBN = "950696746-6",
                             Price = 58m,
@@ -7338,7 +7338,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d65d27a1-220f-4a7e-99e7-8d86298f63d8"),
-                            AuthorId = new Guid("76e57b14-7f0c-4110-9fe5-ae82a426fa1a"),
+                            AuthorId = new Guid("5212e292-0c25-4720-a19e-a2f565c23156"),
                             Condition = 0,
                             ISBN = "468971922-5",
                             Price = 71m,
@@ -7349,7 +7349,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("451bf1ce-63ea-4505-8366-07184f460587"),
-                            AuthorId = new Guid("a5114f33-615c-4c6f-8e19-d1d06ca3ee9a"),
+                            AuthorId = new Guid("b6cc7c00-98fd-4867-a1a2-502595140979"),
                             Condition = 1,
                             ISBN = "123762886-5",
                             Price = 13m,
@@ -7360,7 +7360,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("98c82cc2-2a45-48fd-bdcc-1d93cd3330a3"),
-                            AuthorId = new Guid("1281db96-f078-4e2a-8489-9a052b33aab3"),
+                            AuthorId = new Guid("1ccc014f-3585-4979-bce1-c12710082708"),
                             Condition = 0,
                             ISBN = "576184623-3",
                             Price = 14m,
@@ -7371,7 +7371,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7e77ee23-7cca-41d6-9a6d-cd0bea4f6eb5"),
-                            AuthorId = new Guid("df3a8976-6ee1-4af4-88b3-4592271df72e"),
+                            AuthorId = new Guid("15e128b8-7373-490b-97e8-9012d3037207"),
                             Condition = 1,
                             ISBN = "359491178-0",
                             Price = 55m,
@@ -7382,7 +7382,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9dd416e8-715e-4603-bba7-2a67166f53eb"),
-                            AuthorId = new Guid("bc65bda2-f50a-4cd8-a1c4-ede9e5b53b99"),
+                            AuthorId = new Guid("fe7c7e2e-0340-4a77-b936-f7f4050607f6"),
                             Condition = 0,
                             ISBN = "734883394-2",
                             Price = 52m,
@@ -7393,7 +7393,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("07197013-60ba-4006-8b72-e0cf0eb26712"),
-                            AuthorId = new Guid("6f8c9362-a796-4179-9707-638ee0ea0ec1"),
+                            AuthorId = new Guid("601265c7-ac1b-400b-bf2c-70c0fe7ffc13"),
                             Condition = 1,
                             ISBN = "794489779-3",
                             Price = 83m,
@@ -7404,7 +7404,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f775803f-193c-48cf-8ab5-742e5227d047"),
-                            AuthorId = new Guid("95063ef9-dfb2-482c-8b95-2d990034e231"),
+                            AuthorId = new Guid("ff991839-3537-468c-9b4d-f9a49823905d"),
                             Condition = 0,
                             ISBN = "159344724-8",
                             Price = 46m,
@@ -7415,7 +7415,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b4118a44-b066-405d-ae54-71d8870ca929"),
-                            AuthorId = new Guid("0713193a-10bb-4d6d-99f5-81e8261f06f3"),
+                            AuthorId = new Guid("41504f72-416c-483b-9f7f-63f6b063b3dc"),
                             Condition = 1,
                             ISBN = "255966850-5",
                             Price = 27m,
@@ -7426,7 +7426,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("24a80ff4-aa74-4489-94c2-24e2ce798510"),
-                            AuthorId = new Guid("9ea07d3d-fb8c-4593-a762-ed8f0ed73b5a"),
+                            AuthorId = new Guid("c588cb5a-9766-4d16-8977-70fae9be1717"),
                             Condition = 0,
                             ISBN = "953934580-4",
                             Price = 22m,
@@ -7437,7 +7437,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8251898a-e74b-478c-b635-bd6cebcb320c"),
-                            AuthorId = new Guid("0085af40-772e-43d4-a744-781e8ac7ade1"),
+                            AuthorId = new Guid("6babb91c-ccd1-4064-a897-2eecbfee7b4f"),
                             Condition = 1,
                             ISBN = "835107754-2",
                             Price = 68m,
@@ -7448,7 +7448,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("958b699c-09cf-45a5-b3b7-2ce072ba5aed"),
-                            AuthorId = new Guid("be5902e9-595e-4743-8004-bb0e46b60b7a"),
+                            AuthorId = new Guid("4f1ccb1f-b047-419f-8c80-465777ef7eea"),
                             Condition = 0,
                             ISBN = "996324070-4",
                             Price = 17m,
@@ -7459,7 +7459,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("865a8627-8057-4b76-a17e-59c4d28ab4a4"),
-                            AuthorId = new Guid("9085c603-b419-420c-8cfe-79d7b016daeb"),
+                            AuthorId = new Guid("61bb035e-3750-42f1-9630-1a5366c64e7e"),
                             Condition = 1,
                             ISBN = "393987886-3",
                             Price = 99m,
@@ -7470,7 +7470,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("91cb8f69-ae71-42b7-bd46-8e43124ac681"),
-                            AuthorId = new Guid("b8a0c27d-d0d5-4daa-a960-5f1b595a55ca"),
+                            AuthorId = new Guid("c90f953f-8e4e-4f2c-8987-18ba1f96de0d"),
                             Condition = 0,
                             ISBN = "032298242-1",
                             Price = 88m,
@@ -7481,7 +7481,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d862b4c9-5c07-40d0-8038-a8b68b8d533a"),
-                            AuthorId = new Guid("3220ed37-c604-47ae-a724-fd7b68bd6e83"),
+                            AuthorId = new Guid("aa5b1b3a-08d5-4429-832b-d52dd8797b5e"),
                             Condition = 1,
                             ISBN = "225920520-8",
                             Price = 56m,
@@ -7492,7 +7492,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5dcd0c3e-673c-4098-adc1-42f593f88670"),
-                            AuthorId = new Guid("f8bb7e04-e493-45b0-b323-4db8818a4473"),
+                            AuthorId = new Guid("a341da34-9335-4499-8e36-5e49987dad09"),
                             Condition = 0,
                             ISBN = "848878219-5",
                             Price = 13m,
@@ -7503,7 +7503,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6e284c94-a48c-469a-bd6a-d0e6f558e86b"),
-                            AuthorId = new Guid("95b96ad3-3c42-4563-a5fa-7642b9b9a706"),
+                            AuthorId = new Guid("17a06360-9f69-40e9-b01e-1afc140fa0fd"),
                             Condition = 1,
                             ISBN = "596344517-5",
                             Price = 24m,
@@ -7514,7 +7514,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d0baf860-e31a-40bf-b566-0cf6a2a2c93e"),
-                            AuthorId = new Guid("f3bf4c79-af62-4b46-9113-eda5243d5701"),
+                            AuthorId = new Guid("dc2fbdc0-349c-4b86-8758-4dc5916f619f"),
                             Condition = 0,
                             ISBN = "163624874-8",
                             Price = 41m,
@@ -7525,7 +7525,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("136d0e24-9483-48d0-8da5-97724d25b8bf"),
-                            AuthorId = new Guid("1b8a9a93-d1eb-4ef6-a4c2-dac636d6e3de"),
+                            AuthorId = new Guid("a1ea82aa-74bb-4906-b702-90e2fa09bd8b"),
                             Condition = 1,
                             ISBN = "028800869-3",
                             Price = 77m,
@@ -7536,7 +7536,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a40de08a-4d03-4846-9371-0bce38c1fe3a"),
-                            AuthorId = new Guid("a329886f-2f4c-423e-a779-3ccb89e61080"),
+                            AuthorId = new Guid("483ac9b2-8f68-4467-97d4-2f6e9ed5d26f"),
                             Condition = 0,
                             ISBN = "514466173-4",
                             Price = 41m,
@@ -7547,7 +7547,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3d0f0b84-4b3a-4487-b863-1d6ff0abd9a5"),
-                            AuthorId = new Guid("634d9fa0-566a-4ffb-a490-072d970b866b"),
+                            AuthorId = new Guid("aeb16379-fa01-46a1-b71e-573e6f14ce68"),
                             Condition = 1,
                             ISBN = "302186914-9",
                             Price = 71m,
@@ -7558,7 +7558,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b84e1bcb-fffb-4e59-9cc0-e98b93188eed"),
-                            AuthorId = new Guid("edc1ba6b-4403-46f5-bc5d-1ee8ec9a353a"),
+                            AuthorId = new Guid("5c6508c8-24d7-461a-9c7d-f73ab6cb024a"),
                             Condition = 0,
                             ISBN = "852392684-4",
                             Price = 53m,
@@ -7569,7 +7569,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f0985f73-82bd-4e3b-89ae-94591e306a17"),
-                            AuthorId = new Guid("5a7ea557-47a8-4b28-be39-90b80c104170"),
+                            AuthorId = new Guid("3576057e-3970-49ef-8058-c8960e901c20"),
                             Condition = 1,
                             ISBN = "387835327-8",
                             Price = 2m,
@@ -7580,7 +7580,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("484fdd37-1ca8-47cb-ac74-26c2924c94b6"),
-                            AuthorId = new Guid("1087b4c4-fff3-4ebe-86b0-36ab5acd10cb"),
+                            AuthorId = new Guid("423647c2-254e-4039-b952-4d6aea006652"),
                             Condition = 0,
                             ISBN = "926435581-2",
                             Price = 44m,
@@ -7591,7 +7591,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e4149b95-0378-485d-8fc4-f66d8188178a"),
-                            AuthorId = new Guid("75219ab1-3a27-46dd-b651-797b6a6f20d9"),
+                            AuthorId = new Guid("5a979871-1206-4358-af9b-855bdcac8be7"),
                             Condition = 1,
                             ISBN = "351741357-7",
                             Price = 36m,
@@ -7602,7 +7602,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0c90e866-2409-488d-bfcb-33f2db891f22"),
-                            AuthorId = new Guid("1abaaf66-3244-437d-ab52-41f4ce76d36e"),
+                            AuthorId = new Guid("bb054d78-d2e2-46cd-8a88-d77724e2b9bd"),
                             Condition = 0,
                             ISBN = "782751201-1",
                             Price = 73m,
@@ -7613,7 +7613,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8cf18dc2-cb1d-4e47-9bb3-f06b7ad9c289"),
-                            AuthorId = new Guid("4a89df1e-4263-4bd3-b3f5-ec47d399ef7f"),
+                            AuthorId = new Guid("138c30a7-2f32-4205-a0ed-a3a83ab0b4d5"),
                             Condition = 1,
                             ISBN = "912344677-3",
                             Price = 9m,
@@ -7624,7 +7624,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e105bf9f-352c-4117-bb5c-439b4c419e03"),
-                            AuthorId = new Guid("76393834-3cfc-4e90-86a9-f2ca27953f07"),
+                            AuthorId = new Guid("f945ae09-4a76-4a1d-883b-f2db1d6baf9e"),
                             Condition = 0,
                             ISBN = "957671586-5",
                             Price = 74m,
@@ -7635,7 +7635,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("25d26546-147a-459d-9bac-00d1d1341462"),
-                            AuthorId = new Guid("767be4eb-dc82-4a86-9c72-9938f0c1a54a"),
+                            AuthorId = new Guid("1178447f-1f41-49c6-a1a9-ea23b623eb41"),
                             Condition = 1,
                             ISBN = "785399204-1",
                             Price = 79m,
@@ -7646,7 +7646,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4870fca7-cbeb-47f4-9e67-5e1d53761528"),
-                            AuthorId = new Guid("f8bb7e04-e493-45b0-b323-4db8818a4473"),
+                            AuthorId = new Guid("22fc1c70-da46-4885-8798-10a52f32214d"),
                             Condition = 0,
                             ISBN = "049101538-0",
                             Price = 57m,
@@ -7657,7 +7657,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ce4c7a28-f541-4a6d-8553-2a793b263a67"),
-                            AuthorId = new Guid("991fc667-d805-4de6-9cb3-3081766f90ac"),
+                            AuthorId = new Guid("7baf6bc2-f262-40f6-ae2d-194c1b850bac"),
                             Condition = 1,
                             ISBN = "998926875-4",
                             Price = 47m,
@@ -7668,7 +7668,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("52f1df7e-563d-4312-9267-e037193a1e38"),
-                            AuthorId = new Guid("b30756ae-be0c-4f72-8e06-2d13237d55ca"),
+                            AuthorId = new Guid("5f2dfe32-a778-46b6-9aa5-07644aa5d5a7"),
                             Condition = 0,
                             ISBN = "027425729-7",
                             Price = 81m,
@@ -7679,7 +7679,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d3cd69ca-d42d-4b77-9d30-68d17a8be611"),
-                            AuthorId = new Guid("b39bc32c-dd43-4027-b289-dad680195b2e"),
+                            AuthorId = new Guid("1ccc014f-3585-4979-bce1-c12710082708"),
                             Condition = 1,
                             ISBN = "601076678-8",
                             Price = 76m,
@@ -7690,7 +7690,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a5f3998b-a3be-410d-99f5-ca94b052b41a"),
-                            AuthorId = new Guid("a1ceb583-6417-4664-aac4-193be893832b"),
+                            AuthorId = new Guid("bdac3334-6024-40bd-bd57-a76c9ccad093"),
                             Condition = 0,
                             ISBN = "788899915-8",
                             Price = 51m,
@@ -7701,7 +7701,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5593e612-166c-44aa-ba3c-557ec841989b"),
-                            AuthorId = new Guid("aa1a2ded-0229-4f1a-ae8c-5f80d0cbee38"),
+                            AuthorId = new Guid("15c81f9f-845b-45cc-8d37-5ba884d27328"),
                             Condition = 1,
                             ISBN = "255492145-8",
                             Price = 73m,
@@ -7712,7 +7712,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("32fbcad2-6bb1-4920-b5c0-88b021c9d98f"),
-                            AuthorId = new Guid("5d497ab4-fa1a-405e-9c7b-13d86705e5f5"),
+                            AuthorId = new Guid("628822da-8c9c-4763-b741-14538336090f"),
                             Condition = 0,
                             ISBN = "468690257-6",
                             Price = 11m,
@@ -7723,7 +7723,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("11208c53-7849-4101-a94b-792405cff1cb"),
-                            AuthorId = new Guid("ac1d0e46-93e9-4e8f-bd42-fd8776817650"),
+                            AuthorId = new Guid("df6f8e73-2117-4f9e-9389-66f65cb85acf"),
                             Condition = 1,
                             ISBN = "548729641-3",
                             Price = 9m,
@@ -7734,7 +7734,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("13e93a6e-3227-4293-9871-2b9500c1e8f9"),
-                            AuthorId = new Guid("1af6bab8-73c9-4ee7-b2bd-5a24daa9ffa2"),
+                            AuthorId = new Guid("ea8baf9c-d8a0-4b2e-ab76-3bba7dafd90f"),
                             Condition = 0,
                             ISBN = "868197617-6",
                             Price = 94m,
@@ -7745,7 +7745,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e07c67e2-7c42-42bc-ac82-cb3d6d7eb105"),
-                            AuthorId = new Guid("82932cb1-0765-466d-940c-55c2bc0ae54e"),
+                            AuthorId = new Guid("1da64788-61a8-49b2-a852-cc038e1791e3"),
                             Condition = 1,
                             ISBN = "577372936-9",
                             Price = 82m,
@@ -7756,7 +7756,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4b606c8f-d43f-4e9b-ab75-72db5e87be7e"),
-                            AuthorId = new Guid("ce6cca0b-4a61-4dcb-8f0d-f6f0d36df456"),
+                            AuthorId = new Guid("ff991839-3537-468c-9b4d-f9a49823905d"),
                             Condition = 0,
                             ISBN = "373391628-X",
                             Price = 97m,
@@ -7767,7 +7767,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c7c9fe9d-2818-4293-870b-7dc16186a46b"),
-                            AuthorId = new Guid("358b3e0c-5255-429b-b66f-060aba39988d"),
+                            AuthorId = new Guid("82e4c039-7aa4-4400-81f6-59c0fa6acdfd"),
                             Condition = 1,
                             ISBN = "177083834-1",
                             Price = 54m,
@@ -7778,7 +7778,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("456336d0-63c3-4e3c-823d-6c33914aeb94"),
-                            AuthorId = new Guid("a62532c0-0ac2-4680-bfce-462ba0a5a924"),
+                            AuthorId = new Guid("b09e7793-c898-4ed7-b36e-5b142ef61204"),
                             Condition = 0,
                             ISBN = "933184063-2",
                             Price = 41m,
@@ -7789,7 +7789,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2bf27897-fe68-4ce2-a6f3-d1e33cdf6954"),
-                            AuthorId = new Guid("ef7b31d4-5bd2-4689-abe2-6073c1f11a90"),
+                            AuthorId = new Guid("075970c3-c814-497c-b707-e33abc5b420c"),
                             Condition = 1,
                             ISBN = "886811191-8",
                             Price = 43m,
@@ -7800,7 +7800,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("528dab3d-4ed8-4e9f-ae3e-e93d0574d651"),
-                            AuthorId = new Guid("dbb45e0d-e5fc-462e-b783-62a2c2dc8d87"),
+                            AuthorId = new Guid("229970ab-933e-45b7-b076-9cccb15a39e4"),
                             Condition = 0,
                             ISBN = "137731060-4",
                             Price = 20m,
@@ -7811,7 +7811,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d2ce471a-d64c-4fe9-9ef3-c9f6d0488f16"),
-                            AuthorId = new Guid("356b1cdb-dc3e-43c8-bf59-633b1679855d"),
+                            AuthorId = new Guid("7c9025be-885a-4737-8ff5-992a91039e90"),
                             Condition = 1,
                             ISBN = "963090704-6",
                             Price = 62m,
@@ -7822,7 +7822,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("76730646-59af-4926-b475-532023f8bd46"),
-                            AuthorId = new Guid("dc08d55d-bfc3-458b-8ad7-3bd5e9e9d7da"),
+                            AuthorId = new Guid("3b73ba6b-ad10-4b3d-bab9-161b0bf4f35f"),
                             Condition = 0,
                             ISBN = "353172900-4",
                             Price = 55m,
@@ -7833,7 +7833,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f70cab60-576f-4305-9c1c-8da67818d1a2"),
-                            AuthorId = new Guid("7380d008-4710-45ee-aff4-9b69627d8fa0"),
+                            AuthorId = new Guid("d2d33194-6b40-4de0-ba6c-30d33f419759"),
                             Condition = 1,
                             ISBN = "984088184-1",
                             Price = 36m,
@@ -7844,7 +7844,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c6281de4-4897-4084-82e4-686bf1dfffe2"),
-                            AuthorId = new Guid("2eefb633-abad-4f17-83a1-ff1e8cd24f4d"),
+                            AuthorId = new Guid("f54082ef-8299-4c79-a1af-a3b1ab9fa982"),
                             Condition = 0,
                             ISBN = "519796920-2",
                             Price = 39m,
@@ -7855,7 +7855,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4c2fdd0f-ef3b-4d75-96e6-8f207675467a"),
-                            AuthorId = new Guid("3c58eb92-fbd8-4b60-8565-eecde6a26a71"),
+                            AuthorId = new Guid("82776242-9c21-4ad2-a98d-ef0be50a195d"),
                             Condition = 1,
                             ISBN = "940416192-6",
                             Price = 53m,
@@ -7866,7 +7866,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2643a5a6-9148-43b2-97f7-9155d2a03123"),
-                            AuthorId = new Guid("4f5171c4-53c4-4d07-b73b-58cb27343ba6"),
+                            AuthorId = new Guid("4723fa53-1dbc-4372-91d6-2d9fc30e0ed0"),
                             Condition = 0,
                             ISBN = "830536157-8",
                             Price = 85m,
@@ -7877,7 +7877,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e2a2e5fb-785f-42ee-acc9-d2a43e512e5f"),
-                            AuthorId = new Guid("2bf8eb10-b658-4b7c-8f3f-0c83afc6f851"),
+                            AuthorId = new Guid("8f828e77-bc8f-4f13-8a39-040fa7e19086"),
                             Condition = 1,
                             ISBN = "516528737-8",
                             Price = 50m,
@@ -7888,7 +7888,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("90375566-3dea-4747-8588-78b56f8424cf"),
-                            AuthorId = new Guid("3bcc229e-c552-40d7-b152-9c42eb013fe7"),
+                            AuthorId = new Guid("c56f0c10-35fc-4ca3-bef6-9292971d7f78"),
                             Condition = 0,
                             ISBN = "165067278-0",
                             Price = 76m,
@@ -7899,7 +7899,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2f8a935a-cb22-4a6d-9851-499aa9507dc2"),
-                            AuthorId = new Guid("61999025-8149-4529-bbd7-c82935d20bc8"),
+                            AuthorId = new Guid("47828315-09dd-4f90-ad30-d9ff11428ee4"),
                             Condition = 1,
                             ISBN = "142297780-3",
                             Price = 68m,
@@ -7910,7 +7910,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("39c51439-955b-44a8-b600-c17f081d4bc8"),
-                            AuthorId = new Guid("634d9fa0-566a-4ffb-a490-072d970b866b"),
+                            AuthorId = new Guid("e42770dd-c8d5-4f40-b338-f2376647e2f7"),
                             Condition = 0,
                             ISBN = "073931171-9",
                             Price = 25m,
@@ -7921,7 +7921,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e2e81502-9a18-4b85-af0e-4f229313a782"),
-                            AuthorId = new Guid("b164b077-7332-44dc-a1ab-ada58c3bcb0c"),
+                            AuthorId = new Guid("aa642f02-1a69-4d37-b0d9-ef252c9edbfc"),
                             Condition = 1,
                             ISBN = "530276510-1",
                             Price = 37m,
@@ -7932,7 +7932,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7378f0d2-4a5c-45d8-9d2c-8410ee3aa205"),
-                            AuthorId = new Guid("5ae767a4-63a4-4b2e-b342-857fa81f8377"),
+                            AuthorId = new Guid("810db5f1-6a61-4bca-8102-96a764f97576"),
                             Condition = 0,
                             ISBN = "448321852-2",
                             Price = 46m,
@@ -7943,7 +7943,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d2dbd92d-0d13-4738-b76c-23f8d53626fd"),
-                            AuthorId = new Guid("4e2a968f-ca49-4ba1-8f4d-550092163bc5"),
+                            AuthorId = new Guid("9a0751b7-2868-4612-9f9d-cfb9a3c6d6f8"),
                             Condition = 1,
                             ISBN = "483942274-5",
                             Price = 87m,
@@ -7954,7 +7954,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9f2bcb24-0e94-43b7-8d72-e740e965c4ec"),
-                            AuthorId = new Guid("b8a0c27d-d0d5-4daa-a960-5f1b595a55ca"),
+                            AuthorId = new Guid("4f1ccb1f-b047-419f-8c80-465777ef7eea"),
                             Condition = 0,
                             ISBN = "905496226-7",
                             Price = 88m,
@@ -7965,7 +7965,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d2be970e-c38e-4665-bf3a-f1bd2faf22ab"),
-                            AuthorId = new Guid("5153f2b1-06af-4b0b-a683-38adda2bd667"),
+                            AuthorId = new Guid("e2d97f39-3df7-44dd-858a-2d3f94799ba8"),
                             Condition = 1,
                             ISBN = "915653800-6",
                             Price = 30m,
@@ -7976,7 +7976,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0f0c9115-56fa-4f82-b69e-de6981be5a32"),
-                            AuthorId = new Guid("0ede6111-ad59-4a97-934f-5d61431aa610"),
+                            AuthorId = new Guid("9c43c76e-51ad-496a-ba30-f9cba092157b"),
                             Condition = 0,
                             ISBN = "303271556-3",
                             Price = 25m,
@@ -7987,7 +7987,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2857469a-4089-4a1c-bd9e-1df64ca3ff40"),
-                            AuthorId = new Guid("6fb52fae-c0ba-40aa-bdd6-86304d63a1e5"),
+                            AuthorId = new Guid("5032c08b-be30-4b08-93d2-de85a2c56ac8"),
                             Condition = 1,
                             ISBN = "214651886-3",
                             Price = 89m,
@@ -7998,7 +7998,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7d4eede7-6c8d-4696-972b-2314cd2fb272"),
-                            AuthorId = new Guid("794c30e1-5ab6-41c7-b562-0683c0b7875e"),
+                            AuthorId = new Guid("2a0fc0d0-aa77-42dd-880b-135ba4e6f4c1"),
                             Condition = 0,
                             ISBN = "338741425-0",
                             Price = 45m,
@@ -8009,7 +8009,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b70bdebf-1b41-4b3e-b14d-d4f536a6bacc"),
-                            AuthorId = new Guid("503981ad-b428-4fe9-bc56-a1a96ebd17f0"),
+                            AuthorId = new Guid("2e89f062-75fd-4e98-92ff-221af432226d"),
                             Condition = 1,
                             ISBN = "349224351-7",
                             Price = 18m,
@@ -8020,7 +8020,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("220ad3d9-158d-4ec7-a815-97e90e38795d"),
-                            AuthorId = new Guid("3d87651d-5ad3-4d27-9f7c-cb805478c936"),
+                            AuthorId = new Guid("5f28b80f-0488-4f1f-bf15-de3724e4d57b"),
                             Condition = 0,
                             ISBN = "866672887-6",
                             Price = 65m,
@@ -8031,7 +8031,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e454781c-f7a6-4a37-90cd-4070369f3d46"),
-                            AuthorId = new Guid("37e8cbcd-1202-4e31-9505-589f60e2cd8a"),
+                            AuthorId = new Guid("b3e05877-1952-414c-870e-05f1b92da5e6"),
                             Condition = 1,
                             ISBN = "384292141-1",
                             Price = 12m,
@@ -8042,7 +8042,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1d8e043e-19a7-41f6-afe8-b26012a358dc"),
-                            AuthorId = new Guid("ec8e4ccd-bd7a-4690-827c-f75973e8d465"),
+                            AuthorId = new Guid("75505f29-4061-4871-bd78-c3a94cd876b0"),
                             Condition = 0,
                             ISBN = "425850244-8",
                             Price = 7m,
@@ -8053,7 +8053,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("39fa0bf8-6089-429b-a78d-eee52fcb97df"),
-                            AuthorId = new Guid("4faa4f23-0f75-441f-8048-d9f0338101c0"),
+                            AuthorId = new Guid("dec31e21-a54d-424f-b76c-4f58d1120997"),
                             Condition = 1,
                             ISBN = "266748814-8",
                             Price = 15m,
@@ -8064,7 +8064,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f532db27-28fc-4ffe-b820-47ddddf2b325"),
-                            AuthorId = new Guid("0d685706-c9a5-412c-b296-4e4f99d25500"),
+                            AuthorId = new Guid("7632372b-e445-4ad1-845b-c3f37d1be7c9"),
                             Condition = 0,
                             ISBN = "165304135-8",
                             Price = 35m,
@@ -8075,7 +8075,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6b118e92-79f4-47d5-8ece-1f9d4317efbb"),
-                            AuthorId = new Guid("e9829cd2-b11e-4e81-8920-df37bec75c68"),
+                            AuthorId = new Guid("a900085f-5913-431e-b7cd-80eccb6b8395"),
                             Condition = 1,
                             ISBN = "118694175-8",
                             Price = 60m,
@@ -8086,7 +8086,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("00dd680e-95a4-4e59-bbc7-b989c0852a23"),
-                            AuthorId = new Guid("bb14916a-0ff3-42c5-a08f-e5dcf7653dc6"),
+                            AuthorId = new Guid("75cc92c5-2106-4698-9ff3-764cbba6e264"),
                             Condition = 0,
                             ISBN = "920317706-X",
                             Price = 61m,
@@ -8097,7 +8097,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ea213838-3f39-4661-bb61-c2a3ad7d6f0b"),
-                            AuthorId = new Guid("7380d008-4710-45ee-aff4-9b69627d8fa0"),
+                            AuthorId = new Guid("15e128b8-7373-490b-97e8-9012d3037207"),
                             Condition = 1,
                             ISBN = "369939049-7",
                             Price = 68m,
@@ -8108,7 +8108,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("73b4e285-5b12-49e6-acdc-0554bc85d93a"),
-                            AuthorId = new Guid("f1e93272-da66-4117-b84f-21a4c154ee71"),
+                            AuthorId = new Guid("3450bca3-9c3d-4426-afd2-52826bd947b4"),
                             Condition = 0,
                             ISBN = "754093221-X",
                             Price = 24m,
@@ -8119,7 +8119,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8d4493af-305c-4bdf-a707-570d7f7c88c5"),
-                            AuthorId = new Guid("28c0521f-97a0-4e21-a7bc-45028ef1eb09"),
+                            AuthorId = new Guid("f38da6ec-83f1-401e-b206-4759b7991ef4"),
                             Condition = 1,
                             ISBN = "616509042-7",
                             Price = 43m,
@@ -8130,7 +8130,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("affefeb6-8c8e-46b7-bb62-fb2769138773"),
-                            AuthorId = new Guid("ca619031-f834-451a-bb11-b9af6c099ebb"),
+                            AuthorId = new Guid("24de79ae-8e57-4297-8598-bcaccea50a7c"),
                             Condition = 0,
                             ISBN = "482426857-5",
                             Price = 97m,
@@ -8141,7 +8141,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d297b5fb-f053-4543-8c16-9d42d8f5f9b3"),
-                            AuthorId = new Guid("c1c5bb1b-8d69-4598-b93c-a4bf48066d24"),
+                            AuthorId = new Guid("4d53d8f4-da9c-43c5-83cc-1cd9cefbb76d"),
                             Condition = 1,
                             ISBN = "535674046-8",
                             Price = 66m,
@@ -8152,7 +8152,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d1e5474d-3ee4-4f00-9f61-1e735c788ee4"),
-                            AuthorId = new Guid("2bf8eb10-b658-4b7c-8f3f-0c83afc6f851"),
+                            AuthorId = new Guid("6d09f403-4e1b-4dce-8682-a917e1d72795"),
                             Condition = 0,
                             ISBN = "772834303-3",
                             Price = 78m,
@@ -8163,7 +8163,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("87f5bcc8-31f6-41c7-9105-fd100ca778cb"),
-                            AuthorId = new Guid("3de047cf-aa52-4347-be26-027bd8ee3bc5"),
+                            AuthorId = new Guid("d1df0f2e-2ff6-4b74-9bdc-e8204cc5e71d"),
                             Condition = 1,
                             ISBN = "520469188-X",
                             Price = 12m,
@@ -8174,7 +8174,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("843edd4e-1d1d-40a3-b948-46892715d182"),
-                            AuthorId = new Guid("09c7e67f-0a4d-49ae-9267-ec26fe174214"),
+                            AuthorId = new Guid("a0358c05-a2ff-43bd-aef0-435987cbd3d4"),
                             Condition = 0,
                             ISBN = "232729641-2",
                             Price = 79m,
@@ -8185,7 +8185,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("898cd88b-3d38-407b-ba03-7e5a3ab1eb7a"),
-                            AuthorId = new Guid("f27a9091-2656-4dab-bea3-4053184a42d3"),
+                            AuthorId = new Guid("b09e7793-c898-4ed7-b36e-5b142ef61204"),
                             Condition = 1,
                             ISBN = "603934935-2",
                             Price = 36m,
@@ -8196,7 +8196,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("39160324-b2f0-426e-85d9-1a00cb351e82"),
-                            AuthorId = new Guid("079aafe1-97db-4416-8a2d-7e598149b737"),
+                            AuthorId = new Guid("256d821f-4495-49e7-a4f7-79a346692564"),
                             Condition = 0,
                             ISBN = "631607724-6",
                             Price = 5m,
@@ -8207,7 +8207,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("112444fa-71bc-4407-97a3-47733a8613f4"),
-                            AuthorId = new Guid("0da6eb62-f87b-4b8d-8f56-84cf0ffcfdbc"),
+                            AuthorId = new Guid("ee74b986-548f-40ba-917c-4f451ec70888"),
                             Condition = 1,
                             ISBN = "418741348-0",
                             Price = 33m,
@@ -8218,7 +8218,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("79bed9a6-4d82-4146-90e7-e46dcf0ec243"),
-                            AuthorId = new Guid("a6e9a2da-b223-44d9-be33-1d1f3ef18b2e"),
+                            AuthorId = new Guid("d5c03f61-0881-4475-ab9f-f12077281195"),
                             Condition = 0,
                             ISBN = "381298316-8",
                             Price = 44m,
@@ -8229,7 +8229,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("11720a7b-de57-41e5-901f-5276a8c5a70a"),
-                            AuthorId = new Guid("1a43890f-a96f-4b0f-bef3-be5b12f574bb"),
+                            AuthorId = new Guid("612f1c6b-4ec0-4af3-b62a-baf3f316339f"),
                             Condition = 1,
                             ISBN = "380449722-5",
                             Price = 25m,
@@ -8240,7 +8240,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("30f01729-5404-4e3e-8132-c2e9f4f3d4b9"),
-                            AuthorId = new Guid("64fe9ab9-6403-43a8-a1d7-0cfc98c6657f"),
+                            AuthorId = new Guid("e1ab4fbd-9feb-4bd7-bc44-25461c743e0d"),
                             Condition = 0,
                             ISBN = "586486615-6",
                             Price = 9m,
@@ -8251,7 +8251,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("61381bd2-0529-436e-811a-69117c49207a"),
-                            AuthorId = new Guid("4fb98fcc-c5bd-4d8d-ac3f-7cabf3954ac8"),
+                            AuthorId = new Guid("9d7ed1e8-02d5-4532-92dd-1ade1dd6a709"),
                             Condition = 1,
                             ISBN = "537000520-6",
                             Price = 22m,
@@ -8262,7 +8262,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("737dac8e-0ac6-4feb-aea5-51af75f7b2fc"),
-                            AuthorId = new Guid("f3a7d97c-16be-4402-8c8a-978a85d6b254"),
+                            AuthorId = new Guid("6117e18a-5620-40d3-95fe-4c3653692444"),
                             Condition = 0,
                             ISBN = "332140259-9",
                             Price = 27m,
@@ -8273,7 +8273,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0c9df34f-715b-47f0-8535-f5c86ef121a5"),
-                            AuthorId = new Guid("53d20252-1c2e-4146-ba5c-f5f192bd3bfd"),
+                            AuthorId = new Guid("dec31e21-a54d-424f-b76c-4f58d1120997"),
                             Condition = 1,
                             ISBN = "177509160-0",
                             Price = 36m,
@@ -8284,7 +8284,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fbb10980-c5a8-4545-b696-fe88d09fda70"),
-                            AuthorId = new Guid("991fc667-d805-4de6-9cb3-3081766f90ac"),
+                            AuthorId = new Guid("b75e3d75-e6f6-423c-9d9a-8a928f38ea10"),
                             Condition = 0,
                             ISBN = "255542988-3",
                             Price = 21m,
@@ -8295,7 +8295,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("477cd959-aff1-472d-bcb4-d4a32d8c1595"),
-                            AuthorId = new Guid("a1e54121-e8e2-4973-b49c-1f74c10ed69e"),
+                            AuthorId = new Guid("dd08bbb6-04b0-4022-a7bf-a09927ce8f8d"),
                             Condition = 1,
                             ISBN = "849062923-4",
                             Price = 78m,
@@ -8306,7 +8306,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b1954b5e-de4e-4156-8a3b-c666d74e91ff"),
-                            AuthorId = new Guid("9499012b-9ded-443e-9a92-5166d7d9adc7"),
+                            AuthorId = new Guid("147ddf04-3cbc-47d3-9bd2-a9c974c87f80"),
                             Condition = 0,
                             ISBN = "771463234-8",
                             Price = 62m,
@@ -8317,7 +8317,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7d8d1481-70ce-4301-8156-1285a0c7a203"),
-                            AuthorId = new Guid("aafbe801-5353-4a9c-88b9-6844e8211e62"),
+                            AuthorId = new Guid("ec2bed8f-fd0a-470d-8241-183757ad24bc"),
                             Condition = 1,
                             ISBN = "810138035-3",
                             Price = 4m,
@@ -8328,7 +8328,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f583b94d-4ccb-44f0-b683-c5439af1b70d"),
-                            AuthorId = new Guid("994545f1-93a4-4482-a9e1-98a76169206f"),
+                            AuthorId = new Guid("ac86104f-99fc-46cc-bde8-d3643488b9f5"),
                             Condition = 0,
                             ISBN = "122895873-4",
                             Price = 36m,
@@ -8339,7 +8339,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b9bda8fe-33c0-48ac-ad61-32c4ad2b7d4b"),
-                            AuthorId = new Guid("a43f4893-ee73-413d-9004-09c6cf5dfe6c"),
+                            AuthorId = new Guid("1ab412eb-2190-41ba-bb6a-60e250f1dcd0"),
                             Condition = 1,
                             ISBN = "408488931-8",
                             Price = 21m,
@@ -8350,7 +8350,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3d170328-240b-4fd3-aac6-fdfa05facfcc"),
-                            AuthorId = new Guid("8bc2fbf2-b8be-420a-ab41-e49c44123753"),
+                            AuthorId = new Guid("b4c6e23f-082b-4879-8bfb-c2a58972f4ba"),
                             Condition = 0,
                             ISBN = "176684520-7",
                             Price = 9m,
@@ -8361,7 +8361,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8eed7e0d-b0b1-4cbd-8e6d-54300fe153c6"),
-                            AuthorId = new Guid("2c928f36-1aa2-4e1f-8cda-b48b1a695b4c"),
+                            AuthorId = new Guid("5511bc8f-6f52-4350-976c-c2959bf23b97"),
                             Condition = 1,
                             ISBN = "275322074-3",
                             Price = 94m,
@@ -8372,7 +8372,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("bd539d32-3b86-405e-8f94-5eb641ce909b"),
-                            AuthorId = new Guid("01c064e1-88aa-48c6-be0e-b12ea47cab70"),
+                            AuthorId = new Guid("81f5fa8f-5175-4fc1-8b83-ee427c5e2d38"),
                             Condition = 0,
                             ISBN = "915914312-6",
                             Price = 85m,
@@ -8383,7 +8383,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("38a5c2e2-996b-4f4d-8581-f6e2628d1a55"),
-                            AuthorId = new Guid("b8c3d832-e24d-470d-8d87-e3ab5da9ee79"),
+                            AuthorId = new Guid("f428fc82-5f77-47c1-a686-e32dcceedce8"),
                             Condition = 1,
                             ISBN = "595829860-7",
                             Price = 59m,
@@ -8394,7 +8394,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8ef689ad-a478-4f89-9297-60794c1dfde7"),
-                            AuthorId = new Guid("22231497-c3c4-43c6-8764-e008fe5062dc"),
+                            AuthorId = new Guid("ae7f62d5-5f11-4814-8cad-82ec3b4c3450"),
                             Condition = 0,
                             ISBN = "208657300-6",
                             Price = 65m,
@@ -8405,7 +8405,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("947f80ae-b3e1-4a54-ad9d-11eb1caff1ea"),
-                            AuthorId = new Guid("e23c6d4a-94aa-4bda-8a09-4f3a00c1d2a8"),
+                            AuthorId = new Guid("fd3a32ec-eafe-4d97-851c-f15a24c86807"),
                             Condition = 1,
                             ISBN = "771876702-7",
                             Price = 3m,
@@ -8416,7 +8416,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("880a3cb8-d016-4f24-80dd-ac45bcf87ab5"),
-                            AuthorId = new Guid("267cbc06-0ea5-4809-81e6-fd425fabc167"),
+                            AuthorId = new Guid("cd6868fa-2ed9-4e64-8733-3a3f7cd6db24"),
                             Condition = 0,
                             ISBN = "915762136-5",
                             Price = 20m,
@@ -8427,7 +8427,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("47bfec53-66af-4f1f-8c5d-f4a6f5376e3c"),
-                            AuthorId = new Guid("73a57c91-2933-4f5b-9754-c542bd143feb"),
+                            AuthorId = new Guid("6aceda05-f46f-4384-b5e5-76cca65403dd"),
                             Condition = 1,
                             ISBN = "216134894-9",
                             Price = 92m,
@@ -8438,7 +8438,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("88880a82-9141-4a7a-9c06-feaecb5e7477"),
-                            AuthorId = new Guid("b294c6c8-d7b7-424c-a33b-2be6ebc9f87a"),
+                            AuthorId = new Guid("786a9297-caff-4a50-8846-f10261387fe5"),
                             Condition = 0,
                             ISBN = "599004655-3",
                             Price = 63m,
@@ -8449,7 +8449,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6620c129-4582-490f-87a2-363b1ee9a91b"),
-                            AuthorId = new Guid("eba42403-dce5-470b-a1da-63687b6ed5f6"),
+                            AuthorId = new Guid("3e0fa3e9-4987-457d-8eda-8e1ca6d4db56"),
                             Condition = 1,
                             ISBN = "814500294-X",
                             Price = 33m,
@@ -8460,7 +8460,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c9c4df72-4dcf-48db-98cf-1c7ab5bc9a2e"),
-                            AuthorId = new Guid("b67bf06c-e412-494e-88e9-e4744e067843"),
+                            AuthorId = new Guid("6dc3733e-c125-427c-a73c-9b8ebd21404c"),
                             Condition = 0,
                             ISBN = "308364096-X",
                             Price = 75m,
@@ -8471,7 +8471,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8d62f72f-996d-4808-a39c-e7f9a23dd07e"),
-                            AuthorId = new Guid("81de9bef-1643-4cb7-8700-10cb9b09cef4"),
+                            AuthorId = new Guid("9b0eb256-fc6c-44de-8953-691adfd8930f"),
                             Condition = 1,
                             ISBN = "344781658-9",
                             Price = 87m,
@@ -8482,7 +8482,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("efc7a569-7219-435d-b385-dc22537c8979"),
-                            AuthorId = new Guid("f48e6883-2966-4822-8433-b18d619808ea"),
+                            AuthorId = new Guid("816fca36-932b-4d46-9672-c86ab2d1a761"),
                             Condition = 0,
                             ISBN = "435193628-2",
                             Price = 47m,
@@ -8493,7 +8493,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("dc019e37-a099-4959-a95d-bcd3d9cbeb36"),
-                            AuthorId = new Guid("dd0d613b-d3d8-4bd4-b2c0-35cc5aeb3309"),
+                            AuthorId = new Guid("61bb035e-3750-42f1-9630-1a5366c64e7e"),
                             Condition = 1,
                             ISBN = "169530096-3",
                             Price = 29m,
@@ -8504,7 +8504,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b9b263a3-8c2d-4338-8d2c-25f865d2dd28"),
-                            AuthorId = new Guid("013a3381-b4bc-43ab-9298-bbb8baa91078"),
+                            AuthorId = new Guid("4d34b76b-f61d-471e-b543-9b1d4dd2984a"),
                             Condition = 0,
                             ISBN = "460847397-2",
                             Price = 1m,
@@ -8515,7 +8515,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8aaf373c-e8a6-4c87-9bc3-d5224177eec1"),
-                            AuthorId = new Guid("9ffc0977-37fd-4219-add9-9a25b073a10d"),
+                            AuthorId = new Guid("fcf4cafe-358c-4b09-9836-cca17d31a167"),
                             Condition = 1,
                             ISBN = "976268902-X",
                             Price = 95m,
@@ -8526,7 +8526,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("670fbbe6-e15c-4715-8843-d255e0ff5426"),
-                            AuthorId = new Guid("22231497-c3c4-43c6-8764-e008fe5062dc"),
+                            AuthorId = new Guid("70e122d2-20d4-4a0e-947e-231719be5e8b"),
                             Condition = 0,
                             ISBN = "455064693-4",
                             Price = 51m,
@@ -8537,7 +8537,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("55fa89c9-50d9-42a9-8318-6f7279daf533"),
-                            AuthorId = new Guid("dc7642e1-db94-4d35-b5e3-84706d0884af"),
+                            AuthorId = new Guid("3f53ee21-b138-48b6-9cb4-ffd490a7f6c2"),
                             Condition = 1,
                             ISBN = "339514288-4",
                             Price = 91m,
@@ -8548,7 +8548,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9633ae65-5aac-4b83-9b57-944ba139cca4"),
-                            AuthorId = new Guid("c663e806-ddba-462a-a1c7-5b2a4c197de7"),
+                            AuthorId = new Guid("2a32935e-3e8a-4e01-8a48-a9ddf4b53d80"),
                             Condition = 0,
                             ISBN = "282241664-8",
                             Price = 86m,
@@ -8559,7 +8559,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("34f49e44-6d21-45db-bd7c-ff9b68c3a3dc"),
-                            AuthorId = new Guid("83d89db5-7204-46ef-93bf-fd6e9df782cd"),
+                            AuthorId = new Guid("7d6c1f96-4825-4838-9108-0c7a187a580f"),
                             Condition = 1,
                             ISBN = "767853030-7",
                             Price = 96m,
@@ -8570,7 +8570,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("073568ea-0832-4f95-af6f-cb6d594619b7"),
-                            AuthorId = new Guid("ad533211-4ff4-4ce9-828d-082346666f62"),
+                            AuthorId = new Guid("20ae50b8-19b6-4538-94e0-be4d549d38ab"),
                             Condition = 0,
                             ISBN = "623896680-7",
                             Price = 3m,
@@ -8581,7 +8581,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("78dafc67-1665-4abd-bcc9-769f56b968af"),
-                            AuthorId = new Guid("0ecb8f16-d362-47aa-bd8f-aba5cb67891e"),
+                            AuthorId = new Guid("fb80b824-fb7d-4c00-8775-5cf972f5d617"),
                             Condition = 1,
                             ISBN = "329777455-X",
                             Price = 31m,
@@ -8592,7 +8592,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6ff211ca-7f36-4517-acc1-92879bbf18e9"),
-                            AuthorId = new Guid("634d9fa0-566a-4ffb-a490-072d970b866b"),
+                            AuthorId = new Guid("cbcda460-81e2-4f59-ae9c-00852c6841b7"),
                             Condition = 0,
                             ISBN = "472824965-4",
                             Price = 51m,
@@ -8603,7 +8603,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0b9b70b6-4d46-4d03-a8c2-f5db494f698a"),
-                            AuthorId = new Guid("3868539d-b516-43d0-8b14-5153d2b034bb"),
+                            AuthorId = new Guid("0fa413d4-0e0b-408b-8e3c-2e9c6a46ec07"),
                             Condition = 1,
                             ISBN = "240213919-6",
                             Price = 53m,
@@ -8614,7 +8614,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("94a28cd2-59b7-454b-a3e9-421ca59691c4"),
-                            AuthorId = new Guid("ec8e4ccd-bd7a-4690-827c-f75973e8d465"),
+                            AuthorId = new Guid("65fc4ea3-34c6-4183-a5c3-a91e3e89f7a8"),
                             Condition = 0,
                             ISBN = "384033465-9",
                             Price = 56m,
@@ -8625,7 +8625,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3c458054-014c-46bf-a9c1-53d782541482"),
-                            AuthorId = new Guid("f48e6883-2966-4822-8433-b18d619808ea"),
+                            AuthorId = new Guid("0178808c-80e7-44c7-9aae-28706a766f9f"),
                             Condition = 1,
                             ISBN = "613949469-9",
                             Price = 84m,
@@ -8636,7 +8636,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cd9442c4-3e42-4995-b08e-f817c9cda0df"),
-                            AuthorId = new Guid("00d9a9b2-5d08-4bd3-b854-28228db24210"),
+                            AuthorId = new Guid("ba9e49c9-0d71-4f9f-bbcb-d9dd7056bdf0"),
                             Condition = 0,
                             ISBN = "715896740-9",
                             Price = 81m,
@@ -8647,7 +8647,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("105cbd29-0765-472f-bc6f-271be1ea8dcd"),
-                            AuthorId = new Guid("b79722bb-068e-479f-bf3c-b214034a1e48"),
+                            AuthorId = new Guid("553b3bab-2dd0-4d49-b140-431491f892a2"),
                             Condition = 1,
                             ISBN = "824446698-7",
                             Price = 27m,
@@ -8658,7 +8658,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d95c1c89-ec25-4844-b6be-d4bd4fa270b6"),
-                            AuthorId = new Guid("58426ca4-5446-47d5-b91a-d317fbfdc525"),
+                            AuthorId = new Guid("7697b703-0aa4-4263-ad9f-4c44c772f5fe"),
                             Condition = 0,
                             ISBN = "293373661-6",
                             Price = 90m,
@@ -8669,7 +8669,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("58b00bbb-6d5f-44fe-aba3-c62d04a1d852"),
-                            AuthorId = new Guid("81a5b860-3cbf-42a8-948c-46e22d7d0d0b"),
+                            AuthorId = new Guid("704852fd-6316-4a25-aa56-23d00bfe72e1"),
                             Condition = 1,
                             ISBN = "902332907-4",
                             Price = 76m,
@@ -8680,7 +8680,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d8b25f0d-e17f-4a23-a31f-df2001d77b28"),
-                            AuthorId = new Guid("356b1cdb-dc3e-43c8-bf59-633b1679855d"),
+                            AuthorId = new Guid("c588cb5a-9766-4d16-8977-70fae9be1717"),
                             Condition = 0,
                             ISBN = "787130561-1",
                             Price = 7m,
@@ -8691,7 +8691,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1e3d1ee4-bc7d-414b-a302-33a6acb4a93b"),
-                            AuthorId = new Guid("ed700c11-0c4a-4e26-b52e-fa295301c2d3"),
+                            AuthorId = new Guid("51d54ead-0a70-42e6-9f55-62c2e5fae9f8"),
                             Condition = 1,
                             ISBN = "665004775-9",
                             Price = 99m,
@@ -8702,7 +8702,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c7c300df-73db-44fa-b5c1-42f497568fd4"),
-                            AuthorId = new Guid("7859aa81-14a9-4735-b1f8-f00960d3b342"),
+                            AuthorId = new Guid("3a39d358-0924-4a93-9217-3831d2f3b725"),
                             Condition = 0,
                             ISBN = "075801686-7",
                             Price = 71m,
@@ -8713,7 +8713,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("42b319b1-438d-4f28-948f-f571741cdb0d"),
-                            AuthorId = new Guid("6deeb509-6c19-4323-b2f7-c86349a2b003"),
+                            AuthorId = new Guid("52e63947-0c91-42a2-ab2f-781d606990b6"),
                             Condition = 1,
                             ISBN = "836002333-6",
                             Price = 71m,
@@ -8724,7 +8724,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cd82fbd0-17a6-47dd-95d7-f9534ae135af"),
-                            AuthorId = new Guid("24878f0f-b893-41d7-a296-c054d1b26475"),
+                            AuthorId = new Guid("9dae290a-716a-4b7d-aabe-ee6aeede903b"),
                             Condition = 0,
                             ISBN = "385797744-2",
                             Price = 66m,
@@ -8735,7 +8735,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a7da7909-21a6-479c-9661-2768fd75f0de"),
-                            AuthorId = new Guid("ad1e5cb4-e2a4-437f-87c2-e76a78e4d0e5"),
+                            AuthorId = new Guid("0d577293-6a48-4c53-88ce-4e72f0699b34"),
                             Condition = 1,
                             ISBN = "850924489-8",
                             Price = 30m,
@@ -8746,7 +8746,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ce123961-4f75-4213-a4a8-86cc537317da"),
-                            AuthorId = new Guid("509a3022-49d7-4a78-ac78-ae17f4246dc5"),
+                            AuthorId = new Guid("9680b600-eb64-4a69-8edf-cdbaee8e70c5"),
                             Condition = 0,
                             ISBN = "810077254-1",
                             Price = 5m,
@@ -8757,7 +8757,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0afd8264-82b5-4c1d-9eb1-54d7c7100329"),
-                            AuthorId = new Guid("2af7736a-a2ec-40a6-95b1-522d6da0c69e"),
+                            AuthorId = new Guid("55a726b0-1d71-4dfb-a108-8dfb414c688a"),
                             Condition = 1,
                             ISBN = "051248571-2",
                             Price = 53m,
@@ -8768,7 +8768,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ac2529a6-6abd-4352-b7a3-a193cdf4e8fc"),
-                            AuthorId = new Guid("cb2bbd63-0980-4ee8-beab-c0f7ab872383"),
+                            AuthorId = new Guid("a9ddadac-2154-4dc1-b87d-f7203f656fc7"),
                             Condition = 0,
                             ISBN = "879383176-5",
                             Price = 95m,
@@ -8779,7 +8779,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("91715ac5-685b-460a-82b5-a8d2e625e56f"),
-                            AuthorId = new Guid("16460b51-2fcf-470c-bb00-276ba2bade53"),
+                            AuthorId = new Guid("7aff2b8d-ef8f-4e65-99ad-399ccf3dddb9"),
                             Condition = 1,
                             ISBN = "182828645-1",
                             Price = 57m,
@@ -8790,7 +8790,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("04ad5574-7b1c-41c3-8b78-f3ed04f2d8a6"),
-                            AuthorId = new Guid("b164b077-7332-44dc-a1ab-ada58c3bcb0c"),
+                            AuthorId = new Guid("8e6a6aa0-48bf-477e-93b9-894510dcb1e9"),
                             Condition = 0,
                             ISBN = "824484942-8",
                             Price = 78m,
@@ -8801,7 +8801,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b923b053-9f21-4746-811e-4097e86ecce3"),
-                            AuthorId = new Guid("0d9e7fb6-7bcf-4d62-99c4-8e7a80d6de1a"),
+                            AuthorId = new Guid("b78312d6-973a-4233-b6b2-92d412f2ad13"),
                             Condition = 1,
                             ISBN = "997201045-7",
                             Price = 49m,
@@ -8812,7 +8812,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("df0b97fb-2129-4347-8e5b-aaa39bfea324"),
-                            AuthorId = new Guid("b7757b09-09fa-40cf-8ba0-09231500e6ac"),
+                            AuthorId = new Guid("0a17e5cf-a145-4605-baa0-6977b022d1d2"),
                             Condition = 0,
                             ISBN = "410361301-7",
                             Price = 32m,
@@ -8823,7 +8823,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a4136089-8fff-4ffb-81dc-10084675a8cd"),
-                            AuthorId = new Guid("15f10e87-dc54-4e4b-91f6-a67402891ca9"),
+                            AuthorId = new Guid("7a995f3e-25eb-4e51-9728-174cd5499356"),
                             Condition = 1,
                             ISBN = "994097294-6",
                             Price = 82m,
@@ -8834,7 +8834,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b58fb25f-820a-48d9-bf7c-025d7c6ddfe1"),
-                            AuthorId = new Guid("7e150311-319a-49a9-83c2-192c32b1363b"),
+                            AuthorId = new Guid("c6abc4b7-6b3e-4fe5-87db-84a209725057"),
                             Condition = 0,
                             ISBN = "776228015-4",
                             Price = 54m,
@@ -8845,7 +8845,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("438c9d57-3f8d-4096-8bdc-8e84c8b37436"),
-                            AuthorId = new Guid("5380659f-2ce3-4bfe-a1db-003100941591"),
+                            AuthorId = new Guid("3068d366-33cf-47ce-9af6-5351b9355bf7"),
                             Condition = 1,
                             ISBN = "564736922-7",
                             Price = 31m,
@@ -8856,7 +8856,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3bd0ce31-c21d-4ea8-90d1-af3df110e997"),
-                            AuthorId = new Guid("2fdca055-7193-44bf-b351-e06794b8fb71"),
+                            AuthorId = new Guid("1ba3e6f5-1df2-4ec2-b7ce-44eb11a04156"),
                             Condition = 0,
                             ISBN = "517765360-9",
                             Price = 44m,
@@ -8867,7 +8867,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b27f1cd6-ca45-432d-976c-ba8fcc630bfc"),
-                            AuthorId = new Guid("66950e8a-cbd7-4a3e-bde7-3acfe719c9b1"),
+                            AuthorId = new Guid("cd839bb9-ca73-43f8-be95-a4b1e31f8899"),
                             Condition = 1,
                             ISBN = "330383845-3",
                             Price = 97m,
@@ -8878,7 +8878,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4e1dbde0-4171-4816-b06c-e2233f320542"),
-                            AuthorId = new Guid("eadec3b1-2ad4-4b78-86a8-d56dd9247e64"),
+                            AuthorId = new Guid("e46babbe-eac4-4cc5-84d4-71ee1b32c4b4"),
                             Condition = 0,
                             ISBN = "787691651-1",
                             Price = 8m,
@@ -8889,7 +8889,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("77b6a896-a5e5-47bf-b9ac-434850afd3a6"),
-                            AuthorId = new Guid("19fe27c7-6493-4426-9659-576f5fd3f56e"),
+                            AuthorId = new Guid("893bbe10-ee8f-4f52-bf65-c7279950bd4c"),
                             Condition = 1,
                             ISBN = "713383423-5",
                             Price = 78m,
@@ -8900,7 +8900,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("74f29667-5299-4c81-aa97-cb3bb7fe8139"),
-                            AuthorId = new Guid("b0bcd89e-c1a5-4178-a26d-71439538c3f4"),
+                            AuthorId = new Guid("8b13558f-5a56-4687-b513-e2ad8fb7e59c"),
                             Condition = 0,
                             ISBN = "310294346-2",
                             Price = 22m,
@@ -8911,7 +8911,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0294c444-6b39-42f4-90eb-029dbcfd45b0"),
-                            AuthorId = new Guid("3d3119d2-49b5-4360-93f8-a48b28e1bae2"),
+                            AuthorId = new Guid("9b0eb256-fc6c-44de-8953-691adfd8930f"),
                             Condition = 1,
                             ISBN = "725145919-1",
                             Price = 79m,
@@ -8922,7 +8922,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("be5428ee-f550-41f2-a5aa-8ee33b24f5fd"),
-                            AuthorId = new Guid("876412d0-5548-4a28-ab47-e97e5b02876c"),
+                            AuthorId = new Guid("3fcf1b93-b48b-4b93-acbf-7a107d8a558d"),
                             Condition = 0,
                             ISBN = "932817485-6",
                             Price = 89m,
@@ -8933,7 +8933,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("98e65290-049d-4297-8568-584f08fde5d0"),
-                            AuthorId = new Guid("a03622bc-f35f-440f-9cc4-cb1076fe2528"),
+                            AuthorId = new Guid("9262bf58-d705-428c-8ff3-2ddc74ac4c3e"),
                             Condition = 1,
                             ISBN = "246725859-9",
                             Price = 57m,
@@ -8944,7 +8944,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f673a647-5bdc-4082-a3aa-5c1e951f21cd"),
-                            AuthorId = new Guid("093dfc93-5266-4d68-bf48-163fde59163b"),
+                            AuthorId = new Guid("326379cb-44c1-4dbd-9790-f48c8d90427e"),
                             Condition = 0,
                             ISBN = "179970716-4",
                             Price = 19m,
@@ -8955,7 +8955,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("edd81c9f-a17a-4304-8e59-587f57da3f3b"),
-                            AuthorId = new Guid("4c538209-246d-4705-ae9e-415a4779fdec"),
+                            AuthorId = new Guid("d1df0f2e-2ff6-4b74-9bdc-e8204cc5e71d"),
                             Condition = 1,
                             ISBN = "229462259-6",
                             Price = 53m,
@@ -8966,7 +8966,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("087c206f-d31c-4852-85a5-af7172b5ad3d"),
-                            AuthorId = new Guid("aebf2bd6-1904-43fd-9b2f-c06fdc04f541"),
+                            AuthorId = new Guid("9d553ba5-bdcf-43c7-8065-f68f8c5a50d1"),
                             Condition = 0,
                             ISBN = "103702430-3",
                             Price = 75m,
@@ -8977,7 +8977,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3568a9df-39aa-4866-b3c1-a73c226a8145"),
-                            AuthorId = new Guid("80506364-36c8-4cdd-8719-7a786f31f2a7"),
+                            AuthorId = new Guid("c6889411-a525-4011-9f24-60508b676ca4"),
                             Condition = 1,
                             ISBN = "114365345-9",
                             Price = 90m,
@@ -8988,7 +8988,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("207315fa-4bb3-4e80-be0e-0a082c2a8181"),
-                            AuthorId = new Guid("82885a6f-ba33-4b00-9d73-0a808222a75d"),
+                            AuthorId = new Guid("1edcd14c-0493-4b96-aa3c-ec7ee6a1b0fb"),
                             Condition = 0,
                             ISBN = "390949044-1",
                             Price = 65m,
@@ -8999,7 +8999,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c5337733-8130-44f7-a27a-63fd4f345a49"),
-                            AuthorId = new Guid("2f9afb16-d08e-4cb5-9b1e-69a0a4d55491"),
+                            AuthorId = new Guid("11a4cdc5-eed6-4764-9d13-e611d8550c37"),
                             Condition = 1,
                             ISBN = "314407863-8",
                             Price = 31m,
@@ -9010,7 +9010,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4d917442-592a-44ea-850f-c8446288d46c"),
-                            AuthorId = new Guid("b0c12556-4a63-4d58-8b36-c06a4bd04bb4"),
+                            AuthorId = new Guid("52e8a95b-e281-48fb-859d-f1e69be66243"),
                             Condition = 0,
                             ISBN = "548853808-9",
                             Price = 94m,
@@ -9021,7 +9021,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("79638971-a257-467b-8159-ed74828a2b8a"),
-                            AuthorId = new Guid("22094962-1789-45e3-8249-c6859c8fbcad"),
+                            AuthorId = new Guid("0a17e5cf-a145-4605-baa0-6977b022d1d2"),
                             Condition = 1,
                             ISBN = "697836202-6",
                             Price = 9m,
@@ -9032,7 +9032,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5090a7f6-c9cf-4d07-9934-5efad19f1e31"),
-                            AuthorId = new Guid("f7781d83-6905-4865-aac2-ba841334fe0c"),
+                            AuthorId = new Guid("4cf76e5f-500a-45fe-bb50-d85560d7e96f"),
                             Condition = 0,
                             ISBN = "668450981-X",
                             Price = 40m,
@@ -9043,7 +9043,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f4788c50-c1a5-4d1e-9770-e0c94764e5b6"),
-                            AuthorId = new Guid("9fad2647-6ef9-45d0-9a84-7b97aa226c7e"),
+                            AuthorId = new Guid("ba9e49c9-0d71-4f9f-bbcb-d9dd7056bdf0"),
                             Condition = 1,
                             ISBN = "213715863-9",
                             Price = 69m,
@@ -9054,7 +9054,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("31faaf33-5807-4131-93bf-30e80bb3055b"),
-                            AuthorId = new Guid("ad1e5cb4-e2a4-437f-87c2-e76a78e4d0e5"),
+                            AuthorId = new Guid("22ec59ab-9e9c-418b-a612-fa6a31d6dede"),
                             Condition = 0,
                             ISBN = "062048750-X",
                             Price = 10m,
@@ -9065,7 +9065,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7f70a7ca-666e-4a81-bd84-c0a17bb4d4a2"),
-                            AuthorId = new Guid("3cae8445-8772-461b-955f-4e2533a663da"),
+                            AuthorId = new Guid("08b626f7-8be3-44fa-8bae-2e93daacee29"),
                             Condition = 1,
                             ISBN = "574021822-5",
                             Price = 50m,
@@ -9076,7 +9076,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("716dcea8-cf5b-4636-ac4d-ba90cf66520c"),
-                            AuthorId = new Guid("b1f1c10e-7853-47cd-9718-517038b33496"),
+                            AuthorId = new Guid("bac15da7-3e21-4643-a59f-5b82dd301c7d"),
                             Condition = 0,
                             ISBN = "649701629-5",
                             Price = 68m,
@@ -9087,7 +9087,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f7edccba-e6f1-4eed-b05f-3af5814db3d2"),
-                            AuthorId = new Guid("8744a906-2952-4236-b56d-f60d81c02330"),
+                            AuthorId = new Guid("339cbb43-c2f7-4d84-b849-ccb41cbb9cd1"),
                             Condition = 1,
                             ISBN = "411188857-7",
                             Price = 15m,
@@ -9098,7 +9098,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("106995ad-7d86-495f-ab3e-6af07da4bf01"),
-                            AuthorId = new Guid("84e4ce3d-6234-4e46-93f1-cddb7624e95b"),
+                            AuthorId = new Guid("4630aab2-0b16-4806-87a9-8679c79c8743"),
                             Condition = 0,
                             ISBN = "728466120-8",
                             Price = 83m,
@@ -9109,7 +9109,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9b56a153-e00e-448d-9a7f-26a13042a1b7"),
-                            AuthorId = new Guid("09d8248f-b84f-4482-81ec-38e4bdde66a0"),
+                            AuthorId = new Guid("3aa04e52-8c42-42c6-b0ff-f0d06d91ec22"),
                             Condition = 1,
                             ISBN = "438754474-0",
                             Price = 37m,
@@ -9120,7 +9120,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9e9eca05-45bc-42bc-865d-e1c67ee79978"),
-                            AuthorId = new Guid("f87ea182-306a-448f-803f-d3c91f5a6dca"),
+                            AuthorId = new Guid("94711892-cc09-4cff-be09-15dd37732ab0"),
                             Condition = 0,
                             ISBN = "938281696-8",
                             Price = 38m,
@@ -9131,7 +9131,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1efa70d1-6d11-429d-a6c5-3eaa9c8952b1"),
-                            AuthorId = new Guid("f9306978-8fc1-47dc-ba7b-b2aed6f94a67"),
+                            AuthorId = new Guid("ec26f19e-d489-4315-9ee5-f15e9d62a697"),
                             Condition = 1,
                             ISBN = "895456611-1",
                             Price = 64m,
@@ -9142,7 +9142,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("60464fdc-4068-4d68-aa0c-538d6ff20e7a"),
-                            AuthorId = new Guid("1a5d8925-407a-4ca7-bc00-66e78e78d0a1"),
+                            AuthorId = new Guid("96bacd35-b438-4128-86ce-13d610c41187"),
                             Condition = 0,
                             ISBN = "770127607-6",
                             Price = 97m,
@@ -9153,7 +9153,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ae5aa398-e9d2-43c1-9974-7aa2daeb8063"),
-                            AuthorId = new Guid("b8c3d832-e24d-470d-8d87-e3ab5da9ee79"),
+                            AuthorId = new Guid("e1ab4fbd-9feb-4bd7-bc44-25461c743e0d"),
                             Condition = 1,
                             ISBN = "093247982-0",
                             Price = 31m,
@@ -9164,7 +9164,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("045956ae-06b6-4e77-9a6d-ac3ffe1caebb"),
-                            AuthorId = new Guid("3db30207-0111-4b34-8697-15e686b8ab44"),
+                            AuthorId = new Guid("f9763dd4-0606-4bb0-9de0-59eb0e56dc9a"),
                             Condition = 0,
                             ISBN = "928596173-8",
                             Price = 8m,
@@ -9175,7 +9175,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ac941fdb-6c3e-48d1-9c4d-bf9823d82240"),
-                            AuthorId = new Guid("0b511322-90cd-4686-afdc-aa7aac98b223"),
+                            AuthorId = new Guid("427f1bc7-df6a-42d2-a00e-bac5801dc437"),
                             Condition = 1,
                             ISBN = "750470420-2",
                             Price = 32m,
@@ -9186,7 +9186,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("592d60aa-83bd-4f3f-b3e9-2179a8bb2e95"),
-                            AuthorId = new Guid("b443a348-9799-4c2b-9f05-95869e08f40d"),
+                            AuthorId = new Guid("25e40565-abaa-457e-8c55-18d4b441d66f"),
                             Condition = 0,
                             ISBN = "514986074-3",
                             Price = 97m,
@@ -9197,7 +9197,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6655a747-8ecd-4913-a4e8-410edd5a973e"),
-                            AuthorId = new Guid("ede20578-f3bb-4b60-aec8-208e6470772d"),
+                            AuthorId = new Guid("afb81a80-1a4d-4caf-9d1d-a94207457b92"),
                             Condition = 1,
                             ISBN = "300998134-1",
                             Price = 86m,
@@ -9208,7 +9208,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d1ba7da7-0299-4b0a-83d1-2aa87d501e1f"),
-                            AuthorId = new Guid("ac92d821-cfcb-447a-9b8e-db0cac64522a"),
+                            AuthorId = new Guid("0ca311e6-0e6d-4afc-b235-e9e94d429c10"),
                             Condition = 0,
                             ISBN = "393729560-7",
                             Price = 88m,
@@ -9219,7 +9219,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6f3cc12d-2e2a-4e6c-a317-874ea27dd7cd"),
-                            AuthorId = new Guid("1cdafbde-7fb3-4e75-91c9-c2b69ccdc54d"),
+                            AuthorId = new Guid("912eb47a-8d98-40b3-9ef9-32f00a32d6e6"),
                             Condition = 1,
                             ISBN = "554020185-X",
                             Price = 91m,
@@ -9230,7 +9230,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("246f1c5a-bd96-4acf-9d60-8c05a16ab89f"),
-                            AuthorId = new Guid("1bd5a605-a9aa-4a11-91de-fe75aa18bb5f"),
+                            AuthorId = new Guid("019da5b4-266a-4b9f-8420-004bd2070ff3"),
                             Condition = 0,
                             ISBN = "086322220-X",
                             Price = 45m,
@@ -9241,7 +9241,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1db703a0-bad1-4445-bef2-9166bfd60cfd"),
-                            AuthorId = new Guid("21f89634-1e67-487b-b4c1-479f1ef43b52"),
+                            AuthorId = new Guid("36f9d75f-3048-4bcd-b898-b4e31c7d2b3f"),
                             Condition = 1,
                             ISBN = "908824002-7",
                             Price = 32m,
@@ -9252,7 +9252,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4dfae581-798c-486e-ab4c-8b18993cbb8f"),
-                            AuthorId = new Guid("1a43890f-a96f-4b0f-bef3-be5b12f574bb"),
+                            AuthorId = new Guid("30660bc2-c0d5-498c-93e4-3742b1b4c547"),
                             Condition = 0,
                             ISBN = "152315199-4",
                             Price = 23m,
@@ -9263,7 +9263,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("46488edb-4270-44fb-a96d-69af98154f45"),
-                            AuthorId = new Guid("991640fc-0443-4c08-9a22-7dbce915318a"),
+                            AuthorId = new Guid("4a64c0ff-421e-4385-a440-df59d91c31ec"),
                             Condition = 1,
                             ISBN = "211274924-2",
                             Price = 23m,
@@ -9274,7 +9274,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("48dda679-6677-48db-9e3c-02e13433d712"),
-                            AuthorId = new Guid("da5c2227-bcee-4e5c-921b-89e0a4c20615"),
+                            AuthorId = new Guid("4f8af109-379a-4323-9e85-faba9484e711"),
                             Condition = 0,
                             ISBN = "887603623-7",
                             Price = 25m,
@@ -9285,7 +9285,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a92d1718-8d89-44ca-b4a0-225b40155cca"),
-                            AuthorId = new Guid("32f68714-7d03-46c1-9ae9-3230ab1015a1"),
+                            AuthorId = new Guid("c2c6387e-27d8-472a-a979-4d09e5e6795c"),
                             Condition = 1,
                             ISBN = "610353777-0",
                             Price = 93m,
@@ -9296,7 +9296,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("301a7ba0-bc40-4982-a244-159863fa9264"),
-                            AuthorId = new Guid("edc1ba6b-4403-46f5-bc5d-1ee8ec9a353a"),
+                            AuthorId = new Guid("423647c2-254e-4039-b952-4d6aea006652"),
                             Condition = 0,
                             ISBN = "266390710-3",
                             Price = 71m,
@@ -9307,7 +9307,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("df26b26b-6fa0-4cc3-aec4-141726f120a8"),
-                            AuthorId = new Guid("d4d2e293-5511-4e22-9df3-b688af486135"),
+                            AuthorId = new Guid("b3e05877-1952-414c-870e-05f1b92da5e6"),
                             Condition = 1,
                             ISBN = "057510443-0",
                             Price = 91m,
@@ -9318,7 +9318,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b86ec31d-33d6-482c-9b0c-795bcede8456"),
-                            AuthorId = new Guid("82932cb1-0765-466d-940c-55c2bc0ae54e"),
+                            AuthorId = new Guid("224ff109-07d5-427e-87c5-6e71a3579c37"),
                             Condition = 0,
                             ISBN = "179141328-5",
                             Price = 41m,
@@ -9329,7 +9329,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("19b65861-3f68-4a8d-b84d-7ae46134abad"),
-                            AuthorId = new Guid("60cc65d0-a79d-4980-b433-343607cd3112"),
+                            AuthorId = new Guid("67efc3d8-32b6-4ffe-b164-ef5f48b40b25"),
                             Condition = 1,
                             ISBN = "557927095-X",
                             Price = 34m,
@@ -9340,7 +9340,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("60345d14-8b0f-494a-af25-383c435bbb3d"),
-                            AuthorId = new Guid("fff80cde-6282-46a9-b2ad-9f92d546c8d3"),
+                            AuthorId = new Guid("5c38fe24-a7c2-4fc2-8cb5-7660ed7e239b"),
                             Condition = 0,
                             ISBN = "968018281-9",
                             Price = 77m,
@@ -9351,7 +9351,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("392b713b-ee2b-4cfd-bae8-7bfd35a9ae8c"),
-                            AuthorId = new Guid("42ad2b90-d981-4f4a-a669-33d0a199be28"),
+                            AuthorId = new Guid("a900085f-5913-431e-b7cd-80eccb6b8395"),
                             Condition = 1,
                             ISBN = "759769714-7",
                             Price = 32m,
@@ -9362,7 +9362,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("17361b7d-3568-475c-a4fe-7458b7f37db1"),
-                            AuthorId = new Guid("b5b0ae08-8e52-45ca-bf68-5a9ef7819577"),
+                            AuthorId = new Guid("3ac51046-0601-4e30-9b75-103caeb7c136"),
                             Condition = 0,
                             ISBN = "699434449-5",
                             Price = 26m,
@@ -9373,7 +9373,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e32ed32d-4bfb-4bad-ab44-5181fbe081e9"),
-                            AuthorId = new Guid("5153f2b1-06af-4b0b-a683-38adda2bd667"),
+                            AuthorId = new Guid("c3d2e8c9-4c42-4986-9312-be849c57db6f"),
                             Condition = 1,
                             ISBN = "954356390-X",
                             Price = 4m,
@@ -9384,7 +9384,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3d1ad74a-25a4-4c60-9d9d-20d29b988731"),
-                            AuthorId = new Guid("b08257b8-25a2-4afb-a578-9d7600243614"),
+                            AuthorId = new Guid("723a64ef-9aa1-4771-ab6e-bd417c63454a"),
                             Condition = 0,
                             ISBN = "949002185-7",
                             Price = 74m,
@@ -9395,7 +9395,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("db4ccf50-e33d-406e-bc40-308f237e5811"),
-                            AuthorId = new Guid("e52bd501-3258-4414-a396-b891f047dac9"),
+                            AuthorId = new Guid("b8bda36e-7e22-4bfc-bd64-f7008a37a306"),
                             Condition = 1,
                             ISBN = "530930469-X",
                             Price = 24m,
@@ -9406,7 +9406,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6ddfba3a-f6aa-4eaa-9344-b638dacc92f5"),
-                            AuthorId = new Guid("697085a0-dcc7-4d69-988c-6bb0e1ec1880"),
+                            AuthorId = new Guid("592d5354-d786-45a1-be83-b43f3b37f3a3"),
                             Condition = 0,
                             ISBN = "910205973-8",
                             Price = 39m,
@@ -9417,7 +9417,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("29f12437-6c0e-4135-b372-3a93276817c7"),
-                            AuthorId = new Guid("aebf2bd6-1904-43fd-9b2f-c06fdc04f541"),
+                            AuthorId = new Guid("8f810400-9cf2-42cd-abc2-cb46b3fd0d47"),
                             Condition = 1,
                             ISBN = "816838085-1",
                             Price = 98m,
@@ -9428,7 +9428,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4a400bfa-5726-40e8-8134-481671866aed"),
-                            AuthorId = new Guid("7aa41135-6051-486d-8eee-4ae624f43516"),
+                            AuthorId = new Guid("64595c8a-3030-4d1a-a71b-d21afd860695"),
                             Condition = 0,
                             ISBN = "209320848-2",
                             Price = 14m,
@@ -9439,7 +9439,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("84754c79-61d4-42e9-bfdc-d4eb0094e80a"),
-                            AuthorId = new Guid("c56f9194-091d-4166-ba46-b6d9cbfb608f"),
+                            AuthorId = new Guid("b95085c8-68f3-4d4f-aebd-f9d8fb679aca"),
                             Condition = 1,
                             ISBN = "881837020-0",
                             Price = 49m,
@@ -9450,7 +9450,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7378cf72-3ff1-4f27-a590-c93c4309cc57"),
-                            AuthorId = new Guid("9fad2647-6ef9-45d0-9a84-7b97aa226c7e"),
+                            AuthorId = new Guid("0dfe9b3a-2fee-438a-b3f5-64899131ed9c"),
                             Condition = 0,
                             ISBN = "251449229-7",
                             Price = 12m,
@@ -9461,7 +9461,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9c6ccecc-0ce1-445f-8eb0-e5a645e9787a"),
-                            AuthorId = new Guid("e625ce4e-cec8-433c-bb00-38923eab6db5"),
+                            AuthorId = new Guid("d550dc72-74d3-4325-bc68-c1ec694beb18"),
                             Condition = 1,
                             ISBN = "596749580-0",
                             Price = 88m,
@@ -9472,7 +9472,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2a4eac2b-fd78-46f3-a77d-6df7f610063c"),
-                            AuthorId = new Guid("6770bc5b-adf0-4128-98eb-5467c5941bbe"),
+                            AuthorId = new Guid("02875f63-76d9-44c6-aa55-816dee2580f8"),
                             Condition = 0,
                             ISBN = "138747959-8",
                             Price = 31m,
@@ -9483,7 +9483,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ee220529-b02c-4f38-84a1-a5dd3fe1ef66"),
-                            AuthorId = new Guid("9bba696d-9d79-4338-a1ab-e214d32254a0"),
+                            AuthorId = new Guid("83ac3378-8f66-4368-bdb9-1c5b3045b053"),
                             Condition = 1,
                             ISBN = "607279434-3",
                             Price = 57m,
@@ -9494,7 +9494,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("73c8b75c-779a-4c71-a2e2-c97dc8a2c33e"),
-                            AuthorId = new Guid("aa1a2ded-0229-4f1a-ae8c-5f80d0cbee38"),
+                            AuthorId = new Guid("3e0fa3e9-4987-457d-8eda-8e1ca6d4db56"),
                             Condition = 0,
                             ISBN = "227772868-3",
                             Price = 53m,
@@ -9505,7 +9505,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("17e8af1e-3de6-4c1a-a1d4-577d4f26f6ff"),
-                            AuthorId = new Guid("efaea93d-8add-41e5-8601-8521541c9b1f"),
+                            AuthorId = new Guid("767bc874-0a68-4fd8-b924-a266cbb16970"),
                             Condition = 1,
                             ISBN = "796040450-X",
                             Price = 50m,
@@ -9516,7 +9516,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1ba5ce05-21c3-4046-8d28-8c550b6dec96"),
-                            AuthorId = new Guid("7c4434be-d2f7-4d8d-9933-8e4a0e09cf75"),
+                            AuthorId = new Guid("e2d97f39-3df7-44dd-858a-2d3f94799ba8"),
                             Condition = 0,
                             ISBN = "463899673-6",
                             Price = 41m,
@@ -9527,7 +9527,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6de27734-e6aa-4bc1-83da-9c0629dd5294"),
-                            AuthorId = new Guid("020c5e81-7f10-431e-9c35-a9529f348081"),
+                            AuthorId = new Guid("4b5351d4-3659-4b34-a4a3-d49a71a1ee54"),
                             Condition = 1,
                             ISBN = "870260819-7",
                             Price = 6m,
@@ -9538,7 +9538,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("69897ffe-5f86-4773-8d3a-3493eeee0335"),
-                            AuthorId = new Guid("e3e89c5e-d1e3-4e08-9e9f-2e3d6498196a"),
+                            AuthorId = new Guid("494ceb51-27a1-46bd-bfc3-948cb57ad111"),
                             Condition = 0,
                             ISBN = "103702125-8",
                             Price = 46m,
@@ -9549,7 +9549,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("90e716fe-513a-41b6-a0ee-51f00a2dfba5"),
-                            AuthorId = new Guid("b332f0d9-946f-4d7d-b546-60bc208688d6"),
+                            AuthorId = new Guid("cb56abad-8aa2-4ec6-bb19-4b5c1dd3d3ba"),
                             Condition = 1,
                             ISBN = "952229597-3",
                             Price = 66m,
@@ -9560,7 +9560,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("50fa4e5f-46cd-4b2d-a4ac-c757744dc864"),
-                            AuthorId = new Guid("66d8b486-0875-40cf-8227-d731fddc8694"),
+                            AuthorId = new Guid("ea782053-d699-4b44-abf7-6814bda750a4"),
                             Condition = 0,
                             ISBN = "233850460-7",
                             Price = 62m,
@@ -9571,7 +9571,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f97529c3-9645-4491-896f-6d3c941b4b6b"),
-                            AuthorId = new Guid("213aa447-ee90-4a85-80b8-355431d61d95"),
+                            AuthorId = new Guid("e306555f-9474-4cd8-a03d-ff05bf4cdead"),
                             Condition = 1,
                             ISBN = "867584547-2",
                             Price = 87m,
@@ -9582,7 +9582,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("378ba433-f4fa-4fe5-9a62-dfba69dddbad"),
-                            AuthorId = new Guid("52b06a3d-6e38-4e84-9b33-01111f9d4502"),
+                            AuthorId = new Guid("87ed016f-2f39-4305-a7c7-e3b2281f2c4f"),
                             Condition = 0,
                             ISBN = "311373883-0",
                             Price = 49m,
@@ -9593,7 +9593,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("aaa2de82-07d2-4255-baa0-29532bc41e70"),
-                            AuthorId = new Guid("394b5eca-1ebd-4ea2-a9ac-b03cbaa71e07"),
+                            AuthorId = new Guid("99f301e8-4818-4bf6-ae0d-ee7c0fc8fcae"),
                             Condition = 1,
                             ISBN = "818184221-9",
                             Price = 21m,
@@ -9604,7 +9604,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f15eba83-1b2e-4e03-940b-192331b7830a"),
-                            AuthorId = new Guid("fe7c3a03-2532-4d05-b18c-cfcc0138ef77"),
+                            AuthorId = new Guid("3d3c5b8e-b4c0-4bd0-bcef-d5873d237186"),
                             Condition = 0,
                             ISBN = "771213887-7",
                             Price = 54m,
@@ -9615,7 +9615,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("310c635e-387e-4925-96a7-0b335234629d"),
-                            AuthorId = new Guid("0cf94f39-c58f-40de-b848-abb34fcdab11"),
+                            AuthorId = new Guid("ed7c784c-6c1d-4135-af88-ad9a38fb3dc2"),
                             Condition = 1,
                             ISBN = "531998863-X",
                             Price = 23m,
@@ -9626,7 +9626,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("76a4f827-7687-4ff0-aee9-12508bb1c36b"),
-                            AuthorId = new Guid("37fad513-a1b0-4330-ba5c-37b735bcbeff"),
+                            AuthorId = new Guid("20cefa64-e8e3-41f0-a5b8-994a06995e41"),
                             Condition = 0,
                             ISBN = "495303060-5",
                             Price = 73m,
@@ -9637,7 +9637,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2f3d6847-59bb-4405-8228-73c0d11a6242"),
-                            AuthorId = new Guid("19fe27c7-6493-4426-9659-576f5fd3f56e"),
+                            AuthorId = new Guid("a47e1b9b-5891-4fd3-8e61-a9775c40889f"),
                             Condition = 1,
                             ISBN = "416566530-4",
                             Price = 26m,
@@ -9648,7 +9648,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("787bfda6-d9b4-4f89-9db2-454a212d1355"),
-                            AuthorId = new Guid("4fb98fcc-c5bd-4d8d-ac3f-7cabf3954ac8"),
+                            AuthorId = new Guid("3a634ed3-d234-4230-92ff-78110a0a5136"),
                             Condition = 0,
                             ISBN = "329576993-1",
                             Price = 59m,
@@ -9659,7 +9659,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("25dc488f-1684-4d64-9c6e-6585d6ebb072"),
-                            AuthorId = new Guid("d5ca6334-a710-4952-9344-a3592a88d221"),
+                            AuthorId = new Guid("1e5056d4-e157-401c-9b0a-5d24053610f6"),
                             Condition = 1,
                             ISBN = "154866737-4",
                             Price = 94m,
@@ -9670,7 +9670,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("bbd40ec4-cf65-4cf0-90bc-d47d3b11c5c8"),
-                            AuthorId = new Guid("06c39c93-720b-45fb-9f20-cde1c13a709a"),
+                            AuthorId = new Guid("592d5354-d786-45a1-be83-b43f3b37f3a3"),
                             Condition = 0,
                             ISBN = "581119230-4",
                             Price = 64m,
@@ -9681,7 +9681,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1c72349a-7d55-4685-bc29-331d2a248037"),
-                            AuthorId = new Guid("6e82bd0a-0023-42c7-9e46-6a5bb95b7484"),
+                            AuthorId = new Guid("9de293da-98fc-46ed-a184-654a42225cb5"),
                             Condition = 1,
                             ISBN = "281397515-X",
                             Price = 48m,
@@ -9692,7 +9692,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8db2bc36-92b7-4c5f-892b-d6f458c8b0ff"),
-                            AuthorId = new Guid("2b2cf338-5bdc-48d4-9cf9-80126702734d"),
+                            AuthorId = new Guid("03213484-b65b-45b8-a78e-551e08676c17"),
                             Condition = 0,
                             ISBN = "357909546-3",
                             Price = 54m,
@@ -9703,7 +9703,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("538ac8b8-f963-495c-a483-6b3a3614f9e9"),
-                            AuthorId = new Guid("1cb011e1-4010-48db-992f-0e990cdb0c14"),
+                            AuthorId = new Guid("0dfe9b3a-2fee-438a-b3f5-64899131ed9c"),
                             Condition = 1,
                             ISBN = "580100529-3",
                             Price = 76m,
@@ -9714,7 +9714,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("008f49eb-7d4d-4d74-9250-b4290d519718"),
-                            AuthorId = new Guid("bb954696-fb7c-4349-a554-8c5f629aff19"),
+                            AuthorId = new Guid("b4de5104-cf47-4d91-8f4f-1a85bd609b10"),
                             Condition = 0,
                             ISBN = "210790921-0",
                             Price = 46m,
@@ -9725,7 +9725,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1e7f4e35-fe42-4b78-804d-1c2b7cdfef5f"),
-                            AuthorId = new Guid("4695ed5b-6bde-476f-8064-ddf4e324b944"),
+                            AuthorId = new Guid("08b626f7-8be3-44fa-8bae-2e93daacee29"),
                             Condition = 1,
                             ISBN = "884538351-2",
                             Price = 91m,
@@ -9736,7 +9736,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("07120b63-921e-43a9-b67b-cfc45d08355b"),
-                            AuthorId = new Guid("e61caebe-1e1d-444e-9273-3d6cc9b00293"),
+                            AuthorId = new Guid("3fcf1b93-b48b-4b93-acbf-7a107d8a558d"),
                             Condition = 0,
                             ISBN = "867677030-1",
                             Price = 65m,
@@ -9747,7 +9747,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ca01c616-6afe-4c32-9da9-644ccef2bcb6"),
-                            AuthorId = new Guid("5274cc8f-58b7-46e6-94db-26bc98c974a0"),
+                            AuthorId = new Guid("6d1376c8-7caf-402d-9470-1abb73549b49"),
                             Condition = 1,
                             ISBN = "659480690-4",
                             Price = 21m,
@@ -9758,7 +9758,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d7dcf94b-3e7f-485b-baf9-ad31c9e82193"),
-                            AuthorId = new Guid("63d55e93-538b-4c21-84b9-9d51a8e0ffff"),
+                            AuthorId = new Guid("c2c91085-98f3-44f8-ab8f-9da90a327710"),
                             Condition = 0,
                             ISBN = "176334935-7",
                             Price = 74m,
@@ -9769,7 +9769,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5b3c1a51-ece4-4f33-ba6e-a5b256352f20"),
-                            AuthorId = new Guid("b0c354b9-70e3-4f31-a6f4-a3d1da30d4a7"),
+                            AuthorId = new Guid("a52f57c4-67ab-4b23-beb9-4e3e7280c9a3"),
                             Condition = 1,
                             ISBN = "126656569-8",
                             Price = 91m,
@@ -9780,7 +9780,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e0c3a90f-a6fd-476a-aa27-84ab785eaa17"),
-                            AuthorId = new Guid("ee8e3c8c-a3df-430b-8e07-98267892abe7"),
+                            AuthorId = new Guid("4d34b76b-f61d-471e-b543-9b1d4dd2984a"),
                             Condition = 0,
                             ISBN = "799965347-0",
                             Price = 84m,
@@ -9791,7 +9791,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("df2c78c7-856c-4df9-bad0-2cad48926562"),
-                            AuthorId = new Guid("c30d297c-daed-48ef-a4f1-8950291e56ff"),
+                            AuthorId = new Guid("ccc651f3-6fa6-4b10-9849-50ff219e1874"),
                             Condition = 1,
                             ISBN = "388844783-6",
                             Price = 82m,
@@ -9802,7 +9802,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d2864754-1341-4495-83c1-d934e678c582"),
-                            AuthorId = new Guid("683f62ac-33ee-45f8-8a5e-721d1b0fbd56"),
+                            AuthorId = new Guid("14847ff0-72b4-48d3-8dc5-e44e4affc390"),
                             Condition = 0,
                             ISBN = "855478553-3",
                             Price = 42m,
@@ -9813,7 +9813,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0681684c-3688-405c-9e8c-9fddd5a1e26c"),
-                            AuthorId = new Guid("2dc83419-8e8e-4dc1-acef-20ecc8af7807"),
+                            AuthorId = new Guid("052f0630-0756-459d-a5b7-a07e13f7a095"),
                             Condition = 1,
                             ISBN = "946091249-4",
                             Price = 90m,
@@ -9824,7 +9824,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d846c10e-1d12-44f8-a9a5-82ee9b932e34"),
-                            AuthorId = new Guid("73bfa88b-6da0-41d0-8e7f-2b344dcc75b2"),
+                            AuthorId = new Guid("1ab412eb-2190-41ba-bb6a-60e250f1dcd0"),
                             Condition = 0,
                             ISBN = "460903392-5",
                             Price = 8m,
@@ -9835,7 +9835,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2f1df018-6177-4966-aa98-b2958bbfb1d9"),
-                            AuthorId = new Guid("504a498e-074e-4ced-b80e-361475578816"),
+                            AuthorId = new Guid("a0358c05-a2ff-43bd-aef0-435987cbd3d4"),
                             Condition = 1,
                             ISBN = "756581742-2",
                             Price = 71m,
@@ -9846,7 +9846,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c0441877-99fc-42b4-bc8b-f3e748e38409"),
-                            AuthorId = new Guid("37e8cbcd-1202-4e31-9505-589f60e2cd8a"),
+                            AuthorId = new Guid("c655923f-8a23-4452-934c-34f9306fa456"),
                             Condition = 0,
                             ISBN = "504059500-X",
                             Price = 67m,
@@ -9857,7 +9857,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a3e49668-bfeb-4551-9470-bbcabcb7d449"),
-                            AuthorId = new Guid("20b52943-cc85-4aca-846f-79f990d0a7b1"),
+                            AuthorId = new Guid("5c38fe24-a7c2-4fc2-8cb5-7660ed7e239b"),
                             Condition = 1,
                             ISBN = "096696666-X",
                             Price = 82m,
@@ -9868,7 +9868,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0229e1ed-54bc-4d08-9932-c835af5a3bb3"),
-                            AuthorId = new Guid("b961a7c6-29e1-4642-8802-dbbda19a809c"),
+                            AuthorId = new Guid("0d577293-6a48-4c53-88ce-4e72f0699b34"),
                             Condition = 0,
                             ISBN = "890363647-3",
                             Price = 74m,
@@ -9879,7 +9879,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1d519927-92b6-4873-99d7-9e6a5fe59866"),
-                            AuthorId = new Guid("2937fa44-1847-4019-8daf-f043717fadc4"),
+                            AuthorId = new Guid("dda142f3-0006-4ed2-905a-52d54b75d799"),
                             Condition = 1,
                             ISBN = "083938495-5",
                             Price = 97m,
@@ -9890,7 +9890,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f89cf8ce-380c-4ce2-8684-04107f073f16"),
-                            AuthorId = new Guid("3c9796ad-61d6-4007-a9bc-f3216873d9fc"),
+                            AuthorId = new Guid("3471d001-844b-4847-8ff6-d70336dc10bd"),
                             Condition = 0,
                             ISBN = "269033278-7",
                             Price = 76m,
@@ -9901,7 +9901,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4774c59c-0a09-4786-bdd7-fdd60513e405"),
-                            AuthorId = new Guid("7d025fa4-0ce3-4792-bf95-d6362c98db02"),
+                            AuthorId = new Guid("7883a011-53cc-4fbc-ad71-9670067534ac"),
                             Condition = 1,
                             ISBN = "963225983-1",
                             Price = 62m,
@@ -9912,7 +9912,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fecc6a98-73e9-4fa5-866a-5198ba8c21da"),
-                            AuthorId = new Guid("5f60403f-58da-4f23-9b17-66a4f26aff24"),
+                            AuthorId = new Guid("33c2a018-2736-45e0-b0c8-5df358714e04"),
                             Condition = 0,
                             ISBN = "982528339-4",
                             Price = 34m,
@@ -9923,7 +9923,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d72a41c0-bc18-4bd6-8042-65f15959bf22"),
-                            AuthorId = new Guid("5a5738b3-0076-4100-9a95-4a0bc0b0e837"),
+                            AuthorId = new Guid("0c4489b8-3e3b-4d86-90b9-632050e91770"),
                             Condition = 1,
                             ISBN = "832913444-X",
                             Price = 47m,
@@ -9934,7 +9934,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4af949eb-8e80-4abc-93ba-67a21f83170c"),
-                            AuthorId = new Guid("e940cd56-6009-4fff-a9fa-2aa0c1d1df4d"),
+                            AuthorId = new Guid("e44d7dc0-3985-4921-85e9-4ce08fef8bd7"),
                             Condition = 0,
                             ISBN = "687215496-9",
                             Price = 86m,
@@ -9945,7 +9945,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c677b561-9c6d-41df-81d4-03ccfb521a1f"),
-                            AuthorId = new Guid("a6e9a2da-b223-44d9-be33-1d1f3ef18b2e"),
+                            AuthorId = new Guid("7c9025be-885a-4737-8ff5-992a91039e90"),
                             Condition = 1,
                             ISBN = "337114887-4",
                             Price = 99m,
@@ -9956,7 +9956,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b4a6460e-5383-44f8-8b58-3c6acc6e02ae"),
-                            AuthorId = new Guid("ee7ac866-ac0a-4e21-8a39-f9819fb2f33d"),
+                            AuthorId = new Guid("1e6e74bd-ed3f-4f93-85ee-cf1df0237f12"),
                             Condition = 0,
                             ISBN = "442733783-X",
                             Price = 100m,
@@ -9967,7 +9967,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3c903dd3-b61c-4bbb-8f67-4f2c24ccfbe5"),
-                            AuthorId = new Guid("3d7e2d73-9253-44d4-bb85-e5fc99eab549"),
+                            AuthorId = new Guid("8c7a482f-edc2-44bb-8888-322ad168992d"),
                             Condition = 1,
                             ISBN = "223578417-8",
                             Price = 69m,
@@ -9978,7 +9978,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6d5b0dc2-0a00-4035-923c-e5bae2b13873"),
-                            AuthorId = new Guid("11ecfdac-364e-4f75-b894-e9f5472c2fa4"),
+                            AuthorId = new Guid("6edfda11-93d1-4533-af99-ed13ee6756fc"),
                             Condition = 0,
                             ISBN = "903159122-X",
                             Price = 46m,
@@ -9989,7 +9989,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cc03d442-3185-4107-a388-ec989cd2e38f"),
-                            AuthorId = new Guid("53c4b47d-9534-485f-a0ad-6a0c9cceba1a"),
+                            AuthorId = new Guid("e73ae695-9a2a-491c-bbf4-744526feee12"),
                             Condition = 1,
                             ISBN = "134490524-2",
                             Price = 81m,
@@ -10000,7 +10000,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("dfb85d5f-7acf-4252-8108-9873eea8406b"),
-                            AuthorId = new Guid("90b53bcd-c664-4424-870e-f26a379f38fc"),
+                            AuthorId = new Guid("6aa62c54-cc63-4c3d-8098-01b04ae70918"),
                             Condition = 0,
                             ISBN = "659132382-1",
                             Price = 71m,
@@ -10011,7 +10011,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("35a02266-aa92-480c-b243-c03c47b1d8e4"),
-                            AuthorId = new Guid("08932960-8d61-42f1-952f-3ce019f67547"),
+                            AuthorId = new Guid("0754fcf4-f955-423b-bf49-85a194db2b74"),
                             Condition = 1,
                             ISBN = "562928794-X",
                             Price = 11m,
@@ -10022,7 +10022,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4454462a-5c3f-4e3e-bf43-ece12d4ecb2c"),
-                            AuthorId = new Guid("5a431516-a853-4511-b84a-092c5e7a4fa7"),
+                            AuthorId = new Guid("385ef1c0-4724-47b6-8b97-457e3b14bb1e"),
                             Condition = 0,
                             ISBN = "499156358-5",
                             Price = 95m,
@@ -10033,7 +10033,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8f1e407b-7078-4e7f-803e-c7536dbcec7a"),
-                            AuthorId = new Guid("33f626ac-032d-4421-8550-7f459134496b"),
+                            AuthorId = new Guid("0d577293-6a48-4c53-88ce-4e72f0699b34"),
                             Condition = 1,
                             ISBN = "605938414-5",
                             Price = 75m,
@@ -10044,7 +10044,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4d44e30d-4a8a-421c-b36f-5030697911d8"),
-                            AuthorId = new Guid("e369fca0-2e05-447b-b86f-c322c81af86f"),
+                            AuthorId = new Guid("ba65f907-903d-4311-ba42-2a17cc4dc7d6"),
                             Condition = 0,
                             ISBN = "275079588-5",
                             Price = 40m,
@@ -10055,7 +10055,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("77f4554f-8d13-4c7f-a897-1e799407204e"),
-                            AuthorId = new Guid("64d755cc-f6d2-44dd-a7c4-9e55610a81c4"),
+                            AuthorId = new Guid("1619820a-ccc9-4c83-97ba-ba8a50639409"),
                             Condition = 1,
                             ISBN = "594762763-9",
                             Price = 12m,
@@ -10066,7 +10066,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7181c7b7-cf97-409f-ac68-4cca531aeaa2"),
-                            AuthorId = new Guid("6ec740d7-b9cf-46a0-8c42-2c83d3f030b4"),
+                            AuthorId = new Guid("bc4bacdd-93d3-479a-b6bf-43f3837f166f"),
                             Condition = 0,
                             ISBN = "001910869-9",
                             Price = 13m,
@@ -10077,7 +10077,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d433eb44-114a-4daa-82f1-b940c8121d4f"),
-                            AuthorId = new Guid("20b52943-cc85-4aca-846f-79f990d0a7b1"),
+                            AuthorId = new Guid("57e4194d-5e6d-4fc9-a62c-c273834accc8"),
                             Condition = 1,
                             ISBN = "932604289-8",
                             Price = 62m,
@@ -10088,7 +10088,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("630e1aa0-c75d-47a7-b142-fcf8064f68b5"),
-                            AuthorId = new Guid("da68975d-212e-451c-b657-5bdafeb21a46"),
+                            AuthorId = new Guid("e2ce7591-8e5f-4e16-9345-eb9fac911f90"),
                             Condition = 0,
                             ISBN = "874559388-4",
                             Price = 19m,
@@ -10099,7 +10099,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e979719d-143e-4d34-b6a8-39289fecff45"),
-                            AuthorId = new Guid("ef76794a-1c1b-4b5f-aea6-66120cdd4c87"),
+                            AuthorId = new Guid("1cd58c0a-fa42-4cd1-8a8b-e65966a4a5c4"),
                             Condition = 1,
                             ISBN = "295406565-6",
                             Price = 98m,
@@ -10110,7 +10110,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f0c94851-8e4c-4c35-9360-a5d513a5c2bf"),
-                            AuthorId = new Guid("cdb9dfb7-70ab-4066-bf0a-a4efbccb1500"),
+                            AuthorId = new Guid("7d4634cb-4fd8-4217-8a29-c94421d422d8"),
                             Condition = 0,
                             ISBN = "835478909-8",
                             Price = 93m,
@@ -10121,7 +10121,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b55345ef-40e0-4348-af91-5acba89a23f4"),
-                            AuthorId = new Guid("666fdd39-a35e-40a5-b61f-52fbf324895b"),
+                            AuthorId = new Guid("f6afcae0-ed2a-4d59-8064-ade880e77423"),
                             Condition = 1,
                             ISBN = "018565386-3",
                             Price = 57m,
@@ -10132,7 +10132,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9fff131e-f77b-4944-b60b-db060dbe2b1f"),
-                            AuthorId = new Guid("91cf8bd5-b2a7-49a9-8166-95b73559ad5a"),
+                            AuthorId = new Guid("feace743-b0be-48a7-91b4-ed6ac25a2768"),
                             Condition = 0,
                             ISBN = "998905973-X",
                             Price = 50m,
@@ -10143,7 +10143,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5faf2d4f-3e98-4179-b42e-86da43cbb765"),
-                            AuthorId = new Guid("35a17d4c-3203-4643-b237-4578b56c5877"),
+                            AuthorId = new Guid("5e2828ba-25cc-4079-bb66-0abc1a092b1a"),
                             Condition = 1,
                             ISBN = "321915595-2",
                             Price = 80m,
@@ -10154,7 +10154,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b2652783-41c9-4ea9-924d-a8a7ee56de2c"),
-                            AuthorId = new Guid("5a46e5ca-65b6-4a88-affe-1e0a14bd2429"),
+                            AuthorId = new Guid("2b4c89cb-f079-4cf8-9d4b-9fb0771b368a"),
                             Condition = 0,
                             ISBN = "754332646-9",
                             Price = 61m,
@@ -10165,7 +10165,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4d98db88-3d56-44c4-a291-7df408dad12e"),
-                            AuthorId = new Guid("936d84fc-1467-4857-979e-6908ec86a62f"),
+                            AuthorId = new Guid("dd08bbb6-04b0-4022-a7bf-a09927ce8f8d"),
                             Condition = 1,
                             ISBN = "776436496-7",
                             Price = 74m,
@@ -10176,7 +10176,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f96d4c9c-f31a-48ad-8dfa-5c358793dcfa"),
-                            AuthorId = new Guid("4a11fb02-8185-4c0e-bce0-bf56db2436ec"),
+                            AuthorId = new Guid("173a2b60-68c8-4e44-a0aa-03e2f5c86c9f"),
                             Condition = 0,
                             ISBN = "542275393-3",
                             Price = 9m,
@@ -10187,7 +10187,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cef461c0-de70-494f-ad12-69b0a4302c1e"),
-                            AuthorId = new Guid("9ad9a6eb-7a2f-4eec-89a5-eb7500e746cf"),
+                            AuthorId = new Guid("c1e26e3b-29a2-418e-9165-61ace8914242"),
                             Condition = 1,
                             ISBN = "174830080-6",
                             Price = 33m,
@@ -10198,7 +10198,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("67a2f68a-db23-4735-9244-2a65347c9f4d"),
-                            AuthorId = new Guid("e1402f0a-6f80-4867-9fbe-1672924d80ee"),
+                            AuthorId = new Guid("c7b1c45b-b8d3-42fd-b18b-709154fc0c62"),
                             Condition = 0,
                             ISBN = "650777948-2",
                             Price = 80m,
@@ -10209,7 +10209,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("edbaf184-fd09-457b-874d-40f4b90b3301"),
-                            AuthorId = new Guid("8d325859-3e3a-4f81-a33d-222d73760e31"),
+                            AuthorId = new Guid("592750d3-3aa8-41dc-aa5c-d61370f2ac47"),
                             Condition = 1,
                             ISBN = "530986222-6",
                             Price = 44m,
@@ -10220,7 +10220,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("caa9c159-3a24-4419-a6dc-d41f8db2325d"),
-                            AuthorId = new Guid("a1ceb583-6417-4664-aac4-193be893832b"),
+                            AuthorId = new Guid("f7959ba7-2b7c-47a7-a457-b644b9918c37"),
                             Condition = 0,
                             ISBN = "794465986-8",
                             Price = 100m,
@@ -10231,7 +10231,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cd20dccf-ccb1-486b-a3c7-a97deb4171a2"),
-                            AuthorId = new Guid("42ad2b90-d981-4f4a-a669-33d0a199be28"),
+                            AuthorId = new Guid("aa55503a-38b9-4104-9bae-3109d0792f66"),
                             Condition = 1,
                             ISBN = "567165015-1",
                             Price = 5m,
@@ -10242,7 +10242,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("efd12544-51ea-45e6-a214-bc999caeef24"),
-                            AuthorId = new Guid("49a1dc0e-6bc2-4289-80b3-4c61a85dd633"),
+                            AuthorId = new Guid("3aa04e52-8c42-42c6-b0ff-f0d06d91ec22"),
                             Condition = 0,
                             ISBN = "058872852-7",
                             Price = 64m,
@@ -10253,7 +10253,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1f5b4847-d7bf-4b62-a174-7da6aa9b9880"),
-                            AuthorId = new Guid("7f9f6415-2a54-4e46-8886-af514168de43"),
+                            AuthorId = new Guid("3fcffc1b-29b4-4608-adf7-06573b36dcdb"),
                             Condition = 1,
                             ISBN = "596880043-7",
                             Price = 57m,
@@ -10264,7 +10264,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a1104236-4c74-4d91-8efd-4a247126e512"),
-                            AuthorId = new Guid("ace3e3d5-bf0c-4164-a962-d9e5ac5e8bd6"),
+                            AuthorId = new Guid("b95085c8-68f3-4d4f-aebd-f9d8fb679aca"),
                             Condition = 0,
                             ISBN = "985317372-7",
                             Price = 21m,
@@ -10275,7 +10275,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0d9f08de-75ca-4432-ab73-36ba33b79f64"),
-                            AuthorId = new Guid("70139c7a-6c13-4bdb-87d4-c1694e025026"),
+                            AuthorId = new Guid("fce219f3-8834-472c-88c1-63b338502cf4"),
                             Condition = 1,
                             ISBN = "059053081-X",
                             Price = 92m,
@@ -10286,7 +10286,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("41a8a6b8-1d08-4880-b369-7598513af6fb"),
-                            AuthorId = new Guid("6856ba53-2c1e-4512-a802-1f41f6477f07"),
+                            AuthorId = new Guid("c0648f7d-3742-435e-9378-ddae1b335508"),
                             Condition = 0,
                             ISBN = "207062766-7",
                             Price = 50m,
@@ -10297,7 +10297,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1031440b-bff5-4185-bf35-983e948a548d"),
-                            AuthorId = new Guid("37e8cbcd-1202-4e31-9505-589f60e2cd8a"),
+                            AuthorId = new Guid("173a2b60-68c8-4e44-a0aa-03e2f5c86c9f"),
                             Condition = 1,
                             ISBN = "718588695-3",
                             Price = 90m,
@@ -10308,7 +10308,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3bb9bcb1-963c-452c-b3e2-e61a6f7f7161"),
-                            AuthorId = new Guid("8c2457e6-d528-4cca-9965-b47a47643d55"),
+                            AuthorId = new Guid("50eea3bc-68d7-4e36-837b-fa62e221b8c2"),
                             Condition = 0,
                             ISBN = "978873381-6",
                             Price = 69m,
@@ -10319,7 +10319,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6dd4611b-235e-43c8-828d-2f1963f9382b"),
-                            AuthorId = new Guid("9f928a8b-4416-48ec-a03f-3c6df811724b"),
+                            AuthorId = new Guid("e1ab4fbd-9feb-4bd7-bc44-25461c743e0d"),
                             Condition = 1,
                             ISBN = "375898408-4",
                             Price = 81m,
@@ -10330,7 +10330,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("527721c2-ba14-4207-86f5-11636321b19c"),
-                            AuthorId = new Guid("157466fa-afb7-4076-ad21-530717018e26"),
+                            AuthorId = new Guid("203fec56-44d4-4392-98d2-b749e6d7dcde"),
                             Condition = 0,
                             ISBN = "676282050-6",
                             Price = 58m,
@@ -10341,7 +10341,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2b6c1508-d5b2-410c-955a-9e9abe4e36fa"),
-                            AuthorId = new Guid("620a9cd1-b46f-46a0-8989-25d4d2884537"),
+                            AuthorId = new Guid("d030e906-372d-40d4-91f5-4f46bff188e4"),
                             Condition = 1,
                             ISBN = "258542989-X",
                             Price = 15m,
@@ -10352,7 +10352,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("eefd25d4-1308-4542-a19c-eec71c618cb0"),
-                            AuthorId = new Guid("ff733029-b575-43d4-b993-ffc9e0cf1feb"),
+                            AuthorId = new Guid("76905c88-1d3b-4e48-8811-1f517160d72c"),
                             Condition = 0,
                             ISBN = "889867700-6",
                             Price = 80m,
@@ -10363,7 +10363,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fe1472cb-9ab9-40d9-9b97-54151aa04c04"),
-                            AuthorId = new Guid("5de4c448-dc13-496c-8858-8031eb4c71de"),
+                            AuthorId = new Guid("ee55aefb-04b9-43d6-862e-b79ad1a6549b"),
                             Condition = 1,
                             ISBN = "944499803-7",
                             Price = 67m,
@@ -10374,7 +10374,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5cd58666-f6f4-48f3-94a9-dfe1afbb8b71"),
-                            AuthorId = new Guid("e5b35dcb-548d-45d2-93ba-41128094afab"),
+                            AuthorId = new Guid("848a9a2d-778a-43a1-b8a8-2cefa92f0834"),
                             Condition = 0,
                             ISBN = "753666845-7",
                             Price = 92m,
@@ -10385,7 +10385,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7d0ace3b-9685-4654-87fa-d6c6883368a2"),
-                            AuthorId = new Guid("8af7a947-e742-4f20-93c1-56c546a3aed2"),
+                            AuthorId = new Guid("3cd9e847-a52d-466c-83bd-574af39dbdc6"),
                             Condition = 1,
                             ISBN = "666958827-5",
                             Price = 53m,
@@ -10396,7 +10396,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b07d4e0e-c8bf-4f44-ba29-7fbf3bb8feee"),
-                            AuthorId = new Guid("e23c6d4a-94aa-4bda-8a09-4f3a00c1d2a8"),
+                            AuthorId = new Guid("c7e19c78-b5b6-4b76-ad34-0c9927c7d798"),
                             Condition = 0,
                             ISBN = "276724060-1",
                             Price = 95m,
@@ -10407,7 +10407,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("dab6d798-769b-4d23-8a22-ef25cbeda1e5"),
-                            AuthorId = new Guid("dbe83457-7531-455f-b744-3d3a84708905"),
+                            AuthorId = new Guid("b74ba475-97f3-4235-8dc3-612bc1e781b7"),
                             Condition = 1,
                             ISBN = "293849095-X",
                             Price = 39m,
@@ -10418,7 +10418,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("24ca388e-e960-440a-a62b-ed9379fa9594"),
-                            AuthorId = new Guid("a8aa50b5-fdf3-4655-8949-92fe84eb9f79"),
+                            AuthorId = new Guid("d7831a9b-5149-4044-bf73-a2049e2b5b9c"),
                             Condition = 0,
                             ISBN = "767953005-X",
                             Price = 63m,
@@ -10429,7 +10429,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2921bd32-d429-4a63-b0bf-14318adc79f0"),
-                            AuthorId = new Guid("f81a29bc-1557-4b3e-948e-bd604a683e1f"),
+                            AuthorId = new Guid("53b2bd3d-637c-48c7-9bdd-d99cfe372ed2"),
                             Condition = 1,
                             ISBN = "077334061-0",
                             Price = 52m,
@@ -10440,7 +10440,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5959294e-2f19-428d-ac6e-729cfa193c0f"),
-                            AuthorId = new Guid("97b72887-c52f-4d19-ac99-6b772416e084"),
+                            AuthorId = new Guid("e5a668b5-60fc-424c-84b2-a97b9f92007b"),
                             Condition = 0,
                             ISBN = "179560814-5",
                             Price = 61m,
@@ -10451,7 +10451,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("41ffd07b-6343-4f6a-be29-046816c55502"),
-                            AuthorId = new Guid("8736b406-20a0-431a-aa2c-69b69fe7f7a4"),
+                            AuthorId = new Guid("b278f62e-bd71-4e59-86d1-7d8f4435d8e3"),
                             Condition = 1,
                             ISBN = "056819428-4",
                             Price = 62m,
@@ -10462,7 +10462,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("18e9efdc-7617-45a3-a1b8-c7c00ed40d15"),
-                            AuthorId = new Guid("48352e11-cf84-4d45-98be-4c9795501413"),
+                            AuthorId = new Guid("558c152a-9a94-4f61-9db4-3b29d1bb022e"),
                             Condition = 0,
                             ISBN = "379979324-0",
                             Price = 88m,
@@ -10473,7 +10473,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("af28cbb8-5505-4549-8097-91e1058decd9"),
-                            AuthorId = new Guid("06c4b13d-acd4-48a5-b197-f6ec2ddaad03"),
+                            AuthorId = new Guid("8996f5db-7129-452e-b004-5d9b65c31c06"),
                             Condition = 1,
                             ISBN = "320860914-0",
                             Price = 83m,
@@ -10484,7 +10484,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("77615d5d-ae66-46aa-8ea9-01e329d258fe"),
-                            AuthorId = new Guid("44f1042a-a088-40ed-beb4-523704d4a286"),
+                            AuthorId = new Guid("ce7627f0-f680-4be0-9089-cd28d142c41a"),
                             Condition = 0,
                             ISBN = "237125739-7",
                             Price = 37m,
@@ -10495,7 +10495,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("22f17402-6252-4233-a988-a57df8b32752"),
-                            AuthorId = new Guid("44fca0fd-a199-40dd-91a0-c93ff17297cf"),
+                            AuthorId = new Guid("51d54ead-0a70-42e6-9f55-62c2e5fae9f8"),
                             Condition = 1,
                             ISBN = "867787162-4",
                             Price = 79m,
@@ -10506,7 +10506,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2ac3ed42-9895-473b-8824-b4fb8b33f071"),
-                            AuthorId = new Guid("18d5a51c-632e-451d-a3e1-9ca5fb484154"),
+                            AuthorId = new Guid("4bb5e4c3-5ae2-4ad8-85c9-ec4196b4eff8"),
                             Condition = 0,
                             ISBN = "245164112-6",
                             Price = 87m,
@@ -10517,7 +10517,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("32d0437a-e614-4ee0-bc01-eca37b625282"),
-                            AuthorId = new Guid("267cbc06-0ea5-4809-81e6-fd425fabc167"),
+                            AuthorId = new Guid("0d20937b-4a42-40b7-adce-a15ec0b5a1bd"),
                             Condition = 1,
                             ISBN = "206295684-3",
                             Price = 3m,
@@ -10528,7 +10528,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1d43040e-0f75-46b0-8da4-11e01ae72533"),
-                            AuthorId = new Guid("099b4dc2-bb45-4315-97dc-cf885108c8a0"),
+                            AuthorId = new Guid("02986f3d-7993-4ed6-9f19-7b9060da22bf"),
                             Condition = 0,
                             ISBN = "152545688-1",
                             Price = 48m,
@@ -10539,7 +10539,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("492dcfac-808b-488c-8505-419e666343fc"),
-                            AuthorId = new Guid("8fe1c98e-5a98-4269-95c6-95c4ae010ce5"),
+                            AuthorId = new Guid("cd6868fa-2ed9-4e64-8733-3a3f7cd6db24"),
                             Condition = 1,
                             ISBN = "041446652-7",
                             Price = 80m,
@@ -10550,7 +10550,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b1903fc1-9756-4c9f-913b-62168d97dc29"),
-                            AuthorId = new Guid("2145fbbf-8504-4e49-9a46-7748608fef9d"),
+                            AuthorId = new Guid("488eef00-2fc4-4168-8d14-72a6fdafdd33"),
                             Condition = 0,
                             ISBN = "097673289-0",
                             Price = 71m,
@@ -10561,7 +10561,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2b1b549d-e664-49d8-bb89-c5ec024ae0b6"),
-                            AuthorId = new Guid("35a17d4c-3203-4643-b237-4578b56c5877"),
+                            AuthorId = new Guid("26f09ef5-670b-4332-bea1-5eb9974fcab0"),
                             Condition = 1,
                             ISBN = "267025768-2",
                             Price = 96m,
@@ -10572,7 +10572,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("659a8c58-d0f6-4c6f-ab40-33cd812dff61"),
-                            AuthorId = new Guid("59dd2652-6f89-428c-a402-bff4121455ab"),
+                            AuthorId = new Guid("f33b3252-eb6f-459d-8816-8756827995b6"),
                             Condition = 0,
                             ISBN = "649934587-3",
                             Price = 60m,
@@ -10583,7 +10583,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("bfb1f4ee-d7ef-42ae-9134-04d67ff39e8c"),
-                            AuthorId = new Guid("71114bb2-2230-4e41-9533-6d3b34a213ee"),
+                            AuthorId = new Guid("346c5110-3648-467f-8414-01415f68d9fe"),
                             Condition = 1,
                             ISBN = "385501450-7",
                             Price = 23m,
@@ -10594,7 +10594,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a300a551-a55d-45fa-8d97-fd1cbed11f58"),
-                            AuthorId = new Guid("88b01291-97a9-4c27-950c-40b66c115795"),
+                            AuthorId = new Guid("3daeb4b9-c99d-4622-8626-02f30486a902"),
                             Condition = 0,
                             ISBN = "903295475-X",
                             Price = 64m,
@@ -10605,7 +10605,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ccfab881-6d99-43ea-a529-4e3cf180ff4e"),
-                            AuthorId = new Guid("0cbf4fbf-23c7-4390-b013-dda8b87e6753"),
+                            AuthorId = new Guid("6695a3c4-a754-4b90-b6ce-39785e73caaf"),
                             Condition = 1,
                             ISBN = "068928310-5",
                             Price = 83m,
@@ -10616,7 +10616,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9e117f59-6ec6-4f4e-9a23-827a6c297cfd"),
-                            AuthorId = new Guid("f27a9091-2656-4dab-bea3-4053184a42d3"),
+                            AuthorId = new Guid("494eede2-a3a8-4463-8bc5-0036ed6c09ad"),
                             Condition = 0,
                             ISBN = "306237306-7",
                             Price = 31m,
@@ -10627,7 +10627,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("19bedad3-a2d0-4045-8b49-7a465c09d07d"),
-                            AuthorId = new Guid("a678f50c-92eb-46d9-a079-99b86cd5cdf2"),
+                            AuthorId = new Guid("e1ab4fbd-9feb-4bd7-bc44-25461c743e0d"),
                             Condition = 1,
                             ISBN = "922087376-1",
                             Price = 82m,
@@ -10638,7 +10638,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a9984c8b-0e13-4047-b726-0b0bd0e782b5"),
-                            AuthorId = new Guid("a10a0a76-ecda-4236-b6db-cb91c89ac080"),
+                            AuthorId = new Guid("f92fae4e-4d66-4084-91cf-1bf4024c344e"),
                             Condition = 0,
                             ISBN = "126292420-0",
                             Price = 30m,
@@ -10649,7 +10649,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c720b839-86a1-42b2-9414-ea221c50fd96"),
-                            AuthorId = new Guid("7cbe2473-2c54-43f1-9e26-f8cb6c345898"),
+                            AuthorId = new Guid("342a0637-fdb3-4b69-b6f4-8b07caf5f1f2"),
                             Condition = 1,
                             ISBN = "737357796-2",
                             Price = 4m,
@@ -10660,7 +10660,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d543985c-192d-48c0-a473-c44bb10def6d"),
-                            AuthorId = new Guid("476fe0f7-149c-4156-b46d-519d01fa7bb1"),
+                            AuthorId = new Guid("b4de5104-cf47-4d91-8f4f-1a85bd609b10"),
                             Condition = 0,
                             ISBN = "968526796-0",
                             Price = 97m,
@@ -10671,7 +10671,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("01e4aee4-6126-45a5-9135-5c3db3af386b"),
-                            AuthorId = new Guid("587c4769-f9f4-4071-a4aa-5657ff07f98d"),
+                            AuthorId = new Guid("4cf76e5f-500a-45fe-bb50-d85560d7e96f"),
                             Condition = 1,
                             ISBN = "207694536-9",
                             Price = 77m,
@@ -10682,7 +10682,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d3124e22-717c-4b39-b8b9-04d385081204"),
-                            AuthorId = new Guid("25b79ec2-1697-4225-8c1b-300f80dc54b2"),
+                            AuthorId = new Guid("474a6214-ffd7-4205-a38f-1c2166de4204"),
                             Condition = 0,
                             ISBN = "303438820-9",
                             Price = 45m,
@@ -10693,7 +10693,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1b19a0bb-059e-43db-bb09-54280bb44be9"),
-                            AuthorId = new Guid("6e82bd0a-0023-42c7-9e46-6a5bb95b7484"),
+                            AuthorId = new Guid("21cd2a6a-4b66-468a-ada5-c2d8209bfcb2"),
                             Condition = 1,
                             ISBN = "289514757-4",
                             Price = 95m,
@@ -10704,7 +10704,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("32418fce-08e4-4a46-9f30-1e486e4ab0f9"),
-                            AuthorId = new Guid("8b0997b9-5d4f-48d8-b9ac-7ea47e9ffdef"),
+                            AuthorId = new Guid("e95f4ba7-fc06-4f4a-8ede-22696de26201"),
                             Condition = 0,
                             ISBN = "298510772-5",
                             Price = 66m,
@@ -10715,7 +10715,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3b3fc461-81a9-4404-bcac-60fffae1307b"),
-                            AuthorId = new Guid("e940cd56-6009-4fff-a9fa-2aa0c1d1df4d"),
+                            AuthorId = new Guid("861eaeac-d367-4374-80e4-6e87700ec68c"),
                             Condition = 1,
                             ISBN = "823548248-7",
                             Price = 62m,
@@ -10726,7 +10726,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7d8f4819-6b7d-4671-ac89-b780f591b1f0"),
-                            AuthorId = new Guid("056cf996-5b34-438f-a9d9-e6d8d32bc285"),
+                            AuthorId = new Guid("5e2828ba-25cc-4079-bb66-0abc1a092b1a"),
                             Condition = 0,
                             ISBN = "889687612-5",
                             Price = 3m,
@@ -10737,7 +10737,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c8c23d9a-44b1-4605-ba7d-1898365d3e1a"),
-                            AuthorId = new Guid("c5526c67-3078-4eca-98c6-5e1ae428d9f8"),
+                            AuthorId = new Guid("cc0cac89-6012-4e3d-bebf-b7986e5f8319"),
                             Condition = 1,
                             ISBN = "376829070-0",
                             Price = 85m,
@@ -10748,7 +10748,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cf84b90e-bb2f-4bef-a38e-ae93489b9787"),
-                            AuthorId = new Guid("5a5738b3-0076-4100-9a95-4a0bc0b0e837"),
+                            AuthorId = new Guid("90df2cc8-2ced-452d-90a0-91d748213d75"),
                             Condition = 0,
                             ISBN = "040739254-8",
                             Price = 13m,
@@ -10759,7 +10759,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c03200d6-9feb-44b5-afb0-6434c68a34ef"),
-                            AuthorId = new Guid("e5928360-c189-4a52-b461-ebe0ec2507d5"),
+                            AuthorId = new Guid("4f1ccb1f-b047-419f-8c80-465777ef7eea"),
                             Condition = 1,
                             ISBN = "500416318-9",
                             Price = 94m,
@@ -10770,7 +10770,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8a2b34a3-b079-4fdd-9e43-fec6785c2439"),
-                            AuthorId = new Guid("6b751a89-1e62-43ca-b754-2a4123355c9f"),
+                            AuthorId = new Guid("3bdbc552-e3ca-49d6-8b1b-d0ea42db20c7"),
                             Condition = 0,
                             ISBN = "303863672-X",
                             Price = 23m,
@@ -10781,7 +10781,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("aac06671-241a-40c4-869f-5d635598670f"),
-                            AuthorId = new Guid("9085c603-b419-420c-8cfe-79d7b016daeb"),
+                            AuthorId = new Guid("0c1fe721-2e82-4412-a06f-b722dcf9ef06"),
                             Condition = 1,
                             ISBN = "633733943-6",
                             Price = 98m,
@@ -10792,7 +10792,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("be4392c5-9523-4712-a7d0-b8ea82bbea05"),
-                            AuthorId = new Guid("a588eb99-4369-4ba9-83a3-76d84a4bed74"),
+                            AuthorId = new Guid("30b772b0-6d2f-4ad3-acc9-6ea8e3d6f564"),
                             Condition = 0,
                             ISBN = "685095797-X",
                             Price = 99m,
@@ -10803,7 +10803,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8d2ab99a-7db7-43a4-8a39-a0f2199540b7"),
-                            AuthorId = new Guid("8bbcf7a2-58b9-44b6-8195-4607a4ace18a"),
+                            AuthorId = new Guid("48cdb123-6b2e-4059-9bb2-3cc12078707a"),
                             Condition = 1,
                             ISBN = "208988944-6",
                             Price = 31m,
@@ -10814,7 +10814,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0587cabf-f146-4761-b62c-31be16b7cc3e"),
-                            AuthorId = new Guid("ed8fcd57-ffda-47db-8107-65c730b642f3"),
+                            AuthorId = new Guid("6d09f403-4e1b-4dce-8682-a917e1d72795"),
                             Condition = 0,
                             ISBN = "880087575-0",
                             Price = 64m,
@@ -10825,7 +10825,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a9c3014e-5f5b-4bde-acc5-eaa017a1a896"),
-                            AuthorId = new Guid("34b4c9ac-5700-4e88-914a-e2da78e1b8bd"),
+                            AuthorId = new Guid("a900085f-5913-431e-b7cd-80eccb6b8395"),
                             Condition = 1,
                             ISBN = "751681102-5",
                             Price = 72m,
@@ -10836,7 +10836,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d4593fd1-7d68-404b-82e8-c7f7f8189717"),
-                            AuthorId = new Guid("16ff18f0-4057-4958-8507-3c9771cc9c58"),
+                            AuthorId = new Guid("3f53ee21-b138-48b6-9cb4-ffd490a7f6c2"),
                             Condition = 0,
                             ISBN = "221039379-5",
                             Price = 17m,
@@ -10847,7 +10847,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f3cf83af-afc4-4d6e-bf5d-c3a46f159ac9"),
-                            AuthorId = new Guid("99aa0c17-bd53-4170-a9c3-b8405978d00f"),
+                            AuthorId = new Guid("972e5055-6351-4eb8-94de-116e9bd0b4ff"),
                             Condition = 1,
                             ISBN = "656406801-8",
                             Price = 92m,
@@ -10858,7 +10858,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6ad44d24-d752-429d-b192-cf855433fb04"),
-                            AuthorId = new Guid("3509cb67-69dc-4549-8169-e4d6b06df798"),
+                            AuthorId = new Guid("3f35586c-0eb4-436e-a24c-ba1f461a7c63"),
                             Condition = 0,
                             ISBN = "675613858-8",
                             Price = 51m,
@@ -10869,7 +10869,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7b1a8f0e-f0cf-4956-b5d0-255d24071e47"),
-                            AuthorId = new Guid("3db30207-0111-4b34-8697-15e686b8ab44"),
+                            AuthorId = new Guid("339cbb43-c2f7-4d84-b849-ccb41cbb9cd1"),
                             Condition = 1,
                             ISBN = "648090620-9",
                             Price = 93m,
@@ -10880,7 +10880,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e2367659-8f27-476c-8ae6-4ba3acd75ad4"),
-                            AuthorId = new Guid("6727637f-0d96-41bb-8a71-3ed377bff5bf"),
+                            AuthorId = new Guid("0da82f1f-4dfe-4677-98f5-676814825e21"),
                             Condition = 0,
                             ISBN = "764749100-8",
                             Price = 27m,
@@ -10891,7 +10891,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9e0b9083-adfd-461e-9dfa-0b8414257b84"),
-                            AuthorId = new Guid("4fd76409-8e66-43aa-9261-da0cb238c689"),
+                            AuthorId = new Guid("0178808c-80e7-44c7-9aae-28706a766f9f"),
                             Condition = 1,
                             ISBN = "064600963-X",
                             Price = 100m,
@@ -10902,7 +10902,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c1fc769d-f904-49f6-9510-3bee328f5288"),
-                            AuthorId = new Guid("858e6f78-5fe3-484a-b874-7289abb29a4a"),
+                            AuthorId = new Guid("506007da-e653-4ee9-8a5f-bb531a478f5b"),
                             Condition = 0,
                             ISBN = "009674804-4",
                             Price = 83m,
@@ -10913,7 +10913,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ac5f2f6b-8af1-47aa-ad3d-3cf4b2ae1445"),
-                            AuthorId = new Guid("e9ec1912-5d14-4338-a6eb-68a554e18720"),
+                            AuthorId = new Guid("15e128b8-7373-490b-97e8-9012d3037207"),
                             Condition = 1,
                             ISBN = "054508421-0",
                             Price = 100m,
@@ -10924,7 +10924,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("add7b318-8dcb-437d-9ed9-dcc031d3541a"),
-                            AuthorId = new Guid("fba0c2f7-a70d-4d0e-b8f9-cab54c5e4752"),
+                            AuthorId = new Guid("b5d58a25-0344-4cf9-a0ae-2eeb351f8960"),
                             Condition = 0,
                             ISBN = "837687638-4",
                             Price = 41m,
@@ -10935,7 +10935,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ed3ec982-a171-47fd-b51a-baf3cd74a69b"),
-                            AuthorId = new Guid("020c5e81-7f10-431e-9c35-a9529f348081"),
+                            AuthorId = new Guid("dda142f3-0006-4ed2-905a-52d54b75d799"),
                             Condition = 1,
                             ISBN = "451974263-3",
                             Price = 73m,
@@ -10946,7 +10946,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("27f9f98f-382f-439e-8fc1-a1dc72c3d6eb"),
-                            AuthorId = new Guid("e6d2c155-9c3c-463c-98f3-0f7699e65c49"),
+                            AuthorId = new Guid("6a9bee9b-e392-4dcc-aafe-48fb23141cb1"),
                             Condition = 0,
                             ISBN = "007273832-4",
                             Price = 62m,
@@ -10957,7 +10957,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c7ff61c2-de02-4627-981b-90142b5ac173"),
-                            AuthorId = new Guid("497cd05c-cd43-44bf-9df8-3876ffebd95d"),
+                            AuthorId = new Guid("75cc92c5-2106-4698-9ff3-764cbba6e264"),
                             Condition = 1,
                             ISBN = "538582437-2",
                             Price = 52m,
@@ -10968,7 +10968,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b1f6893d-c913-4494-b370-dd0e179fe70c"),
-                            AuthorId = new Guid("44fca0fd-a199-40dd-91a0-c93ff17297cf"),
+                            AuthorId = new Guid("394d32dd-a0ad-4fac-963c-e4800d2f6c3a"),
                             Condition = 0,
                             ISBN = "850485241-5",
                             Price = 18m,
@@ -10979,7 +10979,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("09830c99-8900-486b-86c6-dd0153489340"),
-                            AuthorId = new Guid("c3df19ea-6117-4897-8002-2a5290491803"),
+                            AuthorId = new Guid("810db5f1-6a61-4bca-8102-96a764f97576"),
                             Condition = 1,
                             ISBN = "616984752-2",
                             Price = 90m,
@@ -10990,7 +10990,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("26a71165-4a20-4458-80ed-26e3869f978f"),
-                            AuthorId = new Guid("e3edb88d-789e-4c88-87b1-0c9f6f0284db"),
+                            AuthorId = new Guid("83c22445-307f-48ac-b957-53aae3b20a11"),
                             Condition = 0,
                             ISBN = "019858071-1",
                             Price = 88m,
@@ -11001,7 +11001,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cea93247-0ebb-40c0-bcc5-0a551588c952"),
-                            AuthorId = new Guid("666fdd39-a35e-40a5-b61f-52fbf324895b"),
+                            AuthorId = new Guid("03693075-2ac6-4117-bb33-427ad15d2f15"),
                             Condition = 1,
                             ISBN = "541464089-0",
                             Price = 37m,
@@ -11012,7 +11012,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("39e398d8-b806-445b-960d-ce63bae89272"),
-                            AuthorId = new Guid("c7739201-0190-4f2d-80d9-ddc77ccbb2ce"),
+                            AuthorId = new Guid("6f41c0b4-b49f-4357-8997-f0bcb5a46e71"),
                             Condition = 0,
                             ISBN = "468839249-4",
                             Price = 10m,
@@ -11023,7 +11023,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5c05a93b-21ca-41d8-a09f-8a193d1bf810"),
-                            AuthorId = new Guid("09399070-fd8f-4a0e-9d27-261fe7b3a288"),
+                            AuthorId = new Guid("d3e34062-38ed-4d3c-989f-be00442ef8e6"),
                             Condition = 1,
                             ISBN = "363992463-0",
                             Price = 12m,
@@ -11034,7 +11034,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c6a33391-8f3f-46bc-9918-089f43110c7d"),
-                            AuthorId = new Guid("9085c603-b419-420c-8cfe-79d7b016daeb"),
+                            AuthorId = new Guid("ae7f62d5-5f11-4814-8cad-82ec3b4c3450"),
                             Condition = 0,
                             ISBN = "519742931-3",
                             Price = 69m,
@@ -11045,7 +11045,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a6bf4221-4938-4ba2-b0a6-2fc697a8a69e"),
-                            AuthorId = new Guid("a0b4c6dd-b63e-4341-8f10-2cbcd0bda92a"),
+                            AuthorId = new Guid("67c3f4ab-4aec-45bb-a76c-3f75e7ff7c38"),
                             Condition = 1,
                             ISBN = "801233070-9",
                             Price = 59m,
@@ -11056,7 +11056,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1b20b823-4e56-4b09-b3d4-eb234b6a0120"),
-                            AuthorId = new Guid("09d8248f-b84f-4482-81ec-38e4bdde66a0"),
+                            AuthorId = new Guid("47828315-09dd-4f90-ad30-d9ff11428ee4"),
                             Condition = 0,
                             ISBN = "704798038-5",
                             Price = 20m,
@@ -11067,7 +11067,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8e94bc5f-5738-4a80-a2f3-0bc8774a5f8e"),
-                            AuthorId = new Guid("67cd07fc-a2c7-4630-9512-fd8a0a807b14"),
+                            AuthorId = new Guid("ae8b313f-5774-4211-8fe0-6ec50efc7357"),
                             Condition = 1,
                             ISBN = "643754329-9",
                             Price = 75m,
@@ -11078,7 +11078,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("be188499-1f23-488b-9f2b-e5dae30f05d4"),
-                            AuthorId = new Guid("f3b7ee80-0c64-4e01-a409-ef6a88cc9cfb"),
+                            AuthorId = new Guid("0dc86a51-c6bd-41bc-af5a-bbc43a5b522d"),
                             Condition = 0,
                             ISBN = "020445998-2",
                             Price = 99m,
@@ -11089,7 +11089,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("26eabab7-e668-4dd1-b02c-bedb1794f9cf"),
-                            AuthorId = new Guid("efaea93d-8add-41e5-8601-8521541c9b1f"),
+                            AuthorId = new Guid("0aaa4ce6-9d36-411a-80e3-0615fd98c83b"),
                             Condition = 1,
                             ISBN = "266800887-5",
                             Price = 57m,
@@ -11100,7 +11100,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cdc8822a-e6e9-458b-9b57-1a76dd408b83"),
-                            AuthorId = new Guid("e940cd56-6009-4fff-a9fa-2aa0c1d1df4d"),
+                            AuthorId = new Guid("7baf6bc2-f262-40f6-ae2d-194c1b850bac"),
                             Condition = 0,
                             ISBN = "198208213-5",
                             Price = 96m,
@@ -11111,7 +11111,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("48961460-fc9c-4b99-9386-b027dcb6a915"),
-                            AuthorId = new Guid("bb7396ad-9f1f-4e73-bd22-2a465dc1d957"),
+                            AuthorId = new Guid("17b85975-dbab-4cfd-949a-1e130474b651"),
                             Condition = 1,
                             ISBN = "053730850-4",
                             Price = 60m,
@@ -11122,7 +11122,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9c03e4cb-ac95-4701-9b80-58a6ae1fe407"),
-                            AuthorId = new Guid("34b4c9ac-5700-4e88-914a-e2da78e1b8bd"),
+                            AuthorId = new Guid("6730796b-5dda-4b65-b0d5-83bebe4636fa"),
                             Condition = 0,
                             ISBN = "187356730-8",
                             Price = 71m,
@@ -11133,7 +11133,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("92f20245-03d1-44d8-ab59-1179384fdb7f"),
-                            AuthorId = new Guid("bb96be95-e286-4bd8-b7d7-640bc350018f"),
+                            AuthorId = new Guid("66a53a41-8865-4487-a62a-cc612d55cbe5"),
                             Condition = 1,
                             ISBN = "086106907-2",
                             Price = 88m,
@@ -11144,7 +11144,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d711ecc5-f307-4636-9192-fc7e7f85e7e0"),
-                            AuthorId = new Guid("36175c6b-85bd-4615-bb1f-456391811718"),
+                            AuthorId = new Guid("5806ae3b-103b-47d2-8019-648d3b8c9ab4"),
                             Condition = 0,
                             ISBN = "636581219-1",
                             Price = 67m,
@@ -11155,7 +11155,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fbcd3516-17eb-4a38-98be-3e8e2b4781dc"),
-                            AuthorId = new Guid("0ecb8f16-d362-47aa-bd8f-aba5cb67891e"),
+                            AuthorId = new Guid("326379cb-44c1-4dbd-9790-f48c8d90427e"),
                             Condition = 1,
                             ISBN = "367691946-7",
                             Price = 40m,
@@ -11166,7 +11166,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b9e451a4-5a25-4b76-9817-401d87b6358f"),
-                            AuthorId = new Guid("25088fd5-59e3-4bab-a47a-d3773560a484"),
+                            AuthorId = new Guid("3a39d358-0924-4a93-9217-3831d2f3b725"),
                             Condition = 0,
                             ISBN = "346797876-2",
                             Price = 76m,
@@ -11177,7 +11177,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9cff2c6d-2529-4040-b511-2f49256b43e5"),
-                            AuthorId = new Guid("7177638d-3369-4b4d-b812-408159198a4f"),
+                            AuthorId = new Guid("25e40565-abaa-457e-8c55-18d4b441d66f"),
                             Condition = 1,
                             ISBN = "621745886-1",
                             Price = 59m,
@@ -11188,7 +11188,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c2259d67-5927-4e3e-98ae-79e09ab45772"),
-                            AuthorId = new Guid("acd774db-b92d-4b71-a6a9-462262f6bd94"),
+                            AuthorId = new Guid("d3e34062-38ed-4d3c-989f-be00442ef8e6"),
                             Condition = 0,
                             ISBN = "766925836-5",
                             Price = 91m,
@@ -11199,7 +11199,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a08c59fb-d67d-4672-9578-5b4f59fb72b7"),
-                            AuthorId = new Guid("1af6bab8-73c9-4ee7-b2bd-5a24daa9ffa2"),
+                            AuthorId = new Guid("ead1ee2b-1d72-4af4-ba2a-d20d4174adec"),
                             Condition = 1,
                             ISBN = "830458874-9",
                             Price = 44m,
@@ -11210,7 +11210,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f5ec98c7-999c-40eb-9de4-25065cf7a31e"),
-                            AuthorId = new Guid("09e76b31-202b-49d4-b117-e28c6e21a6db"),
+                            AuthorId = new Guid("9dae290a-716a-4b7d-aabe-ee6aeede903b"),
                             Condition = 0,
                             ISBN = "751854111-4",
                             Price = 6m,
@@ -11221,7 +11221,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ab02a4e8-e8a7-42e0-83d5-15abe67aa2e5"),
-                            AuthorId = new Guid("ad533211-4ff4-4ce9-828d-082346666f62"),
+                            AuthorId = new Guid("20ae50b8-19b6-4538-94e0-be4d549d38ab"),
                             Condition = 1,
                             ISBN = "260292940-9",
                             Price = 20m,
@@ -11232,7 +11232,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9111a475-dfd3-4631-8254-7962ac722d8b"),
-                            AuthorId = new Guid("ace68f80-9a57-4129-9e09-436ea1d736c2"),
+                            AuthorId = new Guid("a52f57c4-67ab-4b23-beb9-4e3e7280c9a3"),
                             Condition = 0,
                             ISBN = "894617461-7",
                             Price = 10m,
@@ -11243,7 +11243,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d50a62c3-611f-4caf-a566-9f7d1330da7a"),
-                            AuthorId = new Guid("f3a2d422-e9ce-4bda-93b1-6c6c05d9bb1e"),
+                            AuthorId = new Guid("f0701dc3-b95c-4d77-ac13-07c4aa60a44f"),
                             Condition = 1,
                             ISBN = "142037426-5",
                             Price = 36m,
@@ -11254,7 +11254,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9d5edbf0-e09a-4d1a-a466-2af553ae48c4"),
-                            AuthorId = new Guid("6b5226fe-b18e-4e81-a136-e5c8e6ad4f23"),
+                            AuthorId = new Guid("4bc7f717-2035-46d1-8482-bfce8320df87"),
                             Condition = 0,
                             ISBN = "303644200-6",
                             Price = 75m,
@@ -11265,7 +11265,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b95cca0b-bec9-495f-995f-622228b1b9d6"),
-                            AuthorId = new Guid("36aea91c-acb2-4370-911f-21ba7e1bdcc7"),
+                            AuthorId = new Guid("4fe493f2-afff-44b4-b14c-570251ba2fb4"),
                             Condition = 1,
                             ISBN = "294183924-0",
                             Price = 35m,
@@ -11276,7 +11276,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("bfdebe84-ce4d-4f9d-943a-0bbb23e6868b"),
-                            AuthorId = new Guid("76393834-3cfc-4e90-86a9-f2ca27953f07"),
+                            AuthorId = new Guid("ca94b881-bbe3-4070-bc7b-a53eb4c4a6ed"),
                             Condition = 0,
                             ISBN = "470752722-1",
                             Price = 59m,
@@ -11287,7 +11287,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("94678d52-bfe0-45ec-8f72-89412dc21994"),
-                            AuthorId = new Guid("3910cab4-adc0-410f-ba56-90626ba23684"),
+                            AuthorId = new Guid("e6a2b519-f62f-4c35-be10-9528691a4ffe"),
                             Condition = 1,
                             ISBN = "547425699-X",
                             Price = 35m,
@@ -11298,7 +11298,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("be163664-4597-43f3-bd34-5f775ac56c18"),
-                            AuthorId = new Guid("6250a70d-db50-4fe2-9eb0-9220dc1a68ac"),
+                            AuthorId = new Guid("979c5b94-c402-4105-8fa5-af9a0c822e0e"),
                             Condition = 0,
                             ISBN = "083661415-1",
                             Price = 100m,
@@ -11309,7 +11309,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0e894f50-a12b-43be-a230-0a1013115532"),
-                            AuthorId = new Guid("bec5d41c-ddfa-43b3-9d5f-ee594db919a6"),
+                            AuthorId = new Guid("4cf76e5f-500a-45fe-bb50-d85560d7e96f"),
                             Condition = 1,
                             ISBN = "254702945-6",
                             Price = 45m,
@@ -11320,7 +11320,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("598ba175-3519-4a8d-9c94-5847ec6ae035"),
-                            AuthorId = new Guid("3bd9fb5b-8397-41a0-9705-c5d3e8ece4c6"),
+                            AuthorId = new Guid("6f41c0b4-b49f-4357-8997-f0bcb5a46e71"),
                             Condition = 0,
                             ISBN = "085327147-X",
                             Price = 91m,
@@ -11331,7 +11331,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("66dae181-9af9-4b98-a1e1-9813cece0383"),
-                            AuthorId = new Guid("bb7396ad-9f1f-4e73-bd22-2a465dc1d957"),
+                            AuthorId = new Guid("ee74b986-548f-40ba-917c-4f451ec70888"),
                             Condition = 1,
                             ISBN = "545199865-5",
                             Price = 23m,
@@ -11342,7 +11342,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("07d03a25-1aae-4284-a166-06d8ee6bd358"),
-                            AuthorId = new Guid("a2f76f52-8aa5-4ce4-b11b-138586c1af09"),
+                            AuthorId = new Guid("816fca36-932b-4d46-9672-c86ab2d1a761"),
                             Condition = 0,
                             ISBN = "798966015-6",
                             Price = 80m,
@@ -11353,7 +11353,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4db6432f-3b0d-4275-aff8-61a32b295555"),
-                            AuthorId = new Guid("fd9f2dda-7909-465c-b6f9-b93316a50bd9"),
+                            AuthorId = new Guid("bdac3334-6024-40bd-bd57-a76c9ccad093"),
                             Condition = 1,
                             ISBN = "767092228-1",
                             Price = 3m,
@@ -11364,7 +11364,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7d3fdf61-8091-41e2-9ead-eb6a61c7cc98"),
-                            AuthorId = new Guid("3514789e-51e1-4e7e-9cd3-7ca5a3896a00"),
+                            AuthorId = new Guid("65898c1a-e6ef-4f28-84bf-e07e9b8d95c2"),
                             Condition = 0,
                             ISBN = "462645450-X",
                             Price = 81m,
@@ -11375,7 +11375,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("dde927af-5ef2-4e8b-8c15-b42c4db6d086"),
-                            AuthorId = new Guid("b5175300-5141-40a8-beb3-0e0cc8c6fd91"),
+                            AuthorId = new Guid("4709a452-58d9-4d4e-a5f4-bff821e166b9"),
                             Condition = 1,
                             ISBN = "356995155-3",
                             Price = 3m,
@@ -11386,7 +11386,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b91e46f9-74b4-45cf-8d45-53fda87678f0"),
-                            AuthorId = new Guid("73bfa88b-6da0-41d0-8e7f-2b344dcc75b2"),
+                            AuthorId = new Guid("1b53949d-cb5b-4b8d-8de0-1520904c18f4"),
                             Condition = 0,
                             ISBN = "411652952-4",
                             Price = 68m,
@@ -11397,7 +11397,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("11c66d5c-62f2-4246-9e45-8f318240f4a8"),
-                            AuthorId = new Guid("02089dca-80a6-4eeb-8f9f-e6b392f76f9d"),
+                            AuthorId = new Guid("f5d02084-2e30-4570-9e93-42b62bacbd79"),
                             Condition = 1,
                             ISBN = "463511348-5",
                             Price = 61m,
@@ -11408,7 +11408,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2f197ce6-7e9d-4de5-89d5-3194516f17be"),
-                            AuthorId = new Guid("167f9d00-6d9e-4aa8-a8b0-5b23b2d059bb"),
+                            AuthorId = new Guid("37539d2d-7861-490b-8594-45723ac796c3"),
                             Condition = 0,
                             ISBN = "030718948-1",
                             Price = 87m,
@@ -11419,7 +11419,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("62865b32-e602-46e9-a321-54f2d0305ff4"),
-                            AuthorId = new Guid("4fb98fcc-c5bd-4d8d-ac3f-7cabf3954ac8"),
+                            AuthorId = new Guid("fd3a32ec-eafe-4d97-851c-f15a24c86807"),
                             Condition = 1,
                             ISBN = "931565794-2",
                             Price = 27m,
@@ -11430,7 +11430,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("aa316613-bf2f-4976-9b60-bfa15400c93b"),
-                            AuthorId = new Guid("1d7920d7-15ce-4044-8504-1751bfbe535b"),
+                            AuthorId = new Guid("2bc397a1-5b1b-4d9c-8344-fac5270f04d1"),
                             Condition = 0,
                             ISBN = "976677278-9",
                             Price = 84m,
@@ -11441,7 +11441,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f8b4b1a7-0a91-4a0a-ae3a-6ba0bde9e1dc"),
-                            AuthorId = new Guid("689130df-80ce-4f32-b945-4e0ce3ed0c02"),
+                            AuthorId = new Guid("1178447f-1f41-49c6-a1a9-ea23b623eb41"),
                             Condition = 1,
                             ISBN = "592357556-6",
                             Price = 12m,
@@ -11452,7 +11452,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fc16b634-9618-48d6-ab9a-712146509524"),
-                            AuthorId = new Guid("69a396b6-43f2-416e-a00e-b3adfea00c88"),
+                            AuthorId = new Guid("ba9e49c9-0d71-4f9f-bbcb-d9dd7056bdf0"),
                             Condition = 0,
                             ISBN = "432300829-5",
                             Price = 88m,
@@ -11463,7 +11463,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("22d36ecb-206d-4285-9c36-d688e8368dc9"),
-                            AuthorId = new Guid("8744a906-2952-4236-b56d-f60d81c02330"),
+                            AuthorId = new Guid("749acbdf-3e88-4ae2-ae76-45ae1e63d4a4"),
                             Condition = 1,
                             ISBN = "905111178-9",
                             Price = 54m,
@@ -11474,7 +11474,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e34f0a64-697c-4e48-9693-01bae181fa98"),
-                            AuthorId = new Guid("f9fba363-d267-4248-955f-f9bc632d6737"),
+                            AuthorId = new Guid("8996f5db-7129-452e-b004-5d9b65c31c06"),
                             Condition = 0,
                             ISBN = "685675445-0",
                             Price = 7m,
@@ -11485,7 +11485,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fd0f695b-ab2a-4650-8078-9bd33bded3d1"),
-                            AuthorId = new Guid("6250a70d-db50-4fe2-9eb0-9220dc1a68ac"),
+                            AuthorId = new Guid("a87dd391-70c1-45ea-a556-b77c69017cd8"),
                             Condition = 1,
                             ISBN = "951014455-X",
                             Price = 68m,
@@ -11496,7 +11496,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("395d5551-a7ac-43fb-aeb7-f3a97fd34c90"),
-                            AuthorId = new Guid("50067643-6f49-4dc7-b1ef-f16b78da8ad5"),
+                            AuthorId = new Guid("3caddbe7-e339-4d88-91b6-904128ab137a"),
                             Condition = 0,
                             ISBN = "236335378-1",
                             Price = 65m,
@@ -11507,7 +11507,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4850bdc5-5068-4dbd-a459-3f0edfdc07b5"),
-                            AuthorId = new Guid("836f5da6-02f6-401d-8b9e-68088a91dfad"),
+                            AuthorId = new Guid("f0207e0d-5370-4028-8ee9-f581ded56edc"),
                             Condition = 1,
                             ISBN = "886648159-9",
                             Price = 99m,
@@ -11518,7 +11518,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("98d33a25-ca52-4217-a315-0ea64c0109fa"),
-                            AuthorId = new Guid("67454c28-8495-457f-8b7e-37afc6ca598f"),
+                            AuthorId = new Guid("22ff1ab8-ef65-4267-a2aa-c0d2cb6417cc"),
                             Condition = 0,
                             ISBN = "266352429-8",
                             Price = 88m,
@@ -11529,7 +11529,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("15afe9bc-6ce6-438d-8220-e24beb3e6294"),
-                            AuthorId = new Guid("371cdd5f-b1b9-484f-ab3d-e9122dd0779f"),
+                            AuthorId = new Guid("5806ae3b-103b-47d2-8019-648d3b8c9ab4"),
                             Condition = 1,
                             ISBN = "515862916-1",
                             Price = 9m,
@@ -11540,7 +11540,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("65fff86a-6553-4288-a16b-8d3e391b9a1e"),
-                            AuthorId = new Guid("c1046597-72fa-4425-bbe4-1bd54f39436e"),
+                            AuthorId = new Guid("ffe957dc-961c-4814-bbb9-db4aba644c4a"),
                             Condition = 0,
                             ISBN = "813637180-6",
                             Price = 37m,
@@ -11551,7 +11551,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9952e9de-aa77-462e-8e4d-f86107dbbb3d"),
-                            AuthorId = new Guid("f3bf4c79-af62-4b46-9113-eda5243d5701"),
+                            AuthorId = new Guid("e6fdfdfc-f228-4740-9c80-a2e5cd7520f2"),
                             Condition = 1,
                             ISBN = "172538208-3",
                             Price = 31m,
@@ -11562,7 +11562,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("25ebf71d-5e67-47bc-978e-0d1e6ad2339d"),
-                            AuthorId = new Guid("4af595bf-6ead-4e5a-a962-d53f372eafca"),
+                            AuthorId = new Guid("2c47ec49-9536-4176-95c4-1ba7c4eec6b7"),
                             Condition = 0,
                             ISBN = "957951614-6",
                             Price = 75m,
@@ -11573,7 +11573,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("bf2d09ee-ea9c-4e25-a5ed-784067cab09e"),
-                            AuthorId = new Guid("6df697c7-6939-4f33-a82e-0dcc75fdca4f"),
+                            AuthorId = new Guid("04365cc5-fc14-4f4e-8a0d-b81c0f0036e5"),
                             Condition = 1,
                             ISBN = "911299186-4",
                             Price = 51m,
@@ -11584,7 +11584,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("01da40bc-8c4a-4036-a1af-7643f3ce3057"),
-                            AuthorId = new Guid("746ae46b-0158-4ccb-ae3a-4e5a0f76a1c4"),
+                            AuthorId = new Guid("d885efa4-30a7-414c-b2fb-b39773843a69"),
                             Condition = 0,
                             ISBN = "646333451-0",
                             Price = 72m,
@@ -11595,7 +11595,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("62aad794-e24b-40eb-9d9c-839d8874f3d8"),
-                            AuthorId = new Guid("7b728c79-dc06-4871-aa28-aaad2a702afb"),
+                            AuthorId = new Guid("f114b99a-ce8b-451c-ae29-3b43b298871c"),
                             Condition = 1,
                             ISBN = "951443930-9",
                             Price = 32m,
@@ -11606,7 +11606,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6631ea21-596f-4703-8e52-c7f32f0ca8bb"),
-                            AuthorId = new Guid("341a5b3b-f616-4bec-a433-50a0b13065b8"),
+                            AuthorId = new Guid("b4a7c3ea-59fb-4527-ae1f-055f3aaf840e"),
                             Condition = 0,
                             ISBN = "136860952-X",
                             Price = 27m,
@@ -11617,7 +11617,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7cb417fa-5338-4446-9e72-54fb33b6b642"),
-                            AuthorId = new Guid("e28f015d-7c7c-4811-9f57-bedbbccc1cbd"),
+                            AuthorId = new Guid("25e40565-abaa-457e-8c55-18d4b441d66f"),
                             Condition = 1,
                             ISBN = "663801940-6",
                             Price = 71m,
@@ -11628,7 +11628,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("838f2277-0f56-481a-b6a8-34d5e64ccef8"),
-                            AuthorId = new Guid("90fc885d-7fb1-46d0-8a1b-c77c9bd0dc58"),
+                            AuthorId = new Guid("0892978c-5ede-44be-a42d-69fdb882e8e0"),
                             Condition = 0,
                             ISBN = "669060269-9",
                             Price = 38m,
@@ -11639,7 +11639,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fe36fa9f-3922-4d3a-ab65-b02c97b1bf48"),
-                            AuthorId = new Guid("83aa75c9-fafe-43e2-adf7-5e0acb1977e7"),
+                            AuthorId = new Guid("a806ca32-7b61-46f0-a2d2-ce437a001b0f"),
                             Condition = 1,
                             ISBN = "823910319-7",
                             Price = 35m,
@@ -11650,7 +11650,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("860cce53-4c00-459b-b33a-a6ec9abda00c"),
-                            AuthorId = new Guid("0fc15f39-9ca1-45ef-9dc8-bc55ae19717a"),
+                            AuthorId = new Guid("6f4c58dc-2a13-4bca-9258-fcd06d0fe380"),
                             Condition = 0,
                             ISBN = "378646003-5",
                             Price = 85m,
@@ -11661,7 +11661,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b86467d6-9530-4c62-90de-46248b214c8b"),
-                            AuthorId = new Guid("e1402f0a-6f80-4867-9fbe-1672924d80ee"),
+                            AuthorId = new Guid("610c6f67-7e9c-476c-884b-14345fb44c41"),
                             Condition = 1,
                             ISBN = "750582939-4",
                             Price = 23m,
@@ -11672,7 +11672,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b49d14cc-b3cb-4691-9d74-771431a14e26"),
-                            AuthorId = new Guid("75068271-5119-49f7-8c2a-c8aafe5db994"),
+                            AuthorId = new Guid("7571a8cd-53ad-458d-9782-005a24eb4288"),
                             Condition = 0,
                             ISBN = "903165195-8",
                             Price = 26m,
@@ -11683,7 +11683,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("58a0b26d-8971-4cf1-be7b-be6af73f2754"),
-                            AuthorId = new Guid("994545f1-93a4-4482-a9e1-98a76169206f"),
+                            AuthorId = new Guid("602351ab-5b9e-4763-b979-41ec20ef8d5a"),
                             Condition = 1,
                             ISBN = "695696349-3",
                             Price = 99m,
@@ -11694,7 +11694,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("42f96912-c0f5-4cde-9ca6-45c40598765d"),
-                            AuthorId = new Guid("78cc65b6-2bc6-4a36-87c7-6f0a5a375243"),
+                            AuthorId = new Guid("61bb035e-3750-42f1-9630-1a5366c64e7e"),
                             Condition = 0,
                             ISBN = "125630708-4",
                             Price = 8m,
@@ -11705,7 +11705,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("dbea7539-07eb-45ed-8ac8-855c49ed35f5"),
-                            AuthorId = new Guid("1cdafbde-7fb3-4e75-91c9-c2b69ccdc54d"),
+                            AuthorId = new Guid("5a979871-1206-4358-af9b-855bdcac8be7"),
                             Condition = 1,
                             ISBN = "459249149-1",
                             Price = 18m,
@@ -11716,7 +11716,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("67dfddce-5305-48a2-a7cb-1b93b92ae7d7"),
-                            AuthorId = new Guid("5f2c982d-53fd-4c4c-aaba-b79976b44c95"),
+                            AuthorId = new Guid("3a39d358-0924-4a93-9217-3831d2f3b725"),
                             Condition = 0,
                             ISBN = "665348172-7",
                             Price = 53m,
@@ -11727,7 +11727,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d80ad946-d1a9-4ab3-a8cb-fb12fc714e78"),
-                            AuthorId = new Guid("cb081f39-a330-43f8-bf31-8fa8d4b23320"),
+                            AuthorId = new Guid("1b5fdaf5-65db-4907-a466-00343710b081"),
                             Condition = 1,
                             ISBN = "908034511-3",
                             Price = 74m,
@@ -11738,7 +11738,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b2a65f66-c53f-47b6-bd92-eb69ff2a040e"),
-                            AuthorId = new Guid("2be92935-580e-4f3e-b46b-c3c456f44655"),
+                            AuthorId = new Guid("6730796b-5dda-4b65-b0d5-83bebe4636fa"),
                             Condition = 0,
                             ISBN = "053088873-4",
                             Price = 60m,
@@ -11749,7 +11749,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0bc7793e-c405-4309-8ea6-c986cb2c0895"),
-                            AuthorId = new Guid("b294c6c8-d7b7-424c-a33b-2be6ebc9f87a"),
+                            AuthorId = new Guid("76905c88-1d3b-4e48-8811-1f517160d72c"),
                             Condition = 1,
                             ISBN = "621147774-0",
                             Price = 54m,
@@ -11760,7 +11760,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2ab83c8a-b7bf-49cb-8e82-254066a3e255"),
-                            AuthorId = new Guid("dbb45e0d-e5fc-462e-b783-62a2c2dc8d87"),
+                            AuthorId = new Guid("76905c88-1d3b-4e48-8811-1f517160d72c"),
                             Condition = 0,
                             ISBN = "628685893-8",
                             Price = 34m,
@@ -11771,7 +11771,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("78e64e8c-fdea-448a-ac64-3dde32317134"),
-                            AuthorId = new Guid("95b96ad3-3c42-4563-a5fa-7642b9b9a706"),
+                            AuthorId = new Guid("8c7a482f-edc2-44bb-8888-322ad168992d"),
                             Condition = 1,
                             ISBN = "224309655-2",
                             Price = 8m,
@@ -11782,7 +11782,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e23b0061-8492-4d42-8233-cc6414fbc2c3"),
-                            AuthorId = new Guid("37e8cbcd-1202-4e31-9505-589f60e2cd8a"),
+                            AuthorId = new Guid("c4304399-8120-466a-b11d-2dcf6ae68919"),
                             Condition = 0,
                             ISBN = "932953454-6",
                             Price = 21m,
@@ -11793,7 +11793,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("42e29a18-054c-4316-b064-2ae977b19293"),
-                            AuthorId = new Guid("2937fa44-1847-4019-8daf-f043717fadc4"),
+                            AuthorId = new Guid("3f35586c-0eb4-436e-a24c-ba1f461a7c63"),
                             Condition = 1,
                             ISBN = "925127912-8",
                             Price = 6m,
@@ -11804,7 +11804,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4c0cea4d-6191-4d31-a6d3-b854e60049a1"),
-                            AuthorId = new Guid("a95c8910-d83a-4869-a4cf-08ee55be3f05"),
+                            AuthorId = new Guid("fc723944-1af9-4085-ad3f-db70f067dfb8"),
                             Condition = 0,
                             ISBN = "079061139-2",
                             Price = 54m,
@@ -11815,7 +11815,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a53a9a8f-e0b1-49cb-a167-2763359b4cbd"),
-                            AuthorId = new Guid("18895baf-1493-463f-8c5a-690cd89b3232"),
+                            AuthorId = new Guid("1b53949d-cb5b-4b8d-8de0-1520904c18f4"),
                             Condition = 1,
                             ISBN = "742279909-9",
                             Price = 83m,
@@ -11826,7 +11826,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("825177e4-7865-47b4-bebd-434b0dad971c"),
-                            AuthorId = new Guid("9c06d170-1d58-4df3-bed9-072b992f086e"),
+                            AuthorId = new Guid("0c8e9478-4d56-4487-9716-2aedef3ac0b6"),
                             Condition = 0,
                             ISBN = "793753521-0",
                             Price = 84m,
@@ -11837,7 +11837,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e8761e11-33c2-41e8-9217-929451996ab7"),
-                            AuthorId = new Guid("55d8b245-4396-4afb-811a-166e6dc1eccd"),
+                            AuthorId = new Guid("77cde1ea-a624-4116-974f-736f8fe832fa"),
                             Condition = 1,
                             ISBN = "650603034-8",
                             Price = 64m,
@@ -11848,7 +11848,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("aab3f658-45ee-418a-90a0-ce24c3ec34b9"),
-                            AuthorId = new Guid("2dbd7137-b243-4c35-b500-3f08fab32dea"),
+                            AuthorId = new Guid("203fec56-44d4-4392-98d2-b749e6d7dcde"),
                             Condition = 0,
                             ISBN = "131320320-3",
                             Price = 96m,
@@ -11859,7 +11859,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("862f68c8-732e-4d3f-9699-f8850686d205"),
-                            AuthorId = new Guid("f48e6883-2966-4822-8433-b18d619808ea"),
+                            AuthorId = new Guid("f7959ba7-2b7c-47a7-a457-b644b9918c37"),
                             Condition = 1,
                             ISBN = "047925179-7",
                             Price = 46m,
@@ -11870,7 +11870,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7c1c697e-a543-4e69-9c89-bb678334120c"),
-                            AuthorId = new Guid("00d9a9b2-5d08-4bd3-b854-28228db24210"),
+                            AuthorId = new Guid("647ec5d9-55d1-4afc-9473-279ad7a7addc"),
                             Condition = 0,
                             ISBN = "448344006-3",
                             Price = 63m,
@@ -11881,7 +11881,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cf26891a-8415-4555-a563-5ab5ddc2e2ed"),
-                            AuthorId = new Guid("97b72887-c52f-4d19-ac99-6b772416e084"),
+                            AuthorId = new Guid("352eae6b-0bd5-465a-ad49-7ac02bbe37e2"),
                             Condition = 1,
                             ISBN = "819232967-4",
                             Price = 95m,
@@ -11892,7 +11892,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7a1cdaca-7828-45b7-9674-8c51675302a8"),
-                            AuthorId = new Guid("91a2908f-52e1-4282-87f6-c740f6497403"),
+                            AuthorId = new Guid("03213484-b65b-45b8-a78e-551e08676c17"),
                             Condition = 0,
                             ISBN = "815442408-8",
                             Price = 90m,
@@ -11903,7 +11903,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5f1b78a9-9dc6-4acb-bdad-f8dc8ba0e9d5"),
-                            AuthorId = new Guid("ee8e3c8c-a3df-430b-8e07-98267892abe7"),
+                            AuthorId = new Guid("2c31cac6-5c5b-40ee-9968-3a7afecb6fbe"),
                             Condition = 1,
                             ISBN = "577299318-6",
                             Price = 33m,
@@ -11914,7 +11914,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0c08b845-ae0c-40cb-a83a-b90138d328eb"),
-                            AuthorId = new Guid("90b53bcd-c664-4424-870e-f26a379f38fc"),
+                            AuthorId = new Guid("34e15258-28ae-4dde-b2f1-08944087ec4d"),
                             Condition = 0,
                             ISBN = "607464106-4",
                             Price = 27m,
@@ -11925,7 +11925,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("77cb14fc-16fe-42a7-b941-09c808c483af"),
-                            AuthorId = new Guid("325fe720-a257-4bb1-9e29-eb8d8a67965f"),
+                            AuthorId = new Guid("dd08bbb6-04b0-4022-a7bf-a09927ce8f8d"),
                             Condition = 1,
                             ISBN = "235144847-2",
                             Price = 10m,
@@ -11936,7 +11936,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("50f29f43-2adc-41c4-9cf5-535af58885fc"),
-                            AuthorId = new Guid("0a3f38b0-6c38-4a4c-b93f-92e97944e3b6"),
+                            AuthorId = new Guid("2420f052-6bd8-41cf-9a4a-23820ddd8bc7"),
                             Condition = 0,
                             ISBN = "722124383-2",
                             Price = 54m,
@@ -11947,7 +11947,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0a1fba26-7176-4593-a320-3fd48765d7f7"),
-                            AuthorId = new Guid("55d8b245-4396-4afb-811a-166e6dc1eccd"),
+                            AuthorId = new Guid("d291897f-7b15-403c-a88d-ac20d8eec56c"),
                             Condition = 1,
                             ISBN = "226399438-6",
                             Price = 77m,
@@ -11958,7 +11958,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("84508837-4b5d-4f71-ab40-b2d605095d39"),
-                            AuthorId = new Guid("0f417ffa-764e-44c1-b64f-85d8a7bef5db"),
+                            AuthorId = new Guid("5f28b80f-0488-4f1f-bf15-de3724e4d57b"),
                             Condition = 0,
                             ISBN = "501451383-2",
                             Price = 28m,
@@ -11969,7 +11969,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("83179c48-b056-419a-97db-734c33eafa90"),
-                            AuthorId = new Guid("a5359350-4d68-4343-be09-afe4b4f0e42d"),
+                            AuthorId = new Guid("ee55aefb-04b9-43d6-862e-b79ad1a6549b"),
                             Condition = 1,
                             ISBN = "496973764-9",
                             Price = 48m,
@@ -11980,7 +11980,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9eac727f-c64a-4f98-a106-320956af3c47"),
-                            AuthorId = new Guid("0ec95507-4f2c-4f67-97fb-83d41b418265"),
+                            AuthorId = new Guid("38bb9aa4-dace-4949-a7df-e51a555c9a5b"),
                             Condition = 0,
                             ISBN = "657781836-3",
                             Price = 7m,
@@ -11991,7 +11991,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0cae6f49-1a4e-4514-aa60-246e1823e794"),
-                            AuthorId = new Guid("8d325859-3e3a-4f81-a33d-222d73760e31"),
+                            AuthorId = new Guid("30b772b0-6d2f-4ad3-acc9-6ea8e3d6f564"),
                             Condition = 1,
                             ISBN = "535169283-X",
                             Price = 92m,
@@ -12002,7 +12002,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("96bfacf7-a807-4ee5-b7c0-a7927c62b47a"),
-                            AuthorId = new Guid("e5928360-c189-4a52-b461-ebe0ec2507d5"),
+                            AuthorId = new Guid("70881f09-6c14-4605-aa15-e05b5a1af5c6"),
                             Condition = 0,
                             ISBN = "393260481-4",
                             Price = 88m,
@@ -12013,7 +12013,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("04456375-4711-41b5-96ad-f4f92b4f174e"),
-                            AuthorId = new Guid("5eba6825-745d-4bf9-ae68-5216f0e7d617"),
+                            AuthorId = new Guid("b4a7c3ea-59fb-4527-ae1f-055f3aaf840e"),
                             Condition = 1,
                             ISBN = "287178539-2",
                             Price = 2m,
@@ -12024,7 +12024,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f7160a9b-5624-4982-8acf-eb11819baac8"),
-                            AuthorId = new Guid("5aef495f-a566-46f1-aae2-66d7c497630e"),
+                            AuthorId = new Guid("1f0aaaad-0171-44d5-8155-350475d9fe48"),
                             Condition = 0,
                             ISBN = "610697703-8",
                             Price = 23m,
@@ -12035,7 +12035,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8110132d-eee2-4516-a52b-b4c92c27b656"),
-                            AuthorId = new Guid("f219697e-0a19-466d-9afe-1bc6802dbb6a"),
+                            AuthorId = new Guid("d3e34062-38ed-4d3c-989f-be00442ef8e6"),
                             Condition = 1,
                             ISBN = "539420907-3",
                             Price = 87m,
@@ -12046,7 +12046,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4b99a13e-1a5b-40ac-a1ff-05ff2fac8ab6"),
-                            AuthorId = new Guid("bde49538-eadc-4a44-8565-cf835cb82819"),
+                            AuthorId = new Guid("c6abc4b7-6b3e-4fe5-87db-84a209725057"),
                             Condition = 0,
                             ISBN = "330112256-6",
                             Price = 19m,
@@ -12057,7 +12057,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("022b9ae9-64c3-4b82-9ae0-6a6bb5e2cd12"),
-                            AuthorId = new Guid("e52bd501-3258-4414-a396-b891f047dac9"),
+                            AuthorId = new Guid("816fca36-932b-4d46-9672-c86ab2d1a761"),
                             Condition = 1,
                             ISBN = "712836921-X",
                             Price = 31m,
@@ -12068,7 +12068,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5863dae2-faf1-46d9-815c-ddcaba31dd07"),
-                            AuthorId = new Guid("1302068e-8d80-4358-8e25-160a6b4503b1"),
+                            AuthorId = new Guid("9b6eec42-b847-493f-9673-e1a0fd9d8c89"),
                             Condition = 0,
                             ISBN = "785245851-3",
                             Price = 43m,
@@ -12079,7 +12079,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("82678d2f-9fe6-413d-8869-b6d7920705c2"),
-                            AuthorId = new Guid("91cf8bd5-b2a7-49a9-8166-95b73559ad5a"),
+                            AuthorId = new Guid("868478d8-2111-4a9d-bef7-90c203dcf85d"),
                             Condition = 1,
                             ISBN = "380975325-4",
                             Price = 34m,
@@ -12090,7 +12090,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ebe37393-ee97-4f08-936a-c1216717735f"),
-                            AuthorId = new Guid("ec4aa741-496b-4a52-822f-1099d218f328"),
+                            AuthorId = new Guid("6730796b-5dda-4b65-b0d5-83bebe4636fa"),
                             Condition = 0,
                             ISBN = "105768475-9",
                             Price = 22m,
@@ -12101,7 +12101,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("08199b71-e045-4e06-ac09-12568cf1c4e6"),
-                            AuthorId = new Guid("49964dad-e5c5-46d7-8baf-7d75dd8676df"),
+                            AuthorId = new Guid("8f828e77-bc8f-4f13-8a39-040fa7e19086"),
                             Condition = 1,
                             ISBN = "340593404-4",
                             Price = 26m,
@@ -12112,7 +12112,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5b1b0057-62f1-461f-8246-308542f216cb"),
-                            AuthorId = new Guid("784b8758-1e5e-471c-a029-24b42a018a3b"),
+                            AuthorId = new Guid("b95085c8-68f3-4d4f-aebd-f9d8fb679aca"),
                             Condition = 0,
                             ISBN = "830618957-4",
                             Price = 27m,
@@ -12123,7 +12123,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1edb66e0-28aa-4bba-b27d-1a3f4a3ccbce"),
-                            AuthorId = new Guid("65059c5b-9872-49bb-b477-ce1c89bd0cce"),
+                            AuthorId = new Guid("89e5555e-c4d0-4af7-93b8-c63632153e46"),
                             Condition = 1,
                             ISBN = "092036066-1",
                             Price = 36m,
@@ -12134,7 +12134,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6a003b36-04e6-4db6-8f5a-0b00d56db593"),
-                            AuthorId = new Guid("ff733029-b575-43d4-b993-ffc9e0cf1feb"),
+                            AuthorId = new Guid("bc12fbba-fee0-4b45-b411-4d3c9982e320"),
                             Condition = 0,
                             ISBN = "786488326-5",
                             Price = 91m,
@@ -12145,7 +12145,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("de6d607c-2851-45a1-9f3e-ad49f867023f"),
-                            AuthorId = new Guid("689130df-80ce-4f32-b945-4e0ce3ed0c02"),
+                            AuthorId = new Guid("7d4634cb-4fd8-4217-8a29-c94421d422d8"),
                             Condition = 1,
                             ISBN = "942291198-2",
                             Price = 28m,
@@ -12156,7 +12156,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("90065e5d-8308-40b0-941c-7e08aa5d317d"),
-                            AuthorId = new Guid("ff5f61e3-2bf2-4fa9-b9c4-a3af97670bfb"),
+                            AuthorId = new Guid("4188fe6f-37c9-4c7c-9b0c-3e5a79070668"),
                             Condition = 0,
                             ISBN = "792771873-8",
                             Price = 99m,
@@ -12167,7 +12167,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8e054fea-f065-4928-9c35-20e8cfea50ca"),
-                            AuthorId = new Guid("55d8d918-c387-4b88-b778-01c183d4d854"),
+                            AuthorId = new Guid("f162d5b8-0216-4d4b-8c89-0d13ca38aa8f"),
                             Condition = 1,
                             ISBN = "930665746-3",
                             Price = 62m,
@@ -12178,7 +12178,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("59cceef6-aa68-4a4c-bd7c-20dadc880bd1"),
-                            AuthorId = new Guid("af027d77-54e8-417e-b2b0-e40479c99b94"),
+                            AuthorId = new Guid("5e2828ba-25cc-4079-bb66-0abc1a092b1a"),
                             Condition = 0,
                             ISBN = "959164280-6",
                             Price = 50m,
@@ -12189,7 +12189,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("669de602-f2ef-4580-a25a-f474dbb795d3"),
-                            AuthorId = new Guid("767be4eb-dc82-4a86-9c72-9938f0c1a54a"),
+                            AuthorId = new Guid("e964aa88-9867-4904-acd8-582acdac6d08"),
                             Condition = 1,
                             ISBN = "035946483-1",
                             Price = 36m,
@@ -12200,7 +12200,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3cdff34e-b4e2-47bd-90c2-84dea6589cbe"),
-                            AuthorId = new Guid("fd773f34-1f6b-4b48-994f-400d3850459f"),
+                            AuthorId = new Guid("3f70a5a8-00d2-4103-9eae-cbd5d9a957bd"),
                             Condition = 0,
                             ISBN = "255198321-5",
                             Price = 51m,
@@ -12211,7 +12211,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("79c2b8ba-3d9f-4cef-973f-fddea7cbcd43"),
-                            AuthorId = new Guid("a59d0611-a60b-479c-b95e-d49076a61694"),
+                            AuthorId = new Guid("138c30a7-2f32-4205-a0ed-a3a83ab0b4d5"),
                             Condition = 1,
                             ISBN = "881136404-3",
                             Price = 39m,
@@ -12222,7 +12222,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5a4d6c91-fe89-4511-a4b7-ab297b4c4cce"),
-                            AuthorId = new Guid("2a34e65f-7434-4e61-8409-bfd527d2b8b9"),
+                            AuthorId = new Guid("7a5e76b0-3ab3-4709-8b2c-724e6002e64c"),
                             Condition = 0,
                             ISBN = "310722767-6",
                             Price = 27m,
@@ -12233,7 +12233,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5910990c-cc94-47d6-9e92-69425f79a758"),
-                            AuthorId = new Guid("53c4b47d-9534-485f-a0ad-6a0c9cceba1a"),
+                            AuthorId = new Guid("841086fe-5973-4243-8034-0270eb6b97b5"),
                             Condition = 1,
                             ISBN = "850142989-9",
                             Price = 80m,
@@ -12244,7 +12244,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("06681220-7877-4329-81ea-2c8afb24c371"),
-                            AuthorId = new Guid("069bf751-30ca-4d11-b39d-6c60d55ee78d"),
+                            AuthorId = new Guid("32867b76-e120-4a5a-8cd9-e2edcd081d2e"),
                             Condition = 0,
                             ISBN = "810730733-X",
                             Price = 91m,
@@ -12255,7 +12255,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d3cbb0a2-91c1-4dc1-b244-3fecddfae382"),
-                            AuthorId = new Guid("6b8771aa-7664-4f7b-87f6-b3457b68374a"),
+                            AuthorId = new Guid("5999200b-efb9-4cc4-b7cf-c2d2e199649a"),
                             Condition = 1,
                             ISBN = "331488880-5",
                             Price = 74m,
@@ -12266,7 +12266,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4ac4764b-970c-4c0b-90f1-6943ed465f5b"),
-                            AuthorId = new Guid("5ae767a4-63a4-4b2e-b342-857fa81f8377"),
+                            AuthorId = new Guid("adbbf59f-ebe5-47f0-8c7d-38ece9caf783"),
                             Condition = 0,
                             ISBN = "304516801-9",
                             Price = 9m,
@@ -12277,7 +12277,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("93005f7b-6f51-4da4-a60a-cfd1d16d0f21"),
-                            AuthorId = new Guid("14a25339-ec69-4e6a-a2c5-df9a233a70fa"),
+                            AuthorId = new Guid("138c30a7-2f32-4205-a0ed-a3a83ab0b4d5"),
                             Condition = 1,
                             ISBN = "572138885-4",
                             Price = 45m,
@@ -12288,7 +12288,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ed62fd24-eb63-4b51-bed6-d54c58d37602"),
-                            AuthorId = new Guid("37fad513-a1b0-4330-ba5c-37b735bcbeff"),
+                            AuthorId = new Guid("34e15258-28ae-4dde-b2f1-08944087ec4d"),
                             Condition = 0,
                             ISBN = "935382154-1",
                             Price = 87m,
@@ -12299,7 +12299,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6effca11-84a2-43f6-9186-0c09c9444b6f"),
-                            AuthorId = new Guid("439741a8-1697-4aec-92a1-1dbf2cb3ea18"),
+                            AuthorId = new Guid("cd749bac-0002-42c4-a33f-d76e4a0f6793"),
                             Condition = 1,
                             ISBN = "173502997-1",
                             Price = 31m,
@@ -12310,7 +12310,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d53ff9cb-ef3b-423f-b0dd-48e4f0a6fdf7"),
-                            AuthorId = new Guid("3c58eb92-fbd8-4b60-8565-eecde6a26a71"),
+                            AuthorId = new Guid("396c4bdf-8f30-4034-a72c-54537b06786e"),
                             Condition = 0,
                             ISBN = "983127117-3",
                             Price = 16m,
@@ -12321,7 +12321,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a22fd2c0-cfb3-44a5-b786-668f04da0479"),
-                            AuthorId = new Guid("c50a4572-f75c-4f89-8725-27d22731d2d7"),
+                            AuthorId = new Guid("37bad43d-07c4-47f2-8c96-c9f3d6edc5b1"),
                             Condition = 1,
                             ISBN = "363751281-5",
                             Price = 27m,
@@ -12332,7 +12332,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("691d48eb-02e8-4c15-8a3a-2cc5d2de402b"),
-                            AuthorId = new Guid("ea899a8e-0e39-4b1f-9e0b-6eb5934aca53"),
+                            AuthorId = new Guid("9c71e66f-2d5e-4c8c-bc44-b478ee5cb1bf"),
                             Condition = 0,
                             ISBN = "057100706-6",
                             Price = 45m,
@@ -12343,7 +12343,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("676f9ec7-20ff-4287-8346-66b21c761c01"),
-                            AuthorId = new Guid("39c6d354-bbc8-4bfc-b956-57554d54af7d"),
+                            AuthorId = new Guid("3e96f34e-8203-4f52-bc5b-d29ccf1d2386"),
                             Condition = 1,
                             ISBN = "037098874-4",
                             Price = 60m,
@@ -12354,7 +12354,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("82aaff03-4fd7-4edc-8782-123ce2e0c46f"),
-                            AuthorId = new Guid("5ae767a4-63a4-4b2e-b342-857fa81f8377"),
+                            AuthorId = new Guid("4e9f793b-3088-4ed6-b589-4d8bf03f2b94"),
                             Condition = 0,
                             ISBN = "226532219-9",
                             Price = 47m,
@@ -12365,7 +12365,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9c380fed-8b16-4cb7-803b-57372612f3b7"),
-                            AuthorId = new Guid("8bc2fbf2-b8be-420a-ab41-e49c44123753"),
+                            AuthorId = new Guid("34769efc-7cbd-4691-a4f5-b5215f108a00"),
                             Condition = 1,
                             ISBN = "653267987-9",
                             Price = 97m,
@@ -12376,7 +12376,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("af7ff106-15ed-46cc-8416-a6b2bcd27ebb"),
-                            AuthorId = new Guid("f9306978-8fc1-47dc-ba7b-b2aed6f94a67"),
+                            AuthorId = new Guid("7632372b-e445-4ad1-845b-c3f37d1be7c9"),
                             Condition = 0,
                             ISBN = "434996008-2",
                             Price = 66m,
@@ -12387,7 +12387,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a3336ea1-22cc-483b-8e84-8167f57611be"),
-                            AuthorId = new Guid("b09e3406-dd10-4ff6-adf1-ba651a14e7a5"),
+                            AuthorId = new Guid("b75e3d75-e6f6-423c-9d9a-8a928f38ea10"),
                             Condition = 1,
                             ISBN = "751146888-8",
                             Price = 82m,
@@ -12398,7 +12398,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("67bb0953-a4de-411f-ae18-4176fd5256a8"),
-                            AuthorId = new Guid("b8a88fec-cbca-408e-ae8f-46beccafa8f9"),
+                            AuthorId = new Guid("8f294507-bcd1-4bf2-9e18-c2479d9c1f65"),
                             Condition = 0,
                             ISBN = "690731236-0",
                             Price = 65m,
@@ -12409,7 +12409,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a7016eb6-90c1-4de9-984e-c4f322558901"),
-                            AuthorId = new Guid("84e31a7b-7d34-4849-9767-a0acde0bc8d0"),
+                            AuthorId = new Guid("52c5e203-1b14-4e02-9b3c-27846fdd2709"),
                             Condition = 1,
                             ISBN = "153145467-4",
                             Price = 25m,
@@ -12420,7 +12420,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b46e778a-371c-4e8a-9001-d749e62bf036"),
-                            AuthorId = new Guid("2bf8eb10-b658-4b7c-8f3f-0c83afc6f851"),
+                            AuthorId = new Guid("87ed016f-2f39-4305-a7c7-e3b2281f2c4f"),
                             Condition = 0,
                             ISBN = "384269136-X",
                             Price = 58m,
@@ -12431,7 +12431,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("091fb77a-26d8-4bdf-84e1-8f6f1a6ea162"),
-                            AuthorId = new Guid("852d7462-b700-4af6-b686-bf1e001de35b"),
+                            AuthorId = new Guid("5fdd95d7-429f-4aac-89c6-eb836f8f0c2b"),
                             Condition = 1,
                             ISBN = "244009010-7",
                             Price = 83m,
@@ -12442,7 +12442,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("aabc0790-f0e6-4c86-8177-57ee2eb08e6e"),
-                            AuthorId = new Guid("df8d9830-ffbb-422e-b69c-6c3014088345"),
+                            AuthorId = new Guid("68118f40-b987-4adc-b235-34baea338fb1"),
                             Condition = 0,
                             ISBN = "681468807-7",
                             Price = 64m,
@@ -12453,7 +12453,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b2f18523-9f70-4a5d-b17f-b60fdd540419"),
-                            AuthorId = new Guid("a44875d4-7608-4c3b-837b-bc7d912760b9"),
+                            AuthorId = new Guid("82af2d9f-9ce4-44a5-aabb-8478c22d0620"),
                             Condition = 1,
                             ISBN = "225272361-0",
                             Price = 54m,
@@ -12464,7 +12464,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c9cc5f4e-0571-4864-b9de-ea3a9e7ea13b"),
-                            AuthorId = new Guid("93b68c62-977c-4fe1-be91-347a8fdb5c65"),
+                            AuthorId = new Guid("7a995f3e-25eb-4e51-9728-174cd5499356"),
                             Condition = 0,
                             ISBN = "825850294-8",
                             Price = 70m,
@@ -12475,7 +12475,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e83d28a4-4228-4750-903f-975c6df29935"),
-                            AuthorId = new Guid("eb5c449a-303e-4f73-a386-cd79ea2e5d88"),
+                            AuthorId = new Guid("ada976cd-3432-4b26-89d1-c59fd0dc5554"),
                             Condition = 1,
                             ISBN = "865887866-X",
                             Price = 84m,
@@ -12486,7 +12486,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d094e32b-7219-412b-965a-597ce4c87485"),
-                            AuthorId = new Guid("ea2797dd-7097-4cd1-8ff5-ee735807634e"),
+                            AuthorId = new Guid("ba20752b-e92b-4f58-8e66-c5d114bae61e"),
                             Condition = 0,
                             ISBN = "310904449-8",
                             Price = 11m,
@@ -12497,7 +12497,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9a49ee63-e497-4e21-9918-5014d5ab30ca"),
-                            AuthorId = new Guid("b1f1c10e-7853-47cd-9718-517038b33496"),
+                            AuthorId = new Guid("bac4d9be-1d28-413b-b648-f135c711f308"),
                             Condition = 1,
                             ISBN = "511124623-1",
                             Price = 4m,
@@ -12508,7 +12508,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8b5c9c34-8968-4707-ae52-fa0799aedad6"),
-                            AuthorId = new Guid("bde49538-eadc-4a44-8565-cf835cb82819"),
+                            AuthorId = new Guid("65898c1a-e6ef-4f28-84bf-e07e9b8d95c2"),
                             Condition = 0,
                             ISBN = "303501549-X",
                             Price = 28m,
@@ -12519,7 +12519,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("14eec613-9c41-49b3-a21c-b033823757f2"),
-                            AuthorId = new Guid("09d8248f-b84f-4482-81ec-38e4bdde66a0"),
+                            AuthorId = new Guid("654a15de-f7e6-4ba7-99b1-8d3347ce9420"),
                             Condition = 1,
                             ISBN = "530752565-6",
                             Price = 97m,
@@ -12530,7 +12530,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("143da1b4-df5d-4dd5-bdb4-56ad6b382b54"),
-                            AuthorId = new Guid("d1c444b8-aab3-4966-bebd-e8f98c51eb26"),
+                            AuthorId = new Guid("afb81a80-1a4d-4caf-9d1d-a94207457b92"),
                             Condition = 0,
                             ISBN = "967172833-2",
                             Price = 83m,
@@ -12541,7 +12541,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("14f0146a-92b7-4af5-9299-6cd4aa3729d6"),
-                            AuthorId = new Guid("e1402f0a-6f80-4867-9fbe-1672924d80ee"),
+                            AuthorId = new Guid("97f7452a-ba8b-409f-ae31-542600f08a77"),
                             Condition = 1,
                             ISBN = "268420430-6",
                             Price = 65m,
@@ -12552,7 +12552,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("639ec70f-4921-42d9-b6f4-e23d0b39cb7e"),
-                            AuthorId = new Guid("fbd14cbb-a961-4de7-b7e3-c40c2cf65528"),
+                            AuthorId = new Guid("19d6fdf5-9676-4c8c-b14e-3933d4e4cb60"),
                             Condition = 0,
                             ISBN = "427738451-X",
                             Price = 88m,
@@ -12563,7 +12563,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7826f16c-0d0b-4f6d-9831-92376c039438"),
-                            AuthorId = new Guid("2f9afb16-d08e-4cb5-9b1e-69a0a4d55491"),
+                            AuthorId = new Guid("058a12dc-5a94-44e6-b24e-4de17f912375"),
                             Condition = 1,
                             ISBN = "629707761-4",
                             Price = 57m,
@@ -12574,7 +12574,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("581d41a6-206a-4dec-a3b3-952b724bdbd0"),
-                            AuthorId = new Guid("1c698679-a452-4b49-b00c-0a7781948e64"),
+                            AuthorId = new Guid("8c7a482f-edc2-44bb-8888-322ad168992d"),
                             Condition = 0,
                             ISBN = "639537915-1",
                             Price = 42m,
@@ -12585,7 +12585,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6d0801e8-1d1a-404d-b5eb-e5a17f1972b6"),
-                            AuthorId = new Guid("0ae2a8e7-e3d7-40d2-b5de-f8827665d132"),
+                            AuthorId = new Guid("f162d5b8-0216-4d4b-8c89-0d13ca38aa8f"),
                             Condition = 1,
                             ISBN = "304327360-5",
                             Price = 100m,
@@ -12596,7 +12596,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("60c2a218-6ef6-4202-ab80-8dc0a2a79b62"),
-                            AuthorId = new Guid("44f1042a-a088-40ed-beb4-523704d4a286"),
+                            AuthorId = new Guid("28c630f6-6cdf-479b-b318-270956204056"),
                             Condition = 0,
                             ISBN = "999122219-7",
                             Price = 66m,
@@ -12607,7 +12607,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("51ee8c5b-a632-45bf-b605-c44dd621b644"),
-                            AuthorId = new Guid("2a4361b4-782d-4a0e-8a50-1f9112da9434"),
+                            AuthorId = new Guid("7cdf970f-b0b6-457f-9e7e-c352867b094f"),
                             Condition = 1,
                             ISBN = "058406351-2",
                             Price = 83m,
@@ -12618,7 +12618,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ac796ebe-8bb2-40ca-9188-48b32ec71b8f"),
-                            AuthorId = new Guid("c41f1dc4-f199-498a-b4a8-0786fb4fbc79"),
+                            AuthorId = new Guid("f38da6ec-83f1-401e-b206-4759b7991ef4"),
                             Condition = 0,
                             ISBN = "167195137-9",
                             Price = 18m,
@@ -12629,7 +12629,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("17a4aa20-d960-4dac-96bf-ee9181ff3553"),
-                            AuthorId = new Guid("f87ea182-306a-448f-803f-d3c91f5a6dca"),
+                            AuthorId = new Guid("b875541b-160e-4017-99ab-6c85edd18a1d"),
                             Condition = 1,
                             ISBN = "999623775-3",
                             Price = 27m,
@@ -12640,7 +12640,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a1dbcfbd-7148-4395-b18f-758605200780"),
-                            AuthorId = new Guid("cb081f39-a330-43f8-bf31-8fa8d4b23320"),
+                            AuthorId = new Guid("ead1ee2b-1d72-4af4-ba2a-d20d4174adec"),
                             Condition = 0,
                             ISBN = "289204835-4",
                             Price = 67m,
@@ -12651,7 +12651,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e3011400-8e92-4177-8108-31e33166d5d1"),
-                            AuthorId = new Guid("8a626998-9601-4e54-a607-3144cbc8c87f"),
+                            AuthorId = new Guid("474a6214-ffd7-4205-a38f-1c2166de4204"),
                             Condition = 1,
                             ISBN = "833808758-0",
                             Price = 5m,
@@ -12662,7 +12662,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1dd0901c-944b-4bd6-9d70-3a9792e691eb"),
-                            AuthorId = new Guid("38509b37-9a4a-46e2-9941-87e047cfb7ac"),
+                            AuthorId = new Guid("b7207303-fa66-4188-be12-d07124326132"),
                             Condition = 0,
                             ISBN = "187625942-6",
                             Price = 33m,
@@ -12673,7 +12673,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8e4a1999-8e14-41a2-a016-bbb863033cbd"),
-                            AuthorId = new Guid("bc5c6376-48e7-4814-97c8-ccb63d2b47d6"),
+                            AuthorId = new Guid("3ac51046-0601-4e30-9b75-103caeb7c136"),
                             Condition = 1,
                             ISBN = "926898782-1",
                             Price = 86m,
@@ -12684,7 +12684,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("48edb058-89b1-43ec-b212-6f1764fcb3e4"),
-                            AuthorId = new Guid("add8b096-6816-4e92-a968-2b4ddd795f1c"),
+                            AuthorId = new Guid("ec564140-12ef-499f-aabc-74f54c148b12"),
                             Condition = 0,
                             ISBN = "365416452-8",
                             Price = 51m,
@@ -12695,7 +12695,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e77de915-a3a4-4be6-aaaa-ba178319d51c"),
-                            AuthorId = new Guid("d63bbf5d-554d-4a1a-a33f-6b249925f6a8"),
+                            AuthorId = new Guid("00cc7914-717a-4401-b377-881c93f9bb58"),
                             Condition = 1,
                             ISBN = "431862441-2",
                             Price = 71m,
@@ -12706,7 +12706,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6533e402-a0c2-42a1-bd74-584a1e40545e"),
-                            AuthorId = new Guid("b4b2e261-47f1-42fa-9571-439cb8214205"),
+                            AuthorId = new Guid("75505f29-4061-4871-bd78-c3a94cd876b0"),
                             Condition = 0,
                             ISBN = "152683260-7",
                             Price = 7m,
@@ -12717,7 +12717,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5570ae79-78b8-48a1-a6cb-de4a780759a2"),
-                            AuthorId = new Guid("bdb31640-a03f-4d73-bcb8-ca9f07c27385"),
+                            AuthorId = new Guid("a314a3f8-c00c-4c59-be7c-fc4776169ff1"),
                             Condition = 1,
                             ISBN = "283908771-5",
                             Price = 62m,
@@ -12728,7 +12728,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("512358ae-066d-483c-8c87-a58e4d183235"),
-                            AuthorId = new Guid("0177be2d-065e-4507-874c-82ce6135f402"),
+                            AuthorId = new Guid("8874e779-cf19-4a90-af3f-6063d3bdccc2"),
                             Condition = 0,
                             ISBN = "680613505-6",
                             Price = 71m,
@@ -12739,7 +12739,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("51dd8846-2756-43f2-8d28-44f738547d26"),
-                            AuthorId = new Guid("0fc15f39-9ca1-45ef-9dc8-bc55ae19717a"),
+                            AuthorId = new Guid("c6abc4b7-6b3e-4fe5-87db-84a209725057"),
                             Condition = 1,
                             ISBN = "348199609-8",
                             Price = 43m,
@@ -12750,7 +12750,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4f4bf2b3-65c3-4667-a3a0-9f15d58fafa6"),
-                            AuthorId = new Guid("8aaec912-0f85-4234-ab59-8b1a503684b6"),
+                            AuthorId = new Guid("a4697ad3-d80d-4ac4-935a-7fd4dd0fb6d1"),
                             Condition = 0,
                             ISBN = "059617683-X",
                             Price = 29m,
@@ -12761,7 +12761,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("afcd9d27-bbf8-43d2-8e89-2e90bcdd09e0"),
-                            AuthorId = new Guid("1025d60f-045d-4d18-bf8b-b55c79d4a9d1"),
+                            AuthorId = new Guid("a4697ad3-d80d-4ac4-935a-7fd4dd0fb6d1"),
                             Condition = 1,
                             ISBN = "032901454-4",
                             Price = 56m,
@@ -12772,7 +12772,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("043fb5d8-b194-4c3c-ac89-0648f718cf0f"),
-                            AuthorId = new Guid("acd774db-b92d-4b71-a6a9-462262f6bd94"),
+                            AuthorId = new Guid("850ad9d7-9a1e-410b-801c-d47159ee0f7e"),
                             Condition = 0,
                             ISBN = "304070415-X",
                             Price = 41m,
@@ -12783,7 +12783,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("962e2c12-0f46-4c80-922c-486adc14ebfd"),
-                            AuthorId = new Guid("83aa75c9-fafe-43e2-adf7-5e0acb1977e7"),
+                            AuthorId = new Guid("76905c88-1d3b-4e48-8811-1f517160d72c"),
                             Condition = 1,
                             ISBN = "783676970-4",
                             Price = 64m,
@@ -12794,7 +12794,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("24ee2c62-ebb4-40a2-ad22-3e47d42af044"),
-                            AuthorId = new Guid("3a207398-ffb8-4fdf-973b-0858c6e96fb2"),
+                            AuthorId = new Guid("6dc3733e-c125-427c-a73c-9b8ebd21404c"),
                             Condition = 0,
                             ISBN = "283662721-2",
                             Price = 50m,
@@ -12805,7 +12805,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3e71601a-23c8-4ce8-8eb5-bdf6a1bbdf5b"),
-                            AuthorId = new Guid("a95c8910-d83a-4869-a4cf-08ee55be3f05"),
+                            AuthorId = new Guid("93f513e6-7fc0-4a0e-bacc-3176d2d25543"),
                             Condition = 1,
                             ISBN = "812208642-X",
                             Price = 44m,
@@ -12816,7 +12816,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ad4c0dec-a87d-4cc5-8f56-57885a4258b2"),
-                            AuthorId = new Guid("ce32cece-a2aa-4783-85c9-4a9932d9a571"),
+                            AuthorId = new Guid("11618810-efdd-4159-8058-78eee471c7e8"),
                             Condition = 0,
                             ISBN = "773046883-2",
                             Price = 16m,
@@ -12827,7 +12827,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("005f19a3-fb37-4680-bcd5-e3dba13a9aab"),
-                            AuthorId = new Guid("7859aa81-14a9-4735-b1f8-f00960d3b342"),
+                            AuthorId = new Guid("5fdd95d7-429f-4aac-89c6-eb836f8f0c2b"),
                             Condition = 1,
                             ISBN = "961943999-6",
                             Price = 46m,
@@ -12838,7 +12838,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("17a33159-98e0-4605-860b-7ed98fb92054"),
-                            AuthorId = new Guid("d1c444b8-aab3-4966-bebd-e8f98c51eb26"),
+                            AuthorId = new Guid("1cd58c0a-fa42-4cd1-8a8b-e65966a4a5c4"),
                             Condition = 0,
                             ISBN = "381308063-3",
                             Price = 96m,
@@ -12849,7 +12849,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7384251d-dd11-4be8-9fd2-b9efb0704b28"),
-                            AuthorId = new Guid("e3254490-0e4e-4b4c-b6ef-4616256790a4"),
+                            AuthorId = new Guid("859d5b54-8a61-41b8-85aa-2bd1bb6c11c4"),
                             Condition = 1,
                             ISBN = "586216020-5",
                             Price = 73m,
@@ -12860,7 +12860,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ccbf04f3-9a8f-4f31-8842-09930e65a1f0"),
-                            AuthorId = new Guid("d8e0d053-6f19-4a44-9028-4353a001d71a"),
+                            AuthorId = new Guid("fe7c7e2e-0340-4a77-b936-f7f4050607f6"),
                             Condition = 0,
                             ISBN = "275714338-7",
                             Price = 62m,
@@ -12871,7 +12871,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4d06fa3d-c810-478d-a735-45404f3a2260"),
-                            AuthorId = new Guid("8222e14d-e58d-42f2-94f1-0f20706eb0ac"),
+                            AuthorId = new Guid("663c6b35-5672-45d3-942a-74488136d03b"),
                             Condition = 1,
                             ISBN = "370326297-4",
                             Price = 30m,
@@ -12882,7 +12882,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cbb29bcf-7ab8-430a-a415-c02e038ea8a7"),
-                            AuthorId = new Guid("5cf81ef7-3334-4fd4-b443-da781fa1bfe9"),
+                            AuthorId = new Guid("04aef2b9-d040-4f91-8ab6-41f89945fc6b"),
                             Condition = 0,
                             ISBN = "734401749-0",
                             Price = 22m,
@@ -12893,7 +12893,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a42d1fe2-f8b3-46b7-b442-bafed1fbe407"),
-                            AuthorId = new Guid("5a46e5ca-65b6-4a88-affe-1e0a14bd2429"),
+                            AuthorId = new Guid("386b5f76-9fc7-4cef-acbf-8a813b417a5b"),
                             Condition = 1,
                             ISBN = "847998102-4",
                             Price = 55m,
@@ -12904,7 +12904,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("11e319fa-6b02-46aa-ad23-cd5ccad81182"),
-                            AuthorId = new Guid("82932cb1-0765-466d-940c-55c2bc0ae54e"),
+                            AuthorId = new Guid("a4fc8ae9-6c96-4683-80b4-62ecd0badac2"),
                             Condition = 0,
                             ISBN = "199853809-5",
                             Price = 37m,
@@ -12915,7 +12915,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("913315cd-90db-4fb9-8e65-3551133da5b2"),
-                            AuthorId = new Guid("37e8cbcd-1202-4e31-9505-589f60e2cd8a"),
+                            AuthorId = new Guid("5e2828ba-25cc-4079-bb66-0abc1a092b1a"),
                             Condition = 1,
                             ISBN = "278850836-0",
                             Price = 83m,
@@ -12926,7 +12926,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ec553e43-855b-4bab-928e-99b099eda37f"),
-                            AuthorId = new Guid("99771a9f-d0de-49cd-a9b0-c84e9b4bdf8a"),
+                            AuthorId = new Guid("6cee2cfc-655d-4d55-abf4-72d29f792fe2"),
                             Condition = 0,
                             ISBN = "040081946-5",
                             Price = 64m,
@@ -12937,7 +12937,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b4b46739-c1f7-405b-b4ec-536053c4d3dd"),
-                            AuthorId = new Guid("f6e1ed45-6cd2-41f2-985d-8c144810f820"),
+                            AuthorId = new Guid("ca90a793-c91e-4e3f-bd83-cefcf6acc450"),
                             Condition = 1,
                             ISBN = "383083248-6",
                             Price = 46m,
@@ -12948,7 +12948,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("29bfa62f-4e94-4dee-abad-eba54b2617a9"),
-                            AuthorId = new Guid("d013dfc1-9487-4ad2-8b83-63d752461ef8"),
+                            AuthorId = new Guid("96f20b3b-91b6-4eb1-a0f3-74b77ed3b16c"),
                             Condition = 0,
                             ISBN = "798748017-7",
                             Price = 48m,
@@ -12959,7 +12959,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a1c9bb20-6e99-4ad9-b522-44bd89d052ec"),
-                            AuthorId = new Guid("e5b35dcb-548d-45d2-93ba-41128094afab"),
+                            AuthorId = new Guid("385ef1c0-4724-47b6-8b97-457e3b14bb1e"),
                             Condition = 1,
                             ISBN = "219451497-X",
                             Price = 55m,
@@ -12970,7 +12970,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("37bab301-4998-4246-b55e-5b2d30f45a39"),
-                            AuthorId = new Guid("f48e6883-2966-4822-8433-b18d619808ea"),
+                            AuthorId = new Guid("777e63b4-6821-4c70-be39-9952ef778b00"),
                             Condition = 0,
                             ISBN = "488645013-X",
                             Price = 22m,
@@ -12981,7 +12981,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a15f156e-ecbc-4a35-a4c8-8ccf029af21c"),
-                            AuthorId = new Guid("e23c6d4a-94aa-4bda-8a09-4f3a00c1d2a8"),
+                            AuthorId = new Guid("ccfe9214-0ed0-474d-b704-2b4855784301"),
                             Condition = 1,
                             ISBN = "331950844-X",
                             Price = 37m,
@@ -12992,7 +12992,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ba05f39f-21e1-4d37-b09b-7150aa1e24e7"),
-                            AuthorId = new Guid("053e626e-3b2e-44b7-8740-d69df744a58d"),
+                            AuthorId = new Guid("7aff2b8d-ef8f-4e65-99ad-399ccf3dddb9"),
                             Condition = 0,
                             ISBN = "318950699-X",
                             Price = 32m,
@@ -13003,7 +13003,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4f7a946b-c00a-48c7-acff-4084c66d8fad"),
-                            AuthorId = new Guid("5769ccb3-2d3a-4406-8ed5-74ea1f965053"),
+                            AuthorId = new Guid("138c30a7-2f32-4205-a0ed-a3a83ab0b4d5"),
                             Condition = 1,
                             ISBN = "563296594-5",
                             Price = 32m,
@@ -13014,7 +13014,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c8013d86-9baf-4edf-9f93-bb93dd8a5c47"),
-                            AuthorId = new Guid("3c58eb92-fbd8-4b60-8565-eecde6a26a71"),
+                            AuthorId = new Guid("70b30ddd-7341-447e-9acb-92c5dfd9f35d"),
                             Condition = 0,
                             ISBN = "827745956-4",
                             Price = 99m,
@@ -13025,7 +13025,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d587480d-d368-4671-a0eb-a7e13f8aaddd"),
-                            AuthorId = new Guid("f27a9091-2656-4dab-bea3-4053184a42d3"),
+                            AuthorId = new Guid("3774ab18-9b96-4ff2-894e-b491f4bded5f"),
                             Condition = 1,
                             ISBN = "027080114-6",
                             Price = 68m,
@@ -13036,7 +13036,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("bda75216-e77c-467c-9d0e-3531feec5039"),
-                            AuthorId = new Guid("222d1b79-8267-4798-b881-bab5f6813f71"),
+                            AuthorId = new Guid("e46babbe-eac4-4cc5-84d4-71ee1b32c4b4"),
                             Condition = 0,
                             ISBN = "086659594-5",
                             Price = 75m,
@@ -13047,7 +13047,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("17abda69-46d9-4b14-b36c-93eff3a12c56"),
-                            AuthorId = new Guid("045ec6f1-6dc5-487b-94b4-359a852b3f00"),
+                            AuthorId = new Guid("7f5b1f08-813e-426e-8078-3f8dba53c9bb"),
                             Condition = 1,
                             ISBN = "987120875-8",
                             Price = 64m,
@@ -13058,7 +13058,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("754e8621-aec4-44d8-a3c8-21c7da313cd3"),
-                            AuthorId = new Guid("232f5d75-8488-447f-8b6a-8de60c3673af"),
+                            AuthorId = new Guid("6510b05a-dd7b-4ffb-9a24-4bfd7287d1eb"),
                             Condition = 0,
                             ISBN = "565076141-8",
                             Price = 5m,
@@ -13069,7 +13069,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("77fbb415-c2d7-4b4f-8b5c-e68ae67a5ccb"),
-                            AuthorId = new Guid("6ed19bdd-2cb4-43d9-b830-420cfbe2c180"),
+                            AuthorId = new Guid("30b772b0-6d2f-4ad3-acc9-6ea8e3d6f564"),
                             Condition = 1,
                             ISBN = "427171070-9",
                             Price = 13m,
@@ -13080,7 +13080,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7076840a-23e3-437a-9425-3bafc5877f3c"),
-                            AuthorId = new Guid("a5496f8d-e857-4ea5-bf27-8e7b533bb0e4"),
+                            AuthorId = new Guid("dda142f3-0006-4ed2-905a-52d54b75d799"),
                             Condition = 0,
                             ISBN = "543178447-1",
                             Price = 78m,
@@ -13091,7 +13091,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f66d0c5b-c33c-48ea-a45d-79a913cf3326"),
-                            AuthorId = new Guid("44fca0fd-a199-40dd-91a0-c93ff17297cf"),
+                            AuthorId = new Guid("e2cf6905-c4b1-4253-9d33-210eb77dbaef"),
                             Condition = 1,
                             ISBN = "197146841-X",
                             Price = 63m,
@@ -13102,7 +13102,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f33e9a05-c164-4fd1-ac4f-c6225c9c2ac2"),
-                            AuthorId = new Guid("b332f0d9-946f-4d7d-b546-60bc208688d6"),
+                            AuthorId = new Guid("53f875a5-2d2f-4d5c-9677-3d075dced9f7"),
                             Condition = 0,
                             ISBN = "025365719-9",
                             Price = 98m,
@@ -13113,7 +13113,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("24fca9fc-1e86-44ca-9b17-925bdec6257e"),
-                            AuthorId = new Guid("5d47bba2-ee33-4b27-8c81-15e59c1608e8"),
+                            AuthorId = new Guid("f7f58f7c-e76e-406a-a7f5-d8130ba40d8c"),
                             Condition = 1,
                             ISBN = "260767151-5",
                             Price = 6m,
@@ -13124,7 +13124,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("74d0fa83-be01-4760-88de-5b558b0b53d6"),
-                            AuthorId = new Guid("83aa75c9-fafe-43e2-adf7-5e0acb1977e7"),
+                            AuthorId = new Guid("54818f32-b726-4710-b2c1-9f23f96c9459"),
                             Condition = 0,
                             ISBN = "598694630-8",
                             Price = 100m,
@@ -13135,7 +13135,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c8551696-ca2e-4254-ad19-6afd3688c667"),
-                            AuthorId = new Guid("a47af692-2999-45c7-88a5-75f81a07256f"),
+                            AuthorId = new Guid("1e5056d4-e157-401c-9b0a-5d24053610f6"),
                             Condition = 1,
                             ISBN = "009662152-4",
                             Price = 93m,
@@ -13146,7 +13146,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b7ed9f10-13b8-480b-9618-f79a569536ca"),
-                            AuthorId = new Guid("561bd8c4-a03d-4be9-a2e8-78ed46ca4274"),
+                            AuthorId = new Guid("b7906c2f-c4d7-4987-90ca-2dbbc76012dd"),
                             Condition = 0,
                             ISBN = "204494117-1",
                             Price = 68m,
@@ -13157,7 +13157,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a5c516bc-b0ac-4ac7-bad1-e77897ea659a"),
-                            AuthorId = new Guid("5f2c982d-53fd-4c4c-aaba-b79976b44c95"),
+                            AuthorId = new Guid("23862751-ad83-4e83-82f1-45020572e553"),
                             Condition = 1,
                             ISBN = "563272802-1",
                             Price = 88m,
@@ -13168,7 +13168,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("aa9396a5-e762-46a5-9132-c1f51fc7ea45"),
-                            AuthorId = new Guid("28c0521f-97a0-4e21-a7bc-45028ef1eb09"),
+                            AuthorId = new Guid("da2e8554-5703-4755-b46b-d38eb82be1b0"),
                             Condition = 0,
                             ISBN = "934232693-5",
                             Price = 14m,
@@ -13179,7 +13179,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("56a7e870-fc42-49e7-9760-42d2df4c4cf7"),
-                            AuthorId = new Guid("81de9bef-1643-4cb7-8700-10cb9b09cef4"),
+                            AuthorId = new Guid("4fe493f2-afff-44b4-b14c-570251ba2fb4"),
                             Condition = 1,
                             ISBN = "922929437-3",
                             Price = 61m,
@@ -13190,7 +13190,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1e01563e-2de9-46e1-b191-4ae633b77a3e"),
-                            AuthorId = new Guid("55d8b245-4396-4afb-811a-166e6dc1eccd"),
+                            AuthorId = new Guid("6e7e90c0-3721-487e-9dae-088a759fd02d"),
                             Condition = 0,
                             ISBN = "119833860-1",
                             Price = 60m,
@@ -13201,7 +13201,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("06b35d72-2fc9-4d4d-8765-03e15d8a2294"),
-                            AuthorId = new Guid("aafbe801-5353-4a9c-88b9-6844e8211e62"),
+                            AuthorId = new Guid("1b5fdaf5-65db-4907-a466-00343710b081"),
                             Condition = 1,
                             ISBN = "640446628-7",
                             Price = 23m,
@@ -13212,7 +13212,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5dd6c92a-ee5b-47af-a4cc-cebda1d7991c"),
-                            AuthorId = new Guid("532f0956-d9ac-48e0-9932-a552b774eac3"),
+                            AuthorId = new Guid("fc5a163f-a008-4339-abf9-4e272cb1ea05"),
                             Condition = 0,
                             ISBN = "614648340-0",
                             Price = 85m,
@@ -13223,7 +13223,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("14e61742-e144-4882-a14f-9d3981fdce03"),
-                            AuthorId = new Guid("3f0365b6-2f2e-40c0-83a5-5eff7d3d09cf"),
+                            AuthorId = new Guid("161e2ce6-8bcf-485d-85b7-29e8ca2c9515"),
                             Condition = 1,
                             ISBN = "715285534-X",
                             Price = 96m,
@@ -13234,7 +13234,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1befc76d-f894-4cd6-b5fe-3b8087ee1849"),
-                            AuthorId = new Guid("4b9f8008-3206-48fa-a09a-c1b641ccf4b5"),
+                            AuthorId = new Guid("723a64ef-9aa1-4771-ab6e-bd417c63454a"),
                             Condition = 0,
                             ISBN = "332665467-7",
                             Price = 69m,
@@ -13245,7 +13245,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b428f340-b404-4cb3-b33a-20001ab01527"),
-                            AuthorId = new Guid("84e31a7b-7d34-4849-9767-a0acde0bc8d0"),
+                            AuthorId = new Guid("ce494b5e-bfe0-4efa-a5b5-2cd2a7fff593"),
                             Condition = 1,
                             ISBN = "663671919-2",
                             Price = 8m,
@@ -13256,7 +13256,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e03bc2cf-6b43-4fff-b5a0-af912b6c2db3"),
-                            AuthorId = new Guid("27e4a68f-3394-4846-963b-e4fead16dedb"),
+                            AuthorId = new Guid("4bc7f717-2035-46d1-8482-bfce8320df87"),
                             Condition = 0,
                             ISBN = "998019544-4",
                             Price = 49m,
@@ -13267,7 +13267,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1daa3b2c-7265-4260-84a8-0bf6947c9a42"),
-                            AuthorId = new Guid("9d5b08b1-dee6-4e69-817e-a8bf92d81124"),
+                            AuthorId = new Guid("d3ff6331-c912-48f0-b623-6e2110ac0fc9"),
                             Condition = 1,
                             ISBN = "115006749-7",
                             Price = 38m,
@@ -13278,7 +13278,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b3f5d98d-1654-4960-9cdb-6e677744942b"),
-                            AuthorId = new Guid("ec4aa741-496b-4a52-822f-1099d218f328"),
+                            AuthorId = new Guid("ce494b5e-bfe0-4efa-a5b5-2cd2a7fff593"),
                             Condition = 0,
                             ISBN = "534993933-5",
                             Price = 24m,
@@ -13289,7 +13289,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1c1f3ec8-4529-4674-a6ac-94ee9ad2534d"),
-                            AuthorId = new Guid("cb68656a-1d75-47bb-a1fb-14a2ef54aa05"),
+                            AuthorId = new Guid("9d553ba5-bdcf-43c7-8065-f68f8c5a50d1"),
                             Condition = 1,
                             ISBN = "331717707-1",
                             Price = 81m,
@@ -13300,7 +13300,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("24607b23-ad1d-4512-859f-01b94ef89eed"),
-                            AuthorId = new Guid("157466fa-afb7-4076-ad21-530717018e26"),
+                            AuthorId = new Guid("6ae9feb3-1fd2-4171-ab39-fd9d5dfe010d"),
                             Condition = 0,
                             ISBN = "187512196-X",
                             Price = 44m,
@@ -13311,7 +13311,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ccc53188-406d-450a-99d3-2248f661adb4"),
-                            AuthorId = new Guid("71883c85-5cca-49b7-bf9d-ae437f3ba3c4"),
+                            AuthorId = new Guid("468b11ec-b3d1-42a7-9674-7d5d0d9a9a43"),
                             Condition = 1,
                             ISBN = "557007359-0",
                             Price = 82m,
@@ -13322,7 +13322,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("05b77698-54d6-4eab-83b6-db58a4f810cd"),
-                            AuthorId = new Guid("fcb9f33c-06d2-4c1a-8673-5d6f62342a4b"),
+                            AuthorId = new Guid("2cfdad46-9e42-4aa0-a750-66f3934396a2"),
                             Condition = 0,
                             ISBN = "326943794-3",
                             Price = 4m,
@@ -13333,7 +13333,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e1b2a8d0-38eb-43e2-a5a8-e00ab7c98e89"),
-                            AuthorId = new Guid("ad5bcddb-97d2-44fa-92f9-d052bd6c04b7"),
+                            AuthorId = new Guid("7c9025be-885a-4737-8ff5-992a91039e90"),
                             Condition = 1,
                             ISBN = "233185671-0",
                             Price = 26m,
@@ -13344,7 +13344,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f5dc651e-1fe8-42d7-aa95-ca1b1bb409c7"),
-                            AuthorId = new Guid("ace68f80-9a57-4129-9e09-436ea1d736c2"),
+                            AuthorId = new Guid("75dc85fb-08d9-4c6b-8f3b-dabd001f1353"),
                             Condition = 0,
                             ISBN = "111635647-3",
                             Price = 42m,
@@ -13355,7 +13355,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("04cb2b5d-e4d0-4c16-a943-4af86ccbee9c"),
-                            AuthorId = new Guid("7de4bc97-05f9-48e2-a848-f1971a19706a"),
+                            AuthorId = new Guid("53f875a5-2d2f-4d5c-9677-3d075dced9f7"),
                             Condition = 1,
                             ISBN = "482138427-2",
                             Price = 65m,
@@ -13366,7 +13366,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2c8b370a-d198-41d7-a122-31a0ae24c34c"),
-                            AuthorId = new Guid("ac92d821-cfcb-447a-9b8e-db0cac64522a"),
+                            AuthorId = new Guid("22fc1c70-da46-4885-8798-10a52f32214d"),
                             Condition = 0,
                             ISBN = "232643701-2",
                             Price = 46m,
@@ -13377,7 +13377,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("60e4f31d-a470-49b1-9fb8-390b09fe11db"),
-                            AuthorId = new Guid("8a626998-9601-4e54-a607-3144cbc8c87f"),
+                            AuthorId = new Guid("e2d97f39-3df7-44dd-858a-2d3f94799ba8"),
                             Condition = 1,
                             ISBN = "125330491-2",
                             Price = 44m,
@@ -13388,7 +13388,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("de830292-bc87-4beb-9f60-34b4b6c52b39"),
-                            AuthorId = new Guid("af862d57-03a2-4c61-8839-02eb30a1b1b1"),
+                            AuthorId = new Guid("f0207e0d-5370-4028-8ee9-f581ded56edc"),
                             Condition = 0,
                             ISBN = "797752663-8",
                             Price = 62m,
@@ -13399,7 +13399,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("730b67e5-6fc9-42be-8783-c251d45a3259"),
-                            AuthorId = new Guid("61df6d79-e875-4971-b333-787a5bc6043c"),
+                            AuthorId = new Guid("1b7fed46-7295-447b-b394-433fb67d56f3"),
                             Condition = 1,
                             ISBN = "814110499-3",
                             Price = 75m,
@@ -13410,7 +13410,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("afccb9b4-7202-49da-98e7-245f1c627d95"),
-                            AuthorId = new Guid("0fe2def8-3847-4d6b-8c1d-d5d589df242b"),
+                            AuthorId = new Guid("f9806a88-12f7-4e97-8a51-693f46140bdc"),
                             Condition = 0,
                             ISBN = "831731145-7",
                             Price = 59m,
@@ -13421,7 +13421,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("20d900af-d9dc-4116-9fd9-424fef861b97"),
-                            AuthorId = new Guid("738ba564-a099-4749-8af6-f13e46b494d2"),
+                            AuthorId = new Guid("2420f052-6bd8-41cf-9a4a-23820ddd8bc7"),
                             Condition = 1,
                             ISBN = "888781625-5",
                             Price = 58m,
@@ -13432,7 +13432,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ab3d9671-6483-4d0b-abdf-0f3b1d499a2e"),
-                            AuthorId = new Guid("9d5b08b1-dee6-4e69-817e-a8bf92d81124"),
+                            AuthorId = new Guid("394d32dd-a0ad-4fac-963c-e4800d2f6c3a"),
                             Condition = 0,
                             ISBN = "968898887-1",
                             Price = 62m,
@@ -13443,7 +13443,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2f9b668b-b062-4924-b03b-7179666a0319"),
-                            AuthorId = new Guid("caced371-71f9-4c30-bee7-c57932a9e55f"),
+                            AuthorId = new Guid("63828f7f-2093-46bf-a182-f358c9460511"),
                             Condition = 1,
                             ISBN = "396861553-0",
                             Price = 30m,
@@ -13454,7 +13454,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("26e17bda-f1c8-4774-84e9-45b120782159"),
-                            AuthorId = new Guid("794c30e1-5ab6-41c7-b562-0683c0b7875e"),
+                            AuthorId = new Guid("ba9e49c9-0d71-4f9f-bbcb-d9dd7056bdf0"),
                             Condition = 0,
                             ISBN = "740893449-9",
                             Price = 51m,
@@ -13465,7 +13465,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a7450032-98fe-4aab-b913-eceb59338128"),
-                            AuthorId = new Guid("68a44f88-d6b2-4874-bf57-3cbcae869b15"),
+                            AuthorId = new Guid("a60ec08c-327d-48d1-9882-bfe2de6a1469"),
                             Condition = 1,
                             ISBN = "431035769-5",
                             Price = 14m,
@@ -13476,7 +13476,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("00e7f6bc-f8a8-4bfb-ad68-6848c87c971a"),
-                            AuthorId = new Guid("1af6bab8-73c9-4ee7-b2bd-5a24daa9ffa2"),
+                            AuthorId = new Guid("5c4b8af6-71d2-45bd-89f8-3750a4ce7cde"),
                             Condition = 0,
                             ISBN = "009679026-1",
                             Price = 6m,
@@ -13487,7 +13487,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("443f3988-221a-44bf-b4eb-9de47f7698ad"),
-                            AuthorId = new Guid("138735b3-9b6a-407d-ad6b-3fe6bfd1eb83"),
+                            AuthorId = new Guid("6d1376c8-7caf-402d-9470-1abb73549b49"),
                             Condition = 1,
                             ISBN = "450636067-2",
                             Price = 36m,
@@ -13498,7 +13498,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("df81cfdf-0eb5-46cb-918f-51843568a5f7"),
-                            AuthorId = new Guid("7aa41135-6051-486d-8eee-4ae624f43516"),
+                            AuthorId = new Guid("fc5a163f-a008-4339-abf9-4e272cb1ea05"),
                             Condition = 0,
                             ISBN = "839517593-0",
                             Price = 49m,
@@ -13509,7 +13509,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4fdf4a7e-7148-4159-8e44-4e20bd4fcddb"),
-                            AuthorId = new Guid("33de038c-80de-4beb-b44b-c6a129a9a2dc"),
+                            AuthorId = new Guid("73e2fd9e-ade0-41cb-b53c-64c177baaf98"),
                             Condition = 1,
                             ISBN = "234464307-9",
                             Price = 61m,
@@ -13520,7 +13520,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("64440358-7a00-43ba-ab12-53a44afd5310"),
-                            AuthorId = new Guid("5d497ab4-fa1a-405e-9c7b-13d86705e5f5"),
+                            AuthorId = new Guid("46bd07a8-2159-4787-83fe-cc7739a59407"),
                             Condition = 0,
                             ISBN = "046389633-5",
                             Price = 78m,
@@ -13531,7 +13531,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1f6df04d-7a28-41f3-9d4b-89fb3855a5a5"),
-                            AuthorId = new Guid("a588eb99-4369-4ba9-83a3-76d84a4bed74"),
+                            AuthorId = new Guid("bc8e3963-40eb-4471-98b3-0ca7b7538fd5"),
                             Condition = 1,
                             ISBN = "283537392-6",
                             Price = 95m,
@@ -13542,7 +13542,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("449c7b23-0424-4b72-a992-4a6e3ca5adff"),
-                            AuthorId = new Guid("e52bd501-3258-4414-a396-b891f047dac9"),
+                            AuthorId = new Guid("8f810400-9cf2-42cd-abc2-cb46b3fd0d47"),
                             Condition = 0,
                             ISBN = "269456789-4",
                             Price = 9m,
@@ -13553,7 +13553,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("062a6998-b339-4e57-baa8-fb4446ab6daa"),
-                            AuthorId = new Guid("51e6b040-8c0e-4b6c-b643-a08fb84cafdf"),
+                            AuthorId = new Guid("dba99c21-e783-4300-9e3e-cfc4a16d9593"),
                             Condition = 1,
                             ISBN = "995334185-0",
                             Price = 35m,
@@ -13564,7 +13564,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a0b7a8f6-61a8-4683-b248-7eb9eb44e01f"),
-                            AuthorId = new Guid("fa9a2f64-0908-49c8-8afe-d2fc45a83df4"),
+                            AuthorId = new Guid("6c409e82-0473-40cd-af1c-577aec2c4c93"),
                             Condition = 0,
                             ISBN = "868114642-4",
                             Price = 63m,
@@ -13575,7 +13575,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e62da17d-1520-4fae-8903-a919c9303953"),
-                            AuthorId = new Guid("f9f5f912-3053-4fd6-af8b-82aab72026b8"),
+                            AuthorId = new Guid("bff60790-19b1-4168-9bbf-51b9fdaa52b3"),
                             Condition = 1,
                             ISBN = "231517263-2",
                             Price = 45m,
@@ -13586,7 +13586,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f177c48f-bf3e-4ef4-af79-97c3544ff967"),
-                            AuthorId = new Guid("fe69727f-3a9c-45b6-98ff-40e2fcabf918"),
+                            AuthorId = new Guid("e2ee3d18-a5b2-46ca-8b85-8fe904998fb1"),
                             Condition = 0,
                             ISBN = "868925474-9",
                             Price = 38m,
@@ -13597,7 +13597,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9e35879f-5999-4d75-9803-e91ee039e745"),
-                            AuthorId = new Guid("956dfc48-c43b-4e91-9353-9105e1860300"),
+                            AuthorId = new Guid("3e520bfd-9c88-4671-82c5-269e41ace7e6"),
                             Condition = 1,
                             ISBN = "427085902-4",
                             Price = 15m,
@@ -13608,7 +13608,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3e0665a4-e3e3-4176-b1cc-de4bbb0ae2e1"),
-                            AuthorId = new Guid("9f47d237-06e8-4131-be82-fa976f77ba89"),
+                            AuthorId = new Guid("097b68b8-5805-4887-9f13-72b8874f26c8"),
                             Condition = 0,
                             ISBN = "189814888-0",
                             Price = 30m,
@@ -13619,7 +13619,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e79466c8-31bc-41d5-a37e-25b5b421abbd"),
-                            AuthorId = new Guid("3658895a-82dc-4179-94ef-700fdb6d98de"),
+                            AuthorId = new Guid("92595fd5-0b4a-43da-a140-34202a0387d9"),
                             Condition = 1,
                             ISBN = "236444509-4",
                             Price = 72m,
@@ -13630,7 +13630,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0133f5b4-af09-4af6-8fde-093335e2a027"),
-                            AuthorId = new Guid("14c27e44-1b6b-4a1d-95fc-7334b67264f7"),
+                            AuthorId = new Guid("6b30ad5a-3526-4a61-9b40-a50d3dce45f3"),
                             Condition = 0,
                             ISBN = "564040002-1",
                             Price = 36m,
@@ -13641,7 +13641,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7c23702e-dec7-45a6-9d0d-2a395cb04378"),
-                            AuthorId = new Guid("5eba6825-745d-4bf9-ae68-5216f0e7d617"),
+                            AuthorId = new Guid("1a8c807a-561f-46c4-9b8f-2755dd3a172e"),
                             Condition = 1,
                             ISBN = "256536910-7",
                             Price = 33m,
@@ -13652,7 +13652,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1d79c44f-39c8-4365-981a-63231b42a880"),
-                            AuthorId = new Guid("25088fd5-59e3-4bab-a47a-d3773560a484"),
+                            AuthorId = new Guid("338af76a-6cca-47b1-a050-17b100955098"),
                             Condition = 0,
                             ISBN = "748147115-0",
                             Price = 55m,
@@ -13663,7 +13663,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2892c8fc-577c-4b87-9a5d-5219a3e47732"),
-                            AuthorId = new Guid("65a7332c-313e-48e6-a284-76e83c40d9df"),
+                            AuthorId = new Guid("653d04cc-7310-48d2-82a5-632c295cc30e"),
                             Condition = 1,
                             ISBN = "854315507-X",
                             Price = 18m,
@@ -13674,7 +13674,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("49128022-7cf7-4456-a2c4-65fe5e251e82"),
-                            AuthorId = new Guid("5de4c448-dc13-496c-8858-8031eb4c71de"),
+                            AuthorId = new Guid("0516d87b-c460-4bdc-892f-c03c61d459d5"),
                             Condition = 0,
                             ISBN = "629058998-9",
                             Price = 47m,
@@ -13685,7 +13685,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d7c5792c-063a-4ea3-bc1b-1a0c2ba066f0"),
-                            AuthorId = new Guid("131b5100-5a51-4590-818b-b3512bfd116d"),
+                            AuthorId = new Guid("f114b99a-ce8b-451c-ae29-3b43b298871c"),
                             Condition = 1,
                             ISBN = "368832808-6",
                             Price = 95m,
@@ -13696,7 +13696,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("bcbeb8e9-a0d4-4db0-883e-3f9d5e6f4d07"),
-                            AuthorId = new Guid("2720957e-ba8f-4a82-9e53-48813dc91b3b"),
+                            AuthorId = new Guid("0aecf690-36a2-4001-897a-91e598b25e47"),
                             Condition = 0,
                             ISBN = "419389383-9",
                             Price = 25m,
@@ -13707,7 +13707,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d43e6548-a6b2-4454-a70e-89a116296417"),
-                            AuthorId = new Guid("fbd14cbb-a961-4de7-b7e3-c40c2cf65528"),
+                            AuthorId = new Guid("b6a81663-1a4e-4d7e-af22-186bd897a21e"),
                             Condition = 1,
                             ISBN = "360411768-2",
                             Price = 45m,
@@ -13718,7 +13718,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("176a9eb7-6ee3-476d-8d17-a6c1e60be467"),
-                            AuthorId = new Guid("666fdd39-a35e-40a5-b61f-52fbf324895b"),
+                            AuthorId = new Guid("86287e15-943b-4a2b-83d6-2dfc8d2604d4"),
                             Condition = 0,
                             ISBN = "077812425-8",
                             Price = 18m,
@@ -13729,7 +13729,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b8968f08-ed0c-42b6-8cd5-ab09e4e56d85"),
-                            AuthorId = new Guid("634d9fa0-566a-4ffb-a490-072d970b866b"),
+                            AuthorId = new Guid("17b85975-dbab-4cfd-949a-1e130474b651"),
                             Condition = 1,
                             ISBN = "074351787-3",
                             Price = 77m,
@@ -13740,7 +13740,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e47b8f48-6e58-4ab2-a1a2-15a4232ba13b"),
-                            AuthorId = new Guid("e80fd575-c9eb-408d-8f1d-cb9d434c7ea6"),
+                            AuthorId = new Guid("fd41bc60-932a-4e8d-a6c3-273fb78e7586"),
                             Condition = 0,
                             ISBN = "037548804-9",
                             Price = 37m,
@@ -13751,7 +13751,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ea9a90e9-03bc-4815-9e92-1079a93f1746"),
-                            AuthorId = new Guid("aebf2bd6-1904-43fd-9b2f-c06fdc04f541"),
+                            AuthorId = new Guid("447602fe-954e-43cf-a7de-2e3e39b724c2"),
                             Condition = 1,
                             ISBN = "569961546-6",
                             Price = 55m,
@@ -13762,7 +13762,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c7234cb7-5116-4a78-9da3-b5277e428545"),
-                            AuthorId = new Guid("690ae88c-955a-42d6-8bae-cb437f7ffe58"),
+                            AuthorId = new Guid("4304d2f2-3832-4d4d-82b7-d27c7e77bdc8"),
                             Condition = 0,
                             ISBN = "777851465-6",
                             Price = 70m,
@@ -13773,7 +13773,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cc8db674-7b5a-40d1-8200-b81dbb07e57a"),
-                            AuthorId = new Guid("d1c444b8-aab3-4966-bebd-e8f98c51eb26"),
+                            AuthorId = new Guid("f98e5c97-13a0-4ea0-b753-8af48bd9dcf2"),
                             Condition = 1,
                             ISBN = "178514599-1",
                             Price = 26m,
@@ -13784,7 +13784,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("45124dbc-ad26-4bc3-b1ad-38454f5a9aac"),
-                            AuthorId = new Guid("6770bc5b-adf0-4128-98eb-5467c5941bbe"),
+                            AuthorId = new Guid("9609e4f0-7496-4911-80dd-a9083a9fe650"),
                             Condition = 0,
                             ISBN = "232891794-1",
                             Price = 61m,
@@ -13795,7 +13795,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("222c618a-7f4b-49cd-abac-7b9390c286aa"),
-                            AuthorId = new Guid("27c832f5-d940-4133-ac35-6349f6c4b59f"),
+                            AuthorId = new Guid("ceb0337a-2a57-494f-aac0-ea8fa31eed76"),
                             Condition = 1,
                             ISBN = "047878105-9",
                             Price = 39m,
@@ -13806,7 +13806,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8fe438ad-209b-406f-be46-52a49a32ff0e"),
-                            AuthorId = new Guid("48ca3dda-0ab9-4a6b-825b-8b839212ace8"),
+                            AuthorId = new Guid("4b5351d4-3659-4b34-a4a3-d49a71a1ee54"),
                             Condition = 0,
                             ISBN = "379635252-9",
                             Price = 47m,
@@ -13817,7 +13817,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("58f51cc0-9faf-46ae-877d-377d1083aa83"),
-                            AuthorId = new Guid("5a431516-a853-4511-b84a-092c5e7a4fa7"),
+                            AuthorId = new Guid("89824d0a-f9cb-4e63-876f-0abc32234369"),
                             Condition = 1,
                             ISBN = "697972806-7",
                             Price = 69m,
@@ -13828,7 +13828,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f475ca8c-34f7-461c-b272-3e56b0bcc931"),
-                            AuthorId = new Guid("689130df-80ce-4f32-b945-4e0ce3ed0c02"),
+                            AuthorId = new Guid("8f1aad73-d41e-498b-aa6e-488696aff197"),
                             Condition = 0,
                             ISBN = "701164596-9",
                             Price = 53m,
@@ -13839,7 +13839,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1d2254de-ec2f-480a-b0eb-8fc7cedfed35"),
-                            AuthorId = new Guid("852d7462-b700-4af6-b686-bf1e001de35b"),
+                            AuthorId = new Guid("6ae9feb3-1fd2-4171-ab39-fd9d5dfe010d"),
                             Condition = 1,
                             ISBN = "180826591-2",
                             Price = 99m,
@@ -13850,7 +13850,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1f54c8f0-c860-4673-858b-9a26c55baedc"),
-                            AuthorId = new Guid("d3b1c94b-b992-4ed7-b559-8e94f675137d"),
+                            AuthorId = new Guid("29b76056-2018-4ea9-a91b-39f321185ac7"),
                             Condition = 0,
                             ISBN = "120651423-X",
                             Price = 67m,
@@ -13861,7 +13861,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("182e9c64-4bfa-4342-abd5-57dbf0c3537e"),
-                            AuthorId = new Guid("a1e54121-e8e2-4973-b49c-1f74c10ed69e"),
+                            AuthorId = new Guid("00ccb750-3b45-422b-bb6c-2baf0096fec5"),
                             Condition = 1,
                             ISBN = "907485161-4",
                             Price = 76m,
@@ -13872,7 +13872,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("77e077e1-4909-4237-94a6-ec0ccebf89c7"),
-                            AuthorId = new Guid("85f36fb3-82f1-4955-9850-77c4b336cc5e"),
+                            AuthorId = new Guid("0f484dc6-7071-47e6-a108-583049c29015"),
                             Condition = 0,
                             ISBN = "231083906-X",
                             Price = 96m,
@@ -13883,7 +13883,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f635cac4-cd24-4d95-aa7a-efcc01c7835f"),
-                            AuthorId = new Guid("2952c40c-a21f-464b-9cc2-94e1d06ab28c"),
+                            AuthorId = new Guid("401ea7bf-7319-4c29-85c3-5c68a60ed043"),
                             Condition = 1,
                             ISBN = "867850297-5",
                             Price = 28m,
@@ -13894,7 +13894,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("abe19194-247d-47c3-b048-f6e703291b7e"),
-                            AuthorId = new Guid("59416f28-e187-40ea-b26e-fc26dc0022ea"),
+                            AuthorId = new Guid("33f3f9be-d120-45a6-9e0a-559085c1310e"),
                             Condition = 0,
                             ISBN = "736358402-8",
                             Price = 64m,
@@ -13905,7 +13905,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9e890873-3eff-4443-b5d8-e63355b6b065"),
-                            AuthorId = new Guid("6d53ec25-c1e2-4bf8-8881-b51b5117e43d"),
+                            AuthorId = new Guid("e9a88df3-c840-4cb1-a568-9a2a6f41a742"),
                             Condition = 1,
                             ISBN = "151801112-8",
                             Price = 23m,
@@ -13916,7 +13916,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4d7b481b-3434-4032-9bee-32f79e7271c8"),
-                            AuthorId = new Guid("9085c603-b419-420c-8cfe-79d7b016daeb"),
+                            AuthorId = new Guid("fcf4cafe-358c-4b09-9836-cca17d31a167"),
                             Condition = 0,
                             ISBN = "164287752-2",
                             Price = 67m,
@@ -13927,7 +13927,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f4f86abf-78e2-4499-987c-1c8d43fd0ed7"),
-                            AuthorId = new Guid("75068271-5119-49f7-8c2a-c8aafe5db994"),
+                            AuthorId = new Guid("8f828e77-bc8f-4f13-8a39-040fa7e19086"),
                             Condition = 1,
                             ISBN = "036796407-4",
                             Price = 19m,
@@ -13938,7 +13938,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("38f41f36-f40f-4b40-a37a-806da1970f30"),
-                            AuthorId = new Guid("b56a5ef6-7988-4e61-9944-beb232f4e3e2"),
+                            AuthorId = new Guid("6cbdebeb-69af-4980-9978-ce09f2bdcd0b"),
                             Condition = 0,
                             ISBN = "141856029-4",
                             Price = 1m,
@@ -13949,7 +13949,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("11b3675a-3e40-4018-adbb-bfc57e229ed2"),
-                            AuthorId = new Guid("c30d297c-daed-48ef-a4f1-8950291e56ff"),
+                            AuthorId = new Guid("2e89f062-75fd-4e98-92ff-221af432226d"),
                             Condition = 1,
                             ISBN = "598410530-6",
                             Price = 89m,
@@ -13960,7 +13960,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b39081ca-114f-43ce-97ca-d7c450345aee"),
-                            AuthorId = new Guid("025dc1c9-55c4-48ef-b265-7ac3a06628eb"),
+                            AuthorId = new Guid("d5b7f101-bee6-4c99-98ac-e1982e632319"),
                             Condition = 0,
                             ISBN = "452584064-1",
                             Price = 80m,
@@ -13971,7 +13971,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9c65bfe7-c253-4616-a16e-296f4cd8c911"),
-                            AuthorId = new Guid("0ceed50a-7558-4742-baf6-d1a2d9f834ef"),
+                            AuthorId = new Guid("6730796b-5dda-4b65-b0d5-83bebe4636fa"),
                             Condition = 1,
                             ISBN = "054494596-4",
                             Price = 91m,
@@ -13982,7 +13982,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6b1e3512-c053-4ee0-a80f-02514e3129e3"),
-                            AuthorId = new Guid("ce84a6d9-f560-45fb-ac5d-fe2d3b8f72ac"),
+                            AuthorId = new Guid("8926ed66-a36e-4d76-a1da-27af17b11323"),
                             Condition = 0,
                             ISBN = "361562843-8",
                             Price = 37m,
@@ -13993,7 +13993,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1303cfd5-6e3a-44e6-85c3-0b2cb0c31790"),
-                            AuthorId = new Guid("37fad513-a1b0-4330-ba5c-37b735bcbeff"),
+                            AuthorId = new Guid("cb1f6f39-8e1f-45a9-a6d1-4ec5387f2382"),
                             Condition = 1,
                             ISBN = "510872697-X",
                             Price = 48m,
@@ -14004,7 +14004,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("169f311d-d121-4c10-a7d8-772a56a15927"),
-                            AuthorId = new Guid("b8a88fec-cbca-408e-ae8f-46beccafa8f9"),
+                            AuthorId = new Guid("4a64c0ff-421e-4385-a440-df59d91c31ec"),
                             Condition = 0,
                             ISBN = "910926642-9",
                             Price = 79m,
@@ -14015,7 +14015,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ebfc1e4c-f4f9-464c-affa-1a27f5ec901e"),
-                            AuthorId = new Guid("620a9cd1-b46f-46a0-8989-25d4d2884537"),
+                            AuthorId = new Guid("fc723944-1af9-4085-ad3f-db70f067dfb8"),
                             Condition = 1,
                             ISBN = "638338952-1",
                             Price = 94m,
@@ -14026,7 +14026,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6d01bae0-dbda-4a26-8779-bef25f3aead0"),
-                            AuthorId = new Guid("0d685706-c9a5-412c-b296-4e4f99d25500"),
+                            AuthorId = new Guid("bb5314a7-0b44-40ba-a5c1-d932fe246b6e"),
                             Condition = 0,
                             ISBN = "760737372-1",
                             Price = 70m,
@@ -14037,7 +14037,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6c044bb9-8569-476e-925a-d164f7006267"),
-                            AuthorId = new Guid("c30d297c-daed-48ef-a4f1-8950291e56ff"),
+                            AuthorId = new Guid("dda142f3-0006-4ed2-905a-52d54b75d799"),
                             Condition = 1,
                             ISBN = "798801295-9",
                             Price = 20m,
@@ -14048,7 +14048,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f52678d5-3a99-4c91-af4f-4c67f2f8d7c1"),
-                            AuthorId = new Guid("8e4ca83c-b184-4f17-a313-218ebb721134"),
+                            AuthorId = new Guid("848a9a2d-778a-43a1-b8a8-2cefa92f0834"),
                             Condition = 0,
                             ISBN = "523716852-3",
                             Price = 9m,
@@ -14059,7 +14059,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ccba83db-1cf5-4ff1-8919-3d4c06576040"),
-                            AuthorId = new Guid("04a51c1b-ad90-4882-9acd-377c0ed077c6"),
+                            AuthorId = new Guid("51003912-da70-4af3-a353-da4ee82fc264"),
                             Condition = 1,
                             ISBN = "328907660-1",
                             Price = 10m,
@@ -14070,7 +14070,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cff33d88-fcc3-4978-8b20-dcd99cc1b1c9"),
-                            AuthorId = new Guid("538191e8-5115-410a-8979-245eaf2ee054"),
+                            AuthorId = new Guid("4b4a2615-b5a0-4e8d-af8f-dd7a01df59a5"),
                             Condition = 0,
                             ISBN = "510046661-8",
                             Price = 77m,
@@ -14081,7 +14081,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8e9c5981-121b-4ca7-a3e9-17d68bb6d880"),
-                            AuthorId = new Guid("fe5d6a86-54ea-4fd8-826e-4b95cb093b4d"),
+                            AuthorId = new Guid("a900085f-5913-431e-b7cd-80eccb6b8395"),
                             Condition = 1,
                             ISBN = "111303772-5",
                             Price = 43m,
@@ -14092,7 +14092,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5a40d06a-cace-4856-ab1a-e54b139da056"),
-                            AuthorId = new Guid("1248c46b-9feb-4d57-99e2-8e6e5722dfd5"),
+                            AuthorId = new Guid("046fe1d4-7087-47da-8774-34504e8bd81e"),
                             Condition = 0,
                             ISBN = "488877860-4",
                             Price = 100m,
@@ -14103,7 +14103,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("427d730d-d8e5-4642-ac7d-eda1e4d414b0"),
-                            AuthorId = new Guid("92dcb42a-2d2a-405b-b9f8-a43981b4e6c5"),
+                            AuthorId = new Guid("16cd060f-acbd-4953-af03-ab87fc3031e1"),
                             Condition = 1,
                             ISBN = "313973297-X",
                             Price = 93m,
@@ -14114,7 +14114,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b788a2bc-0446-4052-9465-709debc57c84"),
-                            AuthorId = new Guid("e9ec1912-5d14-4338-a6eb-68a554e18720"),
+                            AuthorId = new Guid("70eb3b28-91d3-41d2-8eae-f730b2dcf574"),
                             Condition = 0,
                             ISBN = "610587979-2",
                             Price = 82m,
@@ -14125,7 +14125,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ddc92b4f-b392-41f2-a530-b061e713eafc"),
-                            AuthorId = new Guid("a1e54121-e8e2-4973-b49c-1f74c10ed69e"),
+                            AuthorId = new Guid("6aceda05-f46f-4384-b5e5-76cca65403dd"),
                             Condition = 1,
                             ISBN = "929741454-0",
                             Price = 80m,
@@ -14136,7 +14136,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1020a13d-fa06-42ce-982e-27fc506dd1b5"),
-                            AuthorId = new Guid("b927ec44-cac5-4e04-bf0b-ab8b6e63d0d8"),
+                            AuthorId = new Guid("f457ef70-8126-4181-8ce9-5f7212c5c0cd"),
                             Condition = 0,
                             ISBN = "934098541-9",
                             Price = 99m,
@@ -14147,7 +14147,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2143ab27-13a5-4ba9-9896-ffa60c5df48a"),
-                            AuthorId = new Guid("69a396b6-43f2-416e-a00e-b3adfea00c88"),
+                            AuthorId = new Guid("0ea50946-c919-4dda-9458-401a500a273a"),
                             Condition = 1,
                             ISBN = "315342817-4",
                             Price = 47m,
@@ -14158,7 +14158,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9f7a2342-fa0b-417d-ad6c-54e47aae0d19"),
-                            AuthorId = new Guid("ea0c9879-b19b-4e47-8879-1b1ac5b9536b"),
+                            AuthorId = new Guid("83c22445-307f-48ac-b957-53aae3b20a11"),
                             Condition = 0,
                             ISBN = "466410953-9",
                             Price = 36m,
@@ -14169,7 +14169,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f7ae4d98-be0e-4b0e-81e0-4df87469d252"),
-                            AuthorId = new Guid("53d20252-1c2e-4146-ba5c-f5f192bd3bfd"),
+                            AuthorId = new Guid("0a9ef664-2ae0-454d-9e8c-6ccf1598bf19"),
                             Condition = 1,
                             ISBN = "436325379-7",
                             Price = 44m,
@@ -14180,7 +14180,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("421f87f2-cea9-41b8-9399-ac826109680c"),
-                            AuthorId = new Guid("2a4361b4-782d-4a0e-8a50-1f9112da9434"),
+                            AuthorId = new Guid("0a9d4765-a2d5-4375-8e2a-a8004b091368"),
                             Condition = 0,
                             ISBN = "590815770-8",
                             Price = 40m,
@@ -14191,7 +14191,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f8b2e169-b0b8-4a27-9e9b-3b97d14959f2"),
-                            AuthorId = new Guid("476fe0f7-149c-4156-b46d-519d01fa7bb1"),
+                            AuthorId = new Guid("29b76056-2018-4ea9-a91b-39f321185ac7"),
                             Condition = 1,
                             ISBN = "991600271-1",
                             Price = 85m,
@@ -14202,7 +14202,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f894a279-23d5-4756-89dd-2b5853ff3771"),
-                            AuthorId = new Guid("c95a5b6e-2c40-41a5-b044-0351e979eb24"),
+                            AuthorId = new Guid("df578679-4931-4ebe-857e-bb41ff0b2488"),
                             Condition = 0,
                             ISBN = "013537816-8",
                             Price = 73m,
@@ -14213,7 +14213,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("841e4c5e-11fc-4ac1-85eb-bfbb4833785c"),
-                            AuthorId = new Guid("7177638d-3369-4b4d-b812-408159198a4f"),
+                            AuthorId = new Guid("a314a3f8-c00c-4c59-be7c-fc4776169ff1"),
                             Condition = 1,
                             ISBN = "218714345-7",
                             Price = 32m,
@@ -14224,7 +14224,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ccfb2633-d1bd-44ba-9704-427b5ea6ed31"),
-                            AuthorId = new Guid("9a497959-c231-4b93-a051-d2d3f921ee41"),
+                            AuthorId = new Guid("eaacba67-8017-45f1-922d-84bb0a0b4898"),
                             Condition = 0,
                             ISBN = "931197593-1",
                             Price = 37m,
@@ -14235,7 +14235,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ec808924-7747-4d33-9712-2019136e22eb"),
-                            AuthorId = new Guid("8e172b22-464d-4821-9e44-42930a56bba8"),
+                            AuthorId = new Guid("9c43c76e-51ad-496a-ba30-f9cba092157b"),
                             Condition = 1,
                             ISBN = "453895162-5",
                             Price = 31m,
@@ -14246,7 +14246,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("87a7e4e8-0f0c-447c-8c94-c873b5ada7a9"),
-                            AuthorId = new Guid("27f5d1db-4c36-40ac-bbc2-abf4ff04c750"),
+                            AuthorId = new Guid("effca80e-1b07-4475-bc6a-e9ad2ecff660"),
                             Condition = 0,
                             ISBN = "572505859-X",
                             Price = 71m,
@@ -14257,7 +14257,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("49e4bb29-9404-4e1b-ae2c-16e7ed24d2e2"),
-                            AuthorId = new Guid("fe7c3a03-2532-4d05-b18c-cfcc0138ef77"),
+                            AuthorId = new Guid("a53b82e2-814f-4bb4-b523-3a55ec23e89c"),
                             Condition = 1,
                             ISBN = "547236796-4",
                             Price = 67m,
@@ -14268,7 +14268,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b005778e-a4be-48bc-a4d3-ae9410243a4c"),
-                            AuthorId = new Guid("95063ef9-dfb2-482c-8b95-2d990034e231"),
+                            AuthorId = new Guid("058a12dc-5a94-44e6-b24e-4de17f912375"),
                             Condition = 0,
                             ISBN = "122432153-7",
                             Price = 98m,
@@ -14279,7 +14279,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("46ff4722-d04f-4e7e-83ad-02728aa447ba"),
-                            AuthorId = new Guid("c5526c67-3078-4eca-98c6-5e1ae428d9f8"),
+                            AuthorId = new Guid("33fcfa8a-8581-4734-9948-0837c63fc278"),
                             Condition = 1,
                             ISBN = "028605067-6",
                             Price = 16m,
@@ -14290,7 +14290,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d1d0f1a6-ca02-4921-ae47-ddbe40416647"),
-                            AuthorId = new Guid("ed3a8060-b3db-4a19-8c33-20be4acb9208"),
+                            AuthorId = new Guid("c7959033-64a9-4875-82a0-9fe18c626b2b"),
                             Condition = 0,
                             ISBN = "124768235-8",
                             Price = 89m,
@@ -14301,7 +14301,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("145e12c0-50f5-4316-ad62-2d2f87a01860"),
-                            AuthorId = new Guid("15a49315-552f-4f6a-9f25-001a5f13ce07"),
+                            AuthorId = new Guid("b4c6e23f-082b-4879-8bfb-c2a58972f4ba"),
                             Condition = 1,
                             ISBN = "249029498-9",
                             Price = 28m,
@@ -14312,7 +14312,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cc3c0270-639a-4b7f-81cf-61ec246fb5c9"),
-                            AuthorId = new Guid("fbfecfaa-f915-4006-ae69-6960f7bd5a0f"),
+                            AuthorId = new Guid("fd41bc60-932a-4e8d-a6c3-273fb78e7586"),
                             Condition = 0,
                             ISBN = "842072068-2",
                             Price = 86m,
@@ -14323,7 +14323,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1f239296-5f81-49c2-9958-ef115f6316b3"),
-                            AuthorId = new Guid("fe69727f-3a9c-45b6-98ff-40e2fcabf918"),
+                            AuthorId = new Guid("90b8a319-770d-4b28-8a00-4f8a489c1520"),
                             Condition = 1,
                             ISBN = "175551227-9",
                             Price = 28m,
@@ -14334,7 +14334,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0c2471a0-5cae-4ec6-bc5d-2612fd7c7d90"),
-                            AuthorId = new Guid("157466fa-afb7-4076-ad21-530717018e26"),
+                            AuthorId = new Guid("0178808c-80e7-44c7-9aae-28706a766f9f"),
                             Condition = 0,
                             ISBN = "980379487-6",
                             Price = 81m,
@@ -14345,7 +14345,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("485441f0-3194-4e91-8cae-1c03d9af4938"),
-                            AuthorId = new Guid("0b933755-3929-4970-9e65-924c1ad9d427"),
+                            AuthorId = new Guid("dcbcf254-c196-470a-9903-30f5b03f9c3d"),
                             Condition = 1,
                             ISBN = "581601511-7",
                             Price = 48m,
@@ -14356,7 +14356,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8c3ac1a1-a8f8-4f6e-83ed-b6d01dba3015"),
-                            AuthorId = new Guid("1fc9d5bc-6f28-405b-8a9e-1dcc73e883d6"),
+                            AuthorId = new Guid("6730796b-5dda-4b65-b0d5-83bebe4636fa"),
                             Condition = 0,
                             ISBN = "184659943-1",
                             Price = 51m,
@@ -14367,7 +14367,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("72103dd6-a36e-46bb-8122-9ef0057cd52f"),
-                            AuthorId = new Guid("3658895a-82dc-4179-94ef-700fdb6d98de"),
+                            AuthorId = new Guid("3caa2914-e8f7-461f-993f-b50813360b2b"),
                             Condition = 1,
                             ISBN = "014399790-4",
                             Price = 54m,
@@ -14378,7 +14378,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a850003c-27c8-47c2-8896-1035b4432b0d"),
-                            AuthorId = new Guid("6deeb509-6c19-4323-b2f7-c86349a2b003"),
+                            AuthorId = new Guid("1ed2747a-6c9a-44b1-a20a-9ec2efeb5055"),
                             Condition = 0,
                             ISBN = "858983468-9",
                             Price = 6m,
@@ -14389,7 +14389,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("46d2c65c-024a-475f-a2ff-4eaf605fd7c4"),
-                            AuthorId = new Guid("8e3c13b0-12ad-4e03-a097-560841a5733e"),
+                            AuthorId = new Guid("03693075-2ac6-4117-bb33-427ad15d2f15"),
                             Condition = 1,
                             ISBN = "114750110-6",
                             Price = 44m,
@@ -14400,7 +14400,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("74855039-e23c-42e5-8ef1-aabab72b55aa"),
-                            AuthorId = new Guid("add8b096-6816-4e92-a968-2b4ddd795f1c"),
+                            AuthorId = new Guid("3c001e29-eea6-432d-914b-8e12558874b5"),
                             Condition = 0,
                             ISBN = "857643949-2",
                             Price = 83m,
@@ -14411,7 +14411,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c1e5b4eb-697f-4fc3-9231-68e235b7f15a"),
-                            AuthorId = new Guid("523558b3-2f92-4869-85d6-99d47981492c"),
+                            AuthorId = new Guid("6b9ec05f-916e-4de8-b618-9e9039b9eecd"),
                             Condition = 1,
                             ISBN = "350036898-0",
                             Price = 15m,
@@ -14422,7 +14422,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("02936ebc-4df7-4271-9478-fbbdcd537f9f"),
-                            AuthorId = new Guid("4faa4f23-0f75-441f-8048-d9f0338101c0"),
+                            AuthorId = new Guid("11618810-efdd-4159-8058-78eee471c7e8"),
                             Condition = 0,
                             ISBN = "846985187-X",
                             Price = 16m,
@@ -14433,7 +14433,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("62b8fc79-f3fe-4819-9a2f-5c62c2fef890"),
-                            AuthorId = new Guid("c7ce58f3-b2c6-4d5d-a91b-05c7e9ef5ae0"),
+                            AuthorId = new Guid("d885efa4-30a7-414c-b2fb-b39773843a69"),
                             Condition = 1,
                             ISBN = "458054116-2",
                             Price = 31m,
@@ -14444,7 +14444,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7a0b748a-8669-4239-98f0-f5cbfae46035"),
-                            AuthorId = new Guid("ea0c9879-b19b-4e47-8879-1b1ac5b9536b"),
+                            AuthorId = new Guid("fe988bf6-dcd3-4c36-bf56-580d795b8330"),
                             Condition = 0,
                             ISBN = "363498640-9",
                             Price = 73m,
@@ -14455,7 +14455,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d9fcad8f-90e4-4330-970a-b7dac30e920b"),
-                            AuthorId = new Guid("67d73496-4831-4b92-a231-4ac7866fc28e"),
+                            AuthorId = new Guid("e2ee3d18-a5b2-46ca-8b85-8fe904998fb1"),
                             Condition = 1,
                             ISBN = "532544560-X",
                             Price = 74m,
@@ -14466,7 +14466,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fbc3bd8b-5c0e-440b-834d-093bd0fe9c9c"),
-                            AuthorId = new Guid("433e73be-034b-4d0a-9c6e-ca790e39da25"),
+                            AuthorId = new Guid("256d821f-4495-49e7-a4f7-79a346692564"),
                             Condition = 0,
                             ISBN = "516676087-5",
                             Price = 60m,
@@ -14477,7 +14477,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a3fab001-180b-4a42-913b-6086d83da06b"),
-                            AuthorId = new Guid("ea0c9879-b19b-4e47-8879-1b1ac5b9536b"),
+                            AuthorId = new Guid("52e8a95b-e281-48fb-859d-f1e69be66243"),
                             Condition = 1,
                             ISBN = "472738573-2",
                             Price = 46m,
@@ -14488,7 +14488,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c6ddd7bd-e5e7-438a-bfea-ad8ee2fed1bc"),
-                            AuthorId = new Guid("bc5c6376-48e7-4814-97c8-ccb63d2b47d6"),
+                            AuthorId = new Guid("979c5b94-c402-4105-8fa5-af9a0c822e0e"),
                             Condition = 0,
                             ISBN = "382647371-X",
                             Price = 86m,
@@ -14499,7 +14499,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8229afa3-7eea-4dbe-99ca-4cc0472a63e0"),
-                            AuthorId = new Guid("73bfa88b-6da0-41d0-8e7f-2b344dcc75b2"),
+                            AuthorId = new Guid("04e32519-5742-41c8-a25d-856bb94791c3"),
                             Condition = 1,
                             ISBN = "833942268-5",
                             Price = 67m,
@@ -14510,7 +14510,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8d6abc9c-0342-47e7-b54d-2919659f9186"),
-                            AuthorId = new Guid("12eaf5da-5225-450b-8e2c-aa2c07209f8f"),
+                            AuthorId = new Guid("4d53d8f4-da9c-43c5-83cc-1cd9cefbb76d"),
                             Condition = 0,
                             ISBN = "187020466-2",
                             Price = 46m,
@@ -14521,7 +14521,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6e3c5a3c-bd76-47df-a1bb-57b7027c91a3"),
-                            AuthorId = new Guid("bb7396ad-9f1f-4e73-bd22-2a465dc1d957"),
+                            AuthorId = new Guid("385ef1c0-4724-47b6-8b97-457e3b14bb1e"),
                             Condition = 1,
                             ISBN = "646163386-3",
                             Price = 48m,
@@ -14532,7 +14532,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5960a483-796c-451e-8a53-578db919de59"),
-                            AuthorId = new Guid("48352e11-cf84-4d45-98be-4c9795501413"),
+                            AuthorId = new Guid("4fcdaac6-1f9d-42d1-9aa6-5d515600c8c2"),
                             Condition = 0,
                             ISBN = "687421263-X",
                             Price = 84m,
@@ -14543,7 +14543,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b461bbf4-40fa-4a06-8304-c24c5a4b764b"),
-                            AuthorId = new Guid("cb68656a-1d75-47bb-a1fb-14a2ef54aa05"),
+                            AuthorId = new Guid("23a6f3e6-ab35-4fb9-b7a1-abca8f65664f"),
                             Condition = 1,
                             ISBN = "272940025-7",
                             Price = 25m,
@@ -14554,7 +14554,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("709d7ea6-1d8d-48e8-97de-3e456b0c251a"),
-                            AuthorId = new Guid("8c3cb427-b57f-4700-aee0-42ab7e62cb98"),
+                            AuthorId = new Guid("b6a81663-1a4e-4d7e-af22-186bd897a21e"),
                             Condition = 0,
                             ISBN = "067799304-8",
                             Price = 2m,
@@ -14565,7 +14565,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0e93e52e-f579-42d1-adfb-96d0845d9e61"),
-                            AuthorId = new Guid("690ae88c-955a-42d6-8bae-cb437f7ffe58"),
+                            AuthorId = new Guid("f5d02084-2e30-4570-9e93-42b62bacbd79"),
                             Condition = 1,
                             ISBN = "513134824-2",
                             Price = 26m,
@@ -14576,7 +14576,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5d06b9f3-01f7-4915-9743-1163ba561841"),
-                            AuthorId = new Guid("06c4b13d-acd4-48a5-b197-f6ec2ddaad03"),
+                            AuthorId = new Guid("f92fae4e-4d66-4084-91cf-1bf4024c344e"),
                             Condition = 0,
                             ISBN = "738682658-3",
                             Price = 34m,
@@ -14587,7 +14587,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3e590d94-e108-4bcf-a9fc-a039ea68dfef"),
-                            AuthorId = new Guid("697085a0-dcc7-4d69-988c-6bb0e1ec1880"),
+                            AuthorId = new Guid("0d20937b-4a42-40b7-adce-a15ec0b5a1bd"),
                             Condition = 1,
                             ISBN = "742850039-7",
                             Price = 86m,
@@ -14598,7 +14598,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e316fc38-72e8-4764-96b6-fbfec7e893d7"),
-                            AuthorId = new Guid("fabd77ff-2ad4-4544-b230-3d126e61d213"),
+                            AuthorId = new Guid("a4be2992-15b9-43eb-ace7-9d7ae47cd4db"),
                             Condition = 0,
                             ISBN = "611919050-3",
                             Price = 12m,
@@ -14609,7 +14609,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("05bd86ce-fb08-4318-8349-c8b101f85ea8"),
-                            AuthorId = new Guid("a7a7194e-dc36-496c-81c4-cd1a4ab2c12f"),
+                            AuthorId = new Guid("54818f32-b726-4710-b2c1-9f23f96c9459"),
                             Condition = 1,
                             ISBN = "838530500-9",
                             Price = 81m,
@@ -14620,7 +14620,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("aa62e995-b10b-4789-b621-703baf59232e"),
-                            AuthorId = new Guid("0b1719df-a53d-4a59-960e-2b319cb4da9f"),
+                            AuthorId = new Guid("f7959ba7-2b7c-47a7-a457-b644b9918c37"),
                             Condition = 0,
                             ISBN = "810564028-7",
                             Price = 34m,
@@ -14631,7 +14631,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("05cd042b-5a2f-40dc-8cea-211857dd10a5"),
-                            AuthorId = new Guid("0fd926b9-6943-41db-ac79-0973843f33bf"),
+                            AuthorId = new Guid("9df73c6b-69cd-4777-9611-f3e948e3411a"),
                             Condition = 1,
                             ISBN = "856637173-9",
                             Price = 23m,
@@ -14642,7 +14642,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f0edc3c3-1916-4dff-8b30-6ad977ca6c5b"),
-                            AuthorId = new Guid("d8e9849e-557f-4593-b9e5-d4e6b0198199"),
+                            AuthorId = new Guid("21f8daca-d0b9-436d-8c4e-4dd74ae16c60"),
                             Condition = 0,
                             ISBN = "559830187-3",
                             Price = 15m,
@@ -14653,7 +14653,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c5d0398c-ebea-4940-9a60-2aa7c09f23dd"),
-                            AuthorId = new Guid("1acdd02d-b47f-4259-ae8c-a39fe7028d02"),
+                            AuthorId = new Guid("ce4872fd-8e1e-484f-a04e-e7c48ec10fdd"),
                             Condition = 1,
                             ISBN = "507485673-6",
                             Price = 22m,
@@ -14664,7 +14664,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("13b3b7d0-e6a3-4270-ba14-d6031e39222d"),
-                            AuthorId = new Guid("c3edc96c-896f-4475-a3c7-38fd3e4741a8"),
+                            AuthorId = new Guid("8a3ea76d-899f-4eb6-8439-f8b13db07ed7"),
                             Condition = 0,
                             ISBN = "342629683-7",
                             Price = 98m,
@@ -14675,7 +14675,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("29752707-0924-4f70-8e26-ebeafee1530a"),
-                            AuthorId = new Guid("aae74c34-8c53-42d6-af9a-08d855388f1d"),
+                            AuthorId = new Guid("e4d348a5-9076-4c04-b7bf-92f315c83834"),
                             Condition = 1,
                             ISBN = "263986526-9",
                             Price = 74m,
@@ -14686,7 +14686,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3e0f684a-86ad-4533-bd8d-deacaa61a34f"),
-                            AuthorId = new Guid("c8461714-1444-44df-99ac-584134223147"),
+                            AuthorId = new Guid("14847ff0-72b4-48d3-8dc5-e44e4affc390"),
                             Condition = 0,
                             ISBN = "112453631-0",
                             Price = 16m,
@@ -14697,7 +14697,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("46131be1-1a44-40bb-be9f-7f616cafc56c"),
-                            AuthorId = new Guid("39c6d354-bbc8-4bfc-b956-57554d54af7d"),
+                            AuthorId = new Guid("66a53a41-8865-4487-a62a-cc612d55cbe5"),
                             Condition = 1,
                             ISBN = "870555372-5",
                             Price = 94m,
@@ -14708,7 +14708,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b07a8f41-0bbe-43d0-8ff5-5dca27b10a90"),
-                            AuthorId = new Guid("acd774db-b92d-4b71-a6a9-462262f6bd94"),
+                            AuthorId = new Guid("256d821f-4495-49e7-a4f7-79a346692564"),
                             Condition = 0,
                             ISBN = "354605593-4",
                             Price = 22m,
@@ -14719,7 +14719,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("202fec7e-3397-4dac-8b47-ce608e1ccfde"),
-                            AuthorId = new Guid("bdb31640-a03f-4d73-bcb8-ca9f07c27385"),
+                            AuthorId = new Guid("47828315-09dd-4f90-ad30-d9ff11428ee4"),
                             Condition = 1,
                             ISBN = "294548532-X",
                             Price = 38m,
@@ -14730,7 +14730,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("07bdaeec-3a2f-4ac9-a8d3-458f10a9aab8"),
-                            AuthorId = new Guid("62cb760c-f45e-4b29-8937-cb84398e32a7"),
+                            AuthorId = new Guid("9b0eb256-fc6c-44de-8953-691adfd8930f"),
                             Condition = 0,
                             ISBN = "434881680-8",
                             Price = 37m,
@@ -14741,7 +14741,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b9591666-73e4-4c1b-9ff3-be790bf12830"),
-                            AuthorId = new Guid("a7a7194e-dc36-496c-81c4-cd1a4ab2c12f"),
+                            AuthorId = new Guid("ba9e49c9-0d71-4f9f-bbcb-d9dd7056bdf0"),
                             Condition = 1,
                             ISBN = "207828133-6",
                             Price = 78m,
@@ -14752,7 +14752,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fb4cc097-3621-4f92-b3ad-aaa9e2840375"),
-                            AuthorId = new Guid("a4262159-a8c9-4350-8f70-4a09698a6a0d"),
+                            AuthorId = new Guid("386b5f76-9fc7-4cef-acbf-8a813b417a5b"),
                             Condition = 0,
                             ISBN = "450348073-1",
                             Price = 100m,
@@ -14763,7 +14763,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("41bed6c4-460c-46a1-8a6a-e7aeb9cef997"),
-                            AuthorId = new Guid("f7986027-cfa1-4c10-8f34-bf95cb5b812c"),
+                            AuthorId = new Guid("8135d923-47f7-4148-bd36-b000c9c4d83a"),
                             Condition = 1,
                             ISBN = "958525602-9",
                             Price = 68m,
@@ -14774,7 +14774,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("aa5b9346-a38f-4e4b-9471-3e05b1134d11"),
-                            AuthorId = new Guid("f3c84ba8-01c8-4fd2-a47c-0f213462fa28"),
+                            AuthorId = new Guid("6730796b-5dda-4b65-b0d5-83bebe4636fa"),
                             Condition = 0,
                             ISBN = "822043032-X",
                             Price = 96m,
@@ -14785,7 +14785,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("27bb507f-795f-4064-b442-3b0427b8b487"),
-                            AuthorId = new Guid("6770bc5b-adf0-4128-98eb-5467c5941bbe"),
+                            AuthorId = new Guid("dd6be355-b9e4-4f71-ae42-147de20f0e0a"),
                             Condition = 1,
                             ISBN = "041118568-3",
                             Price = 44m,
@@ -14796,7 +14796,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0ad77d8d-456a-49a9-8cca-2f2c5973eee0"),
-                            AuthorId = new Guid("25758eb3-93ba-486c-adc6-5695cb1c1873"),
+                            AuthorId = new Guid("fbdfa480-8d71-4f63-8e5a-4c84f3f36a7b"),
                             Condition = 0,
                             ISBN = "201244386-9",
                             Price = 92m,
@@ -14807,7 +14807,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b80f460d-af38-4956-8f45-481a9c2cbeec"),
-                            AuthorId = new Guid("15a49315-552f-4f6a-9f25-001a5f13ce07"),
+                            AuthorId = new Guid("8e6a6aa0-48bf-477e-93b9-894510dcb1e9"),
                             Condition = 1,
                             ISBN = "668174386-2",
                             Price = 96m,
@@ -14818,7 +14818,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("82665894-2072-47e0-a67e-178f99b3dab9"),
-                            AuthorId = new Guid("6fcb4eaa-f56c-4565-99ae-6c2d42b448ce"),
+                            AuthorId = new Guid("494ceb51-27a1-46bd-bfc3-948cb57ad111"),
                             Condition = 0,
                             ISBN = "909984122-1",
                             Price = 87m,
@@ -14829,7 +14829,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f17763ad-9dfb-4436-90b9-db2273f16e96"),
-                            AuthorId = new Guid("dd0d613b-d3d8-4bd4-b2c0-35cc5aeb3309"),
+                            AuthorId = new Guid("401ea7bf-7319-4c29-85c3-5c68a60ed043"),
                             Condition = 1,
                             ISBN = "773120524-X",
                             Price = 56m,
@@ -14840,7 +14840,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("45a06d80-95fd-400c-82cf-ec9b5c3e540b"),
-                            AuthorId = new Guid("2ca0a633-a9d0-4acd-8441-de22f7bf1298"),
+                            AuthorId = new Guid("03570d2a-9e7a-41af-a8b0-a9f05dcedead"),
                             Condition = 0,
                             ISBN = "043425673-0",
                             Price = 29m,
@@ -14851,7 +14851,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("411c4012-db10-4e9f-a39a-271854414dac"),
-                            AuthorId = new Guid("341a5b3b-f616-4bec-a433-50a0b13065b8"),
+                            AuthorId = new Guid("647ec5d9-55d1-4afc-9473-279ad7a7addc"),
                             Condition = 1,
                             ISBN = "771986467-0",
                             Price = 11m,
@@ -14862,7 +14862,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e657819c-78c1-49f9-b705-f038711f4cc5"),
-                            AuthorId = new Guid("67454c28-8495-457f-8b7e-37afc6ca598f"),
+                            AuthorId = new Guid("5fb2d345-4cd3-4a62-a382-1fd992ec25f8"),
                             Condition = 0,
                             ISBN = "613638106-0",
                             Price = 95m,
@@ -14873,7 +14873,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a9644120-1921-48ef-95f3-6390f7bcc910"),
-                            AuthorId = new Guid("dc7642e1-db94-4d35-b5e3-84706d0884af"),
+                            AuthorId = new Guid("964ced9f-bde7-45bc-9d7d-e9bacc4c3ca8"),
                             Condition = 1,
                             ISBN = "470188544-4",
                             Price = 24m,
@@ -14884,7 +14884,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("14162e6c-344d-45bc-a962-ca3fdfa2a140"),
-                            AuthorId = new Guid("1e5a8cd3-90b4-4446-94bf-d3cbe087b2fd"),
+                            AuthorId = new Guid("326379cb-44c1-4dbd-9790-f48c8d90427e"),
                             Condition = 0,
                             ISBN = "000078504-0",
                             Price = 92m,
@@ -14895,7 +14895,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("06c196ca-4a1a-4d10-ab76-3e94433e4058"),
-                            AuthorId = new Guid("6b751a89-1e62-43ca-b754-2a4123355c9f"),
+                            AuthorId = new Guid("b7b09354-e483-4f8f-b5ae-b41d3ea1f864"),
                             Condition = 1,
                             ISBN = "712173187-8",
                             Price = 19m,
@@ -14906,7 +14906,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4139362b-2a06-4fcc-852f-26262b124efb"),
-                            AuthorId = new Guid("da68975d-212e-451c-b657-5bdafeb21a46"),
+                            AuthorId = new Guid("b4c6e23f-082b-4879-8bfb-c2a58972f4ba"),
                             Condition = 0,
                             ISBN = "402497698-2",
                             Price = 93m,
@@ -14917,7 +14917,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4babd9c3-9b43-457a-8560-43bea89c8340"),
-                            AuthorId = new Guid("60cc65d0-a79d-4980-b433-343607cd3112"),
+                            AuthorId = new Guid("3c419d9d-f3a8-4b9c-baa1-0d9dca4c2a12"),
                             Condition = 1,
                             ISBN = "912369609-5",
                             Price = 93m,
@@ -14928,7 +14928,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4f6c6fa3-0786-4775-8fa1-ad0de40e0c37"),
-                            AuthorId = new Guid("14cdbcd0-aba0-4976-9935-3c320185257c"),
+                            AuthorId = new Guid("f7959ba7-2b7c-47a7-a457-b644b9918c37"),
                             Condition = 0,
                             ISBN = "289531630-9",
                             Price = 26m,
@@ -14939,7 +14939,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a062f27c-f03f-4051-bae5-77dfbace52b1"),
-                            AuthorId = new Guid("a0712bbe-47b4-4ddb-a39a-fa82d285db15"),
+                            AuthorId = new Guid("25d9938b-559c-4bc9-9a35-ee16a0d3e7df"),
                             Condition = 1,
                             ISBN = "761134238-X",
                             Price = 15m,
@@ -14950,7 +14950,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c1f7d063-3681-45af-b07e-f4ebf076e550"),
-                            AuthorId = new Guid("b72ed5a4-9f8e-476a-800f-003e445eb4fd"),
+                            AuthorId = new Guid("bbc1edee-a989-46af-941e-eeefc8c5b2d9"),
                             Condition = 0,
                             ISBN = "638437056-5",
                             Price = 24m,
@@ -14961,7 +14961,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8e6659dd-d91f-4904-957c-518b8ad8f8c6"),
-                            AuthorId = new Guid("8fd75b4f-e4c5-4e9e-83be-1e239089f8b9"),
+                            AuthorId = new Guid("22ec59ab-9e9c-418b-a612-fa6a31d6dede"),
                             Condition = 1,
                             ISBN = "404830063-6",
                             Price = 49m,
@@ -14972,7 +14972,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a8325bd3-a66f-4083-bfd0-defd2067f005"),
-                            AuthorId = new Guid("2bf8eb10-b658-4b7c-8f3f-0c83afc6f851"),
+                            AuthorId = new Guid("7326fe56-760e-4bc8-baa9-9ca6b6b71e79"),
                             Condition = 0,
                             ISBN = "085413745-9",
                             Price = 43m,
@@ -14983,7 +14983,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("315046f5-a28b-454d-aeb9-15ecea0ed087"),
-                            AuthorId = new Guid("c1e6f4e7-5bc8-4371-8064-5fb4223d8f44"),
+                            AuthorId = new Guid("a341da34-9335-4499-8e36-5e49987dad09"),
                             Condition = 1,
                             ISBN = "192629485-8",
                             Price = 2m,
@@ -14994,7 +14994,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("69161cc7-32b0-4bce-906c-bd291f5f2c0a"),
-                            AuthorId = new Guid("b3d74b2b-99f2-4082-9d3d-e8ea53a6f7e6"),
+                            AuthorId = new Guid("229970ab-933e-45b7-b076-9cccb15a39e4"),
                             Condition = 0,
                             ISBN = "615700917-9",
                             Price = 25m,
@@ -15005,7 +15005,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2183d4c1-a1d3-474c-bf4b-d78c9cba45d1"),
-                            AuthorId = new Guid("d08834f2-8e18-444f-a680-32c89b201ba3"),
+                            AuthorId = new Guid("f7bd8da9-4a94-4ec3-a376-f26908b9c4cb"),
                             Condition = 1,
                             ISBN = "156254833-6",
                             Price = 40m,
@@ -15016,7 +15016,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d1a082f7-3abf-4d22-8849-ee57b7dcab39"),
-                            AuthorId = new Guid("70139c7a-6c13-4bdb-87d4-c1694e025026"),
+                            AuthorId = new Guid("b4a7c3ea-59fb-4527-ae1f-055f3aaf840e"),
                             Condition = 0,
                             ISBN = "800100115-6",
                             Price = 19m,
@@ -15027,7 +15027,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("12434bdf-e163-4a51-b89e-04d57cad1a6a"),
-                            AuthorId = new Guid("6c116e93-222e-4813-bd35-97af4e0626eb"),
+                            AuthorId = new Guid("81f5fa8f-5175-4fc1-8b83-ee427c5e2d38"),
                             Condition = 1,
                             ISBN = "461461475-2",
                             Price = 47m,
@@ -15038,7 +15038,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3db98a3d-252a-4ef6-9e50-36998751c878"),
-                            AuthorId = new Guid("71883c85-5cca-49b7-bf9d-ae437f3ba3c4"),
+                            AuthorId = new Guid("664e2bb4-a771-4790-bbeb-ab65c29ceea1"),
                             Condition = 0,
                             ISBN = "809019460-5",
                             Price = 8m,
@@ -15049,7 +15049,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("db5de08e-2190-4779-8607-22f9a5d828fa"),
-                            AuthorId = new Guid("c4f3e616-6dde-4be6-a88b-e49a1b290833"),
+                            AuthorId = new Guid("aac93720-595f-4fcb-8077-67b90e46c631"),
                             Condition = 1,
                             ISBN = "571194126-7",
                             Price = 61m,
@@ -15060,7 +15060,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("06016b2f-bbdd-4629-b988-c61608b70a61"),
-                            AuthorId = new Guid("9c9eb9df-a946-4a61-8ea7-51c5520c10ad"),
+                            AuthorId = new Guid("7a6e7a8f-1aa2-4264-a1de-cc9a0e225219"),
                             Condition = 0,
                             ISBN = "766791762-0",
                             Price = 15m,
@@ -15071,7 +15071,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("adbe3021-d5e4-46ea-bd1e-590eeaf18927"),
-                            AuthorId = new Guid("19fe27c7-6493-4426-9659-576f5fd3f56e"),
+                            AuthorId = new Guid("185539ed-bee6-4c52-a26e-fb3536b0cf4c"),
                             Condition = 1,
                             ISBN = "888313934-8",
                             Price = 86m,
@@ -15082,7 +15082,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8a936d09-aafc-4e55-8ea1-0d27713defd8"),
-                            AuthorId = new Guid("5380e8bf-636b-4486-9044-eb53527f2e05"),
+                            AuthorId = new Guid("2fefbc4d-0264-4f6b-a512-a3d48685e0f6"),
                             Condition = 0,
                             ISBN = "465365926-5",
                             Price = 62m,
@@ -15093,7 +15093,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e25c9eb4-5cd6-4e6f-9b76-11e160f95c9d"),
-                            AuthorId = new Guid("3509cb67-69dc-4549-8169-e4d6b06df798"),
+                            AuthorId = new Guid("f945ae09-4a76-4a1d-883b-f2db1d6baf9e"),
                             Condition = 1,
                             ISBN = "801001383-8",
                             Price = 50m,
@@ -15104,7 +15104,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("005d39dc-c7f9-4fdd-abb9-2c6ae12874c6"),
-                            AuthorId = new Guid("dc355786-5053-47f3-a4f3-1f485701f484"),
+                            AuthorId = new Guid("11a4cdc5-eed6-4764-9d13-e611d8550c37"),
                             Condition = 0,
                             ISBN = "310561398-6",
                             Price = 95m,
@@ -15115,7 +15115,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9aa0aa1d-b61e-4253-ae58-2b077aaebe64"),
-                            AuthorId = new Guid("349749c3-e70b-4fea-b33b-35b913726b2e"),
+                            AuthorId = new Guid("252fb8d4-ae89-4a1f-9e66-56b3572614d6"),
                             Condition = 1,
                             ISBN = "247994339-9",
                             Price = 91m,
@@ -15126,7 +15126,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4f6549d2-e36a-49c4-9a21-a62951d84445"),
-                            AuthorId = new Guid("9d863819-1a15-444a-9ba0-d32368d0a290"),
+                            AuthorId = new Guid("1d2ed38a-b166-4e1e-b29b-77b40826f3ee"),
                             Condition = 0,
                             ISBN = "817463022-8",
                             Price = 7m,
@@ -15137,7 +15137,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f2508e98-dd3c-474f-98bf-17fa9744ec5e"),
-                            AuthorId = new Guid("c04bbafd-405b-4d69-85ce-3675e5d36372"),
+                            AuthorId = new Guid("767bc874-0a68-4fd8-b924-a266cbb16970"),
                             Condition = 1,
                             ISBN = "816868379-X",
                             Price = 71m,
@@ -15148,7 +15148,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("54941d72-f630-4cd3-8760-030dcae23c04"),
-                            AuthorId = new Guid("bec5d41c-ddfa-43b3-9d5f-ee594db919a6"),
+                            AuthorId = new Guid("a9162662-5414-45c0-a970-b80c558f7960"),
                             Condition = 0,
                             ISBN = "796755900-2",
                             Price = 46m,
@@ -15159,7 +15159,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("17664e36-0424-426f-a112-bbc30f3bef46"),
-                            AuthorId = new Guid("fbd14cbb-a961-4de7-b7e3-c40c2cf65528"),
+                            AuthorId = new Guid("2cc7ca14-cd5a-4283-85d0-f60363e8586f"),
                             Condition = 1,
                             ISBN = "552211191-7",
                             Price = 9m,
@@ -15170,7 +15170,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c38cf1ba-3c11-4d3e-a42c-fb44449b7475"),
-                            AuthorId = new Guid("2dc83419-8e8e-4dc1-acef-20ecc8af7807"),
+                            AuthorId = new Guid("fce219f3-8834-472c-88c1-63b338502cf4"),
                             Condition = 0,
                             ISBN = "430886165-9",
                             Price = 96m,
@@ -15181,7 +15181,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7e669fc2-35b1-46bc-ade7-202ac5e8fdd9"),
-                            AuthorId = new Guid("4452c6c0-a983-4da0-bcc5-181563d50429"),
+                            AuthorId = new Guid("1edcd14c-0493-4b96-aa3c-ec7ee6a1b0fb"),
                             Condition = 1,
                             ISBN = "788245536-9",
                             Price = 4m,
@@ -15192,7 +15192,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("60a2e930-3177-4b83-a555-0017d38cd4cf"),
-                            AuthorId = new Guid("66d8b486-0875-40cf-8227-d731fddc8694"),
+                            AuthorId = new Guid("02799096-736a-4566-a74f-98ec03cc4739"),
                             Condition = 0,
                             ISBN = "734731557-3",
                             Price = 13m,
@@ -15203,7 +15203,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6cf18df6-5540-44db-9cbd-bb0f22a826ef"),
-                            AuthorId = new Guid("7b728c79-dc06-4871-aa28-aaad2a702afb"),
+                            AuthorId = new Guid("232cec95-4abf-4ac1-bb61-382e2ed43fab"),
                             Condition = 1,
                             ISBN = "090873273-2",
                             Price = 38m,
@@ -15214,7 +15214,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("52fc1caa-f04f-4db1-a606-3b62250ab881"),
-                            AuthorId = new Guid("de50ff19-01f2-49f1-9ea5-2e779b0486ac"),
+                            AuthorId = new Guid("c6fa5224-be81-4f9c-a902-3a45528cd8fc"),
                             Condition = 0,
                             ISBN = "902440328-6",
                             Price = 71m,
@@ -15225,7 +15225,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fef091c3-2840-47b8-adf4-842df645a514"),
-                            AuthorId = new Guid("6c0a9641-7993-45c5-a852-d3268ac224f2"),
+                            AuthorId = new Guid("5446dc0d-8f2c-421d-ba51-23e441194589"),
                             Condition = 1,
                             ISBN = "628543995-8",
                             Price = 95m,
@@ -15236,7 +15236,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("299f0026-9201-472a-a989-e0b1e263a9fe"),
-                            AuthorId = new Guid("538191e8-5115-410a-8979-245eaf2ee054"),
+                            AuthorId = new Guid("4709a452-58d9-4d4e-a5f4-bff821e166b9"),
                             Condition = 0,
                             ISBN = "526897100-X",
                             Price = 32m,
@@ -15247,7 +15247,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5ea72f70-5b37-44ff-a674-d55b5ab5a0fd"),
-                            AuthorId = new Guid("634d9fa0-566a-4ffb-a490-072d970b866b"),
+                            AuthorId = new Guid("04e32519-5742-41c8-a25d-856bb94791c3"),
                             Condition = 1,
                             ISBN = "124370634-1",
                             Price = 56m,
@@ -15258,7 +15258,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9e35f857-a3e2-41c2-86d6-e5743a6fc661"),
-                            AuthorId = new Guid("dc0553d6-4402-4148-81c5-2d0d228c3902"),
+                            AuthorId = new Guid("e238a33f-e07f-44ca-a839-0c4613eca000"),
                             Condition = 0,
                             ISBN = "462793401-7",
                             Price = 66m,
@@ -15269,7 +15269,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ff9b117c-5336-4844-9db7-9588678240bd"),
-                            AuthorId = new Guid("746ae46b-0158-4ccb-ae3a-4e5a0f76a1c4"),
+                            AuthorId = new Guid("1cc71b44-4682-447a-b01f-6eae33ba6021"),
                             Condition = 1,
                             ISBN = "556973032-X",
                             Price = 82m,
@@ -15280,7 +15280,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("75d79c16-d8de-4843-923f-2d63cc745566"),
-                            AuthorId = new Guid("ec266772-d14c-4450-a84f-4425483a41f4"),
+                            AuthorId = new Guid("2b1f187e-485d-4f46-8ed4-e248ee5939e2"),
                             Condition = 0,
                             ISBN = "257511124-2",
                             Price = 49m,
@@ -15291,7 +15291,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("24b65650-6092-4c56-8a7b-b2a6362ca606"),
-                            AuthorId = new Guid("232f5d75-8488-447f-8b6a-8de60c3673af"),
+                            AuthorId = new Guid("3e50534f-aaf2-42a4-a897-25bb18e61853"),
                             Condition = 1,
                             ISBN = "487840087-0",
                             Price = 56m,
@@ -15302,7 +15302,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("db6a42d4-8361-4fd8-82e3-ccf769d9632c"),
-                            AuthorId = new Guid("7380d008-4710-45ee-aff4-9b69627d8fa0"),
+                            AuthorId = new Guid("0cfe6fc8-62d2-4a55-8a7a-879207aea99e"),
                             Condition = 0,
                             ISBN = "116544000-8",
                             Price = 13m,
@@ -15313,7 +15313,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("74b5a96d-f775-45ed-9f41-1a71d4326e9f"),
-                            AuthorId = new Guid("ec431d1f-308a-49a9-88ef-4f97349a9a6a"),
+                            AuthorId = new Guid("950c5b4c-8097-4def-90f6-92897b550954"),
                             Condition = 1,
                             ISBN = "800749127-9",
                             Price = 31m,
@@ -15324,7 +15324,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1474043e-9db2-44b6-9619-8cc51c085d62"),
-                            AuthorId = new Guid("06c39c93-720b-45fb-9f20-cde1c13a709a"),
+                            AuthorId = new Guid("38bb9aa4-dace-4949-a7df-e51a555c9a5b"),
                             Condition = 0,
                             ISBN = "177218517-5",
                             Price = 72m,
@@ -15335,7 +15335,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("730462d1-cfb2-468d-a008-a057dd1188aa"),
-                            AuthorId = new Guid("3bcc229e-c552-40d7-b152-9c42eb013fe7"),
+                            AuthorId = new Guid("7571a8cd-53ad-458d-9782-005a24eb4288"),
                             Condition = 1,
                             ISBN = "889703253-2",
                             Price = 65m,
@@ -15346,7 +15346,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4114cb3f-9976-4145-936c-609799cd86c6"),
-                            AuthorId = new Guid("b509ccd3-ed6a-43f0-9222-c6f06303c6b5"),
+                            AuthorId = new Guid("a5e1047b-f309-4a2f-80ad-be6ac1620dac"),
                             Condition = 0,
                             ISBN = "460770162-9",
                             Price = 2m,
@@ -15357,7 +15357,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4e903f16-6d10-4807-8c9d-e1c90bfee622"),
-                            AuthorId = new Guid("1839b6d3-6a99-421d-b005-7e4bb9d8c01b"),
+                            AuthorId = new Guid("ae8b313f-5774-4211-8fe0-6ec50efc7357"),
                             Condition = 1,
                             ISBN = "535340792-X",
                             Price = 35m,
@@ -15368,7 +15368,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("91df0a8b-8544-407b-a509-5f2e92bb89e3"),
-                            AuthorId = new Guid("b39bc32c-dd43-4027-b289-dad680195b2e"),
+                            AuthorId = new Guid("111fe738-e92a-43d6-8e12-b3ffa53494b4"),
                             Condition = 0,
                             ISBN = "227773554-X",
                             Price = 69m,
@@ -15379,7 +15379,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cbfd4d4e-bc49-4116-8a03-c6c86ae6eacf"),
-                            AuthorId = new Guid("fa9a2f64-0908-49c8-8afe-d2fc45a83df4"),
+                            AuthorId = new Guid("ae8b313f-5774-4211-8fe0-6ec50efc7357"),
                             Condition = 1,
                             ISBN = "549986074-2",
                             Price = 77m,
@@ -15390,7 +15390,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("185f5b46-ced5-41db-bc9a-8a309d8ebd06"),
-                            AuthorId = new Guid("4a992285-9c76-4376-a679-b8f5ec61d400"),
+                            AuthorId = new Guid("c6539d29-39c9-45c8-b523-ed86ec47fd6e"),
                             Condition = 0,
                             ISBN = "642916309-1",
                             Price = 96m,
@@ -15401,7 +15401,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6a30ca29-2332-40a8-bb8f-9e314eac39b2"),
-                            AuthorId = new Guid("6d97826a-b01a-483c-ad18-7b3b3da99f01"),
+                            AuthorId = new Guid("a900085f-5913-431e-b7cd-80eccb6b8395"),
                             Condition = 1,
                             ISBN = "757405546-7",
                             Price = 72m,
@@ -15412,7 +15412,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8e81a04a-40a3-426f-969a-e35f81737653"),
-                            AuthorId = new Guid("18792222-9315-474a-9dc7-cc10354b7b18"),
+                            AuthorId = new Guid("64a12301-c428-4f23-a5e3-585d7a5d5a0d"),
                             Condition = 0,
                             ISBN = "383287879-3",
                             Price = 64m,
@@ -15423,7 +15423,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c3171133-154b-4eb8-9869-b4468259c9b4"),
-                            AuthorId = new Guid("93bb9671-13f7-4d67-82a6-fcaa7d85951a"),
+                            AuthorId = new Guid("32e34e04-71fb-41f3-9088-6c93796d0b29"),
                             Condition = 1,
                             ISBN = "176649538-9",
                             Price = 74m,
@@ -15434,7 +15434,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7a768c47-f63c-429c-818a-08697dd41fc0"),
-                            AuthorId = new Guid("ceab4e73-213b-494e-b74c-4dc371eff1aa"),
+                            AuthorId = new Guid("bc12fbba-fee0-4b45-b411-4d3c9982e320"),
                             Condition = 0,
                             ISBN = "361182872-6",
                             Price = 24m,
@@ -15445,7 +15445,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9dc2d075-451b-4233-96ec-35ebe05081ef"),
-                            AuthorId = new Guid("a7ff2067-4b59-4e9a-8a89-a328132c95f5"),
+                            AuthorId = new Guid("52e8a95b-e281-48fb-859d-f1e69be66243"),
                             Condition = 1,
                             ISBN = "262802097-1",
                             Price = 94m,
@@ -15456,7 +15456,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("48232cfc-f0be-43af-b824-e45e47ed03fc"),
-                            AuthorId = new Guid("9eaecb0c-d67b-4a3f-9295-28c30aaa7ba7"),
+                            AuthorId = new Guid("f2bbbef9-8a5f-4c7b-80ed-d535ab3fcbda"),
                             Condition = 0,
                             ISBN = "641019043-3",
                             Price = 17m,
@@ -15467,7 +15467,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ce1ae567-7101-4d67-bb34-c18ca5437e7b"),
-                            AuthorId = new Guid("1fd4846d-b277-4efe-b9af-04ff8d7e8697"),
+                            AuthorId = new Guid("6c3098bb-7916-4a60-be20-819f01113d43"),
                             Condition = 1,
                             ISBN = "639947131-1",
                             Price = 23m,
@@ -15478,7 +15478,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("364c6561-4d1c-4bd4-8414-2c65d9ec48d6"),
-                            AuthorId = new Guid("18fbea11-549c-41ea-907a-3c687ee0654f"),
+                            AuthorId = new Guid("bb75f85b-98aa-4ce1-94ae-05ef139890ab"),
                             Condition = 0,
                             ISBN = "807403121-7",
                             Price = 77m,
@@ -15489,7 +15489,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("87d74207-3d61-47dd-926d-7c1e9fa7e2e8"),
-                            AuthorId = new Guid("90b53bcd-c664-4424-870e-f26a379f38fc"),
+                            AuthorId = new Guid("b6b2ec78-76d3-4b28-afe6-873b4a7143eb"),
                             Condition = 1,
                             ISBN = "030519447-X",
                             Price = 65m,
@@ -15500,7 +15500,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e5ec7d00-3c78-48ba-b862-6e4f72ee80d1"),
-                            AuthorId = new Guid("8eb3b3ab-dc56-4722-8307-63aeaab37f60"),
+                            AuthorId = new Guid("37539d2d-7861-490b-8594-45723ac796c3"),
                             Condition = 0,
                             ISBN = "665255721-5",
                             Price = 92m,
@@ -15511,7 +15511,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3f8912dc-3e77-4992-998f-fa2433076f13"),
-                            AuthorId = new Guid("a43f4893-ee73-413d-9004-09c6cf5dfe6c"),
+                            AuthorId = new Guid("933db0cb-7660-41e1-95ec-af29ae185a5f"),
                             Condition = 1,
                             ISBN = "712871580-0",
                             Price = 40m,
@@ -15522,7 +15522,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9bf3ef2e-d02e-4aef-bf93-77ef47df8236"),
-                            AuthorId = new Guid("bde49538-eadc-4a44-8565-cf835cb82819"),
+                            AuthorId = new Guid("3774ab18-9b96-4ff2-894e-b491f4bded5f"),
                             Condition = 0,
                             ISBN = "094829843-X",
                             Price = 23m,
@@ -15533,7 +15533,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("caf5f1d3-ef25-4757-ba97-585e92d0c26e"),
-                            AuthorId = new Guid("9085c603-b419-420c-8cfe-79d7b016daeb"),
+                            AuthorId = new Guid("94711892-cc09-4cff-be09-15dd37732ab0"),
                             Condition = 1,
                             ISBN = "047978133-8",
                             Price = 85m,
@@ -15544,7 +15544,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("02453b3e-1d51-4f41-b6df-7a678da90bfe"),
-                            AuthorId = new Guid("62cb760c-f45e-4b29-8937-cb84398e32a7"),
+                            AuthorId = new Guid("fa8826fe-32c6-4b05-917e-644c8d086c66"),
                             Condition = 0,
                             ISBN = "187933870-X",
                             Price = 67m,
@@ -15555,7 +15555,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e71ad76f-ce89-4937-a0c2-1ec3055b3786"),
-                            AuthorId = new Guid("86ed9210-beca-4454-8457-15c80ef05071"),
+                            AuthorId = new Guid("7568d6a8-8999-446a-b483-b2e36410aa99"),
                             Condition = 1,
                             ISBN = "339272776-8",
                             Price = 76m,
@@ -15566,7 +15566,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2cf134c3-4da4-446b-83b0-009ed7380cb8"),
-                            AuthorId = new Guid("aebf2bd6-1904-43fd-9b2f-c06fdc04f541"),
+                            AuthorId = new Guid("3eb9593d-bc40-401a-bba9-0a55e50b92b3"),
                             Condition = 0,
                             ISBN = "893321237-X",
                             Price = 13m,
@@ -15577,7 +15577,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ff2dfc22-b260-4a07-b367-c66ef56bf427"),
-                            AuthorId = new Guid("3220ed37-c604-47ae-a724-fd7b68bd6e83"),
+                            AuthorId = new Guid("046fe1d4-7087-47da-8774-34504e8bd81e"),
                             Condition = 1,
                             ISBN = "325730765-9",
                             Price = 96m,
@@ -15588,7 +15588,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7e22d526-9d25-4aaa-967c-814a0f9959d8"),
-                            AuthorId = new Guid("7745a287-443b-411e-85a1-97ca5a4ecd48"),
+                            AuthorId = new Guid("423647c2-254e-4039-b952-4d6aea006652"),
                             Condition = 0,
                             ISBN = "180495003-3",
                             Price = 79m,
@@ -15599,7 +15599,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ed4c1f34-c2cb-4819-a86c-a148e9091ef1"),
-                            AuthorId = new Guid("c1edd66b-8a9b-47e1-9e05-f38b31f6a079"),
+                            AuthorId = new Guid("8cac6871-d920-4314-a583-b4a356c3e94a"),
                             Condition = 1,
                             ISBN = "828593803-4",
                             Price = 11m,
@@ -15610,7 +15610,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("18228689-1855-4423-88b3-64f937d84e1d"),
-                            AuthorId = new Guid("60cc65d0-a79d-4980-b433-343607cd3112"),
+                            AuthorId = new Guid("ac86104f-99fc-46cc-bde8-d3643488b9f5"),
                             Condition = 0,
                             ISBN = "447966429-7",
                             Price = 23m,
@@ -15621,7 +15621,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6881d1a7-6b46-4da1-9ed7-56cddaaf467a"),
-                            AuthorId = new Guid("ee8f5d1f-564b-4c7f-afa7-9cd722d21fe9"),
+                            AuthorId = new Guid("592d5354-d786-45a1-be83-b43f3b37f3a3"),
                             Condition = 1,
                             ISBN = "556906963-1",
                             Price = 7m,
@@ -15632,7 +15632,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("80652c6d-7d7f-4ca8-92ef-cf25e09a07b1"),
-                            AuthorId = new Guid("e61caebe-1e1d-444e-9273-3d6cc9b00293"),
+                            AuthorId = new Guid("a47e1b9b-5891-4fd3-8e61-a9775c40889f"),
                             Condition = 0,
                             ISBN = "301301552-7",
                             Price = 55m,
@@ -15643,7 +15643,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a63c1f24-cfb7-4adb-9142-b149a1dd622f"),
-                            AuthorId = new Guid("e5c5d7d3-25cf-4f74-a202-75ac70a95a42"),
+                            AuthorId = new Guid("0ea50946-c919-4dda-9458-401a500a273a"),
                             Condition = 1,
                             ISBN = "801961150-9",
                             Price = 9m,
@@ -15654,7 +15654,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1c3ea19e-6120-449b-80ad-e82f7525ffda"),
-                            AuthorId = new Guid("d08834f2-8e18-444f-a680-32c89b201ba3"),
+                            AuthorId = new Guid("4fe493f2-afff-44b4-b14c-570251ba2fb4"),
                             Condition = 0,
                             ISBN = "189249265-2",
                             Price = 53m,
@@ -15665,7 +15665,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("207ac310-4367-4a21-b9c0-3417c9f8f6ee"),
-                            AuthorId = new Guid("6e82bd0a-0023-42c7-9e46-6a5bb95b7484"),
+                            AuthorId = new Guid("02986f3d-7993-4ed6-9f19-7b9060da22bf"),
                             Condition = 1,
                             ISBN = "567662070-6",
                             Price = 98m,
@@ -15676,7 +15676,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("601d3ce3-12f5-4126-bc92-a3f945d8b9fa"),
-                            AuthorId = new Guid("44f1042a-a088-40ed-beb4-523704d4a286"),
+                            AuthorId = new Guid("82e999ae-718c-4a0f-89b1-28343b8c16a9"),
                             Condition = 0,
                             ISBN = "339998460-X",
                             Price = 71m,
@@ -15687,7 +15687,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("704a0b58-e420-4772-af3c-2ea64f3cd00d"),
-                            AuthorId = new Guid("87fe015d-8af6-45b2-bc90-7fcd7e5a4d68"),
+                            AuthorId = new Guid("68b92eaa-8dfd-4c98-b1dd-94eb535abf39"),
                             Condition = 1,
                             ISBN = "958688726-X",
                             Price = 78m,
@@ -15698,7 +15698,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f4d4e147-3f70-4591-8271-d44aae8700d3"),
-                            AuthorId = new Guid("5eba6825-745d-4bf9-ae68-5216f0e7d617"),
+                            AuthorId = new Guid("b494f505-33a6-48f5-8822-f1602c7e5405"),
                             Condition = 0,
                             ISBN = "163441510-8",
                             Price = 55m,
@@ -15709,7 +15709,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4343f8aa-5577-4208-b1d7-413eb427ba13"),
-                            AuthorId = new Guid("76d4abc7-148b-41fc-aab6-06f05c220f36"),
+                            AuthorId = new Guid("52e63947-0c91-42a2-ab2f-781d606990b6"),
                             Condition = 1,
                             ISBN = "381992581-3",
                             Price = 36m,
@@ -15720,7 +15720,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("682a86aa-ee66-4d2c-925f-c1decae0ba79"),
-                            AuthorId = new Guid("e20ec806-ab19-45e5-a878-919cce82288f"),
+                            AuthorId = new Guid("8ecc96fc-c5ec-448a-a49e-4f235d68b104"),
                             Condition = 0,
                             ISBN = "283614005-4",
                             Price = 16m,
@@ -15731,7 +15731,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d496c5ee-0415-4d11-9163-5362da48a78c"),
-                            AuthorId = new Guid("c3edc96c-896f-4475-a3c7-38fd3e4741a8"),
+                            AuthorId = new Guid("4ee6d229-03de-4ca8-9719-8f7f6d261df2"),
                             Condition = 1,
                             ISBN = "667358568-4",
                             Price = 61m,
@@ -15742,7 +15742,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d6cfa3f6-8061-4828-a787-8c157fad5c11"),
-                            AuthorId = new Guid("7d761b80-085d-43e6-bb2c-effe2393d35f"),
+                            AuthorId = new Guid("324c64d3-8bc3-4249-9696-44ffd927f70e"),
                             Condition = 0,
                             ISBN = "224843276-3",
                             Price = 12m,
@@ -15753,7 +15753,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4f2b8235-5cf5-45e2-94d4-ddec7ec87d9c"),
-                            AuthorId = new Guid("73a974f3-4c0a-4160-8832-631bdcf99123"),
+                            AuthorId = new Guid("9a0751b7-2868-4612-9f9d-cfb9a3c6d6f8"),
                             Condition = 1,
                             ISBN = "702243089-6",
                             Price = 28m,
@@ -15764,7 +15764,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("64149ac4-c502-4691-90e2-0e8de7243be2"),
-                            AuthorId = new Guid("af027d77-54e8-417e-b2b0-e40479c99b94"),
+                            AuthorId = new Guid("34730da2-c6f5-4c5d-abdf-306264ae1efa"),
                             Condition = 0,
                             ISBN = "577033748-6",
                             Price = 10m,
@@ -15775,7 +15775,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e4d89323-ce60-4445-94e4-4b91abf38f7b"),
-                            AuthorId = new Guid("1a5d8925-407a-4ca7-bc00-66e78e78d0a1"),
+                            AuthorId = new Guid("b8bda36e-7e22-4bfc-bd64-f7008a37a306"),
                             Condition = 1,
                             ISBN = "980295761-5",
                             Price = 47m,
@@ -15786,7 +15786,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8edd81df-422d-419c-b6fb-c660e9d2ab65"),
-                            AuthorId = new Guid("90fc885d-7fb1-46d0-8a1b-c77c9bd0dc58"),
+                            AuthorId = new Guid("ba9e49c9-0d71-4f9f-bbcb-d9dd7056bdf0"),
                             Condition = 0,
                             ISBN = "927735748-7",
                             Price = 6m,
@@ -15797,7 +15797,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e03ea270-36f6-4590-a1f7-417b306f307e"),
-                            AuthorId = new Guid("ff54134d-ee85-4c4f-b8f6-60d704d65ecf"),
+                            AuthorId = new Guid("224ff109-07d5-427e-87c5-6e71a3579c37"),
                             Condition = 1,
                             ISBN = "480572671-7",
                             Price = 97m,
@@ -15808,7 +15808,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("aeac8e4a-8870-4744-bb9a-0cbd95bdeea2"),
-                            AuthorId = new Guid("27f5d1db-4c36-40ac-bbc2-abf4ff04c750"),
+                            AuthorId = new Guid("6117e18a-5620-40d3-95fe-4c3653692444"),
                             Condition = 0,
                             ISBN = "570658461-3",
                             Price = 28m,
@@ -15819,7 +15819,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ccd60f7d-6bd8-472c-a657-a7a543cda0a9"),
-                            AuthorId = new Guid("eb7e4fca-a451-4452-a2dd-7b83e372311a"),
+                            AuthorId = new Guid("6561f5fc-b8ba-4216-8941-4167d91b82b0"),
                             Condition = 1,
                             ISBN = "758694375-3",
                             Price = 80m,
@@ -15830,7 +15830,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b58d62d7-6bad-4366-b6b9-f1c479241aa9"),
-                            AuthorId = new Guid("8222e14d-e58d-42f2-94f1-0f20706eb0ac"),
+                            AuthorId = new Guid("9232de14-44d5-4e8d-818a-3cbe4556ef4f"),
                             Condition = 0,
                             ISBN = "038261635-9",
                             Price = 48m,
@@ -15841,7 +15841,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d02f0a8b-b309-44bc-b42b-bb8b3a3ca9bf"),
-                            AuthorId = new Guid("8e172b22-464d-4821-9e44-42930a56bba8"),
+                            AuthorId = new Guid("bb054d78-d2e2-46cd-8a88-d77724e2b9bd"),
                             Condition = 1,
                             ISBN = "948728718-3",
                             Price = 74m,
@@ -15852,7 +15852,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("04ee5d9d-f5f2-4a81-99f4-692d4ff7df30"),
-                            AuthorId = new Guid("5380659f-2ce3-4bfe-a1db-003100941591"),
+                            AuthorId = new Guid("5c4b8af6-71d2-45bd-89f8-3750a4ce7cde"),
                             Condition = 0,
                             ISBN = "686260007-9",
                             Price = 46m,
@@ -15863,7 +15863,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("971dfac2-becd-478e-8981-16446d79152d"),
-                            AuthorId = new Guid("2ca0a633-a9d0-4acd-8441-de22f7bf1298"),
+                            AuthorId = new Guid("8135d923-47f7-4148-bd36-b000c9c4d83a"),
                             Condition = 1,
                             ISBN = "760261301-5",
                             Price = 70m,
@@ -15874,7 +15874,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e3e54b58-765a-4328-b9fe-7453f40bde4a"),
-                            AuthorId = new Guid("c7df2366-2784-450c-b014-d58ed22de0a7"),
+                            AuthorId = new Guid("0d20937b-4a42-40b7-adce-a15ec0b5a1bd"),
                             Condition = 0,
                             ISBN = "327214942-2",
                             Price = 8m,
@@ -15885,7 +15885,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("486275f3-bb34-44ec-a5a5-4bd27ccf35f6"),
-                            AuthorId = new Guid("b0c354b9-70e3-4f31-a6f4-a3d1da30d4a7"),
+                            AuthorId = new Guid("7883a011-53cc-4fbc-ad71-9670067534ac"),
                             Condition = 1,
                             ISBN = "492108322-3",
                             Price = 51m,
@@ -15896,7 +15896,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c1102edf-c8d6-447b-9982-0a321f882ce8"),
-                            AuthorId = new Guid("4efcad9f-201a-49c5-a612-e6fd0f8d6c31"),
+                            AuthorId = new Guid("31638203-4647-43ed-96cf-eb0accfddb62"),
                             Condition = 0,
                             ISBN = "921606505-2",
                             Price = 15m,
@@ -15907,7 +15907,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("981f86bd-c775-49fc-958d-fd0d910c02fe"),
-                            AuthorId = new Guid("6c116e93-222e-4813-bd35-97af4e0626eb"),
+                            AuthorId = new Guid("78f4cda4-26e8-4086-a51b-d9e462b9453e"),
                             Condition = 1,
                             ISBN = "944797055-9",
                             Price = 65m,
@@ -15918,7 +15918,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("98bf76fc-bf82-4a29-8f96-782eacc84ff1"),
-                            AuthorId = new Guid("956dfc48-c43b-4e91-9353-9105e1860300"),
+                            AuthorId = new Guid("2bc397a1-5b1b-4d9c-8344-fac5270f04d1"),
                             Condition = 0,
                             ISBN = "288875218-2",
                             Price = 6m,
@@ -15929,7 +15929,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("94506ed9-6e90-491b-94e3-891c6e0965c9"),
-                            AuthorId = new Guid("bd9e488f-ec59-459b-98f8-cec2351d2982"),
+                            AuthorId = new Guid("a975cfc8-48d5-4cf2-8d3c-7755f476fab3"),
                             Condition = 1,
                             ISBN = "909947497-0",
                             Price = 84m,
@@ -15940,7 +15940,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("27d5f3fd-0c54-4fb7-a674-8affa6ebc724"),
-                            AuthorId = new Guid("5f7219c5-694a-4792-860a-852f7bfddfff"),
+                            AuthorId = new Guid("40a41746-a928-433d-a5bb-50a3d6578791"),
                             Condition = 0,
                             ISBN = "004865469-8",
                             Price = 1m,
@@ -15951,7 +15951,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("34d12da4-20d6-40a5-bd08-44d072908ff9"),
-                            AuthorId = new Guid("3cd90b43-7ca5-41b3-a60c-bdcdf3b005ff"),
+                            AuthorId = new Guid("a1ea82aa-74bb-4906-b702-90e2fa09bd8b"),
                             Condition = 1,
                             ISBN = "417045338-7",
                             Price = 5m,
@@ -15962,7 +15962,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d002219a-aab9-457d-841d-f0ebe0f2bf08"),
-                            AuthorId = new Guid("a2f76f52-8aa5-4ce4-b11b-138586c1af09"),
+                            AuthorId = new Guid("2934d8b4-5b46-472f-b695-8a211852bebb"),
                             Condition = 0,
                             ISBN = "950289853-2",
                             Price = 84m,
@@ -15973,7 +15973,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9fc00830-d4c0-497e-b33c-086679fc6d1e"),
-                            AuthorId = new Guid("f23e51a1-c7bc-48c0-ac59-1160a4ef636a"),
+                            AuthorId = new Guid("ec2bed8f-fd0a-470d-8241-183757ad24bc"),
                             Condition = 1,
                             ISBN = "632868201-8",
                             Price = 31m,
@@ -15984,7 +15984,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3f9b8ec0-3d8f-4bb0-9575-36ce1f619f23"),
-                            AuthorId = new Guid("bdbfb312-e3f0-43da-8f7f-9f4de500cb37"),
+                            AuthorId = new Guid("15c81f9f-845b-45cc-8d37-5ba884d27328"),
                             Condition = 0,
                             ISBN = "196421575-7",
                             Price = 44m,
@@ -15995,7 +15995,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a734b0dc-cacf-44c5-b492-132bcc6ad0ef"),
-                            AuthorId = new Guid("079aafe1-97db-4416-8a2d-7e598149b737"),
+                            AuthorId = new Guid("55a726b0-1d71-4dfb-a108-8dfb414c688a"),
                             Condition = 1,
                             ISBN = "098294916-2",
                             Price = 91m,
@@ -16006,7 +16006,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fb4ede79-2f27-423e-bb52-e5123e69f758"),
-                            AuthorId = new Guid("1d7920d7-15ce-4044-8504-1751bfbe535b"),
+                            AuthorId = new Guid("1edcd14c-0493-4b96-aa3c-ec7ee6a1b0fb"),
                             Condition = 0,
                             ISBN = "720187729-1",
                             Price = 100m,
@@ -16017,7 +16017,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d4a25134-ff1a-4c0f-b00a-c5e26fdd527f"),
-                            AuthorId = new Guid("8e3c13b0-12ad-4e03-a097-560841a5733e"),
+                            AuthorId = new Guid("075970c3-c814-497c-b707-e33abc5b420c"),
                             Condition = 1,
                             ISBN = "728323093-9",
                             Price = 94m,
@@ -16028,7 +16028,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7d50adc3-22f7-4bb2-96e9-81bbcd84fd83"),
-                            AuthorId = new Guid("3de133f0-d8f0-4114-a2f5-83c51e166f2a"),
+                            AuthorId = new Guid("52e8a95b-e281-48fb-859d-f1e69be66243"),
                             Condition = 0,
                             ISBN = "743939457-7",
                             Price = 39m,
@@ -16039,7 +16039,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("ce32a641-7f87-418b-b74f-b2a396b5ac55"),
-                            AuthorId = new Guid("a44875d4-7608-4c3b-837b-bc7d912760b9"),
+                            AuthorId = new Guid("86fcf8c8-36ba-4d3b-9205-f7a34f0bc98c"),
                             Condition = 1,
                             ISBN = "148680121-8",
                             Price = 14m,
@@ -16050,7 +16050,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3df3c7ca-6127-45a2-a872-e4b2b09eecbc"),
-                            AuthorId = new Guid("7bd14181-3064-45eb-8a57-735bbb4f3ee1"),
+                            AuthorId = new Guid("ea782053-d699-4b44-abf7-6814bda750a4"),
                             Condition = 0,
                             ISBN = "752428500-0",
                             Price = 53m,
@@ -16061,7 +16061,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f9021ec2-3b15-4717-96ac-7703d97406fd"),
-                            AuthorId = new Guid("4a89df1e-4263-4bd3-b3f5-ec47d399ef7f"),
+                            AuthorId = new Guid("9d4283e3-f3bb-4823-95c8-e8b8e2ae062e"),
                             Condition = 1,
                             ISBN = "238232225-X",
                             Price = 5m,
@@ -16072,7 +16072,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5165b1c9-760d-451a-b42f-07a75661a974"),
-                            AuthorId = new Guid("53433646-0e07-4145-bedb-0db50cb74707"),
+                            AuthorId = new Guid("a42688eb-0374-42b3-bb9d-3f25a394b135"),
                             Condition = 0,
                             ISBN = "298768146-1",
                             Price = 22m,
@@ -16083,7 +16083,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6eec0b9c-cd39-49fd-9396-2ea76c1a25e3"),
-                            AuthorId = new Guid("d1366bc9-d394-4617-a7da-855969af4d93"),
+                            AuthorId = new Guid("32bc8550-3e0f-4a7a-971f-577f71ae3e67"),
                             Condition = 1,
                             ISBN = "091056216-4",
                             Price = 78m,
@@ -16094,7 +16094,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("24ea8d32-e255-4efd-8ebd-cc481394cf05"),
-                            AuthorId = new Guid("b332f0d9-946f-4d7d-b546-60bc208688d6"),
+                            AuthorId = new Guid("f92fae4e-4d66-4084-91cf-1bf4024c344e"),
                             Condition = 0,
                             ISBN = "150390666-3",
                             Price = 46m,
@@ -16105,7 +16105,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("51793b75-3146-4df4-b321-95a7f6f64d5e"),
-                            AuthorId = new Guid("b6c36cb9-0939-417d-b2c9-2223332af34e"),
+                            AuthorId = new Guid("3fbf7092-f6db-40f6-a071-e380fa7396b9"),
                             Condition = 1,
                             ISBN = "751464420-2",
                             Price = 22m,
@@ -16116,7 +16116,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9f9f9710-c90b-4001-9a7d-aee3c7dc39c1"),
-                            AuthorId = new Guid("bd936aea-5632-4ec9-9bde-ce8eca0fb7e4"),
+                            AuthorId = new Guid("816fca36-932b-4d46-9672-c86ab2d1a761"),
                             Condition = 0,
                             ISBN = "592540034-8",
                             Price = 95m,
@@ -16127,7 +16127,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("cb0ba315-eace-472e-a0f5-af04095eef89"),
-                            AuthorId = new Guid("afdc2c84-da2b-4484-9418-19a304712224"),
+                            AuthorId = new Guid("fb80b824-fb7d-4c00-8775-5cf972f5d617"),
                             Condition = 1,
                             ISBN = "811651998-0",
                             Price = 62m,
@@ -16138,7 +16138,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e61dfbf2-648d-44c1-99db-18c507cafc44"),
-                            AuthorId = new Guid("a6e9a2da-b223-44d9-be33-1d1f3ef18b2e"),
+                            AuthorId = new Guid("2a237be4-7284-4377-9f1f-e0a7488840fa"),
                             Condition = 0,
                             ISBN = "206237926-9",
                             Price = 12m,
@@ -16149,7 +16149,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d03dd4f7-7b18-49ec-95be-611c59b75eaa"),
-                            AuthorId = new Guid("69a396b6-43f2-416e-a00e-b3adfea00c88"),
+                            AuthorId = new Guid("3ac51046-0601-4e30-9b75-103caeb7c136"),
                             Condition = 1,
                             ISBN = "049396704-4",
                             Price = 78m,
@@ -16160,7 +16160,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c8d5576a-8e88-444a-9e8c-a93a9505e45b"),
-                            AuthorId = new Guid("8bc2fbf2-b8be-420a-ab41-e49c44123753"),
+                            AuthorId = new Guid("075970c3-c814-497c-b707-e33abc5b420c"),
                             Condition = 0,
                             ISBN = "215266294-6",
                             Price = 49m,
@@ -16171,7 +16171,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f4833dae-74bb-4d59-b344-a0c8e6039670"),
-                            AuthorId = new Guid("af027d77-54e8-417e-b2b0-e40479c99b94"),
+                            AuthorId = new Guid("fb6aa37b-5c00-4b43-b4db-659a1d0abf73"),
                             Condition = 1,
                             ISBN = "880396054-6",
                             Price = 55m,
@@ -16182,7 +16182,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c3fd924d-6327-4ace-b4e7-01b6ad6bc56c"),
-                            AuthorId = new Guid("0d5ffc92-f835-466a-b57b-bb5539613e8b"),
+                            AuthorId = new Guid("610c6f67-7e9c-476c-884b-14345fb44c41"),
                             Condition = 0,
                             ISBN = "332073897-6",
                             Price = 26m,
@@ -16193,7 +16193,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("bb884438-3581-4ba0-b901-51b47a7a3684"),
-                            AuthorId = new Guid("e6d2c155-9c3c-463c-98f3-0f7699e65c49"),
+                            AuthorId = new Guid("adbc5be3-dfae-4089-93ae-e9cf33729123"),
                             Condition = 1,
                             ISBN = "178527703-0",
                             Price = 53m,
@@ -16204,7 +16204,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2e1016f9-a383-4245-afb0-65b3aed699a7"),
-                            AuthorId = new Guid("25b44da4-0905-40c9-8f98-1be78cb9a2cf"),
+                            AuthorId = new Guid("30b772b0-6d2f-4ad3-acc9-6ea8e3d6f564"),
                             Condition = 0,
                             ISBN = "147661192-0",
                             Price = 18m,
@@ -16215,7 +16215,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f2e733de-a39c-4815-a8bd-b391877aed4e"),
-                            AuthorId = new Guid("25b79ec2-1697-4225-8c1b-300f80dc54b2"),
+                            AuthorId = new Guid("1cd58c0a-fa42-4cd1-8a8b-e65966a4a5c4"),
                             Condition = 1,
                             ISBN = "051456800-3",
                             Price = 20m,
@@ -16226,7 +16226,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f6efb1e6-5bbe-4121-b87f-3035409c81a9"),
-                            AuthorId = new Guid("7d025fa4-0ce3-4792-bf95-d6362c98db02"),
+                            AuthorId = new Guid("ee3c19cd-724e-4b71-9bd8-33fdc3c5cb2f"),
                             Condition = 0,
                             ISBN = "837997841-2",
                             Price = 63m,
@@ -16237,7 +16237,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("6365c638-9d71-498f-84ed-4ffaf2849d72"),
-                            AuthorId = new Guid("131b5100-5a51-4590-818b-b3512bfd116d"),
+                            AuthorId = new Guid("25e40565-abaa-457e-8c55-18d4b441d66f"),
                             Condition = 1,
                             ISBN = "512428150-2",
                             Price = 44m,
@@ -16248,7 +16248,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("af00565d-d57c-48ea-b12d-1c81e96396b0"),
-                            AuthorId = new Guid("f3a7d97c-16be-4402-8c8a-978a85d6b254"),
+                            AuthorId = new Guid("e2ee3d18-a5b2-46ca-8b85-8fe904998fb1"),
                             Condition = 0,
                             ISBN = "306865943-4",
                             Price = 72m,
@@ -16259,7 +16259,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("67713314-29c0-4dc9-a6a7-f10411e760b5"),
-                            AuthorId = new Guid("a136d6b3-28a6-43b4-912a-7bd9c4fd48de"),
+                            AuthorId = new Guid("e95f4ba7-fc06-4f4a-8ede-22696de26201"),
                             Condition = 1,
                             ISBN = "450412298-7",
                             Price = 57m,
@@ -16270,7 +16270,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d67532d9-e190-40d9-9467-48347492d3e1"),
-                            AuthorId = new Guid("8fd75b4f-e4c5-4e9e-83be-1e239089f8b9"),
+                            AuthorId = new Guid("b75e3d75-e6f6-423c-9d9a-8a928f38ea10"),
                             Condition = 0,
                             ISBN = "854166766-9",
                             Price = 72m,
@@ -16281,7 +16281,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8ff86aaf-18b9-44c7-a2e5-6f1846876e48"),
-                            AuthorId = new Guid("f6e1ed45-6cd2-41f2-985d-8c144810f820"),
+                            AuthorId = new Guid("3ab93622-de7d-45a3-a7c6-826662d6ed51"),
                             Condition = 1,
                             ISBN = "773492900-1",
                             Price = 38m,
@@ -16292,7 +16292,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("47c4d01e-5761-4290-8e9c-64700833fdab"),
-                            AuthorId = new Guid("ee8e3c8c-a3df-430b-8e07-98267892abe7"),
+                            AuthorId = new Guid("1b53949d-cb5b-4b8d-8de0-1520904c18f4"),
                             Condition = 0,
                             ISBN = "153931191-0",
                             Price = 11m,
@@ -16303,7 +16303,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("846e7dea-1aae-49e7-b04c-33842ec0f4f1"),
-                            AuthorId = new Guid("7177638d-3369-4b4d-b812-408159198a4f"),
+                            AuthorId = new Guid("1244e55f-6e2c-4c8c-b419-09b22eb5c76c"),
                             Condition = 1,
                             ISBN = "546686000-X",
                             Price = 63m,
@@ -16314,7 +16314,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("90744394-fe99-4ec7-af77-6104ca40639e"),
-                            AuthorId = new Guid("69a396b6-43f2-416e-a00e-b3adfea00c88"),
+                            AuthorId = new Guid("cb1f6f39-8e1f-45a9-a6d1-4ec5387f2382"),
                             Condition = 0,
                             ISBN = "186584630-9",
                             Price = 71m,
@@ -16325,7 +16325,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a141a76b-5d9f-4561-9916-22da6f212899"),
-                            AuthorId = new Guid("2e795847-4b82-493d-981f-aa0aecbaf839"),
+                            AuthorId = new Guid("c3d2e8c9-4c42-4986-9312-be849c57db6f"),
                             Condition = 1,
                             ISBN = "921349451-3",
                             Price = 93m,
@@ -16336,7 +16336,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7bc6e961-c011-4b61-baac-98cdbf37cf73"),
-                            AuthorId = new Guid("bedc959a-ea91-4220-8b7e-71dff6e099bc"),
+                            AuthorId = new Guid("c72f4efc-493a-42b5-b778-7d5962fbddfb"),
                             Condition = 0,
                             ISBN = "995119552-0",
                             Price = 56m,
@@ -16347,7 +16347,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("1412462a-4e7f-4169-b618-e61778eb5fac"),
-                            AuthorId = new Guid("e9829cd2-b11e-4e81-8920-df37bec75c68"),
+                            AuthorId = new Guid("20ae50b8-19b6-4538-94e0-be4d549d38ab"),
                             Condition = 1,
                             ISBN = "718480400-7",
                             Price = 1m,
@@ -16358,7 +16358,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("2925ca76-fbaf-4fa5-996b-66bcd015f738"),
-                            AuthorId = new Guid("9196f1a3-d6d5-4a1d-a167-040c85293f4a"),
+                            AuthorId = new Guid("b875541b-160e-4017-99ab-6c85edd18a1d"),
                             Condition = 0,
                             ISBN = "757990250-8",
                             Price = 71m,
@@ -16369,7 +16369,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("8b1e9bb5-4d92-4132-89d7-0068c2733d46"),
-                            AuthorId = new Guid("7c9d8b2b-cec8-401f-ac51-d35b2fbe0a59"),
+                            AuthorId = new Guid("65898c1a-e6ef-4f28-84bf-e07e9b8d95c2"),
                             Condition = 1,
                             ISBN = "233570030-8",
                             Price = 26m,
@@ -16380,7 +16380,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3edf0e07-19e9-4882-891e-63fae5681223"),
-                            AuthorId = new Guid("03a5bd12-ef92-4d66-91bb-9da8d3666f82"),
+                            AuthorId = new Guid("c2c6387e-27d8-472a-a979-4d09e5e6795c"),
                             Condition = 0,
                             ISBN = "105233786-4",
                             Price = 77m,
@@ -16391,7 +16391,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("781ca1ad-1444-4b14-ba6e-9595d7c60d85"),
-                            AuthorId = new Guid("5aef495f-a566-46f1-aae2-66d7c497630e"),
+                            AuthorId = new Guid("22cb78f6-a269-4fd8-ba39-e0c269281678"),
                             Condition = 1,
                             ISBN = "400128478-2",
                             Price = 40m,
@@ -16402,7 +16402,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("176dde9f-dda4-4ab3-9227-0b229d473620"),
-                            AuthorId = new Guid("ace3e3d5-bf0c-4164-a962-d9e5ac5e8bd6"),
+                            AuthorId = new Guid("eb4b6e0a-857d-47d0-9b0f-3fa54de4031b"),
                             Condition = 0,
                             ISBN = "052816009-5",
                             Price = 16m,
@@ -16413,7 +16413,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("35e7a699-0076-49e2-8016-da5e03617d68"),
-                            AuthorId = new Guid("76d4abc7-148b-41fc-aab6-06f05c220f36"),
+                            AuthorId = new Guid("8a3ea76d-899f-4eb6-8439-f8b13db07ed7"),
                             Condition = 1,
                             ISBN = "642231743-3",
                             Price = 68m,
@@ -16424,7 +16424,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0b534599-a0dc-4ce2-82fd-f4aac0e6cb06"),
-                            AuthorId = new Guid("0b933755-3929-4970-9e65-924c1ad9d427"),
+                            AuthorId = new Guid("ddcdbe50-5201-46ec-b655-5d10493bd18e"),
                             Condition = 0,
                             ISBN = "156499078-8",
                             Price = 3m,
@@ -16435,7 +16435,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f7eefbcc-91dd-4b6f-875c-208ec0c415e3"),
-                            AuthorId = new Guid("6b751a89-1e62-43ca-b754-2a4123355c9f"),
+                            AuthorId = new Guid("f2353e53-7336-4b0a-b8ac-30ef2ab8d71a"),
                             Condition = 1,
                             ISBN = "216588655-4",
                             Price = 64m,
@@ -16446,7 +16446,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3084d9c0-58a4-430e-af68-0d033352f86f"),
-                            AuthorId = new Guid("72b841d4-68b1-4e9b-a767-fb498485e408"),
+                            AuthorId = new Guid("c8d9079a-92b5-4702-a4dd-d0711e717560"),
                             Condition = 0,
                             ISBN = "719450396-4",
                             Price = 19m,
@@ -16457,7 +16457,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("384d64cd-5de9-4878-8bcc-90b073d2c9da"),
-                            AuthorId = new Guid("3de133f0-d8f0-4114-a2f5-83c51e166f2a"),
+                            AuthorId = new Guid("03458824-6f8d-4a1f-aa92-c9525b3da309"),
                             Condition = 1,
                             ISBN = "682362698-4",
                             Price = 53m,
@@ -16468,7 +16468,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3c06f6d1-95f7-4326-9253-94beb2f3d77b"),
-                            AuthorId = new Guid("eadec3b1-2ad4-4b78-86a8-d56dd9247e64"),
+                            AuthorId = new Guid("1e6e74bd-ed3f-4f93-85ee-cf1df0237f12"),
                             Condition = 0,
                             ISBN = "592878006-0",
                             Price = 96m,
@@ -16479,7 +16479,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("aa44ce8b-4e6e-4c23-a5c1-1471661e1370"),
-                            AuthorId = new Guid("c623c617-f77b-4bdb-b49c-9caaa774480b"),
+                            AuthorId = new Guid("adbbf59f-ebe5-47f0-8c7d-38ece9caf783"),
                             Condition = 1,
                             ISBN = "740704011-7",
                             Price = 12m,
@@ -16490,7 +16490,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("87150a28-be3a-4517-adb3-e1d511b0be53"),
-                            AuthorId = new Guid("8736b406-20a0-431a-aa2c-69b69fe7f7a4"),
+                            AuthorId = new Guid("84622459-6a1d-47ab-a0ae-30f4d2d055a7"),
                             Condition = 0,
                             ISBN = "541866436-0",
                             Price = 77m,
@@ -16501,7 +16501,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d86cc588-9a26-4197-9e83-c9b1e3c53929"),
-                            AuthorId = new Guid("34b4c9ac-5700-4e88-914a-e2da78e1b8bd"),
+                            AuthorId = new Guid("32e34e04-71fb-41f3-9088-6c93796d0b29"),
                             Condition = 1,
                             ISBN = "873675686-5",
                             Price = 87m,
@@ -16512,7 +16512,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c05701dc-ab9b-4337-a4f8-501eeac7bec1"),
-                            AuthorId = new Guid("53433646-0e07-4145-bedb-0db50cb74707"),
+                            AuthorId = new Guid("4c0870d8-1e53-43c6-b1de-90acc01a0a9f"),
                             Condition = 0,
                             ISBN = "372586035-1",
                             Price = 43m,
@@ -16523,7 +16523,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b38e13c0-eaa8-4525-ba35-63428a114c28"),
-                            AuthorId = new Guid("2eefb633-abad-4f17-83a1-ff1e8cd24f4d"),
+                            AuthorId = new Guid("47271314-0b96-42cd-981e-5c80677cb263"),
                             Condition = 1,
                             ISBN = "067718579-0",
                             Price = 89m,
@@ -16534,7 +16534,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("39248f1f-8e96-4fe2-88e6-4fb16fd33816"),
-                            AuthorId = new Guid("4ab0609d-4af7-43fa-9c0c-8c7cff1b8816"),
+                            AuthorId = new Guid("f5bcd03f-c7d5-49fd-ab44-766807ea6b4b"),
                             Condition = 0,
                             ISBN = "100305524-9",
                             Price = 98m,
@@ -16545,7 +16545,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f7cf360e-b861-4d86-882d-f98b4629e547"),
-                            AuthorId = new Guid("67cd07fc-a2c7-4630-9512-fd8a0a807b14"),
+                            AuthorId = new Guid("6267066c-4567-4468-af2f-aff6e58ee6b8"),
                             Condition = 1,
                             ISBN = "660298487-X",
                             Price = 1m,
@@ -16556,7 +16556,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("3ed87488-7c93-4dbe-8933-3d39d18a91dc"),
-                            AuthorId = new Guid("0cf94f39-c58f-40de-b848-abb34fcdab11"),
+                            AuthorId = new Guid("f6afcae0-ed2a-4d59-8064-ade880e77423"),
                             Condition = 0,
                             ISBN = "099539348-6",
                             Price = 22m,
@@ -16567,7 +16567,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4af726e2-3aeb-4091-95e2-bf6355b9494e"),
-                            AuthorId = new Guid("28c0521f-97a0-4e21-a7bc-45028ef1eb09"),
+                            AuthorId = new Guid("0da82f1f-4dfe-4677-98f5-676814825e21"),
                             Condition = 1,
                             ISBN = "102300186-1",
                             Price = 98m,
@@ -16578,7 +16578,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("515bcf9e-e3c2-4765-9cb1-0ea58a8a0144"),
-                            AuthorId = new Guid("8744a906-2952-4236-b56d-f60d81c02330"),
+                            AuthorId = new Guid("5446dc0d-8f2c-421d-ba51-23e441194589"),
                             Condition = 0,
                             ISBN = "223062722-8",
                             Price = 6m,
@@ -16589,7 +16589,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("333f945e-7a90-4267-9e26-d21b0b1541e8"),
-                            AuthorId = new Guid("3e9fde8a-0dd7-401b-9a87-fab3fab8fa55"),
+                            AuthorId = new Guid("c992260c-f977-4c35-a074-16318c21a15e"),
                             Condition = 1,
                             ISBN = "861180685-9",
                             Price = 44m,
@@ -16600,7 +16600,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5acc936e-c69a-4497-b3b6-62a4a5b1020f"),
-                            AuthorId = new Guid("f23e51a1-c7bc-48c0-ac59-1160a4ef636a"),
+                            AuthorId = new Guid("6b30ad5a-3526-4a61-9b40-a50d3dce45f3"),
                             Condition = 0,
                             ISBN = "468501000-0",
                             Price = 53m,
@@ -16611,7 +16611,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b36c0cb0-60d0-46a7-86da-7e3160202519"),
-                            AuthorId = new Guid("b6492e83-2cc9-4841-828b-4e195b88325e"),
+                            AuthorId = new Guid("524e4f4b-4f91-45d0-9544-bdd15e2487e4"),
                             Condition = 1,
                             ISBN = "707616190-7",
                             Price = 54m,
@@ -16622,7 +16622,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("84ff9062-60ed-4712-9e81-7f39d0d90914"),
-                            AuthorId = new Guid("c56f9194-091d-4166-ba46-b6d9cbfb608f"),
+                            AuthorId = new Guid("b129a013-add4-45e2-b8ad-c07c506d8b15"),
                             Condition = 0,
                             ISBN = "587348243-8",
                             Price = 5m,
@@ -16633,7 +16633,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("4f3294cf-87a6-462a-bf45-f3c40d7addcc"),
-                            AuthorId = new Guid("f3cc37bd-f9a5-49c3-88bf-ec360a245f6f"),
+                            AuthorId = new Guid("2723d07d-c133-409d-a62d-7ab4b1f9af50"),
                             Condition = 1,
                             ISBN = "374685074-6",
                             Price = 8m,
@@ -16644,7 +16644,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9d6c69b4-506c-4f93-b8c2-07fee26db97a"),
-                            AuthorId = new Guid("7745a287-443b-411e-85a1-97ca5a4ecd48"),
+                            AuthorId = new Guid("e5e78102-f8e4-45ec-9fe9-91c4bcb09dc7"),
                             Condition = 0,
                             ISBN = "090550624-3",
                             Price = 55m,
@@ -16655,7 +16655,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9cb5ccdc-607d-49ed-af81-af5f5c4f3fdc"),
-                            AuthorId = new Guid("b443a348-9799-4c2b-9f05-95869e08f40d"),
+                            AuthorId = new Guid("66c4c63e-1fc9-496c-ba21-37cce3e62203"),
                             Condition = 1,
                             ISBN = "753763499-8",
                             Price = 38m,
@@ -16666,7 +16666,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b29cef2c-c377-4194-89d3-9b26d09e6418"),
-                            AuthorId = new Guid("02089dca-80a6-4eeb-8f9f-e6b392f76f9d"),
+                            AuthorId = new Guid("e2cf6905-c4b1-4253-9d33-210eb77dbaef"),
                             Condition = 0,
                             ISBN = "127626080-6",
                             Price = 37m,
@@ -16677,7 +16677,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d7c281d4-0f2e-432a-ace3-c8273ea34aba"),
-                            AuthorId = new Guid("e625ce4e-cec8-433c-bb00-38923eab6db5"),
+                            AuthorId = new Guid("2c47ec49-9536-4176-95c4-1ba7c4eec6b7"),
                             Condition = 1,
                             ISBN = "071070726-6",
                             Price = 53m,
@@ -16688,7 +16688,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("108fd7db-cbea-49df-aebc-130469936773"),
-                            AuthorId = new Guid("72ddafc0-9849-40cc-b04c-10050d485c26"),
+                            AuthorId = new Guid("f9806a88-12f7-4e97-8a51-693f46140bdc"),
                             Condition = 0,
                             ISBN = "145390328-3",
                             Price = 5m,
@@ -16699,7 +16699,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0c93dc7c-2424-4099-a6c8-40f4c5a70b30"),
-                            AuthorId = new Guid("2b43a6b1-51dc-41ec-8525-6f9fc8e73da7"),
+                            AuthorId = new Guid("22fc1c70-da46-4885-8798-10a52f32214d"),
                             Condition = 1,
                             ISBN = "730294215-3",
                             Price = 82m,
@@ -16710,7 +16710,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c95b49f2-ac24-4196-94b6-9f18a9e2d436"),
-                            AuthorId = new Guid("a136d6b3-28a6-43b4-912a-7bd9c4fd48de"),
+                            AuthorId = new Guid("1ba3e6f5-1df2-4ec2-b7ce-44eb11a04156"),
                             Condition = 0,
                             ISBN = "339216826-2",
                             Price = 98m,
@@ -16721,7 +16721,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("fc5ea883-7b4e-4436-a39c-369a40c86d4a"),
-                            AuthorId = new Guid("58d8058e-ba3b-43b6-ad64-efceeff7caf5"),
+                            AuthorId = new Guid("68b92eaa-8dfd-4c98-b1dd-94eb535abf39"),
                             Condition = 1,
                             ISBN = "914001928-4",
                             Price = 100m,
@@ -16732,7 +16732,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("f510e4ae-26c5-4a3c-a460-323b86e9172f"),
-                            AuthorId = new Guid("5d497ab4-fa1a-405e-9c7b-13d86705e5f5"),
+                            AuthorId = new Guid("252fb8d4-ae89-4a1f-9e66-56b3572614d6"),
                             Condition = 0,
                             ISBN = "179964905-9",
                             Price = 100m,
@@ -16743,7 +16743,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("dc370814-a550-416f-b44c-d5c2cfeae529"),
-                            AuthorId = new Guid("be5902e9-595e-4743-8004-bb0e46b60b7a"),
+                            AuthorId = new Guid("598170cb-6410-4a45-b3a3-6e4fb6d3bfc5"),
                             Condition = 1,
                             ISBN = "134646898-2",
                             Price = 92m,
@@ -16754,7 +16754,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("33a3537a-ffbe-4c40-a8a3-d3d470e14b6c"),
-                            AuthorId = new Guid("2d99176a-fc73-4fc7-a0d3-d46731af0e4c"),
+                            AuthorId = new Guid("28a73d7b-fdad-413f-8924-9a203c3d4ddc"),
                             Condition = 0,
                             ISBN = "128266581-2",
                             Price = 86m,
@@ -16765,7 +16765,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("0e54e324-3e5f-4e6c-8c2d-ceb25bfdc6bf"),
-                            AuthorId = new Guid("5f2c982d-53fd-4c4c-aaba-b79976b44c95"),
+                            AuthorId = new Guid("6edfda11-93d1-4533-af99-ed13ee6756fc"),
                             Condition = 1,
                             ISBN = "553731505-X",
                             Price = 30m,
@@ -16776,7 +16776,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5f3f4d2f-d815-435f-8dc0-7a210d578c24"),
-                            AuthorId = new Guid("ec4aa741-496b-4a52-822f-1099d218f328"),
+                            AuthorId = new Guid("6f84f501-7972-42b5-bd94-74e0031d2ad1"),
                             Condition = 0,
                             ISBN = "609284096-0",
                             Price = 5m,
@@ -16787,7 +16787,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("06f0e7b9-4d0f-43c9-9bec-c88c93a77abb"),
-                            AuthorId = new Guid("2e358a53-53f0-42ae-b5fb-1efcc26a831f"),
+                            AuthorId = new Guid("cb1f6f39-8e1f-45a9-a6d1-4ec5387f2382"),
                             Condition = 1,
                             ISBN = "853662662-3",
                             Price = 52m,
@@ -16798,7 +16798,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5d14896e-0e97-42df-91e1-feb6934061c3"),
-                            AuthorId = new Guid("caced371-71f9-4c30-bee7-c57932a9e55f"),
+                            AuthorId = new Guid("eeb41b7c-e6e6-48d9-873d-9cbdf51edfb2"),
                             Condition = 0,
                             ISBN = "338204175-8",
                             Price = 68m,
@@ -16809,7 +16809,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("c5d89533-b702-4420-8c4b-55916b70e27e"),
-                            AuthorId = new Guid("dec7cdcf-a00a-4776-9bff-b7e63fe38b2f"),
+                            AuthorId = new Guid("d9005a46-61f1-496d-a5e7-69fffae218c8"),
                             Condition = 1,
                             ISBN = "449225417-X",
                             Price = 49m,
@@ -16820,7 +16820,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e3753375-2b84-46f9-a7ee-c6bde4b289fa"),
-                            AuthorId = new Guid("5d925066-b8ce-4bba-b3d4-7d179a339e13"),
+                            AuthorId = new Guid("d550dc72-74d3-4325-bc68-c1ec694beb18"),
                             Condition = 0,
                             ISBN = "951793669-9",
                             Price = 66m,
@@ -16831,7 +16831,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5b766194-a24b-4595-b561-c23a8fc7508d"),
-                            AuthorId = new Guid("794c30e1-5ab6-41c7-b562-0683c0b7875e"),
+                            AuthorId = new Guid("f16b1f29-ec27-4c67-8be7-e6011f45daea"),
                             Condition = 1,
                             ISBN = "047521619-9",
                             Price = 46m,
@@ -16842,7 +16842,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("79486d75-f890-40b2-98bb-f6b5c0b8b59d"),
-                            AuthorId = new Guid("2911d037-b839-4428-8fcc-e15ea3474c7e"),
+                            AuthorId = new Guid("82af2d9f-9ce4-44a5-aabb-8478c22d0620"),
                             Condition = 0,
                             ISBN = "756759054-9",
                             Price = 52m,
@@ -16853,7 +16853,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a36a7aed-4097-46bd-8011-2c8933922946"),
-                            AuthorId = new Guid("d632f5b1-a7a1-4d4a-8dd5-40f20cafaede"),
+                            AuthorId = new Guid("e967ce14-4369-415d-839e-fffa11a455c9"),
                             Condition = 1,
                             ISBN = "262020712-6",
                             Price = 84m,
@@ -16864,7 +16864,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("b37a9147-0062-476e-a8fb-7379f5b57872"),
-                            AuthorId = new Guid("587c4769-f9f4-4071-a4aa-5657ff07f98d"),
+                            AuthorId = new Guid("e5e78102-f8e4-45ec-9fe9-91c4bcb09dc7"),
                             Condition = 0,
                             ISBN = "358908477-4",
                             Price = 87m,
@@ -16875,7 +16875,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("09176063-7f52-4ce3-945d-b5309218c95a"),
-                            AuthorId = new Guid("43ba9cdb-cd9f-4186-949d-7e826615e6cf"),
+                            AuthorId = new Guid("6510b05a-dd7b-4ffb-9a24-4bfd7287d1eb"),
                             Condition = 1,
                             ISBN = "248108676-7",
                             Price = 41m,
@@ -16886,7 +16886,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("392dbc42-e48c-4a88-82af-9e3ee2f77cf0"),
-                            AuthorId = new Guid("0b933755-3929-4970-9e65-924c1ad9d427"),
+                            AuthorId = new Guid("33bbbde7-be84-4b7b-a252-bbfaf6775d88"),
                             Condition = 0,
                             ISBN = "556132044-0",
                             Price = 65m,
@@ -16897,7 +16897,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("72ff7892-4770-43a0-ae83-06bcb94eecda"),
-                            AuthorId = new Guid("f1e93272-da66-4117-b84f-21a4c154ee71"),
+                            AuthorId = new Guid("df1f0960-212e-4588-a4e5-999668f921ec"),
                             Condition = 1,
                             ISBN = "081106938-9",
                             Price = 79m,
@@ -16908,7 +16908,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5751bfd3-b4cc-4bbb-b314-0608cb6fad96"),
-                            AuthorId = new Guid("4b9f8008-3206-48fa-a09a-c1b641ccf4b5"),
+                            AuthorId = new Guid("a1b51ce8-6293-40e1-a41d-62a6cf6bca9f"),
                             Condition = 0,
                             ISBN = "004179070-7",
                             Price = 69m,
@@ -16919,7 +16919,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("51320f1c-3655-4c8f-9480-347856ffb7c1"),
-                            AuthorId = new Guid("e80fd575-c9eb-408d-8f1d-cb9d434c7ea6"),
+                            AuthorId = new Guid("40a41746-a928-433d-a5bb-50a3d6578791"),
                             Condition = 1,
                             ISBN = "061648713-4",
                             Price = 2m,
@@ -16930,7 +16930,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("873e2828-3036-4770-9681-300ba7af91fa"),
-                            AuthorId = new Guid("7177638d-3369-4b4d-b812-408159198a4f"),
+                            AuthorId = new Guid("e238a33f-e07f-44ca-a839-0c4613eca000"),
                             Condition = 0,
                             ISBN = "568150415-8",
                             Price = 66m,
@@ -16941,7 +16941,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("da56d9b0-8026-412e-9321-337c7c74f16c"),
-                            AuthorId = new Guid("18d5a51c-632e-451d-a3e1-9ca5fb484154"),
+                            AuthorId = new Guid("3c8e7739-83a1-42fc-aa4d-798e20761ba9"),
                             Condition = 1,
                             ISBN = "863492663-X",
                             Price = 32m,
@@ -16952,7 +16952,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9bc6b56e-255d-487c-a68e-f5ac8692dc15"),
-                            AuthorId = new Guid("03a5bd12-ef92-4d66-91bb-9da8d3666f82"),
+                            AuthorId = new Guid("6663a778-94c2-4b7f-afde-6a7cd263164c"),
                             Condition = 0,
                             ISBN = "086793285-6",
                             Price = 13m,
@@ -16963,7 +16963,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("18e6a454-ac64-49cc-b112-d052fcc373ea"),
-                            AuthorId = new Guid("099b4dc2-bb45-4315-97dc-cf885108c8a0"),
+                            AuthorId = new Guid("6a2053c3-6903-47b6-a45d-d4678c822033"),
                             Condition = 1,
                             ISBN = "059969689-3",
                             Price = 53m,
@@ -16974,7 +16974,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("d3370780-ee8d-4740-8c4b-1736dbfc2e1e"),
-                            AuthorId = new Guid("e8e1e594-ab50-4f08-9a3b-50e404969608"),
+                            AuthorId = new Guid("a78881c5-7c4c-469a-9437-fae0c8298514"),
                             Condition = 0,
                             ISBN = "995788709-2",
                             Price = 2m,
@@ -16985,7 +16985,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("dfecae39-fd44-4057-80cb-6a528ebe6a1b"),
-                            AuthorId = new Guid("4a89df1e-4263-4bd3-b3f5-ec47d399ef7f"),
+                            AuthorId = new Guid("ec564140-12ef-499f-aabc-74f54c148b12"),
                             Condition = 1,
                             ISBN = "252846268-9",
                             Price = 77m,
@@ -16996,7 +16996,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("51a1c15d-36b9-457e-a8e7-f3d0804c8960"),
-                            AuthorId = new Guid("4ace9e98-1fd4-4e77-b8da-3c1f869cb6b2"),
+                            AuthorId = new Guid("f7f58f7c-e76e-406a-a7f5-d8130ba40d8c"),
                             Condition = 0,
                             ISBN = "176104103-7",
                             Price = 75m,
@@ -17007,7 +17007,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("9f469277-b4e7-4d5b-94bb-d63c632995fa"),
-                            AuthorId = new Guid("a59d0611-a60b-479c-b95e-d49076a61694"),
+                            AuthorId = new Guid("81929287-ff9d-43c0-b6b8-459bbe1efb00"),
                             Condition = 1,
                             ISBN = "614169587-6",
                             Price = 89m,
@@ -17018,7 +17018,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("a2c877c1-4a92-4e4d-a050-c7090c5a6fd5"),
-                            AuthorId = new Guid("6cb305f3-eb38-473b-ae50-2e968e995935"),
+                            AuthorId = new Guid("e2d97f39-3df7-44dd-858a-2d3f94799ba8"),
                             Condition = 0,
                             ISBN = "237438473-X",
                             Price = 87m,
@@ -17029,7 +17029,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("e4fcb02c-8bdf-4b5a-8a3b-ae147bb3310f"),
-                            AuthorId = new Guid("05a64888-2a8f-43e6-8920-3b4591773c9d"),
+                            AuthorId = new Guid("fbdfa480-8d71-4f63-8e5a-4c84f3f36a7b"),
                             Condition = 1,
                             ISBN = "602597488-8",
                             Price = 2m,
@@ -17040,7 +17040,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("89d59a29-3672-44be-be68-6af170edadf1"),
-                            AuthorId = new Guid("7cbe2473-2c54-43f1-9e26-f8cb6c345898"),
+                            AuthorId = new Guid("592750d3-3aa8-41dc-aa5c-d61370f2ac47"),
                             Condition = 0,
                             ISBN = "928772639-6",
                             Price = 80m,
@@ -17051,7 +17051,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("dec97035-c62d-4be6-80b8-a9d815b35899"),
-                            AuthorId = new Guid("85f36fb3-82f1-4955-9850-77c4b336cc5e"),
+                            AuthorId = new Guid("89824d0a-f9cb-4e63-876f-0abc32234369"),
                             Condition = 1,
                             ISBN = "388354085-4",
                             Price = 37m,
@@ -17062,7 +17062,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("311a8813-5122-45a7-8cc7-4692baba0886"),
-                            AuthorId = new Guid("a4fa69ca-095c-4f86-97eb-445be94e9a85"),
+                            AuthorId = new Guid("56de9b98-5246-4640-8f2b-9384736799f7"),
                             Condition = 0,
                             ISBN = "764624778-2",
                             Price = 77m,
@@ -17073,7 +17073,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("7c2517da-c26c-4a26-a07d-d0e844e90251"),
-                            AuthorId = new Guid("a62532c0-0ac2-4680-bfce-462ba0a5a924"),
+                            AuthorId = new Guid("359fad3f-fe7c-4aef-8429-2010ce1b7b3b"),
                             Condition = 1,
                             ISBN = "047497638-6",
                             Price = 72m,
@@ -17084,7 +17084,7 @@ namespace TheBookSpotData.Migrations
                         new
                         {
                             Id = new Guid("5d773525-966f-4a06-b079-f4ad420db2c5"),
-                            AuthorId = new Guid("8b97e58c-c963-4ff6-96fd-98165b7ddd57"),
+                            AuthorId = new Guid("99f301e8-4818-4bf6-ae0d-ee7c0fc8fcae"),
                             Condition = 0,
                             ISBN = "230434627-8",
                             Price = 16m,

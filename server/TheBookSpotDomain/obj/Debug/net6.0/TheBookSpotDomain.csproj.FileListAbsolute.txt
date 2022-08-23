@@ -22,3 +22,15 @@ C:\Users\Ahmed.Saleh\Documents\The-Book-Spot\server\TheBookSpotDomain\obj\Debug\
 C:\Users\Ahmed.Saleh\Documents\The-Book-Spot\server\TheBookSpotDomain\obj\Debug\net6.0\refint\TheBookSpotDomain.dll
 C:\Users\Ahmed.Saleh\Documents\The-Book-Spot\server\TheBookSpotDomain\obj\Debug\net6.0\TheBookSpotDomain.pdb
 C:\Users\Ahmed.Saleh\Documents\The-Book-Spot\server\TheBookSpotDomain\obj\Debug\net6.0\ref\TheBookSpotDomain.dll
+C:\Users\Ahmed.Saleh\Desktop\The-Book-Spot\server\TheBookSpotDomain\bin\Debug\net6.0\TheBookSpotDomain.deps.json
+C:\Users\Ahmed.Saleh\Desktop\The-Book-Spot\server\TheBookSpotDomain\bin\Debug\net6.0\TheBookSpotDomain.dll
+C:\Users\Ahmed.Saleh\Desktop\The-Book-Spot\server\TheBookSpotDomain\bin\Debug\net6.0\TheBookSpotDomain.pdb
+C:\Users\Ahmed.Saleh\Desktop\The-Book-Spot\server\TheBookSpotDomain\obj\Debug\net6.0\TheBookSpotDomain.csproj.AssemblyReference.cache
+C:\Users\Ahmed.Saleh\Desktop\The-Book-Spot\server\TheBookSpotDomain\obj\Debug\net6.0\TheBookSpotDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed.Saleh\Desktop\The-Book-Spot\server\TheBookSpotDomain\obj\Debug\net6.0\TheBookSpotDomain.AssemblyInfoInputs.cache
+C:\Users\Ahmed.Saleh\Desktop\The-Book-Spot\server\TheBookSpotDomain\obj\Debug\net6.0\TheBookSpotDomain.AssemblyInfo.cs
+C:\Users\Ahmed.Saleh\Desktop\The-Book-Spot\server\TheBookSpotDomain\obj\Debug\net6.0\TheBookSpotDomain.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed.Saleh\Desktop\The-Book-Spot\server\TheBookSpotDomain\obj\Debug\net6.0\TheBookSpotDomain.dll
+C:\Users\Ahmed.Saleh\Desktop\The-Book-Spot\server\TheBookSpotDomain\obj\Debug\net6.0\refint\TheBookSpotDomain.dll
+C:\Users\Ahmed.Saleh\Desktop\The-Book-Spot\server\TheBookSpotDomain\obj\Debug\net6.0\TheBookSpotDomain.pdb
+C:\Users\Ahmed.Saleh\Desktop\The-Book-Spot\server\TheBookSpotDomain\obj\Debug\net6.0\ref\TheBookSpotDomain.dll

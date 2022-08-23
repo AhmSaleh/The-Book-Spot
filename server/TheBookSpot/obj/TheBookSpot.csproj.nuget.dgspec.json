@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpot\\TheBookSpot.csproj": {}
+    "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpot\\TheBookSpot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotData\\TheBookSpotData.csproj": {
+    "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotData\\TheBookSpotData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotData\\TheBookSpotData.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotData\\TheBookSpotData.csproj",
         "projectName": "TheBookSpotData",
-        "projectPath": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotData\\TheBookSpotData.csproj",
+        "projectPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotData\\TheBookSpotData.csproj",
         "packagesPath": "C:\\Users\\Ahmed.Saleh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotData\\obj\\",
+        "outputPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj": {
-                "projectPath": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj"
+              "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj": {
+                "projectPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj": {
+    "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj",
         "projectName": "TheBookSpotDomain",
-        "projectPath": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj",
+        "projectPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj",
         "packagesPath": "C:\\Users\\Ahmed.Saleh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotDomain\\obj\\",
+        "outputPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpot\\TheBookSpot.csproj": {
+    "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpot\\TheBookSpot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpot\\TheBookSpot.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpot\\TheBookSpot.csproj",
         "projectName": "TheBookSpot",
-        "projectPath": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpot\\TheBookSpot.csproj",
+        "projectPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpot\\TheBookSpot.csproj",
         "packagesPath": "C:\\Users\\Ahmed.Saleh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpot\\obj\\",
+        "outputPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -175,11 +175,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotData\\TheBookSpotData.csproj": {
-                "projectPath": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotData\\TheBookSpotData.csproj"
+              "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotData\\TheBookSpotData.csproj": {
+                "projectPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotData\\TheBookSpotData.csproj"
               },
-              "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj": {
-                "projectPath": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj"
+              "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj": {
+                "projectPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj"
               }
             }
           }
@@ -214,6 +214,10 @@
               "target": "Package",
               "version": "[11.2.0, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
               "version": "[6.0.8, )"
@@ -234,6 +238,10 @@
               "target": "Package",
               "version": "[6.0.8, )"
             },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.22.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.8, )"
@@ -241,6 +249,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.22.0, )"
             }
           },
           "imports": [

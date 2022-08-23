@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj": {}
+    "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj": {
+    "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj",
         "projectName": "TheBookSpotDomain",
-        "projectPath": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj",
+        "projectPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotDomain\\TheBookSpotDomain.csproj",
         "packagesPath": "C:\\Users\\Ahmed.Saleh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmed.Saleh\\Documents\\The-Book-Spot\\server\\TheBookSpotDomain\\obj\\",
+        "outputPath": "C:\\Users\\Ahmed.Saleh\\Desktop\\The-Book-Spot\\server\\TheBookSpotDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

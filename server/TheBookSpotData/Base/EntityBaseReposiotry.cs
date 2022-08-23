@@ -43,7 +43,7 @@ namespace TheBookSpotData.Base
 
             return entity;
         }
-        public async Task<T> DeleteAsync(Guid id)
+        public virtual async Task<T> DeleteAsync(Guid id)
         {
             var entity = await GetAsync(id);
 
